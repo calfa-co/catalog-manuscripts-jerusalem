@@ -1,0 +1,72 @@
+{
+  "id": "J2250",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2250",
+  "notice": "2250",
+  "volume": "Jerusalem_V7",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ՆԱՄԱԿԱՑ)",
+  "date": {
+    "from": "1861",
+    "to": "1870",
+    "display": null
+  },
+  "fields": {
+    "numero": "2250",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ՆԱՄԱԿԱՑ)",
+    "date_debut": "1861",
+    "date_fin": "1870",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "48",
+    "dimensions": "34 x 23",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, մ'ասիւ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Սկիզբի կողքին փակցուած թերթիկին վրայ՝ Օրինակ նամակաց, եւ վկայականաց գրոց, եւ կոնդակաց։ Էջ 1 — Հարազատապերճ սիրելագոյն եղբայր մեր ի Քս. ...։ Էջ 3 — Վասն մահուան զեկուցանելոյ։ Էջ 5 — Օրինակ կոնդակաց։ Էջ 7 — Վասն Մխիթարութեան ննջե-։ — Նուաստ Յակոբ Վր. Տիգրա.։ 1861, նոյեմ. 30, ի յԵրուսաղէմ։ Էջ 9 — Գիր Մխիթարական։ Էջ 10 — Խրատ Սարկաւագի։ Էջ 11 — Խնդիր սարկաւագ ձեռնադրութեան։ — 1868, դեկտ. 1, ի Վանս Ս. Ամլորդւոյ։ Էջ 12 — Խնդիր գաւազանի մասնաւոր իշխ.։ Էջ 13 — Վկայագիր (Գաւազան մասնաւոր)։ — Սրբոյ Երուսաղէմի փոխանորդ Յակոբ Եպս. Տիգրանակերտցի, 1868, դեկտեմբեր ամսոյ 10, ի Սանոյ Ձոր, Բաղէշ, ի Վանս Ամլորդւոյ։ Էջ 14 — Առաքելապատիւ Ս. Հայր.— Մամբրէ Վրդ. Մամիկոնեան, Հովիւ Սանոձորոյ, յամի 1868, Դկտ. 23, ի Վանս Ս. Ամլորդւոյ, ի Բաղէշ։ Առ Ամենապատիւ Տ. Եսայի Ս. Արք. Եպս. գահակալ պատրիարք Սրբոց Յակոբեանց Առաքելական Աթոռոյ, ի Սբ. Երուսաղէմ։ (Մամբրէ Վր. Մամիկոնեանի 3 խնդրագիրսն եւ շնորհ. տպեալ է յԵրուսաղէմ, ի Սիօն լրա. 1869, մարտ)։ էջ 21. — Աղերսագիր Քահանայից։ — 1869, մարտ 12, ի հրա. Վանս Սբ. Յովհաննու, որ ի Տորոս լերին Մշոյ։ էջ 22. — Յայտարարութիւն վկայականի (քահանայի)։ էջ 26. — 1870, հոկտեմբեր 1. ի Կարին. — Մեծայարգ պատուելի սիրեցեալդ իմ ի Քրիստոս. — Ոհ քանի քաղցր անցելոց աւուրց յիշատակներն...։ էջ 27—48, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "386.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "387.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2250-refine.json",
+    "pipeline_version": "v1"
+  }
+}

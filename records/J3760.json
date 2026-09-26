@@ -1,0 +1,72 @@
+{
+  "id": "J3760",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3760",
+  "notice": "3760",
+  "volume": "Jerusalem_V11",
+  "title": "ՔԵՐԱԿԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3760",
+    "no_notice": "1",
+    "titre": "ՔԵՐԱԿԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "112",
+    "dimensions": "19.5x12x1",
+    "mise_en_page": "սեւ մելանով, միասիւն, 11–15 տող",
+    "details_ecriture": "նոտրակերպ, մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ, գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը եւ վերջը չորսական թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.– Յաղագս նախադրութեան.– Վասն\nհաւատոց իւրեանց որհնէին զՏէր Աստուած...։ Էջ 2.— Ժամանակական.— Յետ մահուան Յովհաննու Պատրիարքի Սրբոյ Երուսաղէմի խռովեցան լուսաւորեալ ազգն մեր որ ի Կոստանդնուպօլիս։ Էջ 8.— Տեղական.— Առաջի Աստուծոյ մատուցանեմ յամ. ժամ զաղօթս եւ զերկրպագութիւնս իմ։ Էջ 9.— Բաղդատական.— Սուրբ Քաղաքն Երուսաղէմ տասնիւ չափ մեծ է քան զՍուրբ Ծնունդ։ Էջ 10.— Յաղագս Մակբայի։ Էջ 18.— Յաղագս Շաղկապի։ Էջ 25.— Յաղագս Միջարկութեան։ Էջ 29–32 դատարկ։ Էջ 33.— Կանոն ի վերայ Համաձայնութեան առ հասարակ ամ. Կանոնաց.— Յովսէփ եւ Մարիամ գտին զՅիսուս ի տաճարի, զի քարոզէր զբանն կենաց։ Էջ 40.— Ի վերայ Յատկացուցչի։ Էջ 44.— Ի վերայ Նախդրիւ տրականի։ Էջ 50.— Կանոն ի վերայ բացայայտչի։ Էջ 58.— Կանոն ի վերայ Էական բայի։ Էջ 60.— Ի վերայ ածական անուանց։ Էջ 67.— Ի վերայ դերանուանց։ Էջ 76.— Ի վերայ դիմորոշական յօդից։ Էջ 80.— Ի վերայ Մակբայի։ Էջ 99.— Ի վերայ ընդունելութեանց։ Էջ 107.— Նոյնպէս գոն քանի ինչ անուանք զանազան հոլովիւ եղեալ մակբայ լինին։ Էջ 108.— Տէրունական ուխտաւորք խումբ ընդ խումբ եկեալ յԵրուսաղէմ մատուցանեն զ[ը]նծայս եւ զնուէրս տանն Աստուծոյ, ըստ կարգաց իւրեանց։ Էջ 109–112 դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "218.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "219.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3760-refine.json",
+    "pipeline_version": "v1"
+  }
+}

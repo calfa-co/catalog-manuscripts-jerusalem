@@ -1,0 +1,68 @@
+{
+  "id": "J891",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "891",
+  "notice": "891",
+  "volume": "Jerusalem_V3",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՅՈԲԱՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "891",
+    "no_notice": "4",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՅՈԲԱՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "206",
+    "dimensions": "21x16x1",
+    "mise_en_page": "վերնագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 28–32 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": "Գէորգ վարդապետ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–5, դատարկ։ Էջ 6ա. — Յառաջաբանութիւն Հեղինակին. — Գերանձնական իմն զօրութիւն կատարօնութեան բնաւորեալ ունի սէր սեռն եւ անապակ...։ Էջ 8, դատարկ։ Էջ 9ա. — Գլուխ Առաջին. — Տեսանե՞ս զորպիսի գովութիւն զՅոբայ գրեաց հոգին Աստուծոյ...։ Էջ 108ա. — Վճարեցաւ Եւսիւքին Մեկնութիւն, այժմ սկսի որ է Դաւթայ վարդապետին, որ Քորակեցի կոչիւր։ Զսկսեալս իմ դու կատարեա։ Էջ 112բ. — Գլուխ ԻԲ. — Կրկնեալ անդրէն Ելիփազու Թեմանացւոյ ասէ։ Էջ 192բ. — Յորդորակ. — Ապաւինեսցուք սրտի մտօք առ Աստուած...։ Էջ 198բ–206, դատարկ։\nՅետնագոյն յիշատակագրութիւն. — 1813 Էջ 7բ, նոտր շեղագիր. — Երուսաղէմացի Կիրակոս նուաստ աբեղայս ստացայ զգիրքս ժառանգութեամբ ի հոգելոյս եղբօրէ իմմէ Գէորգայ վարդապետէ յընթերցումն. եւ յետ վաղճանի իմոյ յիշատակ Սրբոց Յակոբեանց Առաքելական Աթոռոյն Սրբոյ Երուսաղէմի։ Ապաքէն ընթերցողք յիշեսջիք ի Տէր զհանգուցեալ հայրատիւ եղբայր իմ Գէորգ վարդապետն եւ զիս ամ. հոգեւոր եւ մարմնաւոր ծնօղօք մերովք։ Ի 1813 ամի կենարարին։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "418.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "891-refine.json",
+    "pipeline_version": "v1"
+  }
+}

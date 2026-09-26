@@ -1,0 +1,68 @@
+{
+  "id": "J603",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "603",
+  "notice": "603",
+  "volume": "Jerusalem_V3",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՅՈՎՀԱՆՆՈՒ",
+  "date": {
+    "from": "1717",
+    "to": "1717",
+    "display": null
+  },
+  "fields": {
+    "numero": "603",
+    "no_notice": "1",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՅՈՎՀԱՆՆՈՒ",
+    "date_debut": "1717",
+    "date_fin": "1717",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "180",
+    "dimensions": "22x16x1",
+    "mise_en_page": "խորագիրները, բնաբանները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 28 տող։ Էջ 1–162, նոտրագիր. 165–171, բոլորգիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, յղկուն",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ. լուսանցքներէն ցեցակեր տեղ տեղ",
+    "copiste": "Յովհաննէս Երէց Զամքէրթէն",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա. — Մատթէոս վարդապետի եւ տիեզերալոյս րաբունապետի արարեալ բան յԱւետարանէն Յովհաննու որ ասէ Ի սկզբանէ էր Բանն եւ Բանն էր առ Ած. եւ Ած. էր Բանն. — Կահաւորիմ ով կաճառք լուսերամից եւ դասք սերովբէից սակս տրամաբանութեան երկուց ներհակ հոմանուանց, որոց մինն ասի եղելութիւն, եւ միւսն անեղութիւն...։ Էջ 152ա. — Յառաջաբան Աւետարանին Յոհաննու, եւ նախացուցումն Մեկնութեան բոլոր գլխոյն։ — Զի թէպէտ Դ են աւետարանիչք, սակայն Յոհաննէս առաւել յայտնիչ է աստուածային գործոյն...։ Էջ 158բ. — Յիշատակարան Հեղինակի։ Որ եւ այս տեսչութեան բանի ընդ նախասացեալ Մեկնութեան Ղուկասու, որ ըստ Աւետարանին է դիցի, ... եւ որք բառնան՝ թողցի նոցա ըստ գործոց իւրեանց. բայց սխալանացս թողութիւն հայցեմ, զի այսքան կարացի։ Եւ Քի. փառք յաւիտեանս ամէն։ — Հմմտ. Լ. Ս. Խաչիկեան, ԺԵ. Դարի Հ. Ձ. Յիշտ., Մասն Ա., էջ 121–2։ Էջ 159ա. — Յիշատակարան Գրչի. — 1717 Գրեալ եղեւ աւարտեցաւ Փոքր Բաղուածոյս ի թուին ՌՃԿԶ ամին, ի քաղաքն Կոստանդնուպոլսի, ի թաղն յՈւսկուտար, ձեռամբ յոգնամեղ Յովհաննէս իրիցու, որ մակադրեալ անուամբ Զամքէրթէն վերաձայնի, ամէն։ Էջ 159ա. — Քարոզ Աւետեաց Սբ. Ածածնին, Ողջոյն ընդ քեզ Մարիամ։ Էջ 163–4, դատարկ։ Էջ 165ա. — Զինչ է Մկրտութիւն, ՀՑ.։ — ՊԽ. յաստուածաբանից։ Է լուացում իմն արտաքոյ մարմնոյն...։ Էջ 172–180, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "022.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "603-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J3771",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3771",
+  "notice": "3771",
+  "volume": "Jerusalem_V11",
+  "title": "ԺՈՂՈՎԱԾՈՅ",
+  "date": {
+    "from": "1892",
+    "to": "1892",
+    "display": null
+  },
+  "fields": {
+    "numero": "3771",
+    "no_notice": null,
+    "titre": "ԺՈՂՈՎԱԾՈՅ",
+    "date_debut": "1892",
+    "date_fin": "1892",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "181",
+    "dimensions": "18x8x1",
+    "mise_en_page": "սեւ մելանով, միասիւն, 17, 16 տող",
+    "details_ecriture": "նոտրակերպ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թխագոյն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ։ Էջ 1. կնիք հաւկթաձեւ. \" Եփ. Վ. Պ. Պէզիրճեանի, Սեբաստացւոյ, յԵրուսաղէմ, 1892 \", որ ըստ երեւոյթին գրիչն ու ստացողն է",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ժամանակով Նալեան Ամենապա-"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "228.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "229.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3771-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J2168",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2168",
+  "notice": "2168",
+  "volume": "Jerusalem_V7",
+  "title": "Թ Ա Փ Օ Ր Ա Տ Ե Տ Ր",
+  "date": {
+    "from": "1821",
+    "to": "1821",
+    "display": null
+  },
+  "fields": {
+    "numero": "2168",
+    "no_notice": "3",
+    "titre": "Թ Ա Փ Օ Ր Ա Տ Ե Տ Ր",
+    "date_debut": "1821",
+    "date_fin": "1821",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "32",
+    "dimensions": "25 x 18 x 1",
+    "mise_en_page": "խորագիրները, ըսկզբնատողերը եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 20 տող, աւելի կամ պակաս",
+    "details_ecriture": "մեծ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ, գծազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": "Մինաս Աբղ. Թատապացի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": "անարուեստ",
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–2, դատարկ։ Էջ 3. — Նախ գնամք Սուրբ Բանն եւ զկնի ընթերցման Սբ. Աւետարանին՝ խնդրեսցուք...։ Էջ 5. — Մշտնջենաւոր տետրակս թափօրի, որ կատարի ի մէջ Սրբոյ Յարութեան, երկնանման տաճարին, յաւուրս ուրբաթի, Շաբաթի եւ Կիրակէի, գրեալ Աւետարանօք ըստ պատշաճի Սուրբ Տեղեացն Քրիստոսի. — Հմմտ. թ. 1061, Դ. Հատոր, էջ 89։ Էջ 12. — Շաբաթի աւուրն։ Էջ 20. — Կիրակէի աւուրն։\nՅիշատակարան Գրչի. — 1821 Էջ 29. — Վերջաբանութիւն. — Ով արփիածին հարազատի մօրս լուսոյ Սուրբ Եկեղեցւոյ եւ լուսերամ եղբարք իմ ի Քս., որք իբրեւ զվարդահաւ երզնակ կարօտով սիրոյ վարդատունկ այգւոյն, անեղ մշակին Հօրն երկնաւորի՝ զգաստ արթնութեամբ, սրտեռանդն սիրով զերգս եղանակեալ, հրեշտակօրէն թեւակոխեալ, զելս եւ էջս առնելով, ընդ իմանալի սանդուղսն հայրական տնօրէնութեան մարմնացեալ բանին, մտօք սլացեալ, հոգւով փարեալ, յանճիռս կալով հրաշիցն անսահման անճառելոյն, ի մեծախորհուրդ սիրական Տաճարն Սրբոյ Յարութեան, յոր աղօթեմք, եւ յորոյ միջի կատարեալ խորհրդովքն ակն ունիմք վերին փառաց հասանիլ յարքայութեանդ յոյս։ Արդ անկեղծ սիրոյ ձեր հարազատութեան յիշման արժանի առնել զնըւաստս զիս՝ զՄինաս աբեղայս, յերկրէն Իզմիրու եւ ի գիւղաքաղաքէն Թատապայու, միաբան Սբ. Յակոբայ, եւ արդէն կանանց խոստովանահայր, եւ մտեալ ի պաշտօն ժամարարութեան ի սուրբ Տաճարս, գրեցի զայս Թափօրի տետրակս, պատշաճաւոր աւետարանաւ յօրինեալ, զոր ի վայելելն ձեր խնամով՝"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "268.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "269.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2168-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2400",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2400",
+  "notice": "2400",
+  "volume": "Jerusalem_V8",
+  "title": "Բ Ա Ռ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2400",
+    "no_notice": "6",
+    "titre": "Բ Ա Ռ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "364",
+    "dimensions": "15.5×11×4",
+    "mise_en_page": "խորագիրները , սկզբնատողերը , և մասամբ գլխատառերը կարմիր , մնացեալը սև մելանով , երկսիւն , 21 տող , կարմիր գիծերու միջև",
+    "details_ecriture": "սակաւ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ , դրոշմազարդ , քայքայուած",
+    "etat_conservation": "անբաւարար . լուսանցքները ցեցակեր . խոնաւութենէ վնասուած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը 4 թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդ , էջ 5",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4 , համարեա դատարկ ։ Էջ 5 . — Աստուածդ անուն՝ յաստիս ածել , կամ աստ էած ։ Էջ 27ա . — Բառք ի գրոց Ելիցն . — Յուլանալ , զօրանալ , կամ բազմանալ , կամ բարձրանալ ։ Էջ 49ա . — Բառք ի գրոց Ղևտացւոց . — Պատարագ , ընծայ , կամ նուէր ։ Էջ 73ա . — Բառք երկրորդ Աւրինաց . — Պատգամ , բան , կամ խօսք , կամ առած , կամ պատմութիւն ։ Էջ 251բ . — Մաղաքիա , Հրեշտակ Տեառըն ։ Էջ 271բ . — Քրիստոս , Մեսիա , կամ Օծեալ , որ է միաւորեալ ։ Աղօթք , խօսք ընդ Աստուծոյ , կամ վերացումն մտաց առ Աստուած ։ Էջ 272ա . — Բառք ի գրոց Մարգարէին Դանիէլի ։ Դանիէլ , դատաստան Աստուծոյ ։ Էջ 308—309ի միջև կը պակսի ԺԴ պրակը ։ Էջ 354բ . — Բառք էր ընդ եղբաւրն . — Կիւրակէն , ի մերս բարբառ Տէրունի թարգմանի ։ Էջ 356բ-363 , դատարկ ։\nՅիշատակագրութիւն . — Էջ 364 , նոտր շեղագիր անհարթ . — Ես յանպիտան ծառայ ծառայիցն Այ . տրուպս որ միայն զանունս ունիմ , թարձ գործոց բա[ր]-եաց , Յովհաննէս , հա ժտեմ ընթերցողացդ մի բերան ասել Ած . թողութիւն շնորհեսցէ մեղաց իւրոց , զոր մեղաւ ։ Ներօղ Տէրըն , որ յանճառ բարձրութենէ խոնարհեցաւ , և մարմնացաւ յանարատ և Սբ . Կուսէն Մարիամայ , թողութիւն շնորհեսցէ ձեր մեղացն , և ննջեցելոց ձերոց , և զանպատում յարքայութիւն պարգևեսցէ նոցա , և է եկին բանիցն լսելոյ արժանացուսցէ , ամէն ։ Հայր մեր որ յերկինդ ես . ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "055.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2400-refine.json",
+    "pipeline_version": "v1"
+  }
+}

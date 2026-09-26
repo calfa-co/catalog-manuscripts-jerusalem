@@ -1,0 +1,68 @@
+{
+  "id": "J448",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "448",
+  "notice": "448",
+  "volume": "Jerusalem_V2",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅՆ ՔՐԻՍՏՈՍԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "448",
+    "no_notice": "1",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅՆ ՔՐԻՍՏՈՍԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "276",
+    "dimensions": "23x18x1.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 26–32 տող։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Գրիգոր Տէյիրմէնճեան ; ԾԱՆՕԹ: «Թարգմանեալ յեւրոպական լեզուէ հետեւակ ոճով։ Յօրինակիս յորում պակասէ եօթներորդ դարն, ոչ յիշատակի անուն հեղինակին եւ թարգմանչին» (Սաւալանեան, Ցուցակ, էջ 306)",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 3.— Կանխաբանութիւն Հեղինակին.— Յայտնութեան գիրք ըստ կարծեաց մեծի թարգմանչին Սբ. Գրոց՝ սրբոյն Հերոնիմոսի՝ բովանդակէ զանթիւ խորհուրդս, որք վերաբերին ապագայ ժամանակի...։ Էջ 13.— Ընդհանուր Պատմութիւն Եկեղեցւոյն Քսի. բաժանեալ յեօթն դարս, եւ գլխաւորաբար հանեալ ի գրոց Յայտնութեան։ ...։ Գլուխ Առաջներորդ։ Մեկնութիւն առաջին գլխոյ Յայտնութեան գրոց։ Էջ 174.— Վախճան Առաջին Հատորոյ։ Էջ 175–182, դատարկ։ Էջ 183.— Ընդհանուր Պատմութիւն Եկեղեցւոյն Քրիստոնէութեան։ Բաժանեալ յեօթն դարս։ Հանեալ ի գրոց Յայտնութեան Սրբոյ Առաքելոյն Յովհաննու։ Գլուխ տասներորդ։ Պատմութիւն եօթն դարուց եկեղեցւոյն քրիստոնէութեան։ — Դիպուածքն, որ յայտ արարին մեզ զպատմութիւն այլեւայլ դարուց եկեղեցւոյն քրիստոնէութեան, եղեն միջնորդ եւ ձեռնտու մինչեւ ցայս վայր առ ի պարզաբանել զմարգարէութիւնս պատկանեալս նոյն իսկ դարուց...։ Էջ 276.— Բաց յայսմանէ հին Հռովմ յետ կործանելոյն վերստին շինեցաւ ըստ մեծի մասին, եւ կայ տակաւին, այլ ընդհակառակս այս վերջին Բաբելովն ունի աներեւոյթ լինիլ այնպէս զի եւ ոչ այլ եւս գտցի։ Յաւելու սոսկ մարգարէն։\nՅիշատակագրութիւն.— Թկ. 1860 Էջ 12, շեղագիր.— Նուիրեցի ի յիշատակ Թանգարանի Վերծանութեան Սրբոյ Երուսաղէմի, յորդորմամբ վերատեսչի նորա Եսայի Վարդապետի։ — 1860 յամին, յուլիսի 9.— Մահտեսի Գրիգոր Տէյիրմէնճեան։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "432.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "448-refine.json",
+    "pipeline_version": "v1"
+  }
+}

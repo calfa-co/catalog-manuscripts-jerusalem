@@ -1,0 +1,72 @@
+{
+  "id": "J2111",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2111",
+  "notice": "2111",
+  "volume": "Jerusalem_V7",
+  "title": "ՅԱՂԱԳՍ ԵՐԿՆԱՅԻՆ ՇԱՐԺՄԱՆՑ (ՈՏԱՆԱՒՈՐ)",
+  "date": {
+    "from": "1867",
+    "to": "1867",
+    "display": null
+  },
+  "fields": {
+    "numero": "2111",
+    "no_notice": "1",
+    "titre": "ՅԱՂԱԳՍ ԵՐԿՆԱՅԻՆ ՇԱՐԺՄԱՆՑ (ՈՏԱՆԱՒՈՐ)",
+    "date_debut": "1867",
+    "date_fin": "1867",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "128",
+    "dimensions": "20×15",
+    "mise_en_page": "ըսկզբնատառերը կարմիր, մնացեալը սեւորակ մելանով, միասիւն, 18 տող, կամ պակաս",
+    "details_ecriture": "մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապոյտ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ։",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Կարապետ Գ. Չէմէնճեան, Զմիւռնացի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Ճակատ. — Ոտանաւոր Յովհաննու Ծործորեցւոյ։ Արդեամբ եւ ծախուք կանանց խոստովանահօր Տիգրանակերտցի շնորհափայլ ըՍտեփան ծերունազարդ Վարդապետի։ Ի հայրապետութեան Տ. Տ. Գէորգայ սրբազնակատար կաթողիկոսին ամենայն Հայոց։ Եւ ի պատրիարքութեան առաքելական աթոռոյս Երուսաղէմի Սրբոց Յակովբեանց Տ. Տ. Եսայեայ վեհափառ արքեպիսկոպոսի, յամի Տեառն 1867, սեպ. 9։ Գծագրեաց ձուլիչ Կարապետ Գ. Չէմէնճեան Զմիւռնացի, ի տպարանի Սրբոց Յակովբեանց յԵրուսաղէմ։",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Սուրբ եւ իմաստուն Վարդապետին Հայոց Յօհաննու Ծործորեցւոյ արարեալ այլաչափ տաղս, ի խնդրոյ բարեպաշտ իշխանին Ապլոց, ըստ նախագիծ տառից տանց. — Յամենակալ գործս արարչին որք գոյացան. . .։ — Յոհանիսի բան Յաղագս երկնի ի խնդրոյ իշխանի Հայոց Ապլոց անուն։ Էջ 13. — Նորին դարձեալ Յաղագս երկնի. — Այն որ յառաջ քեզ ճառեցան բանք նախնական. . .։ Էջ 113. — Զօրութիւն ոտանաւոր բառից . — Ա. — Նախ՝ զտարերաց դրութիւն եւ ըզկարգըն ցուցանէ . . . — Էջ 117. — 1851 թուոյն յօրինեալ սոյն ոտանաւորն ի Կիպրոս կղզին Եէնի Տիւնեայեան Յօհաննէս վատաբախտ սեւակրէ Եւդոկիացւոյ, ոչ թէ յըստիպմանէ սիրոյն դըծագրեալ, այլ վերծանողացդ թողեալ ի իմաստասիրել. — Հողմն հարաւոյ հնչէր բուրաստան...։ էջ 120-128, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "197.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "198.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2111-refine.json",
+    "pipeline_version": "v1"
+  }
+}

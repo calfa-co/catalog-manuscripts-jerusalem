@@ -1,0 +1,68 @@
+{
+  "id": "J947",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "947",
+  "notice": "947",
+  "volume": "Jerusalem_V3",
+  "title": "ՃԻՒՂԱԳՐՈՒԹԻՒՆՔ ՆԱԽԱՀԱՐՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "947",
+    "no_notice": "2",
+    "titre": "ՃԻՒՂԱԳՐՈՒԹԻՒՆՔ ՆԱԽԱՀԱՐՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "32",
+    "dimensions": "21x15",
+    "mise_en_page": "սկզբնաւորութիւնները, գլխագիրները, բոլորակները եւ գիծերը կարմիր, մնացեալը սեւ մելանով, լայնքին 1-6 սիւնակներով, 30 տող, պակաս կամ աւելի",
+    "details_ecriture": "սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "փայլուն յարդագոյն",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ըստ մեծին Արիստոտէլի իմաստասիրի, հարկ է ամ. ընթանրականի յառաջանալ իւրում առանձնակի...։ — Հմմտ. թիւ 627։ Եւ եղեւ աւարտումն սբ. աստուածաշնչի, որ եւ դալարեալ մատեան վերաձայնի, ի թուաբերութեանս հայկազնի ՌԲ յոբելանի, եւ ԺԷ թիւն աւելի [= 1668]։ Ծանօթ.— Գրչին անունը եղծուած է։ Էջ 32.— Աջակողմեան աւազակին անունն Դեմաս էր, եւ ձախակողմեանն Կեստաս...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "521.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "947-refine.json",
+    "pipeline_version": "v1"
+  }
+}

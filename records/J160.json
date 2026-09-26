@@ -1,0 +1,68 @@
+{
+  "id": "J160",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "160",
+  "notice": "160",
+  "volume": "Jerusalem_V1",
+  "title": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "160",
+    "no_notice": "3",
+    "titre": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "2+323, իջահամարը անկանոն",
+    "dimensions": "31x21x3",
+    "mise_en_page": "վերնագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 33 տող",
+    "details_ecriture": "շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "դեղնորակ",
+    "nb_lignes": null,
+    "reliure": "պարզ",
+    "etat_conservation": "բաւական լաւ",
+    "copiste": null,
+    "possesseur": "Երուսաղէմի Պատրիարք Կարապետ Գանձակեցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": "1.— Պետրոս Վրդ. Թոխաթցի։ 2.— Գրիգոր Վրդ. Գալատացի",
+    "informations_diverses": "էջ 1 եւլն",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-277.— Երեսուն եւ եօթ քարոզներ։ Էջ 278.— Դատարկ։ Էջ 279.— Ցանգ Գրքոյս, իւրաքանչիւր գլխոց։ Էջ 280.— Ցանգ գլխաւոր իրաց, այբուբենիւ շարակարգեցեալ.— Երկսիւն։ Իջ 283ա։ Էջ 284-316.— Հինգ քարոզներ։ Էջ 317-325.— Դատարկ։\nՅիշատակարանք.— 1.— Էջ 283ա.— Զստացող գրքոյս, զսրբոյ Աթոռոյս Երուսաղէմի Պատրիարք զԳանձակեցի Կարապետ րաբունապետն յիշեցէք ի Քս., որ ի կենդանութեան իւրում կտակ առնելով ետ ինձ Թօխաթցի Պետ րոս Վարդապետիս յիշատակ, որ եմ վերոյ դրեցելոյ Արհոյն ձեռնասուն աշակերտ, եւ հո որքանս մնայցեմ կենդանի վայելեցից հւ զմշտապէս զԱստուած ողորմին ասացից, եւ զկնի իմոյս վախճանի, սրբոյ Աթոռոյս Երուսաղէմի է, եւ ի սրբոց Յակոբեանցս գրքատունն մշտնջենաւոր յիշատակ, եւ չունի ոք իշխանութիւն վաճառել եւ կամ իւրն սեփականել, վասն որոյ ընթերցողքդ կամ օրինակողքդ ասասջիք զԱստուած ողորմին. եղեւ այս ի թուին ՌՄԺԷ Յունվարի Ժ։ 2.— Էջ 283ա.— ՌՄԽդ ամի, Գաղատացի Գրիգոր վարդապետս եղէ եպս. վերոյիշեալ Պետրոս երջանկի հրամանաւն, որ էր ինքն Պատրիարք սրբոյ Երուսաղէմի, եւ զայս գիրս առ մեզ պարգեւեաց եւ մեք առժամայն ընծայեցաք սիրելոյն իմոյ Իզնիմիթցի Գաբրիէլ ընթերցասէր Վարդապետին. վայելեսցէ մինչեւ ի մահ, եւ զկնի մահուանն գրքատունն մնասցէ յիշատակ զեկեալ վարդապետաց իբր պատրաստի հոգեւոր կերակուր։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "499.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "160-refine.json",
+    "pipeline_version": "v1"
+  }
+}

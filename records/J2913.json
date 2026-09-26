@@ -1,0 +1,72 @@
+{
+  "id": "J2913",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2913",
+  "notice": "2913",
+  "volume": "Jerusalem_V9",
+  "title": "ՌԱՄԱՀԱՐՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2913",
+    "no_notice": "1",
+    "titre": "ՌԱՄԱՀԱՐՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "15.5 X 10.5 X 2: Էջք 194: Հանգամանք բաւարար: Թուղթ հասարակ: Գրութիւն կարմիր եւ սեւ մելաններով, միասիւն, 23 տող: Նոտրագիր շեղակերպ անարուեստ: Համառօտագրութիւնք առատ: Կաշեկազմ տախտակեայ դրոշմազարդ: Տարբեր դատարկ թուղթ սկիզբը մէկ թերթ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. Բարի.— Լահիան որձ է, արեւմտեան է, օդային է, տաք է, աղեղնաւոր է, հոկտեմբեր ելարքի: Էջ 2.— Յորժամ զարնես զըռամլն, եւ առաջի տունն ելանեն այսոքիկ...: Էջ 4, դատարկ: Էջ 5.— Աւգնեայ Հոգի Սբ. Ած. ճշմարիտ: Վասն աստեղացն որ գիտենամ թէ զոր օր ունին: Ի կիրակին ցուցանէ, զժամացուցն, ըզչարն եւ զբարին...: Էջ 12.— Յաղագս ռամլի գիտելութեան ըզտանցն բաժանումն թէ ինչ դալիհ ունին եւ հուզմ: Էջ 15.— Յաղագս գիտելոյ զցցերն եւ զվըկանին թէ որպէս են: Էջ 19.— Դուռն լահիաթին է: Էջ 23.— Ով պատուական եւ սուրբ եղբայր, գեղեցիկ մեկնիչ է, եւ լաւ ճարտարշատ կարդայ եւ լաւ ի միտդ առ որ ամէն բան դիւրիւ լինի: Էջ 33.— Սկիզբն վիճակի յնամիւս: Էջ 40.— Խապտէլխարիթ, որ է գլուխ վիշապին, Գ տանտէրն է, որձ է, արեւելեան է...:\nէջ 60.— Նուրաթլխարիթն, Գ ամիս եւ Բ օր...։ էջ 103.— Դուռն Զ. դապտըլտափլըն է...։ էջ 107.— Դուռն Է. Սուսրաթի խառիթն է, որ ասի իշթա։— Հմմտ. թիւ 2045, Է. Հատոր, էջ 89։ էջ 120.— Այս են աւուրք պահպանութեան, զոր յայտնեաց Ած. Յեսուայ քահանայի, եւ որդւոցն Իսրայէլի...։ էջ 122.— Յանուն Հօր եւ Որդոյ եւ Հոգւոյն Սրբոյ, յաւիտեանս ամէն։ Սկիզբն իմաստութեան եւ հուքմն ԺԶ կերպին, որ կոչի լաեիան։ էջ 132.— Անդրիանոս ասա[ց]ել է վասն շարժման եւ որոտմանց, եւ արեգական եւ լուսնի, եւ Դ կողմոց եւ Դ տարերաց, եղանակաց տարոյն, եւ ամ. կենդանեաց ծովու եւ ցամաքի։ էջ 138.— Դուռն Խորհուրդ հանելոյ։ էջ 150.— Դուռն մի այլ վասն հիւանդին, որ իմանաս թէ մահու է թէ կենաց։ էջ 194.— Եթէ կամիցիս յամ. իմաստութեան հասանել՝ այսպէս արա...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "137.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "138.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2913-refine.json",
+    "pipeline_version": "v1"
+  }
+}

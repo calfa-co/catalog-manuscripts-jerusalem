@@ -1,0 +1,68 @@
+{
+  "id": "J222",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "222",
+  "notice": "222",
+  "volume": "Jerusalem_V1",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": "1859",
+    "to": "1859",
+    "display": null
+  },
+  "fields": {
+    "numero": "222",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": "1859",
+    "date_fin": "1859",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ+56",
+    "dimensions": "29x20",
+    "mise_en_page": "սեւ մելանով, միասիւն, 26 տող։ Նոտրակերպ շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Մկրտիչ Վրդ. Արծրունեան, Մ. Ս. Յ.",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— Էջ Ե.— Հաւաքեալ ի Սբ. գրոց վարդապետաց ի բնական, բարոյական եւ յայլաբանական միտս։ Աշխատասիրեալ ի Մկրտիչ Վարդապետէ Արծրունեան ի միաբանութենէ Սրբոյ Եէմի. Առաքելական Աթոռոյն։ Ի պատրիարքութեան Սրբոյ Եէմի. Աթոռոյն Տ. Տ. Յովհաննու Սրբազան Արքեպս.ի Զմիւռնացւոյ։ Յամի 1859, յըսկիզբն յունիսի։ Էջ 1.— Յաղագս բնական եւ բարոյական ծերութեան մարդկան։ Էջ 11.— Յաղագս նիւթական եւ բարոյական հիւանդութեան։ Էջ 15.— Յաղագս նիւթական եւ բարոյական զգայութեանց մարդոյ։ Էջ 22.— Այլաբանութեամբ։ Յաղագս Ած.ային զգայութեանց։ Էջ 30.— Յաղագս խուզման եւ յապաւման հերացն։ Էջ 41.— Ճառ Տեառնընդառաջի, Գրիգորի Արծրունեաց եպս. ի թուղթ. յԵմէն. ի Հայս, յաղագս Տեառնընդառաջին.— Ի ժամանակս Յուստիանոսի Կայսեր...։— Էջ 45.— Ի Սբ. Յարութեան Զատկի Ճրագալուցի շաբաթ օրն.— Նախ յոյնն պատրաստէ...։ Էջ 47.— Օրինակ գրոցն զոր գրեաց Պօղոս Արքեպս. առ Բիշմիշեան Միքայէլ աստուածասէր ամիրայն ի Կոստանդնուպօլիս, 1839, ի 29 Օգոստ.։ — Յայտարարութիւն հակառակասիրութեան հռովմէական կրօնաւորաց...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "624.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "222-refine.json",
+    "pipeline_version": "v1"
+  }
+}

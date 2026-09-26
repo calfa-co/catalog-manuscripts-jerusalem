@@ -1,0 +1,68 @@
+{
+  "id": "J3373",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3373",
+  "notice": "3373",
+  "volume": "Jerusalem_V10",
+  "title": "Շ Ա Ր Ա Կ Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3373",
+    "no_notice": "145",
+    "titre": "Շ Ա Ր Ա Կ Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "620",
+    "dimensions": "14.5X11X6",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 21 տող",
+    "details_ecriture": "վարժ։ Կարմիր կապոյտ խորանազարդ իւր սարօք, էջ 323",
+    "types_cahiers": "Ա–Ռ",
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "անբաւարար. սկիզբը եւ վերջը թերի. աջակողմեան վարի անկիւնը մկնակեր. մասամբ վնասուած թացութենէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "քառանկիւն. «Մատենադարան Ս. Նշան Վանուց Սեբաստիոյ, թիւ 71», էջ 1։ Հմմտ.— Ցուցակ Ձեռ. Սեբաստիոյ, թիւ 129",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Այսաւր ցնծան երկնայինքն...։ Էջ 3.— Կանոն Յովակիմայ եւ Աննայի։ Էջ 71.— Կանոն Սրբոյն Ստեփանոսի։ Էջ 107.— Կանոն Համաւրէն Ննջեցելոցն։ Էջ 168.— Շարական Համամայ։ — Ստ. լուսանցքին, գրչէն.— Մինչ զայս գրէի ի դուրս ելա. այլազգիք բռնեցին եւ չարչարեցին եւ բազում վնաս արարին։ Էջ 169.— Բուն Բարեկենդանին Աւրհնութիւն։ Էջ 245.— Կանոն Գրիգորի Հայոց Լուսաւորչի։ Էջ 262.— Կանոն Ղազարու Յարութեան։ Էջ 321.— Կանոն Յինանցն.— ԱՁ.— Յարեաւ Քրիստոս ի մեռելոց, Ալէլուիայ...։ Էջ 323.— Կանոն Յարութեան.— Այսաւր յարեաւ...։ Էջ 409.— Կանոն Գալստեան Հոգոյն Սրբոյ։ Էջ 431–432 կը պակսի։ Էջ 463.— Կանոն Տապանակին։ Էջ 481.— Կանոն Փոխման Աստուածածնին։ Էջ 521.— Կանոն Վարագայ Խաչին։ Էջ 535.— Կանոն Թարգմանչացն։ Էջ 563.— Շարական Վարդանանց.— Արիացեալ առ հակառակսն...։ Էջ 597.— Կանոն Յարութիւն Աւրհնութ.։ Էջ 619.— Որ յանըսկզբնական Հաւրէ ծընեալ...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "262.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3373-refine.json",
+    "pipeline_version": "v1"
+  }
+}

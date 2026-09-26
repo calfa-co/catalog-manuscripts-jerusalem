@@ -1,0 +1,68 @@
+{
+  "id": "J3886",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3886",
+  "notice": "3886",
+  "volume": "Jerusalem_V11",
+  "title": "ՀԱՄԱՌՕՏ ՊԱՏՄՈՒԹԻՒՆ ՕՍՄԱՆՑՒՈՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3886",
+    "no_notice": null,
+    "titre": "ՀԱՄԱՌՕՏ ՊԱՏՄՈՒԹԻՒՆ ՕՍՄԱՆՑՒՈՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "192",
+    "dimensions": "16x9x1.5",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 18–20 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Սեւ մատիտով՝ Համառօտ Պատմ. Օսմանցւոց։ Էջ 2.— Othman I.— Dit el gazi, fondateur de l’empire des Turcs Ottomans...։ Էջ 8.— Orkhan.— 2 sultan Ottoman...։ Էջ 19.— Soliman II.— le grand...։ Էջ 37.— Soliman III.— Frere et Successeur de Mahomet IV (1668–91)...։ Էջ 47.— Mahmoud II.— Ne en 1785, mort en 1839...։ Էջ 52.— Abdul — Aziz, monta au trone 1861...։ Էջ 53.— Abdul — Hamid monta au trone 1876...։ Էջ 56.— Histoire.— Les Ottomans...։ Էջ 67, վարը, տարբեր մելանով.— Coran, recueil des dogmes et les priceptes de leur religion...։ Էջ 68.— Autriche։ Էջ 84.— Histoire։ Էջ 94–95, դատարկ։ Նոյնպէս 98–129, 139։ Էջ 97.— Ordre de Saint George։ Էջ 130–137, լայնքին գրուած, վիլայէթներու ստորաբաժանումներուն մասին։ Էջ 138–139 ի միջեւ թերթ կտրուած։ Էջ 140.— Starnuto։ Էջ 141–192, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "351.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3886-refine.json",
+    "pipeline_version": "v1"
+  }
+}

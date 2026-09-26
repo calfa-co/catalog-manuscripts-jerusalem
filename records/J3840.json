@@ -1,0 +1,68 @@
+{
+  "id": "J3840",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3840",
+  "notice": "3840",
+  "volume": "Jerusalem_V11",
+  "title": "ՆԱՄԱԿԱՆԻ Ա.",
+  "date": {
+    "from": "1971",
+    "to": "1971",
+    "display": null
+  },
+  "fields": {
+    "numero": "3840",
+    "no_notice": null,
+    "titre": "ՆԱՄԱԿԱՆԻ Ա.",
+    "date_debut": "1971",
+    "date_fin": "1971",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "140",
+    "dimensions": "33x23x1.5",
+    "mise_en_page": "սեւ մելանով",
+    "details_ecriture": "նոտրակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, ոչ միատեսակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": "Գրիգոր Շղթայակիր",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Սկիզբի դատարկ թուղթին վրայ.– Պր. Արայ Գալայճեան Ձեռագրատուն յանձնեց 1978 Օգոստոս 24ին, Եշ. առաւօտ.– Նորայր Արքեպսկ.։ Էջ 1.– Պետ իմ պատուական զանխուլ զայս ինչ ծանիր...։ Էջ 2, ստորոտը.– Նորընտիր Լուսարարապետ Ս. Աթոռոյս Գերապատիւ Տ. Դաւիթ Վրդ. Տէրտէրեանի հոգացողութեամբ, Շղթայակիր Տ. Գրիգոր Պատրիարքի (ինքնագիր) նամակները, որ ի Կ. Պոլիս, առ Տ. Յովհաննէս Կոլոտ Պատրիարքն ուղղեալ, որոյ կտորտանքները կարկատելով հոս ի մի կարգ կազմեցի Մինաս Վրդ. Ամերիկեանս յուսալով ներողութեանն Աստուծոյ արժանանալ ձեր բարի աղօթիւք զոր խնդրեմ հայցելով մեղաւորս, ի 1907 սեպտեմբեր 4ին։ Էջ 3.– Պետ իմ պատուական եւ խղճուկ կենօք տառապեալ լալոտ աչօք զողջոյն սիրոյ քեզ ընծայեմ...։ Էջ 15.– Զողջոյնն սիրալի ջերմ սիրով ընծայեմ...։– Տես Սիոն, 1971, էջ 422։ Էջ 25.– Ամէնիմաստ Պետիդ իմոյ Տեառնըդ Յովհաննու քաջ Հռետորիդ եւ մեծի Պատրիարքիդ զողջոյնն տեառնաւանդ սիրով ընծայեմ...։– Տես Սիոն, 1971, էջ 428։ Էջ 66.– Գերազանց Վարդապետիդ՝ իմ աչացս լուսոյդ կրկին այս ինչ յայտ լիցի ...։– Տես Սիոն 1971, էջ 856։ Էջ 77.– Զի ի յունիսի ԺԲ, գի՛ր եկն ի Բերիոյ...։ Տես Սիոն, 1971, էջ 858։ Էջ 115.– Տեառնդ Յովհաննու Աստուածաբան Վարդապետիդ՝ եւ մեծի Պատրիարքիդ՝ զքրիստոսականն ողջոյն ընծայեմ կաթոգին բաղձմամբ...։ Տես Սիոն, 1971, էջ 864։ Էջ 185.– Տեառնդ Յովաննու Աստուածաբան մեծի Վարդապետիդ եւ սրբազան Պատրիարքիդ՝ զողջոյնն սիրոյ կաթոգին բաղձմամբ ընծայեմ...։– Տես Սիոն, 1971, էջ 422։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "294.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3840-refine.json",
+    "pipeline_version": "v1"
+  }
+}

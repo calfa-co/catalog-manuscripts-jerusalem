@@ -1,0 +1,68 @@
+{
+  "id": "J2690",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2690",
+  "notice": "2690",
+  "volume": "Jerusalem_V8",
+  "title": "ԿՐԹՈՒԹԻՒՆ ՄԱՆԿԱՆՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2690",
+    "no_notice": "1",
+    "titre": "ԿՐԹՈՒԹԻՒՆ ՄԱՆԿԱՆՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "46",
+    "dimensions": "22X16",
+    "mise_en_page": "սևորակ մելանով, միասիւն, 24 տող, երբեմն պակաս",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "Ճակատ.— Կրթութիւն Մանկանց, ի ճարտասանական մթին բառսն։ Ի պէտս նորավարժ համբակաց վարժելոց յուսումն Ճարտասանութեան, ի Զուխուր Խանն։ Ի Ֆիզիգայէ, ի ցաւալի նժդեհութեան չարչարանօք անձին։ 1837, յունվար 1, ի Զուխուր Խանն մեծի Պօլսոյն",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Բացատրութիւն ոմանց ի ճարտասանական մթին բառսն։ Էջ 9.— Ճառ Յառաջաբանական։ Ծանօթութիւն հանրական ի վերայ Ճարտասանութեան։ Էջ 45.— Քանզի կառավարութիւն խըղճին հայի առ գործողութիւն օտարին չվասել զօտարն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "330.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2690-refine.json",
+    "pipeline_version": "v1"
+  }
+}

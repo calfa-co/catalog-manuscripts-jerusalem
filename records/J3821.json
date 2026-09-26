@@ -1,0 +1,68 @@
+{
+  "id": "J3821",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3821",
+  "notice": "3821",
+  "volume": "Jerusalem_V11",
+  "title": "ՍԱՂՄՈՍ (Թերի)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3821",
+    "no_notice": "81",
+    "titre": "ՍԱՂՄՈՍ (Թերի)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "24x18x1.5",
+    "mise_en_page": "խորագիրները եւ սկզբնատողերը կարմիր, նոյնպէս սկզբնատառերը մէջ ընդ մէջ, մնացեալը սեւ մելանով, երկսիւն, 21 տող",
+    "details_ecriture": "գրեթէ սովորական։ Կարմիր կապոյտ զարդագիր, լուսանցազարդ եւ գլխազարդ՝ Կանոններու սկիզբը։ Լաթակազմ խաւաքարտեայ",
+    "types_cahiers": "104–148",
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "ճերմակ թուղթ սկիզբը եօթ թերթ, նոյնպէս եւ վերջը։ Վերջնթեր երեսին շեղագիր մեր կողմէ. \" Կազմը լրացաւ 1971 նոյմ. 8ին",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Թղ. 104ա.– ՂԲ.– Տէր թագաւորեաց վայելչութիւն զգեցաւ...։ Թղ. 104–105ի միջեւ թերթ ինկած։ Թղ. 105բ 1.– ՃԵ.– Խոստովան եղերուք Տեառն զի քաղցր է...։ Թղ. 107բ 2.– Աղօթք Եզեկիայ արքայի։ Թղ. 109ա 1.– ՃԶ.– Ալէլուիա, ալէլուիա.– Խոստովան եղերուք Տեառն զի քաղցր է...։ Թղ. 126բ 2.– Աւրհնութիւն Եսայեա կայծակնամաքուր սուրբ մարգարէի։ Թղ. 128ա 1.– ՃԻ.– Աւրհնութիւն Աստիճանաց։ Թղ. 142ա 2.– ՃԽԶ.– Ալ[ել]ուիա, Անգեա եւ Զաքարիայ.– Աւրհնեցէք զՏէր զի բարի են սաղմոսք...։ Թղ. 142–143ի միջեւ թերթ ինկած։ Թղ. 143ա 1.– Անեղ բնութիւն մեղայ քեզ...։ Թղ. 148բ 2.–... Խնամող արարա [Այսչափ կայ]։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "277.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3821-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J3656",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3656",
+  "notice": "3656",
+  "volume": "Jerusalem_V11",
+  "title": "ԲԱՆՔ ԻՄԱՍՏԱՍԻՐԱԿԱՆՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3656",
+    "no_notice": "5",
+    "titre": "ԲԱՆՔ ԻՄԱՍՏԱՍԻՐԱԿԱՆՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Բ +104",
+    "dimensions": "21x16x1",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մընացեալը սեւ մելանով, միասիւն, 27 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ անարուեստ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա, դատարկ։ Էջ 1.— Բանք Իմաստասիրականք եւ Աստուածաբանականք համառօտաբար իբր սահմանօրէն արտագրեալք եւ հաւաքեալք ըստ այբուբենից, աշխատասիրութեամբ Լեհացի Ստեփաննոսի բանասիրի։ Աբրահամ է առաջին օրինակ հաւատոյ Գ\nկերպիւ...։ Էջ 45էն յետոյ սխալմամբ դրուած է 50։ Էջ 96.—[Օ]գտակարութիւն մեծ առ ամ. ջերմութիւն եւ հոգիք կենդանւոյ...։ Էջ 99–104, տարբեր թուղթ, դատարկ։\nՅիշատակագրութիւն.— 1905 Էջ Բ, մանիշակագոյն թանաքով.— Ես Պետրոս Արքեպիսկոպոս Առաջնորդ Սեբ– եւդոկիոյ, կ’ծանուցանեմ ամենեցուն թէ՝ սոյն ձեռագիր մատեանս կ’նուիրեմ Ս. Նշան Վանուց։ Ով որ գողանայ կամ վաճառէ նզովեալ եղիցի։ 18 Հոկտ. 1905. Առաջ– նորդ Վանահայր, ներքեւը կնիք՝ \"Պետրոս եպս.\"ի։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "095.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "096.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3656-refine.json",
+    "pipeline_version": "v1"
+  }
+}

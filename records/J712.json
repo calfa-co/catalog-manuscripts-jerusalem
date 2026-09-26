@@ -1,0 +1,68 @@
+{
+  "id": "J712",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "712",
+  "notice": "712",
+  "volume": "Jerusalem_V3",
+  "title": "ՋԵՐՄԵՌԱՆԴԻ ԿԵԱՆ",
+  "date": {
+    "from": "1716",
+    "to": "1716",
+    "display": null
+  },
+  "fields": {
+    "numero": "712",
+    "no_notice": "1",
+    "titre": "ՋԵՐՄԵՌԱՆԴԻ ԿԵԱՆ",
+    "date_debut": "1716",
+    "date_fin": "1716",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "21.5x15.5x4.5: Էջք ԺԲ + 530: Հանգամանք շատ լաւ: Թուղթ տո-կուն: Գրութիւն՝ խորագիրները, սկզբնա-տորութիւնները եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 21 տող: Նոտրագիր կանոնաւոր: Համառօտագրու-թիւնք սովորական: Կաշեկազմ տախտակ-եայ դրոշմազարդ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Ը, դատարկ: Էջ Թ.— Ճակատ.— Սկիզբն Գրոցս որ կոչի Ջերմեռանդ կեան, թարգմանեցեալ ի լատինականէ ի հայս, ի Ղուկասու Վարդապետէ Խարբեր-դեցւոյ, յամի Տն. ՌԷՃՁԶ, եւ Հայոց ՌՃԿԵ: Ի փառս ամենամեծին Աստուծոյ: Ի խնդրոյ Մաղաքիա Դպրի՝ չնչին ծառայի Կոստանդինուպօլսեցւոյ:\nԷջ ԺԱ.— Գիրքս այս Ջերմեռանդ կեան, բաժանի ի Հինգ Մասունս: Էջ 3.— Ներածումն առ Ջերմեռանդ կեան, Շարադրեցեալ ի Ս. Ֆրանչիսկոսէ Սալեցւոյ Եպիսկոպոսէ Ճենուայու: Յառա-ջաբանութիւն Հեղինակի: ... ի յամի Տն. 1609, յաւուր տօնի Ս. Մարիամու Մագ-դաղենացւոյն: Էջ 520.— Ցանկ Գլխոց:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "176.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "712-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2950",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2950",
+  "notice": "2950",
+  "volume": "Jerusalem_V9",
+  "title": "ԿԵԱՆՔ ՓԻԼԻՍՈՓԱՅԻՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2950",
+    "no_notice": "1",
+    "titre": "ԿԵԱՆՔ ՓԻԼԻՍՈՓԱՅԻՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "35X23X3: Էջք 378: Հանգամանք բաւարար: Լուսանցքի ցեցահարութիւն չընչին: Թուղթ հասարակ: Գրութիւն՝ սեւորակ մելանով, միասիւն, 33-39 տող: Շեղագիր նոտրակերպ: Համառօտագրութիւնք սակաւ: Կազմ խաւաքարտեայ անարուեստ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Մատեան Առաջին Դիոգենեսի Լայերտիոսի, Յաղագս կենաց, ուսուցմանց եւ ասացուածոց գերահռչակ փիլիսոփայից: Նախերգանք.— Համարեցան ոմանք թէ փիլիսոփայութեան գործն սկսեալ իցէ ի բարբարոսաց, քանզի առ Պարսկօք էին Մոգք...: Ծանօթ.— Լուսանցքներու վրայ յաճախ կ'երեւին ծանօթագրութիւններ եւ բացատրութիւններ: Էջ 8.— Թալէս Միլէտացի.— Էր ուրեմն Թալէս, ըստ որում ասեն Հերոդոտոս, Դուրիս եւ Դէմոկրիտոս...: Էջ 15.— Սոլոն Սալամինացի.— Սոլոն Սալամինացի՝ Էքսէկեստիդոյ որդի...: Էջ 24.— Քիլոն Լակեդեմոնացի: Էջ 47.— Դիոգենեսի Լայերտիոսի Յաղագս կենաց, սահմանադրութեանց եւ ասացուածոցն հռչակաւոր փիլիսոփայից: Մատեան Երկրորդ: Անաքսիմանդրոս: Էջ 98.— Մատեան Երրորդ: Պղատոն: Էջ 132.— Մատեան Չորրորդ: Սպեւսիպպոս: Էջ 155.— Մատեան Հինգերորդ: Արիստոտէլ որդի Նիկոմաքոսի եւ Տեստիադայ, Ստագիրացի...: Էջ 184.— Մատեան Վեցերորդ: Անտիսթենէս: Էջ 217.— Մատեան Եօթներորդ: Զենոն: Էջ 273.— Մատեան Ութերորդ: Պիւթագոր: Էջ 298.— Մատեան Իններորդ: Հերակլիտոս: Էջ 332.— Մատեան Տասներորդ: Եպիկուրոս: Էջ 337, 339, լուսանցքներու վրայ կան մատիտով հայերէն եւ յունարէն ծանօթագրութիւններ: Էջ 375-376.— Ցանկ, նոր կազմուած, կարմիր եւ կապոյտ մատիտով: Էջ 377-378, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "166.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2950-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J1175",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1175",
+  "notice": "1175",
+  "volume": "Jerusalem_V4",
+  "title": "ՀԱՅԵԼԻ ՎԱՐՈՒՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1175",
+    "no_notice": "7",
+    "titre": "ՀԱՅԵԼԻ ՎԱՐՈՒՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ՅԲ",
+    "dimensions": "18x12.5x3",
+    "mise_en_page": "խորագիրները կամ սկզբնատողերը եւ յաճախ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 22-24 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": "Եսայի Վրդ. Կեսարացի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը մէկ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա.— Յաղագս Ագահութեան։ Գլուխ Ա.— [Տէր]ն մեր Յս. Քս. հրամայէ ի փրկական Աւետարանին...։— Հմմտ. թիւ 673։ Էջ Ճ.— Յաղագս Իմաստութեան։ Գլուխ ԻԶ.— Զոր ինչ ասաց իմաստունն, թէ իմաստութիւն փրկէ ի մահուանէ...։ Էջ ՄԴ.— Յաղագս Մեծատանց։ Գլուխ ԽԹ.— Էր ոմն քահանայ ընչաւէտ եւ անուանի...։ Էջ ՄԼԷ.— Յաղագս Ողջոյն քեզ Մարիամու ասել։ Գլուխ ԾԵ.— Զօրական ոմն ամրոց ունէր առ ճանապարհաւ...։ Էջ ՄԼԹ, գրչափորձ։\nԷջ ՄԽ, նոտր շեղագիր անհարթ.— Բաղդասար թագաւոր, որդի Նաբուգոդոնոսորայ, արար ընթրիս...։ Էջ ՄԽԱ-ՄԾԳ, դատարկ։ Էջ ՄԾԴ-ՄՁ, այլեւայլք, անհարթ գրերով։ Էջ ՄԿԳ.— Քարոզ Ապաշխարութեան ի Սբ. Գրոց։ Էջ ՄՁԱ-ՄՁԶ, դատարկ։ Էջ ՄՁԷ.— Ձայնք Գրոյս.— Գիրքս անուամբք գոչի՝ Հայելի Վարուց, կամ Հարանց Վարք ֆռանկաց լաթինաց, թարգմանեալ ի հայ բառ։ Էջ ՄՂԸ.— Եւ այլ պատմութիւնք ժողովածու, գիւտ համարադրով։ Ներքեւը նոտր շեղագիր տարբեր գրչով. Գիրքս յիշատակ է Կեսարացի Եսայի Վարդապետին յԵրուսաղէմ ի դուռն Սբ. Յակոբայ։ Էջ ՄՂԹ-ՅԲ, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "301.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1175-refine.json",
+    "pipeline_version": "v1"
+  }
+}

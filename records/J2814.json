@@ -1,0 +1,72 @@
+{
+  "id": "J2814",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2814",
+  "notice": "2814",
+  "volume": "Jerusalem_V9",
+  "title": "ԿՐԹՈՒԹԻՒՆ ՔՐԻՍՏՈՆԷԱԿԱՆ",
+  "date": {
+    "from": "1900",
+    "to": "1900",
+    "display": null
+  },
+  "fields": {
+    "numero": "2814",
+    "no_notice": "2",
+    "titre": "ԿՐԹՈՒԹԻՒՆ ՔՐԻՍՏՈՆԷԱԿԱՆ",
+    "date_debut": "1900",
+    "date_fin": "1900",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "20X13X1: Էջք Զ+158: Հանգամանք շատ լաւ: Թուղթ փայլուն: Գրիչ եւ ՍՏԱՑՈՂ՝ Աւետիս Վրդ. Յովհաննէսեան: Գրութիւն մանիշակագոյն թանաքով, միասիւն, 22 տող: Շեղագիր մաքուր: Լաթակազմ խաւաքարտեայ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Ե, դատարկ։ Էջ Զ.— Աւետիս Վարդապետի անձնական գիրքերէն, նուիրուած Ս. Աթոռոյս Թանգա– րանին, 1913։ Էջ 1.— Կրթութիւն Քրիստոնէական, Տաճ– կերէն, Քրիստոնէական հաւատքըմըզա իգ– տիզալը կէրէք օլան պիր գաչ էօյրէնիլէճէք– լէր։ Հայճա պիլմէյէն քրիստոնեայ եղբայրլա– րըմըզ իչին Թիւրքճէ չարադրել օլունտու, 1742։ Օրինակել էթտի Աւետիս Վ. Յովհաննէս– եան, 1900, Երուսաղէմտա։\nԷջ 3.— Հայճա պիլմէյէն քրիստոնեայ եղ– բայրլարըմըզա պիր գաչ իգթիզալը էօյրէնէ– ճէքլէր ինչա օլունտու.— Հմմտ. Թ. 2786, Ը. Հատոր, էջ 415։ Էջ 34.— Յանուն Հօր եւ Որդւոյ եւ Հոգ– ւոյն Սրբոյ, ամէն։ Էջ 84.— Աղօթք տէմէք օ տուր քի...։ Էջ 129.— Ֆիհրիսթ։ Էջ 132.— Պու քիթապին ղաթըն իչինտէ աղ– նամասը չէթին օլան լուղէթլէրին պէյանը։ Գարկ օլտու, ընկղմած մնաց։ Զարիֆ, Հանճարեղ, նրբամիտ։ Էտնա, Խոնարհ, անարգ, նուաստ։ Իգթիզա, Պիտոյք, կարիք, կարեւորու– թիւն։ Իպրէթ, Խրատ, օրինակ։ Իսթիհզա, Ծաղր, հեգնութիւն։ Հարպիճէ, Նոյն հետայն։ Մագուլ, Հաւանական։ Միւթապըգ, Նման, հաւասար, պատչաճ, յարմար։ Վէճհ, Ոճ, պայման, հանգամանք, կերպ։ Ֆիլհալ, Շուտով։\nԷջ 143.— Թիւրքճէ Տէնիլէ Մէսէլէլէր։ Ագ ագչէ՝ գարա կիւն իչիւն տիւր։ Թաթլը տիլ՝ եըլանը տէլիկինտէն չըգա– րըր։ Կէճ օլսուն, կիւն օլմասուն։ Սագլա սամանը, կէլիր զամանը։ Քէլ պաչա չիմչիր թարագ։ Էջ 153–158, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "050.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "051.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2814-refine.json",
+    "pipeline_version": "v1"
+  }
+}

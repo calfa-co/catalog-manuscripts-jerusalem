@@ -1,0 +1,72 @@
+{
+  "id": "J3820",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3820",
+  "notice": "3820",
+  "volume": "Jerusalem_V11",
+  "title": "ՔԱՐՈԶԳԻՐՔ (Կիւրակէից)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3820",
+    "no_notice": "12",
+    "titre": "ՔԱՐՈԶԳԻՐՔ (Կիւրակէից)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "492",
+    "dimensions": "24x19x2.5",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 21 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": "բաւական առատ։ Լաթակազմ խաւաքարտեայ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, դեղնորակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Տիտղոսաթերթ. Քարոզք Կիւրակէից, Հաւաքեալք ի Սբ. Գրոց եւ ի մատենից սուրբ եւ իմաստուն Վարդապետաց։ Հատոր Երկրորդ։ Աշխատասիրութեամբ տեառն Կարապետի Արքեպիսկոպոսի Կոստանդնուպօլսեցւոյ։ Ի Հայրապետութեան\nՄայր Աթոռոյն մերոյ Էջմիածնի Տ.Տ. Ներսեսի Սրբազան Կաթողիկոսի ամ. Հայոց։ Ի Պատրիարքութեան Սրբոյ Աթոռոյն Երուսաղէմի տեառն Յովհաննու Արքեպիսկոպոսի, յամի Տեառն 1853, ապրիլի 1։ Էջ 3.— Առաջաբան.— Յետ առաջնոյ Քարոզագրոյն անուանելոյ Տարեկան Քարոզք, զսա եւս յարմարեցի ի մնացորդաց նորա՝ անուանեալ Քարոզք Կիւրակէից...։ Էջ 5.— Քարոզ Ա.— Կաղանդ. Գոհանալ զԱստուծոյ...։ Էջ 10.— Քարոզ Բ.— Կիւրակէ պահոց Ծննդեան։ Էջ 16.— Քարոզ Գ.— Ծնունդ Տեառն։ Էջ 468.— Քարոզ ՁԱ.— Վեցերորդ Կիւրակէ Յիսնակի, Ազգասիրութիւն։ Էջ 471.— Վերջ։ Էջ 472–480, դատարկ։ Էջ 481.— Ցանկ Քարոզից.— Ա–ՁԱ։ Էջ 486–492, դատարկ։ Նորագոյն յիշատակագրութիւն.— 1968 Էջ Զ.— Ս. Յակոբեանց Ձեռագրատան Տեսչին յանձնուեցաւ 1968 սեպտ. 18ին։ Նոր կողքով կազմուեցաւ սեպտ. 14ին.— Տեսուչ Ձեռագրատան Նորայր Եպս.։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "276.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "277.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3820-refine.json",
+    "pipeline_version": "v1"
+  }
+}

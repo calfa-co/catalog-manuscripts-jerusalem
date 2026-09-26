@@ -1,0 +1,68 @@
+{
+  "id": "J2856",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2856",
+  "notice": "2856",
+  "volume": "Jerusalem_V9",
+  "title": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2856",
+    "no_notice": "4",
+    "titre": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "504",
+    "dimensions": "16X10X3",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 17 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "դեղնորակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խախալարտեալ",
+    "etat_conservation": "բաւարար ընդհանրապէս, բայց կան բազմաթիւ փրթած ԹԵՐԹՔ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Նախակրթութիւնք Յաղագս Ճարտասանութեան։ Հ. Ի՞նչ է Ճարտասանութիւնը։ Պ. Ճարտասանութիւնն է որ ճարտար խօսելու կանոնաւոր ձեւերը ու հանգամանքներ կը սորվեցնէ, եւ ով որ այս ձեւերը ու հանգամանքները ճարտարութեամբ կը գործածէ, ճարտասան կամ բանիրուն կըսուի. կամ թէ բանաւոր փաստերով, յարմարաւոր իմաստներով, ու շքեղ ասացուածով բարւոք խօսելու ազատական արհեստ մի է.— Հմմտ. Թ. 2069, Է. Հատոր, էջ 117։ Էջ 35.— Գիրք Առաջին։ Յաղագս Գիւտի առ հասարակ։— Հմմտ. Թ. 2722, Ը. Հատոր, էջ 345։ Էջ 311.— Գիրք Չորրորդ։ Յաղագս Հանդիսից Ճարտասանութեան։ Էջ 478.— Գիրք Հինգերորդ։ Յաղագս Արտասանութեան։ Էջ 498-504, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "084.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2856-refine.json",
+    "pipeline_version": "v1"
+  }
+}

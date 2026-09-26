@@ -1,0 +1,68 @@
+{
+  "id": "J2806Ե",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2806Ե",
+  "notice": "2806Ե",
+  "volume": "Jerusalem_V9",
+  "title": "Օ Ր Ա Գ Ր Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1861",
+    "to": "1861",
+    "display": null
+  },
+  "fields": {
+    "numero": "2806Ե",
+    "no_notice": null,
+    "titre": "Օ Ր Ա Գ Ր Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": "1861",
+    "date_fin": "1861",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "438",
+    "dimensions": "19 X 13.5 X 2.5",
+    "mise_en_page": "սեւ մելանով, շեղագիր։ Լաթակազմ խաւաքարտեայ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— 1861 թիւ, յունվար 1, Կիր.։ Էջ 16.— Յունվար 14, շբ.։ ...ի ժամ ողջունի Սբ. Պատարագին դարպասունի Մկրտիչ Վարդապետին յանկարծ յաջ կողմն կաթուած իջեալ անկաւ ի գետին...։ Էջ 17.— Յունվար 15, Կիր.։ ...Հանգեաւ ի Տէր յերեկեան յիշեալ Մկրտիչ Վարդապետն...։ Էջ 18.— Յունվար 16, բշ.։ ...Այլ եւ ի գիշերիս ժամ 8 եւ կէս աւանդեաց զպատուական հոգին Գէորգ սրբազան արքեպիսկոպոսն, 64 տարի հասակաւ. ոհ, ոհ, ցաւ մեծ է արդարեւ, որ դիպեցաւ մեզ յայս միջոցիս...։ Էջ 40.— Փետրուար 6, բշ.— Ընդ լուսանալ առաւօտուն ի ծագել արեգական մտաք առաջի Պարուտխանային...։ Էջ 115.— Մայիս 16, Գշ.— ժամ հասաք առաջի Աղէքսանդրիոյ...։ Էջ 117.— Մայիս 19, ուր.— ժամ 5 ի ցերեկին հասաք առաջի Յոպպէին...։ Էջ 119.— Մայիս 22, բշ.— ...ժամ 6ին մտաք ի Սբ. Երուսաղէմ...։ Էջ 289.— Հոկտեմբեր 1, Կիր. Վարագայ Խաչ։ Էջ 434.— Դեկտեմբեր 31, Կիր.։ Արդ խնդրեմ, ընթերցող եղբարք, որչափ աստ պակաս գտանին ի բանս եւ ի գործս եւ ի գիրս։ Էջ 435-438, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "029.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2806Ե-refine.json",
+    "pipeline_version": "v1"
+  }
+}

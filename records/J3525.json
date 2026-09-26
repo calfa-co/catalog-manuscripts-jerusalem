@@ -1,0 +1,68 @@
+{
+  "id": "J3525",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3525",
+  "notice": "3525",
+  "volume": "Jerusalem_V10",
+  "title": "ԱՒԵՏԱՐԱՆ (ԹԵՐԻ)",
+  "date": {
+    "from": "1501",
+    "to": "1501",
+    "display": null
+  },
+  "fields": {
+    "numero": "3525",
+    "no_notice": "ՋԳՅ",
+    "titre": "ԱՒԵՏԱՐԱՆ (ԹԵՐԻ)",
+    "date_debut": "1501",
+    "date_fin": "1501",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "85—316",
+    "dimensions": "24x16x8",
+    "mise_en_page": "սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 21 տող",
+    "details_ecriture": "կանոնաւոր։ Կարմիր կապոյտ զարդագիր եւ լուսանցազարդ հատուածներու սկիզբը",
+    "types_cahiers": "ԺԶ—Լ",
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար յետ նորոգութեան",
+    "copiste": "Սիմէոն",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "իւր սարօք էջ 183։ Լաթակազմ խաւաքարտեայ",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 85ա.— Ոչ են պիտոյ բժիշկք ողջոց այլ հիւանդաց...։— Հմմտ. Ղկս. Ե. 31։ Էջ 80—81ի միջեւ ինկած մէկ թերթ։ Էջ 182—183ի միջեւ կը պակսի երկու թերթ։ Էջ 183.— Աւետարան Ըստ Յովհաննու.— Ի սկզբանէ էր Բանն...։ Էջ 813բ.— ... որ թէ գրեալ էին։ Աւետարանս որ ըստ Յովհաննու արարեալ ի փառս Քրիստոսի Աստուծոյն մերոյ։\nՅիշատակարան Գրչի.— 1501 Էջ 814ա.— Փառք անսկզբնականին Հաւր, եւ Որդոյ նորա Միածնի, եւ ամենասուրբ Հոգւոյն, ելաւղի ի նորին էութենէ։ Աւրհնութիւն Աստուծոյ Հաւր, որ գթացաւ յարարածս իւր, եւ առաքեաց զՄիածին Որդին ի փրկութիւն մարդկան...։ Վասնորոյ եւ իմ անարժանութիւնս նուաստ հոգով եւ տարտամս մարմնով, Սիմէոն գրիչս յիշեցէք ի Տէր եւ յաղաւթս ձեր։ Ի թուականիս ՋԾ, ի դրունս Սբ. Աստուածածնի, յերկիրս Սեբաստիոյ [Շարունակութիւնը կորսուած]։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "522.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3525-refine.json",
+    "pipeline_version": "v1"
+  }
+}

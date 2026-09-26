@@ -1,0 +1,68 @@
+{
+  "id": "J3446",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3446",
+  "notice": "3446",
+  "volume": "Jerusalem_V10",
+  "title": "Ս Ա Ղ Մ Ո Ս (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3446",
+    "no_notice": "77",
+    "titre": "Ս Ա Ղ Մ Ո Ս (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "356",
+    "dimensions": "14X9X3.5",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մընացեալը սեւ մելանով, միասիւն, 17 տող",
+    "details_ecriture": "Կարմրագիծ զարդագիր եւ լուսանցազարդ գուբղաներու սկիզբը, կանոնները հանդերձ գլխազարդով",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "անբաւարար. սկիզբը եւ վերջը թերի. լուսանցքները անմաքուր. տեղտեղ ԹԵՐԹՔ պատռուած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Պրակ Գ.— Տէր խորտակէ զպատերազմունս, Տէր անուն նորա։... Էջ 8.— Սաղմոս ի Դաւիթ.— Երկինք պատմեն զփառս Աստուծոյ...։ Կիսով չափ պատռուած էջեր, 153-4, 165-6, 243-4, 267-8, 323-4։ Էջ 356.— Սաղմոս ի Դաւիթ.— Տէր կարդացի առ քեզ եւ լուր ինձ...։— ՃԽ. 1։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "412.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3446-refine.json",
+    "pipeline_version": "v1"
+  }
+}

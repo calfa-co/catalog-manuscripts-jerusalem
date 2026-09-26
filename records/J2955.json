@@ -1,0 +1,68 @@
+{
+  "id": "J2955",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2955",
+  "notice": "2955",
+  "volume": "Jerusalem_V9",
+  "title": "ՄԵԴՐԱԿԱՆ ԴՐՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2955",
+    "no_notice": "1",
+    "titre": "ՄԵԴՐԱԿԱՆ ԴՐՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "128",
+    "dimensions": "19X14.5X1",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 21 տող",
+    "details_ecriture": "մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը եւ վերջը հինգական թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Չափ կը կոչուին այն գործիքները որք կը գործածուին այլ եւ այլ ծանրութիւնները, երկայնութիւնները եւ այլն որոշելու համար։... Էջ 3.— Պատմական Տեսութիւն Մեդրական Դրութեան։ Էջ 17.— Պատկեր օրինական չափուց։ Էջ 20.— Տասնորդ Մեդրական դրութեան։ Էջ 28.— 2.— Ճանապարհական չափեր։ Էջ 57.— Չափք ծաւալի կամ հաստատուն մարմնոց։ Էջ 64.— Կրթութիւններ եւ խնդիրներ։ Էջ 77.— Չափք պարունակութեանց։ Նկատ.— Շատ մը աղիւսակներ պարապ կը մնան, էջ 81-100։ Էջ 102.— Խտութիւն մարմնոց։ Էջ 109.— Չափ արժէից կամ դրամոց։ Էջ 118.— Շինութիւն դրամոց։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "169.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2955-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J2458",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2458",
+  "notice": "2458",
+  "volume": "Jerusalem_V8",
+  "title": "Պ Ա Ր Զ Ա Տ Ո Մ Ա Ր",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2458",
+    "no_notice": "8",
+    "titre": "Պ Ա Ր Զ Ա Տ Ո Մ Ա Ր",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "212",
+    "dimensions": "10 X 7 X 2",
+    "mise_en_page": "խորագիրները, գլխագիրները և գիծերը կարմիր, մնացեալը սև մելանով, միասիւն, 17 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ . լուսանցքի ցեցահարութիւն թեթև",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սևադրոշմ փակագիր . «Քի . Ծռ . Յակոբ Վարդապետ Պալաթցի», էջ 209",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, դատարկ ։ Էջ 2-15 . — Տոմարական աղիւսակներ ։ Էջ 16-17 . — Կարմրագիծ աղիւսակներ առանց գրութեան ։ Էջ 18, դատարկ ։ Էջ 19 . — Թվ . ՌԲ, բանալի առաջի գիրն լիւնն է, և Տանուտէրն ի վերևն Խոյն է, և կարմիր գրած տողերն նահանջ է . . . ։ Էջ 21, դատարկ ։ Էջ 22-25 . — Տոմարական աղիւսակ, թըվակ . ՌՂԴ - ՌՃՂ ։ Էջ 26-44 . — Տոմարական աղիւսակ, Ծընունդ լուսնի ։ Էջ 45 . — Պարզատումար, ընտիր և ըստոյգ աւրինակէ, աճանց և յաւիտենական ։ Էջ 206 . — Ծանիր ով ընթերցող . Հոգոյ Գալստեան կիրակի աւրն Բարեկենդան է Եղիական Պահոցն . . . ։ Էջ 208 . — Թվին ՌՃՀԸ . . . Յայսմ ամի մոլորին յոյնք և առնեն ծռազատիկ . . . ։ Թըվին ՌՄՀԳ նահանջ է . . . ։ Յայսմ ամի մոլորին յոյնք և առնեն ծռազատիկ, ապրիլի Զ։ Պատրաստ կացիք որ չի խաբիք։ Մեզ Հայոց ուղղափառաց ապրիլի ԺԳ Զատիկ է։ էջ 210-211, դատարկ։\nՅետնագոյն յիշատակագրութիւն.— 1738 էջ 212, շեղագիր անհարթ.— Ի թիւին ՌՃՁԷին, Աստուծով Սբ. Յակոբայ լուսարարութեան բանալիքն երևման Սբ. Խաչի հինգշաբթին օրն ետուն Պալաթցի մահտեսի Մելքոնի որդի Յակոբ վարդապետիս։ Տէրն ողորմի և տայ կարողութիւն ամէն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "140.jpg"
+    },
+    {
+      "volume": "Jerusalem_V8",
+      "file": "141.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2458-refine.json",
+    "pipeline_version": "v1"
+  }
+}

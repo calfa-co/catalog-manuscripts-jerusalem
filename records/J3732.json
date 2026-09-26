@@ -1,0 +1,68 @@
+{
+  "id": "J3732",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3732",
+  "notice": "3732",
+  "volume": "Jerusalem_V11",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3732",
+    "no_notice": "ԺԳ",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Նման է նախորդ հատորին. էջք 878։",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Պատմութիւն Եկեղեցւոյն Աստուծոյ։ Հատոր ԺԳ, որ կը պարունակէ Սբ. Յովհան Մանդակունիին վերջին տարիէն մինչեւ Քի. 488 թուէն [ կան ջնջուած տողեր, որով շարադրութիւնը խանգարուած է։ Գիրք ԼԴ։ Սբ. Յովհան Մանդակունիին հայրապետութեան վերջին տարիէն մինչեւ Լիոնի արիոսականաց հետ խօսակցութիւնը։ 488էն 500։ Էջ 204—209 գծուած ջնջուած։ Նոյնպէս 216—217։ Էջ 239.— Գիրք ԼԵ։ Արիոսականաց հետ Լիոն եղած խօսակցութենէն մինչեւ Անաստաս կայսեր մահը։ Քի. 500 թուականէն մինչեւ 518։ Էջ 396.— Գիրք ԼԶ։ Անաստաս կայսեր մեռնելէն մինչեւ [ Այսչափ]։ Էջ 681.— Քննութիւնք ԼԴ գրոց։ Էջ 722.— Քննութիւնք ԼԶ գրոց։ Էջ 861.— Քննութիւն Բ։ Պոետիոսի քրիստոնէութեանը վրայ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "190.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3732-refine.json",
+    "pipeline_version": "v1"
+  }
+}

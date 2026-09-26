@@ -1,0 +1,68 @@
+{
+  "id": "J442",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "442",
+  "notice": "442",
+  "volume": "Jerusalem_V2",
+  "title": "ՔԱՂՈՒԱԾՔ ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "442",
+    "no_notice": "1",
+    "titre": "ՔԱՂՈՒԱԾՔ ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "116",
+    "dimensions": "23 X 16",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 36 տող",
+    "details_ecriture": "մանր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ծանօթ.— Սկիզբի պահպանակին վըրայ կը կարդացուի սա տեղեկութիւնը. «Այս գործ գտաւ ընդ մատեանսն՝ որք եկին ի դժբաղդութեան տան Տիւզեան Տոհմականաց ի Պատրիարքարանն, որ ի նմին օրինակէ գաղափարեաց Պետրոսեան Սերովբէ դպիր։ Եւ որպէս կարծեմք է ի Հ. Մկրտչի Աւգերեան ընդարձակ Ածաբանութենէն՝ որ է անտպագիր ժողովեալ, զորոյ ընդ համառօտութեան համեմատեալ՝ գտաք նոյն՝ մանաւանդ ցանկն Երկրորդ Հատորին։ Եւ ապա ի 1861, սեպտ. 14, նուիրեաց թանգարանին Եէմի. ի յիշատակ անուան եղբօր իւր Պետրոսեան Պօղոս Վզպի.»։ Էջ 1.— Եզբ. Է, խե։ Ածաբանութիւն է նախապատիւ քան զամ. գիտութիւնս գործնականս եւ զտեսականս։ Էջ 7.— Անյայտ գրեանք անընդունելիք։ Էջ 95.— Ցանկ Երկրորդ Հատորոյ.— Ա.— Ածաբանութիւն տեսական, յաղագս միոյն Այ. եւ ստորոգելեաց նորա։ Նախերգանք։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "424.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "442-refine.json",
+    "pipeline_version": "v1"
+  }
+}

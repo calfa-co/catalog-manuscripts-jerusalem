@@ -1,0 +1,68 @@
+{
+  "id": "J647",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "647",
+  "notice": "647",
+  "volume": "Jerusalem_V3",
+  "title": "ԽՈՐՀՐԴԱԾՈՒԹԻՒՆ ՎԱՍՆ ՈՒՂՂԱՓԱՌ ՀԱՒԱՏՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "647",
+    "no_notice": "Յ",
+    "titre": "ԽՈՐՀՐԴԱԾՈՒԹԻՒՆ ՎԱՍՆ ՈՒՂՂԱՓԱՌ ՀԱՒԱՏՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "212",
+    "dimensions": "21.5x16.5x2",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 26 տող։ Նոտր շեղագիր",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ներսեսի եպիսկոպոսի Կիւլիկեցւոց Տարսոնի խորհրդածութիւն վասն ուղղափառ հաւատոյ եկեղեցւոյ, որ ի Սբ. Երրորդութիւնն եւ ի Տնօրէնութիւնն Քրիստոսի.— Հաւատամք իմացականիս գիտութեամբ...։ Էջ 22.— Ի խնդրոյ հայցման երիցագոյն եղբարց քննութիւն կարգաց եկեղեցւոյ...։ Էջ 44.— Դարձեալ վերստին խտրութիւն նորաձեւութեանց...։ Էջ 57.— Քննութիւն օրինակաց, հաստատութիւն հարցն աւանդութեանց...։ Էջ 82.— Որոշումն ինն դասուց աստիճանաց եկեղեցւոյ...։ Էջ 95.— Իմաստասիրութեամբ բացայայտութիւն աստուածային խորհրդոյ պատարագին...։ Էջ 113.— Բնախօսութեամբ քննութիւն, Յաղագս զօրութեան աղօթից...։ Էջ 198.— Բաղդատութիւն առ միմեանս Սահմանադրութեանց Եկեղեցւոյ Քրիստոնէից, Հոռոմոց, Ֆռանկաց, Հայոց...։ Էջ 212, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "086.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "647-refine.json",
+    "pipeline_version": "v1"
+  }
+}

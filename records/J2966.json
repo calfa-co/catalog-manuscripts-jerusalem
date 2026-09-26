@@ -1,0 +1,68 @@
+{
+  "id": "J2966",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2966",
+  "notice": "2966",
+  "volume": "Jerusalem_V9",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (Զ. ՀԱՏՈՐ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2966",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (Զ. ՀԱՏՈՐ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "188",
+    "dimensions": "23X17X1",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 27 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ, առաջին երեսին կը կարդացուի. «Քարոզատետր ի Տիմոթէոսէս արարեալ ի սկիզբն վարդապետութեանս, Հատոր 6»",
+    "etat_conservation": "լաւ",
+    "copiste": "Հեղինակը",
+    "possesseur": "Հեղինակը",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը երկու թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Քարոզ 1.— Մարմնաւոր շահու վնասն զհոգեւորն կ'արտաքսէ։ Էջ 31.— Քարոզ 10.— Հաճոյարար ընթացք Քրիստոնէական։ Էջ 68.— Քարոզ 20.— Կենաց չարչարանքներն, փառաց պսակիչ է։ Էջ 91.— Քարոզ 26.— Աստուածային Քարոզութեան օգուտն։ Էջ 96–184, դատարկ։ Էջ 185.— Ցանկ. 1–26 Գլուխներ։ Էջ 187–188, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "177.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2966-refine.json",
+    "pipeline_version": "v1"
+  }
+}

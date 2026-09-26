@@ -1,0 +1,68 @@
+{
+  "id": "J1668",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1668",
+  "notice": "1668",
+  "volume": "Jerusalem_V5",
+  "title": "ՅԱՂԱԳՍ ԳԼԽԱՒՈՐՈՒԹԵԱՆ ՊԵՏՐՈՍԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1668",
+    "no_notice": "1",
+    "titre": "ՅԱՂԱԳՍ ԳԼԽԱՒՈՐՈՒԹԵԱՆ ՊԵՏՐՈՍԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԶ+236",
+    "dimensions": "14X9X2",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով գրեթէ, միասիւն, 15, 16 տող",
+    "details_ecriture": "անհարթ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ անարուեստ",
+    "etat_conservation": "անբաւարար. վնասուած ցեցերէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա.— Հայր մեր որ յերկինս ես...։ Էջ Բ-ԺԵ, դատարկ։ Էջ ԺԶ.— Նկար սեւատիպ. Յեսսէի ծառը։\nԷջ 1.— Ճակատ.— Վկայ հաւատարիմ գլխաւորութեան յաջորդացն Պետրոսի պետին առաքելոց։ Շարագրեցեալ ի հայր Մօնֆօրթէ Անտիօլիթանէ Յիսուսեան կարգէ ի փառս մանկացելոյն Յիսուսի, եւ ի լուսաւորութիւն արեթեան ցեղին, եւ թարգմանեցեալ յումեմնէ դերիմաստ թարգմանչէ պատրի Բարդուղիմէոսէ ի կարգէն քարոզողաց։ Ի թըւին Հայոց ՌՃՂԶին, Հռ. 1747։ Ի Կոստանդինուպօլիս քաղաքի։ Էջ 2.— Նկար սեւատիպ։ S. Petrus : Սբ Պետրոս։ Էջ 3.— Խնդիրք.— Ո՞ւստի այտ է լինիլ վեհապետին Հռօմայ ընդհանրական գլուխ բոլոր քրիստոնէական եկեղեցոյ...։ Էջ 39.— Ձեռնարկութիւն, որով ցուցանի, թէ կառաւարութիւնն եկեղեցւոյ է ինքնակալ, է այս։ Էջ 112.— Այժմ մնայ տեսանել, թէ միթէ առաքեալք ճանաչեցին գլուխ իւրեանց զՍուրբն Պետրոս։ Էջ 211.— Այլ եկեսցուք առ վկայութիւնս հարց այնոցիկ, զորս ընդունի բոլոր եկեղեցին Աստուծոյ...։ Էջ 236.— Վերջ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "540.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1668-refine.json",
+    "pipeline_version": "v1"
+  }
+}

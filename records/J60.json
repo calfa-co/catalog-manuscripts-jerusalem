@@ -1,0 +1,68 @@
+{
+  "id": "J60",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "60",
+  "notice": "60",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԵԶԵԿԻԷԼԻ",
+  "date": {
+    "from": "1792",
+    "to": "1792",
+    "display": null
+  },
+  "fields": {
+    "numero": "60",
+    "no_notice": "2",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԵԶԵԿԻԷԼԻ",
+    "date_debut": "1792",
+    "date_fin": "1792",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "33 x 23 x 4։ Էջ ԺԶ + 607. 415 կրկնուած է",
+    "mise_en_page": "սեւ մելանով, երկսիւն, 35 տող։ Նոտր շեղագիր։ Համառօտագրու– թիւնք առատ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "էջ Ա–ԺԶ, և 528–607 կապոյտ, մնացեալը սպի– տակ",
+    "nb_lignes": null,
+    "reliure": "կարմրակաշի ոսկե– դրուագ, տախտակեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Բ, դատարկ։ Էջ Գ 1.— Ցանկ յատկեղ նշանաւոր բանից՝ մանրամասնաբար ներ ամենա– յարգի մատենիս պարունակելոց՝ ըստ կարգի այբուբենից հաւաքեալ աշխատասի– րութեամբ՝ յամենանուաստ և յետին միա– բանէ Սրբոյն Սաղեմայ՝ Յակոբայ աբեղայէ Անդրիանուպօլսեցւոյ, յամի Տեառն 1797, ի մայիսի 20։ Էջ ԺԲ2–ԺԶ, դատարկ, Էջ 1ա.— Մեկնութիւն Եզեկիէլ Մար– գարէին։ Մեկնեալ ի Կուռնելիոսէ Ալափի– տայէ լայնածաւալ սրբազան տառից մեկ– նիչէ։ Թարգմանեալ ի լատինականէ ի Հայոց բարբառ ի Ղուկաս թարգմանչէ Խարբերթացւոյ։ Օրինակեալ կրկին ի թուին Հայոց ՌՄԽԱ [= 1792]ին։ Յառաջաբանութիւն.— Եղեն ոմանք ի հնագունից, որք վարկեցին, թէ Եզեկիէլ էր Պիթագորաս...։ Էջ 13ա.— Գլուխ Առաջին։ Շար Գըլ– խոց.— Եզեկիէլ տեսանէ զփառաւոր կառսն, և զԱծ. ի նմա բազմեալ...։ Էջ 586բ.— Գլուխ Քառասուն և ութն։ Շար. Գլխոց.— Զկնի առաջրութեան և բա– ժանման սրբոյ երկրին առ չորս կողմունս աշխարհի...։ Էջ 597բ.— Գովաբանութիւնք յաղ– թութեան Այ. բարեգութի և մեծագութի, քրովբէական կառիւ՝ զամբարիշտս յաղթա– հարողի, և զնոցունց յաղթանակողի, ի պատգամացն Եզեկիէլի։ Էջ 602բ–607, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "210.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "60-refine.json",
+    "pipeline_version": "v1"
+  }
+}

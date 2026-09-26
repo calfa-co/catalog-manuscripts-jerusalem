@@ -1,0 +1,68 @@
+{
+  "id": "J1632",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1632",
+  "notice": "1632",
+  "volume": "Jerusalem_V5",
+  "title": "Շ Ա Ր Ա Կ Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1632",
+    "no_notice": "46",
+    "titre": "Շ Ա Ր Ա Կ Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "726",
+    "dimensions": "13 x 9.5 x 5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 20 տող",
+    "details_ecriture": "եւ խաղագրութիւն սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բամպակեայ։ Գըրիչ՝ Նիկողայոս Սեւերակցի",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ հնամաշ",
+    "etat_conservation": "ողբալի . վերի մասը որդնակեր, վարի մասը մկնակեր",
+    "copiste": null,
+    "possesseur": "Գըրչի որդին՝ տէր Աւետիս",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": "սկիզբը եւ վերջը երկուական թերթ, երկաթագիր, փճացած եղծուած",
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր եւ լուսանցազարդ Կանոններու սկիզբը . երբեմն լոկ ուրուագիծ սեւ մելանով ; ԽՈՐԱՆԱԶԱՐԴ: իւր սարօք, էջ 1, 261",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1 . — Երգեցէք որդիք Սիոնի երգ նոր . . . ։ էջ 261 . — Այսաւր յարեաւ ի մեռելոց . . . ։ էջ 453 . — Երգ Վերափոխմանն Աստուածամաւրն . — Արեւելք գերարփին . . . ։ էջ 680 . — Աւրհնութիւններ Տեառն մերոյ Յի . Քի . ։ — Երգեսցուք երգ նոր . . . ։ էջ 722–726 . — Զանազան մանրուք, գրչափորձ, եւայլն։\nՄանր յիշատակագրութիւնք Գրչի . — 1 . — էջ 260, ստորոտը . — Զիս յանպիտան գրչակս յիշեա ի Տէր։ 2 . — էջ 363, ստորոտը . — Զանարժան Նիկողայոս յիշեա ի Տէր։ 3 . — էջ 679, ստորոտը, վնասուած . — Ես Նիկողայոս Սեւերակցի զայս Շարակնոցըս գրեցի որդւոյս իմ տէր Աւետիսին . . . զկաթուն . . . առիթ եղեւ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "463.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1632-refine.json",
+    "pipeline_version": "v1"
+  }
+}

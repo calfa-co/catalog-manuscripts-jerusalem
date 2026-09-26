@@ -1,0 +1,72 @@
+{
+  "id": "J193",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "193",
+  "notice": "193",
+  "volume": "Jerusalem_V1",
+  "title": "Ա. — ՍԷՐ ԱՍՏՈՒԾՈՅ",
+  "date": {
+    "from": "1781",
+    "to": "1781",
+    "display": null
+  },
+  "fields": {
+    "numero": "193",
+    "no_notice": "4",
+    "titre": "Ա. — ՍԷՐ ԱՍՏՈՒԾՈՅ",
+    "date_debut": "1781",
+    "date_fin": "1781",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԻԸ + 655, Հանգամանք լաւ",
+    "dimensions": "30 x 21 x 5",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 45 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "ոչ միատեսակ",
+    "nb_lignes": null,
+    "reliure": "փայտեայ",
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": "Վանցի Սիմէոն Վարդապետ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ բ. — Ցանկ նիւթերու, այբուբենական կարգով. — Ագահութիւն...։ Էջ ժգ. — Գիրք որ կոչի Սէր Աստուծոյ. — Նիւթերու ցանկն է։\nԱ. — ՍԷՐ ԱՍՏՈՒԾՈՅ Էջ 1. — Գիրք որ կոչի Սէր Աստուծոյ։\nՅաղագս մեծի սիրոյն, զոր Տէր Աստուած մեր ունեցաւ դէպ առ մարդն։ էջ 94 եւ յաջորդ թերթը դատարկ։\nԲ.— ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ էջ 95.— Գիրք որ կոչի Մոխրոց։ էջ 223.— Գիրք որ կոչի Բանք Ոսկիակտանք, Սրբոց Հատոր։ էջ 359.— Գիրք որ կոչի Բանք Ոսկիակտանք, Կիրակէից Հատոր։\nՅիշատակագրութիւնք.— էջ 1ա.— Վարի լուսանցքին վրայ, բնագրէն տարբեր նոտր գրով.— «Թուին ՌՄԼԻն ի վայելումն Վանցի Սիմէօն Վարդապետի»։ էջ 1բ.— Դարձեալ վարի լուսանցքին վրայ ուրիշ գրչով.— «Յիշատակ Սրբոց Յակոբեանց Առաքելական Աթոռոյն Սբ. Երուսաղէմի»։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "580.jpg"
+    },
+    {
+      "volume": "Jerusalem_V1",
+      "file": "581.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "193-refine.json",
+    "pipeline_version": "v1"
+  }
+}

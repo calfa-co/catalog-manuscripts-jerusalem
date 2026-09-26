@@ -1,0 +1,68 @@
+{
+  "id": "J595",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "595",
+  "notice": "595",
+  "volume": "Jerusalem_V2",
+  "title": "ՍԷՐ ԱՍՏՈՒԾՈՅ",
+  "date": {
+    "from": "1789",
+    "to": "1789",
+    "display": null
+  },
+  "fields": {
+    "numero": "595",
+    "no_notice": "10",
+    "titre": "ՍԷՐ ԱՍՏՈՒԾՈՅ",
+    "date_debut": "1789",
+    "date_fin": "1789",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "980",
+    "dimensions": "22 X 16 X 6.5",
+    "mise_en_page": "խորագիրները եւ սկզբնաւորութիւնները կարմիր, մնայեալը սեւ մելանով, երկսիւն, 29 տող։ Նոտր շեղագիր վարժ",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Յակոբ Դպիր Թալասցի",
+    "possesseur": "Սարգիս Վրդ. Թալասցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը երեք թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր իւրաքանչիւր քարոզի սկիզբը ; ԳՈՒՆԱՒՈՐ: խորանազարդ, էջ 1",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Օգնեա Տէր Յս. եւ հասոյ զսկսեալս աւարտ։ Սէրն Այ. դէպ առ մարդըն։ Յաղագս մեծի սիրոյն զոր Տէր Ած. մեր միշտ ունեցաւ դէպ առ մարդն։ Գլուխ Առաջին։ Ամենակարողն Ած. ի յաւիտենից սահմանեալ առ ի ստեղծել զմարդն...։ Էջ 967.— Ցուցակ եւ ցանկ գրքոյս գլխոցն ի միոջէ միոջէ նշանակեալ։ Էջ 973–980, դատարկ։\nՅիշատակարան Գրչի.— 1789 Էջ 945բ.— Շնորհիւ Տն. եւ յօժանդակութեամբ նախավկային իւրոյ Սրբոյն Ստեփաննոսի յանկ ելեալ աւարտեցաւ հոգելից գրկուկս որ կոչի Սէր Աստուծոյ, ձեռամբ Կեսարիու գիւղէն Թալասցի հանգուցեալ Պարօն Պահատուրի որդի Տիրացու Մահտեսի Յակոբիս եղե ի վայելումն Թալասցի Սարգիս մեղրածորան վարդապետին, որոյ Տէր Յս. բարեաւ վայելել տացէ։ Եւ արդ, ով ազնիւ եղբարք իմ, մինչ ընթեռնուք զգրքուկս զայս, եւ թէ սղալ ինչ գտանիցէք ի ներ սմին դներելն հայցեմ տհասութեանս, զի եղեալ է կամ ի վրիպմամբ աչացս, եւ կամ անկիրթ (զորոյս արհեստին զերակիրթ) զոլոյս արհեստին զերականութեան։ Եւ վերջապէս խընդրեմ զլուսաւորչածին երամոցդ զի յիշմամբ արժանի առնիցէք առ Տէր հանգուցեալ ղՊահատուր հայրն իմ եւ զմեղսակիր Յակոբ Դպիր միով Հայր մերիւ, եւ դուք յիշեալ լիջիք առաջի ահեղ ատենին Քսի. Այ. մերոյ ամէն։ Որ ի ՌՄԼԸ ամի ի գիւղաքաղաքն Թալաս որ ի Կեսարիայ, ընդ հովանեաւ։ Հայր մեր որ յերկինս։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "653.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "595-refine.json",
+    "pipeline_version": "v1"
+  }
+}

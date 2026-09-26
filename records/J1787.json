@@ -1,0 +1,68 @@
+{
+  "id": "J1787",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1787",
+  "notice": "1787",
+  "volume": "Jerusalem_V6",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԾՆՆԴՈՑ ԵՒ ԵԼԻՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1787",
+    "no_notice": "7",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԾՆՆԴՈՑ ԵՒ ԵԼԻՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "34+642",
+    "dimensions": "38x25x6",
+    "mise_en_page": "բնաբանները եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 53 տող։ Նոտր շեղագիր",
+    "details_ecriture": "չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ փայլուն",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ. ցեցահարութիւն չնչին",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Թէոդորոս Խորենացի Պտր. Երուսաղէմի (1756)",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա. — Առաջաբանութիւն եւ Գովասանութիւն Սբ. Գրոց։ Էջ 34—1ի միջեւ Աղիւսակ. — Ժամանակագրութիւնք Աշխարհի, յԱդամայ մինչեւ ի Քրիստոս։ Էջ 1ա. — Մեկնութիւն Ծննդոց։ Գլուխ Առաջին։ Էջ 349. — Յառաջաբանութիւն Ելից։ Էջ 351ա. — Գլուխ Առաջներորդ։ Էջ 642ա, ստորոտը. — Վերջ եւ աւարտ Մեկնութեան Ելից Գրքոյն, որ է երկրորդ դիրք Մովսիսի, զկնի որոյ հետեւի Գիրքն Ղեւտացւոց, որ է երրորդն Մովսիսի։ Էջ 642բ, դատարկ։\nՅիշատակագրութիւն. — 1756 Էջ 0, նոտրագիր. — Յիշատակ է հինգ դրոց Մօսէսի Մարգարէի գիրքս Մեկնութեան ի Կուռնելիոս լատինական վարդապետէ. յերկրէն Տարօնոյ Խորենացի տեառն Թէոդորոսի պատրիարգի Սրբոյ Աթոռոյս Երուսաղէմի ընծայեալ ի Գրքատունն Սրբոց Յակոբեանցս. եւ չունի ոք իշխանութիւն հանելոյ արտաքս ի Սրբոյ Աթոռոյս։ Վայելողք Ած. ողորմի ասացէք. ի ՌՄԵ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "153.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1787-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J1793",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1793",
+  "notice": "1793",
+  "volume": "Jerusalem_V6",
+  "title": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1793",
+    "no_notice": "27",
+    "titre": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "230 + 280",
+    "dimensions": "33x22x4.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 49 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, շեղագիր. «Ի Սուրբ Երրորդութիւնն»։ Որպէս ոչ է հետաքրքրութեամբ հետազօտելի, այլ հաւատալի հաւատով...։ Էջ 3ա.— Յաղագս Ամենասուրբ Երրորդութեանն, բան 2։ Նախ ծանուցանէ թէ զինչ հաւատալի է զԱստուծոյ։ 2 ինչ խնդրելի է ի նմանէ։ 3 որպէս ծառայելի է նմա. — Օրհնեսցէ զմեզ Ած. Ած. մեր...։ Էջ 222բ.— Յաղագս նոյնոյ բան 3։ Սակս ո՞յր պատճառի հռչակի պատարագն Գ լեզուաւ.— Ի ձայն նոցա առնէ զքաղցր եղանակս...։ Էջ 225–230, դատարկ։\nԷջ 1ա.— Յաղագս Սրբոյն Անդրէի Առաքելոյն Ճառ Առաջին։ Թէ որպէս գնաց զհետ շաւղացն Քի. եւ զճանապարհս նորա պահեաց, եւ ոչ երբէք կորոյս.— Զհետ շաւղաց նորա ընթացան ոտք իմ...։ Էջ 259ա.— Ճառ է։ Յաղագս առաքման պահպանութեան եւ յայտնութեան Հոգւոյն Սրբոյ.— Եթէ ոք սիրէ զիս, զբանն իմ պահեսցէ...։ Էջ 260բ, ստորոտը.— Վերջ Առաջին Հատորին։ Էջ 261, դատարկ։ Էջ 262ա.— Ցանկ Գլխոց Բանք Ոսկիական Գրքոյս։ Էջ 267բ, դատարկ։ Էջ 268ա.— Ցանկ Բանք Ոսկիական Գըրքոյս ըստ մտաւոր բանից։ Էջ 277բ – 280, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "158.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1793-refine.json",
+    "pipeline_version": "v1"
+  }
+}

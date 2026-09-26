@@ -1,0 +1,68 @@
+{
+  "id": "J3128",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3128",
+  "notice": "3128",
+  "volume": "Jerusalem_V9",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (ՄԱՍՆԱԿԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3128",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (ՄԱՍՆԱԿԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "56",
+    "dimensions": "28X20",
+    "mise_en_page": "սրճագոյն թանաքով, միասիւն, 31 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "թղթեայ",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Երկրորդ Կիւրակէ զկնի Ծննդեան. Քարոզ ԿԸ, երես ՅԺԹ։— Հաւատք գործով փայլեալ։ 1.— Ամենարարի արարիչն Աստուած...։ Էջ 5.— Բարեկենդան Առաջաւորաց։ Մեծութիւն աշխարհի սնոտի։ Էջ 11.— Մետասաներորդ Կիւրակէ Խաչվերացի։ Աղօթքն է զէն հաւատացելոց։ Էջ 15.— Երկրորդ Կիւրակէ զկնի Ծննդեան.— Սէր Աստուծոյ առ մարդ։ Էջ 19.— Երկրորդ Կիւրակէ Խաչվերացի։ Խոնարհութիւն։ Էջ 24.— Իններորդ Կիւրակէ Խաչվերացի։ Զկոծել զննջեցեալս։ Էջ 29.— Երրորդ Կիւրակէ Առաջաւորաց։ Շնորհք աստուածային։ Էջ 34.— Հինգերորդ Կիւրակէ Մեծի Պահոց։ Աղօթք։ Էջ 42.— Հատոր Ա։ Երես 129։ Քարոզ Լ։ Տօն Սրբոյն Գէորգեայ։ Էջ 47.— Ութերորդ Կիւրակէ Խաչվերացի։ Օգուտ լսելոյ եւ առնելոյ զբանն Աստուծոյ։ Էջ 53, վարը.— Ցանկ, 1–10 Գլուխներ։ Էջ 54.— Մահ մեղաւորին չար է...։ Էջ 56, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "365.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3128-refine.json",
+    "pipeline_version": "v1"
+  }
+}

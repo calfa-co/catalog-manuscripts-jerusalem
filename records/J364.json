@@ -1,0 +1,72 @@
+{
+  "id": "J364",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "364",
+  "notice": "364",
+  "volume": "Jerusalem_V2",
+  "title": "Ք Ա Ր Ո Զ Ա Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "364",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Ա Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "210",
+    "dimensions": "25 X 17 X 1",
+    "mise_en_page": "խորագիրները եւ բնաբանները յաճախ կարմիր, մնացեալը սեւ մելանով, երկսիւն, 35 տող",
+    "details_ecriture": "մէկէ աւելի գրիչներէ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Բարդուղիմէոսի Քարոզ.— Թագաւոր ոմն ունէր ակն մի ոյժ պատուական...։ Էջ 8.— Քարոզ Ծննդեանն ի բանն որ ասէ. Բանն մարմին եղեւ.— Ասեն իմաստունքն...։ Էջ 26.— Քարոզ Սբ. Ած-ածնին. Եղեւ նա իբրեւ զնաւ շահաբեր որ ի հեռաստանէ ժողովէ զմեծութիւն.— Ասեն իմաստունքն...։ Էջ 59.— Քարոզ վասն լեզուի, որ ասէ Սողոմոն. Մահ եւ կեանք ի ձեռն լեզուի.— Որպէս յօժարի մարդ...։ Ծանօթ.— Էջ 115էն անդին այլեւայլ մելաններով գրուած, զանազան հատուածներ, հարցումներ, եւայլն։ Էջ 177.— Բարդուղիմէոսի Քարոզ ի բանն Սողոմոնի որ ասէ. Իմաստութիւն շինեաց իւր տուն...։ Էջ 185.— Քարոզ Տիրատուրի ասացեալ Ծաղկազարդի ի բանն Մատթէոսի 21\nԳլխ. Ա.։ Իբրեւ մօտ եղեն յԵմ. ...։ — Յորժամ պատմեաց Աւետարանիչն...։ էջ 197. — Դարձեալ Ծաղկազարդի Քարոզ Տիրատրոյ։ — Ուրախ լեր յոյժ դուստր Սիոնի ...։ — Պայծառ եւ հրաշալի է մեզ տօնս այս, ո՛վ եղբարք...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "286.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "287.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "364-refine.json",
+    "pipeline_version": "v1"
+  }
+}

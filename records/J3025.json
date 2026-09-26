@@ -1,0 +1,68 @@
+{
+  "id": "J3025",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3025",
+  "notice": "3025",
+  "volume": "Jerusalem_V9",
+  "title": "ԵԿԵՂԵՑԱԿԱՆ ՊԱՏՄՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3025",
+    "no_notice": null,
+    "titre": "ԵԿԵՂԵՑԱԿԱՆ ՊԱՏՄՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "72",
+    "dimensions": "24 X 17 X 1.5",
+    "mise_en_page": "մանիշակագոյն եւ սեւորակ մելաններով, միասիւն, 27–29 տող",
+    "details_ecriture": "վարժ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ (շատ թանձըր)",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը մէկ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Հայ Եկեղեցւոյ անցեալը ուսումնասիրելու համար հարկ անհրաժեշտ է գիտնալ արտաքին եկեղեցեաց պատմութիւնն, մանաւանդ Ա, Բ, Գ, դարուց մէջ եկեղեցւոյ կազմակերպուիլը գիտնալ, ասոնց մասն է Հայ Եկեղեցին...։ Էջ 14–15ի միջեւ թերթեր կտրուած։ Էջ 18.— Նիկիոյ Տիեզերական Ս. Ժողովոյ Պատմութիւն։ Էջ 24.— Ի Կանոնք Նիկիոյ Ս. Հայրապետաց.— Ա.— Եթէ մէկը իւր անդամներէն մին կորսընցընէ...։ Էջ 29.— Ստորագրութիւնք Ս. Հայրապետաց 318ից որք ի Նիկիա։ Էջ 35.— Կ. Պոլսոյ Տիեզերական Ս, Ժողովոյ Պատմութիւն։ Էջ 42.— Հանգանակ Հաւատոյ։ Էջ 43.— Ստորագրութիւնք Ս. Հայրապետաց 150ից որք ի Կ. Պոլիս։ Էջ 45.— Եփեսոսի Տիեզերական Ս. Ժողովոյ Պատմութիւն։ Էջ 52.— Ստորագրութիւնք Եփեսոսի Տիեզերական Ս. Ժողովոյ եկեղեցական Ս. Հարց 200ից որք յԵփեսոս։ Էջ 55–72, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "235.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3025-refine.json",
+    "pipeline_version": "v1"
+  }
+}

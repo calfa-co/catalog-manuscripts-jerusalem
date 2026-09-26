@@ -1,0 +1,68 @@
+{
+  "id": "J2777",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2777",
+  "notice": "2777",
+  "volume": "Jerusalem_V8",
+  "title": "Լ ՈՒ Ս Ա Ն Կ Ա Ր Չ ՈՒ Թ Ի Ւ Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2777",
+    "no_notice": "1",
+    "titre": "Լ ՈՒ Ս Ա Ն Կ Ա Ր Չ ՈՒ Թ Ի Ւ Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "436",
+    "dimensions": "20 X 13 X 3",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 19 տող կամ նուազ",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սակաւ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4, դատարկ։ Էջ 5.— Մասն Բ։ Լուսանկարութիւն։ Հատուած Առաջին։ Ընդհանուր նախագիտելիք.— Լուսանկարութիւնը կը ներկայացնէ այն գործողութեանց բովանդակութիւնը՝ որոց նպատակն է լուսոյ ազդեցութեամբ մընայուն տեւական պատկերներ ձեռք բերել։ Էջ 21.— (Այս երեք յօդուածէ բաղկացեալ գլուխը քանի մը բնագիտաց և տարրաբաններու ենթադրութիւնները կամ կարծիքներն և նոցա վերաբերեալ բացատրութիւններն են) .— Լուսոյ վերայ։ Էջ 27.— Լուսանկարութեան մի քանի տեսակներուն մէջէն նախ քօլօտիօնի վերայ պիտի խօսիմք...։ Էջ 53.— Պ. Պէյարի Բաղադրութեան կերպն։ Էջ 79.— Պատկերը երևան հանող բացորոշիչներու պանեօին պատրաստութիւնը։ Էջ 88.— Հաստատիչներու պանեօ։ Էջ 110.— Թանէնի Մեթոտ (211)։ Էջ 124.— Գլուխ Գ։ Փոխադրելի Քօլօտիօն։ Էջ 133.— Բօզէթիֆ պատկերներ (299) . — Բօզէթիֆներու համար երկու կերպ կայ ...։ Էջ 147.— Նորոգութիւն եղծեալ պատկերաց (356)։ Էջ 149.— Սթէրէօսքօբ (365).— Այս գործիքը լուսանկարչական պատկերներն շատ գեղեցիկ բարձրաքանդակով կը ցցնէ։ Էջ 161.— Պատկերներն մեծցնել (379)։ . . . (Տես միևնոյն նիւթին վրայ Մօնքօվանի 1873 թուին տպուած լուսանկարչական գրքին մէջ)։ Էջ 197.— Պատրաստութիւն Քօթոն— Բուտրին։ Էջ 199.— Կօտէնի Մեթոտ։ Էջ 201.— Պ. Մաքսուէլ Լէտի ռէչէթան։ Էջ 204-436, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "417.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2777-refine.json",
+    "pipeline_version": "v1"
+  }
+}

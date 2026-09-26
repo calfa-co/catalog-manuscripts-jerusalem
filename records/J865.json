@@ -1,0 +1,68 @@
+{
+  "id": "J865",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "865",
+  "notice": "865",
+  "volume": "Jerusalem_V3",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "865",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "288",
+    "dimensions": "21x15x2",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասին, 25 տող։ Նոտր շեղագիր",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Աստուածատուր երէց",
+    "possesseur": "Իպրահիմ Չալապի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Ցանկ Գրոյս այս է.— Ա-ԻԶ։ Ա.— Էջ 3ա.— [Քարոզ ի բան Սողոմոնի որ ասէ. Զի որք սրբութեամբ պահեն զսրբութիւն սրբեսցին].— Ամենայն գիրք աստուածային զԱծ. արդար դատաւոր քարոզեն... որոց փրկեսցէ Քս. զամ. հաւատացեալս անուան իւրոյ, եւս առաւել զանարժան մեղապարտ զԱստուածատուր երէցնս զծնողս գիրս իւր, ամէն։ Գ.— Էջ 44.— Յեսու որդոյ Նաւեայ էր ազգէն Եփրեմի որդոյն Յովսեփայ, եւ աշակերտ էր Մովսէսի, եւ իբրեւ զսարկաւագ պահէր զդուռն խորանին վկայութեան զամս Խ յանապատին...։ Որ ողորմի ըստացողի գրոյս Իպրահիմ չալապուն եւ իւր ծնողացն ամենեցուն, եւ մեզ անարժան եւ անպիտան Աստուածատուր երէցս յիշեցէք, ամէն։ Ծանօթ.— Նման յիշատակագրութիւն մը կը գտնուի նաեւ էջ 272։ ԺԹ.— Էջ 196.— Խրատ ետուն նախնի ծնողքն, Ադամ եւ Եւայ զաւակաց իւրեանց. մեք մեղանչելով ելաք ի դրախտէն, դուք անմեղ կացէք...։ Է.— Էջ 254.— Քարոզ ի բան եւ պատմութիւն ի բանն Եսայի մարգարէին որ ասէ. Եւ ի չորեքտասան ամի թագաւորութեանն Եզեկիայ եւ Սենեքերիմ արքայ (յ)Ասորեստանի ի վերայ ամուր քաղաքացն։ Լ.— Էջ 272.— Քարոզ վասն երից մանկանցն...։— Ի վերջն. Որ իջեր ի մէջ հնոցին եւ փրկեցեր զերիս մանկունս, նոյն ողորմութեամբ փրկեայ Յօհաննէս ծառայն ի մեղաց եւ ամ. չար փորձանաց եւ արժանի արայ անմահական կենացն եւ յերկնից արքայութեանն զինքն եւ զծնողքն իւր, եւ զիս զանարժան զըծողս զԱստուածատուր երէցս յիշեցէք եւ Ած. զձեզ յիշէ ամէն (էջ 285)։ Էջ 285, տարբեր գրով.— Յիշատակ եղաւ ի Սբ. Փրկիչ ի Մկրտիչ Վարդապետէ [Արծրունի], 1838, յունվար 13։ Էջ 286-288, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "383.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "865-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2806Բ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2806Բ",
+  "notice": "2806Բ",
+  "volume": "Jerusalem_V9",
+  "title": "Օ Ր Ա Գ Ր Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1856",
+    "to": "1856",
+    "display": null
+  },
+  "fields": {
+    "numero": "2806Բ",
+    "no_notice": null,
+    "titre": "Օ Ր Ա Գ Ր Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": "1856",
+    "date_fin": "1856",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "64",
+    "dimensions": "20X15",
+    "mise_en_page": "սեւ մելանով, շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "թղթեայ, վերջինը ինկած",
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ի 1856, յունվար 6։ Էջ 2.— Ապրիլ 13, ուր.— Կտակ խօսեցայ Տէրամբ իբրեւ 3 ժամ։ Էջ 11.— Ի 1856, հոկտեմբեր 5. Վեհափառ սրբազան պատրիարգ Հայրն մեր, հանդերձ խորհրդական սուրբ հարքք, կոչեալ զնուաստըս, բազում հարկադրանօք ստիպեցին Սըրբոյ Տանս թարգմանութեան պաշտօնն կատարել...։ Էջ 24.— Հոկտեմբեր 29, Բշ.։ ...Զամլը Թաղի տանիսն պալատել սկսեցաք։ Էջ 62.— Դեկտեմբեր 31։ Էջ 63.— Ի 1856 թուոյն ժամարարութեանս ցուցակն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "028.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2806Բ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

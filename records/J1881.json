@@ -1,0 +1,68 @@
+{
+  "id": "J1881",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1881",
+  "notice": "1881",
+  "volume": "Jerusalem_V6",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԾՌԱԶԱՏԿԱՑ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1881",
+    "no_notice": null,
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԾՌԱԶԱՏԿԱՑ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ+5-88",
+    "dimensions": "18x11x1",
+    "mise_en_page": "սկզբնատողերը եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 17 տող, երբեմն մէկ տող աւելի կամ պակաս, իջաթիւերը եւ այլ թուանշանները արաբական",
+    "details_ecriture": "խոշոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, էջ 45-56 կապտորակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ, բայց սկիզբը եւ վերջը թերի",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա, դատարկ։ Էջ Բ, շեղագիր.— Յայսպիսի աւուրս շփոթութեանն. . .։— Յաջորդ Գ-Զ էջերու անհարթ գրութեան մաքուր ընդօրինակութիւնն է։ Էջ Գ, շեղագիր անհարթ.— Յունաց Սբ. Յակոբ առնել եւ կըրկին տալն.— Յայսպիսի աւուրս շփոթութեանն...։ Էջ 5.— ...եւ էգիտ 2 թակոյք պղնձի, որ եւ էին ոսկի եւ արծաթ. . .։ Եւ գրեցաւ վասն այսր հրովարտակ արքունի, եւ այս եղեւ յաւուրս Խաչվերացին, թւին Հայոց ի 1108 [= 1659]ին. առեալ յայնժամ Եղիազար զհրովարտակն գնաց յԵրուսաղէմ, եւ գրաւեաց անդրէն զՍուրբն Յակոբ ի ձեռաց յունաց եւ նըստաւ (էջ 44)։ Էջ 45.— Ի ժամանակս Պարոնտէրին որ եղեւ 1083 [= 1634]ին ծռազատիկն Յունաց. — Յայսմ ժամանակիս էր պատրիարդ Սրբոյ Աթոռոյս Մօկացի եւ Պարոնտէր կոչեցեալն Գրիգոր Հայրապետ եւ էր թիւն 1083 պատահեցաւ Ծռազատիկն յունաց...։ Էջ 56-61ի միջեւ կը պակսի երկու թերթ։ Էջ 61.— Ի ժամանակս Շիթաեակլիրին 1178 [= 1729]ին որ եղեւ Ծռազատիկն յունաց.— Յայսմ ժամանակիս էր պատրիարք Սրբոյ Աթոռոյս Բաղիշեցի որ եւ Շխթաեակիր կոչեցեալն Գրիգոր Հայրապետ ի 1178 թւին...։ ...մեծաձայն ցնծութեամբ շնորհակալ լինելով Սրբոյն Յակոբայ տէր [էջ 88, այսչափ, շարունակութիւնը կորսուած]։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "308.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1881-refine.json",
+    "pipeline_version": "v1"
+  }
+}

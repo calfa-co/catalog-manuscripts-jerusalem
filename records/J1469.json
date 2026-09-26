@@ -1,0 +1,68 @@
+{
+  "id": "J1469",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1469",
+  "notice": "1469",
+  "volume": "Jerusalem_V5",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԵՐԳՈՑ ԵՐԳՈՅՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1469",
+    "no_notice": "12",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԵՐԳՈՑ ԵՐԳՈՅՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": "1736 ՆԿԱՐԱԳՐՈՒԹԻՒՆ. — Ծաւալ 15.5x10.5x1.5",
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ+112",
+    "dimensions": null,
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 23 տող։ Նոտր շեղագիր",
+    "details_ecriture": "չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ. լուսանցքները մի քիչ ցեցակեր",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք վերջը չորս թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Զ, դատարկ, բացի մէկ փոքր յիշատակագրութենէ։ Էջ 1. — Մեկնութիւն Երգոց Երգոյն Սողոմոնի արքայի Իսրայէլի, զոր ասացեալ է տեառն Գրիգորի ներանձնաւոր քահանայի եւ հոգեշնորհ վարդապետի...։ Էջ 112. — Գրեցաւ 1736։ Յետնագոյն յիշատակագրութիւն. — 1802 Էջ Զ, տարբեր գրչով. — Զստացող գրոյս Աւետիս Արքեպիսկոպոսն, որ եւ սա եդաւ յիշատակ ի գրքատունն յԵրուսաղէմ Սրբոց Յակոբեանց, վասն հոգւոյ սորին, ապա յիշեսջիք ի վայելելն. ՌՄԾԱ, նոյեմ. Դին։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "204.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1469-refine.json",
+    "pipeline_version": "v1"
+  }
+}

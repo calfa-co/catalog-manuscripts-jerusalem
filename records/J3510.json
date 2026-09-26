@@ -1,0 +1,68 @@
+{
+  "id": "J3510",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3510",
+  "notice": "3510",
+  "volume": "Jerusalem_V10",
+  "title": "ՄԱՇՏՈՑ (ՎԱՐԴԱՊԵՏԱԿԱՆ)",
+  "date": {
+    "from": "1735",
+    "to": "1735",
+    "display": null
+  },
+  "fields": {
+    "numero": "3510",
+    "no_notice": "152",
+    "titre": "ՄԱՇՏՈՑ (ՎԱՐԴԱՊԵՏԱԿԱՆ)",
+    "date_debut": "1735",
+    "date_fin": "1735",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "110",
+    "dimensions": "17X11.5",
+    "mise_en_page": "խորագիրները կարմիր, գլխատառերը կարմիր կամ կապոյտ, մնացեալը սեւ մելանով, երկսիւն, 17 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "չունի",
+    "etat_conservation": "համարեա բաւարար. ազդուած թացութենէ. քայքայուած",
+    "copiste": "Թէոդոս",
+    "possesseur": "Իսահակ Վրդ. Գեղեցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը երկու թերթ",
+    "colophon": "Գրչի.— 1735 էջ 108ա, նոտրագիր.— Շնորհիւ Տեառն Յի. ամենակալի գրեալ աւարտեցաւ տետրակըս, որ կոչի Չորեքտասան Աստիճանի Վարդապետական Ծայրագոյն Գաւազանի Գրքուկ։ Ի վայելումն տեառն Իսահակայ աստուածաբանութեան գերիմաստ վարդապե տի Գեղեցւոյ, եւ հեղինակի մայրաքաղաքիս Կարնոյ։ Ձեռամբ ումեմն մեղսաներկ անձին Թէոդոսի անարհես[տ] գրչի։ Ի թուականիս Հայոց ՌՃՁԴին, յամսեանն յուլիսի վեցին, ի քաղաքս Արզրում, առ դրան Աստուածածնի Եկեղեցւոյն։ էջ 109–110, դատարկ",
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1.— [Յ]օհաննու պիտակ աշակերտի Գրիգորի եռամեծի արարեալ զշարադրութիւն կարգաց չորեքտասան աստիճանի վարդապետաց...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "498.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3510-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J3479",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3479",
+  "notice": "3479",
+  "volume": "Jerusalem_V10",
+  "title": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+  "date": {
+    "from": "1868",
+    "to": "1868",
+    "display": "1353 փրկչական թուական"
+  },
+  "fields": {
+    "numero": "3479",
+    "no_notice": null,
+    "titre": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+    "date_debut": "1868",
+    "date_fin": "1868",
+    "details_date": "1353 փրկչական թուական",
+    "lieu_copie": "Ս. Գէորգիս վանք յԵգիպտոս առ եզերբ Նեղոսի",
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "456",
+    "dimensions": "25.5x17x8",
+    "mise_en_page": "խորագիրներ, ՍԿԶԲՆԱՏԱՌՔ, կարգ մը բառեր եւ կէտեր կարմիր, մնացեալը սեւ մելանով, միասիւն, 18 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "դեղնորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "անբաւարար. ցեցակեր չարաչար",
+    "copiste": "վարդապետ ոմն",
+    "possesseur": "Եոհանան քահանայ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": "Մանուէլ",
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": "1686ին Ասորի քահանայ մը, տէր Պարսում, կը գնէ Ուրֆացի Հայէ մը ; ՅԻՇԱՏԱԿԱԳՐՈՒԹԻՒՆ: կազմողի.—1364 Էջ 452, ստորին լուսանցքին, բոլորգիր վարժ.— Զամենամեղ հոգի, զմանուէլ՝ զկազմող Սբ. Աւետարանիս, աղաչեմ յիշ. Ա Տէր ողորմայ իւ. թվ. ՊԺԳ. Փետրվար ամիսն ԻԲ ; ՅԻՇԱՏԱԿԱՐԱՆ: Գրչի, Թարգմանող S.P. Cowe.—",
+    "informations_diverses": "առանձին թղթիկի վրայ, շեղագիր.— Աւետարան առօրեայ ընթերցուածոց ; Էջ 452.—Original colophon of the scribe.— To the honour and praise of the Holy Trinity, Father, Son and Holy Spirit, the one true God, in whose hope is our rest, and in whose support is our peace, we copied this book of the Holy Gospel of the four individual evangelists [i.e not Diatessaron] containing words of life and salvation and completed it on the sixth of Tamuz (July) in the year 1674 of the Greeks (A.D. 1363). It was written by a weak, pilgrim scribe, a monk in name (only) when he was settled in the holy monastery of St. George, the godly martyr, on the bank of the river Nile on the holy mountain of Egypt where abba Arsenius ended his days and is called Mt. Taurus. He brought this book to the reverend and pious priest Johanan. He wrote it with what the grace of God bestowed upon him. May the Lord help him to heed, learn and act upon what is written in it by the prayer of the Mother of God and all the saints. Amen",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "468.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "469.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3479-refine.json",
+    "pipeline_version": "v1"
+  }
+}

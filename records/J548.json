@@ -1,0 +1,72 @@
+{
+  "id": "J548",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "548",
+  "notice": "548",
+  "volume": "Jerusalem_V2",
+  "title": "Ա.— Զ Գ Օ Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "548",
+    "no_notice": "1",
+    "titre": "Ա.— Զ Գ Օ Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "382",
+    "dimensions": "22.5 X 17 X 2.5",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կրկնատեսակ, երկուքն ալ տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ, խաչանիշ, ոսկեզօծ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— Զ Գ Օ Ն Էջ 1–278, թուագրեալ գրչին կողմէ. Գրութիւն՝ ամբողջովին սև մելանով, միասիւն, 23 տող։ Նոտր շեղագիր։ Համառօտագրութիւնք սովորականէն քիչ մը աւելի։ Էջ 1.— Թուխթ Սրբոյն Գրիգորի մերոյ Լուսաւորչին առ Սուրբն Յակոբ Մծբընայ Եպիսկոպոսն.— Բայց քեզ սիրելի իմ...։ Էջ 274.— Աւարտեցան պատասխանականքն Թուղթք Սրբոյն Յակոբայ Մծբնոյ Առ Սբ. Գրիգոր Լուսաւորիչ։ Վերջ։\nէջ 275.— Ցուցակ Մատենիս։ էջ 276-8.— Դատարկ։\nԲ.— ՏՈՄԱՐԱԳԻՏՈՒԹԻՒՆ (թերի)\nէջ 279-382, թուագրեալ մեր կողմէ։ Գրութիւն՝ ամբողջովին սեւ մելանով, միասիւն, 29 տող։ Նոտր շեղագիր տղեղ։ Համառօտագրութիւնք չափազանց առատ։\nԲՈՎԱՆԴԱԿՈՒԹԻՒՆ.— էջ 279.— Այս է անշարժ եղանակ.— Յունվարի Զ Յայտնութիւն...։ էջ 284.— Տոմար արքայական որ է յոյժ դժուարիմաց բայց միայն վարժիցն։ էջ 286.— Եթէ կամիցիս գիտել թէ արեգակն որում կենդանակերպի է։ էջ 297.— Յաղագս որքանութեան չափուց թէ վասն էր չափաբերեցան։ էջ 301.— Յաղագս աւուրց։ էջ 305.— Յաղագս խնդրելի է եւ վասըն չորից որպիսութեան եւ յատկութեան եղանակաց։ էջ 311, վերի կողմէն կէսէն աւելին դատարկ։ էջ 330, կէսը դատարկ։ էջ 352.— Նորին Յակոբ Վարդապետի Ղրիմեցո յաղագս տոմարական մակացութեան թէ յորոց ի մարդկանէ արհեստաւորեցան։ էջ 360.— Պատճենս տոմարի ըստ հայերէն թուականի զոր կարգել է Անանիայ Շիրակացի վարդապետի։ էջ 376-382, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "590.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "591.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "548-refine.json",
+    "pipeline_version": "v1"
+  }
+}

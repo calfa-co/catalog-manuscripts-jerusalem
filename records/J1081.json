@@ -1,0 +1,68 @@
+{
+  "id": "J1081",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1081",
+  "notice": "1081",
+  "volume": "Jerusalem_V4",
+  "title": "Մ Ե Ն Տ Ո Ր   Մ Ա Ն Կ Ա Ն Ց",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1081",
+    "no_notice": "1",
+    "titre": "Մ Ե Ն Տ Ո Ր   Մ Ա Ն Կ Ա Ն Ց",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ + 317",
+    "dimensions": "20 x 14 x 1",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Տպուած է Երուսաղէմ 1867 ին",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա. — ՃԱԿԱՏ . Մենտոր Մանկանց կամ Առաքինութեան Ճամբան։ Թարգմանեաց Տիգրան Հ. Թ. Սաւալանեանց Զմիւռնացի։ Ի Զմիւռնիա, 1847։\nԷջ Գ. — Յառաջաբան . — Այս գեղեցիկ գրքիս նպատակը եւ պատուականութիւնը . . . ։ Էջ Դ. — Ծանօթ . թարգմանչի . «Իմով ձեռօք սրբագրեցաւ եւ յարդարեցաւ աշխարհաբառ լեզուն ի թարգմանութեանս»։ Էջ 1. — Մենտոր Մանկանց եւ երիտասարդաց։ Ներածութիւն։ Էջ 305. — Ցանկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "143.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1081-refine.json",
+    "pipeline_version": "v1"
+  }
+}

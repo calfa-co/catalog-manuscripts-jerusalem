@@ -1,0 +1,72 @@
+{
+  "id": "J1079",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1079",
+  "notice": "1079",
+  "volume": "Jerusalem_V4",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՍԱՀՄԱՆԱՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1079",
+    "no_notice": "14",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՍԱՀՄԱՆԱՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "254",
+    "dimensions": "20x15x2.5",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 34 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ։ Կնիքներ, էջ 1, երիցս, «Վարդան Ծռ. Քի.», սեւադրոշմ։ Սեւադրոշմ, բոլորշի, «Քի. Ծռ. Յովանէս Վարդապետ, Թվ. ՌՃԼԳ», էջ 250բ",
+    "etat_conservation": "լաւ",
+    "copiste": "Սաֆար Ջահընկալ",
+    "possesseur": "Յովհաննէս Վարդապետ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, գրչափորձեր եւ կնիքներ։ Էջ 2, դատարկ գրեթէ։\nԷջ 3, այլեւայլք, անկարեւոր : Էջ 4, դատարկ : Էջ 5ա.— Տէր Առաքելի եռամեծի եւ քաջ հռետորի եւ անյաղթ փիլիսոփայի, աշակերտի երիցս երանելոյն Գրիգորի տիեզերալոյս Վարդապետի : Արարեալ բանս խրատականս ոգեշահս, եւ հանճարս իմաստայեղս, ի Մեկնութիւն Սահմանաց գրոց, ի յիղձ մաղթանաց, ոմանց բանասիրաց, եղբարց հարազատաց նորին աշակերտաց.— [Ս]ահման թէ քանի նշանակութիւն ցուցանէ... : Էջ 231բ.— Նորին տէր Առաքելի, Սիւնեաց եպիսկոպոսի, ի տեսութիւն բանին որ ասէ, Ամենայն չար տանջելի : Ծանօթ. Գրչի, էջ 248-249, ստորին լուսանցքին. «Այս տետրս դ աւղ է, գիտացէք որ անմեղադիր եղնաս. ես կու կոկէնք մոռացա արա(ղ)ջինն չի զարկի կպաւ կոկիչն ու կտոր կտոր էրաց. վա ինձ մեղաւորիս» : Յիշատակարան Գրչի.— Էջ 250ա.— Զմեղուցեալ եւ զանարժանըս եւ զմրադրող իմաստասիրական սովեստիս, մերոյ հայկազնի փիլիսոփային Դաւթի եւ մեկնողի սորա Առաքելի Սիւնեաց վերաղիտողի, զՍաֆար սուտ անուն ջահընկալս—յիշեա ի Քս. ով սուրբ բարունի եւ դու յիշեալ լիցիս, ամէն : Յետնագոյն յիշատակագրութիւն.— 1694 Էջ 250բ, նոտրագիր անհարթ.— Յիշատակ է գիրքս Յովհաննէս Վարդապետին ի Սբ. յԵրուսաղէմ, ի դուռն Սրբոյն Յակոբա՝ աթոռոյն ամ. Հայոց. Թվ. ՌՃԽԳ : Էջ 251-253, դատարկ : Էջ 254, նոտրագիր, տարբեր թանաքով.— Խարբերդցի խոճայ Մովսէսն ամէն տարի բեռ մի ցորեն ետուր Շնքշու վանիցըն. Ած. ողորմի ասացէք. ամէն :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "141.JPG"
+    },
+    {
+      "volume": "Jerusalem_V4",
+      "file": "142.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1079-refine.json",
+    "pipeline_version": "v1"
+  }
+}

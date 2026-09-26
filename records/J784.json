@@ -1,0 +1,68 @@
+{
+  "id": "J784",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "784",
+  "notice": "784",
+  "volume": "Jerusalem_V3",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԵՐԳՈՑ ԵՐԳՈՅՆ",
+  "date": {
+    "from": "1719",
+    "to": "1719",
+    "display": null
+  },
+  "fields": {
+    "numero": "784",
+    "no_notice": "5",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԵՐԳՈՑ ԵՐԳՈՅՆ",
+    "date_debut": "1719",
+    "date_fin": "1719",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "172",
+    "dimensions": "20.5x15.5x1",
+    "mise_en_page": "գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 20 տող։ Նոտր շեղագիր",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Պետրոս Վրդ. Ամթեցի",
+    "possesseur": "Նիկողայոս Վրդ.",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Առաջաբանութիւն երգ երգոցն.— Անուն Երգոյ Երգոցս յայտ առնէ...։ Էջ 3.— ԵՐԳ ԵՐԳՈՑ։ Էջ 17.— Կատարեցաւ գիրքս Երգ Երգոց։ Էջ 18, դատարկ։ Էջ 19.— Հրամանք է աստուածասէր թագաւորութեանդ, ով տէր արքայ...։ Էջ 171.— Ի ՆԻԶ թուականութեանս Հայոց, հարկեցայ ես Գրիգոր ի Նարեկայ...։\nՅիշատակարան Գրչի.— 1719 Էջ 172.— Արդ գրեցաւ հոգեշահ մատեանս, ի վայելումն Նիկողայոսի ճոխաբան վարդապետին, որ է այժմս սպասաւոր Արմաշու Սբ. Ած.ածնայ Վանիցն, զոր Տէր Յս. բարեաւ վայելել տացէ։ Ձեռամբ Յամթեցի Պետրոս տրպլի բանասիրի, որ եմ այժմս նուիրակ պիտակ անուամբ եւեթ։ Եւ որք ընթեռնուքդ եւ օգտիք ի սմանէ, յիշել մաղթեմք միով Հայր մերիս։ Զոր եւ դուք յիշեալ լիջիք ի Քս.է Փրկչէն։ Ի թուին ՌՃԿԸ, ի Փետրվարի Ի, եղեւ վերջացեալ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "253.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "784-refine.json",
+    "pipeline_version": "v1"
+  }
+}

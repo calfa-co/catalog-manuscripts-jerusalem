@@ -1,0 +1,72 @@
+{
+  "id": "J2094",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2094",
+  "notice": "2094",
+  "volume": "Jerusalem_V7",
+  "title": "Ա.— ՊԱՏՄՈՒԹԻՒՆ ՄԵԾԻՆ ՆԵՐՍԷՍԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2094",
+    "no_notice": "8",
+    "titre": "Ա.— ՊԱՏՄՈՒԹԻՒՆ ՄԵԾԻՆ ՆԵՐՍԷՍԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "104",
+    "dimensions": "23x17x1",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 24 տող։ Նոտր շեղագիր",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, կապտորակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1 — Յաղագս զարմից Սրբոյն Գրիգորի, եւ տեսիլ Սրբոյն Ներսեսի, եւ բովանդակ պատմութիւն ազգին Մամիկոնէից, մինչեւ ցՍուրբն Վարդան, եւ մինչեւ ցեւարիական ազգին Հռոմայեցւոց, որ իբրեւ զարեգակն, եւ լոյս փրկութիւն ծագեցան տիեզերաց — Յութ եւ տասներրորդի ամին մեծին Տրդատայ թագաւորին Հայոց, նստաւ յԱթոռ Թադէոսի Առաքելոյն Լուսաւորիչն Հայոց Սուրբն Գրիգոր...։ — Հմմտ. թ. 308, Բ. Հատոր, էջ 157։\nԲ.— ՏԵՍԻԼ Ս. ՍԱՀԱԿԱՅ.— 3\nէջ 63.— Յառաջաբան Տեսլեան Սրբոյն Սահակայ Պարթևի Հայոց Կաթողիկոսի, զոր եցոյց նմա Բարձրեալն անբաւ մարդասիրութեամբն.— Եւ յետ մահուանն Ազկերտի, որդւոյ Շապհոյ թագաւորին Պարսից, թագաւորէ Հոռոմ որդի նորա...։— Հմմտ. նոյն, անդ։\nէջ 93.— Վասն Սրբոյն Մեսրոպայ, որ Մաշթոց կոչեցաւ.— Եւ յետ վեց ամսոյ կատարման նորին տարւոյ հանգստեան Սրբոյն Սահակայ...։\nէջ 94-104, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "179.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "180.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2094-refine.json",
+    "pipeline_version": "v1"
+  }
+}

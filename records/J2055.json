@@ -1,0 +1,68 @@
+{
+  "id": "J2055",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2055",
+  "notice": "2055",
+  "volume": "Jerusalem_V7",
+  "title": "Հ Ո Գ Ե Բ Ա Ն Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2055",
+    "no_notice": "1",
+    "titre": "Հ Ո Գ Ե Բ Ա Ն Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "494",
+    "dimensions": "23 X 17 X 4",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 23 տող։ Նոտր շեղագիր կանոնաւոր",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ ոսկեզօծ երեզներով",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Նախերգանք.— Բնազանցութեան մեծապէս զհետ էին նախնի իմաստասէրք...։ Էջ 6.— Բնազանցութիւն։ Մասն Ա.։ Հոգեբանութիւն.— Հոգեբանութիւնդ անուն ծագեալ ի բառիցդ հոգի, եւ բան, նշանակէ ճառ, կամ բան զհոգւոյ։ Էջ 216.— Բնազանցութեան Մասն Բ. Էակաբանութիւն, կամ վերլուծութիւն գաղափարաց եւ ծանօթութեանց որ ի վերայ էակաց.— Էակաբանութիւնն՝ որ նշանակէ ճառ կամ բառ զէակաց, այն մասն է բնազանցութեան, որ յիւր առարկայ ունի զընդհանուր հանգամանս էակաց, եւ է առաջինն՝ որում տուաւ անուն բնազանցութեան։ Էջ 335.— Բնազանցութեան Մասն Գ։ Տիեզերաբանութիւն.— Յունարէն կոչի՝ քոսմօլօգիա, եւ քոսմօս, որ առ մեզ թարգմանի կարգ, անուանեաց Պղատոն զաշխարս կամ զտիեզերս, յաղագս զարմանալի կարգաց՝ որ իշխէին ի նմա։ Էջ 426.— Բնազանցութեան Մասն Դ։ Բնական Աստուածաբանութիւն.— Ազնուագոյն մասն բնազանցութեանն է այն՝ յորում խոյզք եւ խնդիրք եւ խորհրդածութիւնք ելանեն ամբառնան մինչեւ յէակն գերագոյն ...։ Էջ 452, ստորոտը.— Սկիզբն թարգմանութեանս յունի. 7, եւ վախճանն ի յուլիսի 1, յամին 1827։ Էջ 453.— Ծանօթութիւնք։ Ուր եդեալքըն յետ թուանշանաց կրկին գաւազանաձեւ գծիւք, հեղինակին են. իսկ առանց նշանաց եդեալքն ի մէնջ յաւելան.— Կան 48 ծանօթութիւններ։ Էջ 489, շեղագիր.— Ցանկ գրոյս։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "139.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2055-refine.json",
+    "pipeline_version": "v1"
+  }
+}

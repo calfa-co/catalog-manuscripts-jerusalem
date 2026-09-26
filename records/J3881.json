@@ -1,0 +1,72 @@
+{
+  "id": "J3881",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3881",
+  "notice": "3881",
+  "volume": "Jerusalem_V11",
+  "title": "ԱՂՕԹԱԳԻՐՔ – ՏՈՒՎԱ ՔԻԹԱՊԸ",
+  "date": {
+    "from": "1988",
+    "to": "1988",
+    "display": null
+  },
+  "fields": {
+    "numero": "3881",
+    "no_notice": null,
+    "titre": "ԱՂՕԹԱԳԻՐՔ – ՏՈՒՎԱ ՔԻԹԱՊԸ",
+    "date_debut": "1988",
+    "date_fin": "1988",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "118, անճիշդ",
+    "dimensions": "17x13x1",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 19 տող, կամ նուազ",
+    "details_ecriture": "տկար",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ, քայքայուած։ Առաջին կողքին ներսի կողմը գրուած մատիտով. \" Պէրուտտան չըգըշըմ նուհեմբեր 18 երկուշաբթի կիւնիւ, սէնէ 1985։ 1988 փետրվար 8 տէ կէլտիզիմ կիւն. 26 այ, 20 կիւն\"",
+    "etat_conservation": "անբաւարար",
+    "copiste": "Միհրան Զ. Մըսէխեան",
+    "possesseur": "Միհրան Զ. Մըսէխեան",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.– Աղօթագիրք, Տուվա Քիթապըն։ Սապահ տուասը (1)։ Էջ 1բ.– Սապահ տուասը (1).– Եա շէֆաթլը վէ մէրհամէտլի րապպըմ վէ Ալլահըմ...։ Էջ 6.– Էօյլէն տուասը (1)։ Էջ 13.– Ագշամ տուասը (1)։ Էջ 20.– Թէշէքիւր տուասը (1)։ Էջ 26.– Տէր ողորմեա...։ Էջ 27.– Սապահ տուասը (2)։ Էջ 35.– Էօյլէն տուասը (2)։ Էջ 43.– Ագշամ տուասը (2)։ Էջ 51.– Թէշէքիւր տուասը (2)։ Էջ 52.– Թէշէքիւր տուասը (2)։ Էջ 57ա.– Տէր ողորմեա...։ Էջ 57բ.– Սապահ տուասը (3)։ Էջ 57գ.– Սապահ տուասը (3)։ Էջ 57դ.– Էօյլէն տուասը (3)։ Էջ 58.– Էօյլէն տուասը (3)։ Էջ 65.– Ագշամ տուասը (3)։ Էջ 66.– Ագշամ տուասը (3)։ Էջ 73.– Թէշէքիւր տուասը (3)։ Էջ 74.– Թէշէքիւր տուասը (3)։ Էջ 80.– Տէր ողորմեա...։\nԷջ 81.— Սապահ տուասը (4)։ Էջ 82.— Սապահ տուասը (4).— Եա էպէտի սարսըլմազ օլան Եօվա Ալլահըմըզ ...։ Էջ 88.— Էօյլէն տուասը (4)։ Էջ 89.— Էօյլէն տուասը (4)։ Էջ 95.— Ագշամ տուասը (4)։ Էջ 96.— Ագշամ տուասը (4)։ Էջ 102.— Թէշէքիւր տուասը.— Հանընօր եւ Որդո եւ Հոքին Սրբո ամմէն (4)։ Էջ 108.— Թէշէքիւր տուասը (4).— Սանա համտ վէ թէշէքիւրլէր օլսուն...։ Էջ 112.— Տէր ողորմեա...։ Էջ 113, գծագրութիւն խաչի, անարուեստ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "346.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "347.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3881-refine.json",
+    "pipeline_version": "v1"
+  }
+}

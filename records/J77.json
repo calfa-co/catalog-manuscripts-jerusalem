@@ -1,0 +1,72 @@
+{
+  "id": "J77",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "77",
+  "notice": "77",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՅԱԿՈԲԱՅ ԹՂԹՈՅՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "77",
+    "no_notice": "1",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՅԱԿՈԲԱՅ ԹՂԹՈՅՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "590",
+    "dimensions": "32 X 21 X 5",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 30-48 տող",
+    "details_ecriture": "այլազան, շեղագիր, նոտրագիր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ ընդհանուր առմամբ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը երկու թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Մեկնութիւն կանոնական ընթերցուածոց, հեղինակութեամբ Կուռնելիոսի Կուռնելիեան, Լափիդացւոյ, ի կարգէն Յիսուսեան։ Նախ ի Լօվանէնսիա, զկնի ի Հռոմէական Համալսարանի Սրբազան տառից վարդապետէ, նուիրեալ գերապայծառի և գերյարգելոյ իշխանին Վենէժտոյ, Կրիման կոչեցելոյ, սրբոյ Հռոմէականի եկեղեցւոյ լայնապայծառ կարտինալի, ևյլն։ Ի Վենիժում, 1700 թուին։ Մեկնութիւն ուղղափառ ընթերցուածոցն։ Առարկութիւնն։\nԵօթն հետեւեալ ընթերցուածքս, այսինքն, մինն Սրբոյն Յակոբայ, երկուքն Սրբոյն Պետրոսի, երեքն Սըրբոյն Յոհաննու, և մինն Սրբոյն Յուդայի, կոչին Ուղղափառք...։ Էջ 7.— Յակոբոսի Յառաջաբանութիւն։ Էջ 32.— Գլուխ Առաջին։ Շար Գլխոց։ Էջ 304.— Գլուխ Երկրորդ։ Էջ 384.— Գլուխ Երրորդ։ Էջ 445.— Գլուխ Չորրորդ։ Էջ 501.— Գլուխ Հինգերորդ։\nԾԱՆՕԹ.— Ձեռագրիս վերջը կը գըտնուի տպագրեալ 14 թերթ, երկսիւն, հայերէն և լատիներէն, “Huic Dictionario Instar Exercitationis Litterariae Subtexitur Armenia Christiana Ceu Tabula Chronologica Latino -Armenia, Continens Seriem Patriarcharum et Regum utriusque Armeniae” վերտառութեամբ, և 745-772 էջահամարով։ Կը պատկանի Յակոբ Վիլլոտի «Բառագիրք Հայկական Լեզուի» հատորին, տպ. Հռոմ, 1714 թուին։— Տես Հայ Հնատիպ Գրքի Մատենագիտական Ցուցակ, Երեւան, 1963, էջ 75(279)։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "284.jpg"
+    },
+    {
+      "volume": "Jerusalem_V1",
+      "file": "285.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "77-refine.json",
+    "pipeline_version": "v1"
+  }
+}

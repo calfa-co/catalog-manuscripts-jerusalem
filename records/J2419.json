@@ -1,0 +1,72 @@
+{
+  "id": "J2419",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2419",
+  "notice": "2419",
+  "volume": "Jerusalem_V8",
+  "title": "Ժ Ա Մ Ա Գ Ի Ր Ք",
+  "date": {
+    "from": "1289",
+    "to": "1289",
+    "display": null
+  },
+  "fields": {
+    "numero": "2419",
+    "no_notice": "39",
+    "titre": "Ժ Ա Մ Ա Գ Ի Ր Ք",
+    "date_debut": "1289",
+    "date_fin": "1289",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "272",
+    "dimensions": "11.5x8x5",
+    "mise_en_page": "խորագիրները և գլխատառերը կարմիր, մնացեալը սև մելանով, միասիւն, 14 տող, երբեմն աւելի կամ պակաս",
+    "details_ecriture": "վարժ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ, հնամաշ",
+    "etat_conservation": "յոյժ անբաւարար. նորոգութիւն կրած. վնասուած հնութենէ և որդերէ. սկիզբը թերի",
+    "copiste": "Ստեփանոս",
+    "possesseur": "Նորոգէս միայնակեաց",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը երկու թերթ, անկիւնաւոր երկաթագիր, վերջը մէկ թերթ՝ դատարկ մեծագոյն մասամբ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 5. — Զքէն գոհանամք Տէր Ած. մեր .... Էջ 17—18, տարբեր թուղթ և գրչութիւն։ Էջ 27. — Քարոզ զկնի Հարցինն։ Էջ 76. — Քարոզ զկնի Արևագալին։\nէջ 87—88, տարբեր թուղթ և գրչութիւն։\nԲ.— ԽՈՐՀՐԴԱՏԵՏՐ.— 67\nէջ 116.— Աւրէնք արկանելոյ սպաս։ էջ 133—136, տարբեր թուղթ և գրչութիւն։ Նոյնպէս 139-140։ էջ 141.— Հաւատամք որ ի Նիկիա։ էջ 165—170, տարբեր թուղթ և գրչութիւն։ Նոյնպէս 173—176, 179—184։\nէջ 226.— Աւրհնութիւն Երեկոյին ժամ.։ էջ 249.— Աղաւթք Խաղաղականին։ էջ 257—258, տարբեր թուղթ և գրչութիւն։ էջ 266.— Աղաւթք Խաղաղականի եկեսցոյ.— Տէր Ած. մեր պահեա զմեզ խաղաղութեամբ ի գիշերս յայսմիկ...։\nէջ 272, տարբեր գրով.— Խնամող արարածոց...։\nՅիշատակարան Գրչի.— 1289 էջ 269.— Փառք Սբ. Երրորդութեանն Հաւր և Որդւոյ և Հոգւոյն Սրբոյ։ Ի Թուականութեանս Հայոց ՋԼԸ, գրեցաւ լուսա[ա]զարդ Աղաւթից մատեանս, ի խնդրոյ ումեմն սրբասէր միայնակեցի Նոր[ո]ղէս [ան]ուն կոչեցեալ, ձեռամբ ամենամեղ և ախմար գրչի Ստեփ.։ Արդ որք աւկտիք ի սմանէ ուսմամբ կամ գաղափարաւ, յիշեսջիք ի Քս. զՆորոզէս միայնակեաց և զծնողս իւր։ Նաև զիս զՍտեփ., ի սրտէ խոցեալ և մեղաւք լցեալ հոգի, դառնարձս ի չարիս, յերեսս անկեալ աղաչեմ յիշման արժանի առնել։ Եւ Քս. որ առատն է ի տուրս բարեաց, ձեզ և մեզ ողորմեսցի։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "081.jpg"
+    },
+    {
+      "volume": "Jerusalem_V8",
+      "file": "082.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2419-refine.json",
+    "pipeline_version": "v1"
+  }
+}

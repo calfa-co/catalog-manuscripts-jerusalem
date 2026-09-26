@@ -1,0 +1,68 @@
+{
+  "id": "J431",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "431",
+  "notice": "431",
+  "volume": "Jerusalem_V2",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԵՍԱՅԵԱՅ",
+  "date": {
+    "from": "1781",
+    "to": "1781",
+    "display": null
+  },
+  "fields": {
+    "numero": "431",
+    "no_notice": "4",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԵՍԱՅԵԱՅ",
+    "date_debut": "1781",
+    "date_fin": "1781",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "438",
+    "dimensions": "23 X 18 X 5",
+    "mise_en_page": "խորագիրները եւ յաճախ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 28-33 տող",
+    "details_ecriture": "ոչ միեւնոյն գրչէ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": "յոյժ անկանոն դրուած, այսպէս. Ա-Դ, Թ, Ը, Է, Զ, Ե, Ժ-ԺԸ, ԻԱ, Ի, ԺԹ, ԻԲ-ԻԶ",
+    "matiere_principale_id": null,
+    "details_matiere": "կրկնատեսակ, ճերմակ եւ կապտորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": "Սիմէոն Վրդ. Վանեցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թղթեր, սկիզբը 7 թերթ, վերջը բազմաթիւ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 3. — Համառօտ Ժողովումն Մեկնութեան Սբ. Մարգարէին Եսայեայ ի լուսաւոր մեկնչաց, Սրբոյ Հօրն Եփրեմի, Յոհաննու Ոսկեբերանին, եւ Կիւրղի Աղեքսանդրու Հայրապետին։ Հրամանաւ Տն. Հայոց Հեթմոյ, Գէորգեայ Վարդապետի արարեալ. — Ծածուկ միշտ եւ անյայտ են բանք օրինացն եւ մարգարէից . . . ։ Էջ 193-196, դատարկ։ Էջ 197. — . . . ի վերայ իժից եւ քարրից գնասցես եւ կոխեսցես . . . ։ Էջ 210. — Գլուխ ԻԹ. — Վայ քեզ Արիէլ քաղաք։ Էմէ, որ կոխան եղեւ, զոր Դաւիթն պաշարեաց . . . ։\nՅիշատակագրութիւն. — Էջ 3, վերի լուսանցքին, տձեւ նոտրագրով. — Ի թուին ՌՄԼ [= 1781]ին վայելումն Վանեցի Սիմէոն Վարդապետիս։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "411.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "431-refine.json",
+    "pipeline_version": "v1"
+  }
+}

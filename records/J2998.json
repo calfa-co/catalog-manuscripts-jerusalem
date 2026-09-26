@@ -1,0 +1,68 @@
+{
+  "id": "J2998",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2998",
+  "notice": "2998",
+  "volume": "Jerusalem_V9",
+  "title": "ԿՏԱԿ ԱՒԱԳ ՈՒՐԲԱԹՈՒ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2998",
+    "no_notice": null,
+    "titre": "ԿՏԱԿ ԱՒԱԳ ՈՒՐԲԱԹՈՒ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "112",
+    "dimensions": "18X11X1",
+    "mise_en_page": "սեւ մելանով, միասիւն, 16 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը չորս թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 — Օգնեա ով Հոգիդ Ած ։ Կտակ.— Ո՛վ սարսափելի աւուրս եւ զարհուրելի գիշերիս, ո՛վ նորասքանչ պատահմանս...։ Էջ 3.— Բայց ինչո՞ւ անցած պատմութիւն մը ընելու համար այսքան կը սարսափիմ...։ Էջ 38, դատարկ։ Էջ 39.— Յաղագս տանելոյն զՔս. առաջի քահանայապետին.— Եւ այսքան դառն տանջանքներով առաջ տարին Յիսուսը...։ Էջ 59.— Յաղագս պսակելոյն փշովք զՔս.։ — Ո՛վ քարացեալ սրտից անօրէն բարբարոսաց...։ Էջ 101.— ...որ եւ բարերարն Ած. բժշկեսցէ զվիրս ախտից ձերոց ի հոգւոյ եւ ի մարմնոյ, Ամէն։ Էջ 102-112, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "201.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2998-refine.json",
+    "pipeline_version": "v1"
+  }
+}

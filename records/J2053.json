@@ -1,0 +1,68 @@
+{
+  "id": "J2053",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2053",
+  "notice": "2053",
+  "volume": "Jerusalem_V7",
+  "title": "ԲԱՌԳԻՐՔ ՀԱՅԵՐԷՆԷ — ԹՐՔԵՐԷՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2053",
+    "no_notice": "1",
+    "titre": "ԲԱՌԳԻՐՔ ՀԱՅԵՐԷՆԷ — ԹՐՔԵՐԷՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "23.5x15x2.5",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մընացեալը սեւ մելանով, միասիւն, 27 տող։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": "150",
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ. բազում ԹԵՐԹՔ կը մնան դատարկ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Թղ. 1ա. — Այբ իւզերինէ օլան հայճայ էզայ լուղէթլէրինին թիւրքճէսի պէյան։ Անդամալուծութիւն, տես Անդամագոտութիւն։ Անդամագոտութիւն, ֆալիճ։ Այրիչ ջուր, տես Արքայաջուր։ Արքայաջուր, դէզապ սույը։ Արծիւ, ղարա ղուշ։ Արտուտ, չայիր ղուշու։... Աւազակաց կղզիք, մարիանեան կղզիք, խըրսըզլար ատալարը, Չին ելինտէ, Ճիաբոնուն ղարպա սեմթլէրինտէ, պունլար չօք ատալարտը։ Թղ. 13ա. — Բէն իւզերինէ...։ Բազէ, շահան։ բացողական, աչըճը։ Թղ. 39ա. — Ըթ իւզերինէ...։ Ընդերք, պաղըրսաք։ Թղ. 49ա. — Լիւն իւզերինէ...։ Լապտերածաղիկ, ֆէնէր չիչէկի։ լեղակաբոյս, չիվիդ օթու։ Թղ. 53ա. — Խէ իւզերինէ...։ Խաղալարտ, չըրլան։... Խոր Վիրապ, Արտաշատ շէհրինտէտիր խարապատըր, Ը սահէթ Էջմիածինտէն էօթէ, Գրիգոր Լուսաւորիչ 14 սէնէ պէքլէտի պու գույույու։ Խրիստոպոլիս, Իւսկիւտար։ Թղ. 57ա. — Ծա իւզերինէ...։ Ծաղկեջուր, չիչէկ սույու։... Ծոփաց գաւառ, Տիարպեքիր սեմթինտէ Չիմիշկէզէք էօլքէլէրինէ տէրլէր։ Թղ. 77ա. — Մէն իւզերինէ...։ Մածոյծ, տես մածուած։ Մածուած, բըճթ, բէլթէ։ Մածուած աղոխոյ, գօրուք բէլթէսի։... Մօլտավիա, Պուղտան։ Թղ. 147. — Ֆէ իւզերինէ հայճայ էզայ լուղէթլէրինին թիւրքճէսի։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "138.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2053-refine.json",
+    "pipeline_version": "v1"
+  }
+}

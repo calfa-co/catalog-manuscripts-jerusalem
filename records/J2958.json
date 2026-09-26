@@ -1,0 +1,68 @@
+{
+  "id": "J2958",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2958",
+  "notice": "2958",
+  "volume": "Jerusalem_V9",
+  "title": "ԲԱՑԱՏՐՈՒԹԻՒՆ ՀՐԱԺԱՐՄԱՆ ԵՒ ԶՂՋՄԱՆ",
+  "date": {
+    "from": "1854",
+    "to": "1854",
+    "display": null
+  },
+  "fields": {
+    "numero": "2958",
+    "no_notice": "1",
+    "titre": "ԲԱՑԱՏՐՈՒԹԻՒՆ ՀՐԱԺԱՐՄԱՆ ԵՒ ԶՂՋՄԱՆ",
+    "date_debut": "1854",
+    "date_fin": "1854",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "29 X 19.5: Էջք Զ+56: Հանգամանք բաւարար. ցեցակերութիւն թեթեւ: Գրութիւն՝ սեւորակ մելանով, միասիւն, 24 տող: Շեղագիր նոտրակերպ, լի տողընդմէջ սրբագրութիւններով: Համառօտագրութիւնք սովորականէն քիչ մը աւելի: Կողք թղթեայ. առաջին երեսին գրուած է՝ Բացատրութիւն Հրաժարումն եւ Զղջումն Բանից Սրբոց Հարցն Նախնեաց, նաեւ Յիշեսցուք, Աշխարհ ամենայն եւ Առաւօտ լուսոյ Երգոցն Սրբոյն Ներսեսի Շնորհալւոյ, 1854: — Տպուած է Երուսաղէմ, 1854-ին",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Բ, դատարկ: Էջ Գ. — Տիտղոսաթերթ. Բացատրութիւն հրաժարման եւ Զղջումն բանից Սրբոց Հարցն Նախնեաց: Նաեւ Յիշեսցուք, Աշխարհ ամենայն եւ Առաւօտ լուսոյ Երգոցն Սրբոյն Ներսեսի Շնորհալւոյն: Ի հայրապետութեան...: Աշխատասիրեալ ի միաբանութենէ Սրբոյ Աթոռոյն Երուսաղէմի Տ. Մկրտիչ վարդապետի Արծրունեան Տ. Մարտիրոսով: Յամի Տեառն 1854, եւ Հայոց ՌՅԳ: Հատոր Առաջին: Յաթոռն Սրբոց Յակովբեանց Առաքելոց: Էջ Դ, դատարկ: Էջ Ե. — Յառաջաբան: Էջ Զ, դատարկ: Էջ 1. — Բացատրութիւն Նախադրութեան Հրաժարման, թէ ընդէ՞ր դառնամք յարեւմուտս եւ ի կոր ունելով զձեռս հրաժարիմք ի սատանայէ: Էջ 10. — Մասն Երկրորդ. բացատրութիւն մեղայի: Էջ 54. — Հուսկ ուրեմն աղաչեմ զձեզ զամենեսին...: Էջ 56, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "171.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2958-refine.json",
+    "pipeline_version": "v1"
+  }
+}

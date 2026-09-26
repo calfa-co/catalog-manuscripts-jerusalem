@@ -1,0 +1,68 @@
+{
+  "id": "J1204",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1204",
+  "notice": "1204",
+  "volume": "Jerusalem_V4",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ԿՐՕՆԱԿԱՆ)",
+  "date": {
+    "from": "1768",
+    "to": "1768",
+    "display": null
+  },
+  "fields": {
+    "numero": "1204",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ԿՐՕՆԱԿԱՆ)",
+    "date_debut": "1768",
+    "date_fin": "1768",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "96",
+    "dimensions": "19x14x1",
+    "mise_en_page": "ամբողջովին սեւ մելանով գրեթէ, միասիւն, 20 տող",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը եւ վերջը մէկ մէկ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Տեառն Ներսեսի Հայոց Կաթուղիկոսի՝ Գովեստ բանի ներբողականի Յաղագս տօնից գերագունից էութեանց հրեշտակապետացն Սրբոց Գաբրիէլի եւ Միքայէլի, եւ ամ. երկնային զօրութեանցն, զոր տօնէ Եկեղեցի Քրիստոսի ընդ տիեզերս, համախմբեալ ուրախութեամբ, նոյեմբերի Ը.— Այսօր երկրաւորս եկեղեցւոյ հանդիսաւորեալ քահանայապետութիւն ցնծայ հրաշափառապէս...։ Էջ 82.— Գրեցաւ թուին ՌՄԺԷ=1768], օգոստոսի Ը։ Էջ 83.— Յոհանու Ոսկեբերանի ասացեալ. ի Մեկ. Ամբակումայ Մարգարէին.— Տէր զլուր քո լուայ եւ երկեայ...։ Էջ 93.— Զճառս Հրեշտակաց, զոր արարեալ է Սբ. Հայրապետն մեր Ն. Շնորհալի, որ ի թիւ Հայոց ՌՄԺԷ ընդօրինակեալ կայ ի տետրակիս, զորոյ զմնացեալ պակասորդն ի բաղդատելն ընդ Ճառընտիրն, եդաք աստ նշանաւ...։ Էջ 95-96, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "358.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1204-refine.json",
+    "pipeline_version": "v1"
+  }
+}

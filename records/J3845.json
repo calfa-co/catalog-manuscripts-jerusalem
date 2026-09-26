@@ -1,0 +1,72 @@
+{
+  "id": "J3845",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3845",
+  "notice": "3845",
+  "volume": "Jerusalem_V11",
+  "title": "ՇԱՐԱԿԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3845",
+    "no_notice": null,
+    "titre": "ՇԱՐԱԿԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "610",
+    "dimensions": "26x20x8",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 18 տող",
+    "details_ecriture": "վարժ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": "Յովհաննէս Ա. Քհնյ. Էթմէքճեան, որուն կնիքը դրոշմուած է տասնեակ մը էջերու վրայ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Կանոն Համբարձման Քրիստոսի.— Համբարձաւ Տէրըն մեր յերկինս...։ Էջ 5.— Կանոն Պէնտէկոստէին առաջին աւուրն.— Առաքելոյ աղաւնոյ...։ Էջ 8.— Կանոն առաջին աւուրն Վարդավարի.— Որ ի լերինն այլակերպեալ...։ Էջ 14.— Կանոն Խաչվերացի Բ. աւուր .— Որ զանարատ...։ Էջ 21.— Կանոն Վարագայ Խաչին.— Նըշանաւ...։ Էջ 84.— Մեղեդի Խաչի.— Տիրամայրըն հանդէպ Որդւոյն ի խաչի կայր տըրտմա-"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "299.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "300.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3845-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J671",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "671",
+  "notice": "671",
+  "volume": "Jerusalem_V3",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԵԶԵԿԻԷԼԻ",
+  "date": {
+    "from": "1753",
+    "to": "1753",
+    "display": null
+  },
+  "fields": {
+    "numero": "671",
+    "no_notice": "4",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԵԶԵԿԻԷԼԻ",
+    "date_debut": "1753",
+    "date_fin": "1753",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "384",
+    "dimensions": "21x16.5x2.5",
+    "mise_en_page": "գլխագիրները եւ սկզբնաւորութիւնները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 30-39 տող",
+    "details_ecriture": "սովորականէն աւելի։ Կարմրագիծ թռչնագիր եւ լուսանցազարդ՝ գլուխներու սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": "Պաղտասար Երէց Տէր Մելքոնեան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "սեւագիծ, էջ 12",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "թղթեայ սկիզբը եւ վերջը մէկ մէկ թերթ, նոտր շեղագիր, «նորին Գրիգորի քարոզ վասն թլփատութեան»։ Կուրծքին երկաթագիր. «Եղեկիէլի Մեկնութիւն»",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— էջ 3.— Մեկնութիւն Մարգարէութեանն Եզեկիէլի, արարեալ երջանիկ վարդապետին Եսայեայ, ի խնդրոյ Տեառն Ստեփաննոսի, եւ գաղափարութեամբ հասեալ առ մեզ, յորմէ օրինակեցեալ՝ գլխատեալ՝ եւ տնատեցեալ եղեւ ըստ գլխոց եւ համարոյ Ած.աշնչին, ի նուաստ ումեմնէ, ի փառս ամենամեծին Այ.։ Յամի Տն. 1753, եւ Հայոց ՌՃՁԲ։ Ի քաղաքս Կարին որ մակ անուամբ յորջորջի Թէոդուպօլիս եւ Արզրում, ընդ հովանեաւ Սբ. Ած.ածնի եւ Սբ. Լուսաւորչի։ էջ 5ա.— Ի խնդրոյ Տն. Ստեփաննոսի Սիւնեաց նահանգին վերադիտողիս...։ — Յանձն առեալ ընկալայ...։ էջ 10-11, դատարկ, նոյնպէս 376-384։\nՅիշատակարան Գրչի.— 1753 էջ 375ա.— Եղեւ վերջ, 1202 թւին ապրելի Լ։\nԵղեւ ծրեցեալ ձեռամբ յօգնամեղ եւ անարհեստ Բաղտասար էրէց Տէր Մելքոնեան, ի քաղաքս Կարին, ընդ հովանեաւ Սբ. Ած.ածնի եւ Սբ. Լուսաւորչի։\nՅետնագոյն յիշատակագրութիւն. — 1768\nԷջ 375բ. — Զստացող դրոյս, զՍրբոյ Աթոռոյս Էջմի. Պատրիարդ Գանձակեցի Կրպ. Վարդապետն յիշեցէք ի Տէր. որ եդ զգիրքս յիշատակ ի գրքատունն Ս. Յակոբեանցս եւ ըստ իւրոյ կտակին չունի ոք իշխանութիւն հանելոյ զսա ի Ս. Աթոռոյս, ի թուին ՌՄԺԷ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "128.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "129.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "671-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3850",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3850",
+  "notice": "3850",
+  "volume": "Jerusalem_V11",
+  "title": "ՇԱՐԱԿԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3850",
+    "no_notice": null,
+    "titre": "ՇԱՐԱԿԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "797",
+    "dimensions": "22x14x4",
+    "mise_en_page": "սեւ մելանով, միասիւն, 12 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ, մասամբ քայքայուած",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը երեք թերթ",
+    "colophon": null,
+    "informations_diverses": "հաւկըթաձեւ սեւադրոշմ, \"Յիշատակ Թանգարանի Սրբոց Յակովբեանց\", էջ 1, 19, 249",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Կանոն Ծննդեան Սրբոյ Աստուածածնի.— Երգեցէք որդիք Սիօնի...։ Էջ 40.— Կանոն Ծննդեան Ա. աւուր, Օրհնութիւն, ԴԿ։ Էջ 108.— Կանոն Քառասնօրեայ Գալստեան Քրիստոսի ի տաճարն։ Էջ 121.— Կանոն Դաւթի Մարգարէին եւ Յակոբայ արդար առաքելոյն։ Էջ 213 կրկնուած։ Էջ 221.— Կանոն Յովնանու Մարգարէին։ Էջ 226 կրկնուած։ Էջ 262.— Կանոն Բուն Բարեկենդանի աւուր։ Էջ 304.— Կանոն Երրորդ Կիւրակէի աղուհացից։ Էջ 423.— Կանոն Վեցերորդ Կիւրակէի աղուհացից։ Էջ 433էն յետոյ սխալմամբ գրուած է 435։ Էջ 446 կրկնուած։ 449էն յետոյ սխալմամբ գրուած է 452։ Էջ 504.— Կանոն Յարութեան Ղազարու։ Էջ 545.— Կանոն Մեծի Երկուշաբթին։ Էջ 559.— Կանոն Մեծի Երեքշաբթիին։ Էջ 587 կրկնուած։ Էջ 595–596, դատարկ։ Էջ 600.— Մեծի Շաբաթու, Օրհ. ԲՁ.— Պարգեւատունն...։ Էջ 618 դատարկ։ Նոյնպէս էջ 621։ Էջ 626–777, դատարկ։ Էջ 778.— Ցանկ։ Էջ 786–797, դատարկ։ Էջ 63–64, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "305.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3850-refine.json",
+    "pipeline_version": "v1"
+  }
+}

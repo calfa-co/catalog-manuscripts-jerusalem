@@ -1,0 +1,68 @@
+{
+  "id": "J3028",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3028",
+  "notice": "3028",
+  "volume": "Jerusalem_V9",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (ՏԱՐԵԿԱՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3028",
+    "no_notice": "11",
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (ՏԱՐԵԿԱՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ը + 714",
+    "dimensions": "26 X 18.5 X 5",
+    "mise_en_page": "սեւորակ մելանով, միասին, 25 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "լաթ եւ կաշի հինցած",
+    "etat_conservation": "բաւարար ընդհանուր առմամբ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Ե, մանիշակագոյն թանաքով, շեղագիր տարբեր։ Էջ Ե.— ... Այսպիսի ողբովք հանդերձ Յովհաննու եւ աստուածասէրն Յովսէփու եւ Նիկոդիմոսին իջուցեալ զմարմինն եւ պատեալ դնէր ի գերեզմանի։ 1883, Նոյեմբեր 19, ի Դամասկոս գրեցի այս երկու թուղթդ ճառ Խաչին Որդւոյն Միածնի եւ Մօր Կոյսին։ Էջ Զ, դատարկ։ Էջ Է.— Տիտղոսաթերթ.— Տարեկան Քարոզք, հաւաքեալ ի Սբ. Գրոց եւ ի մատենից սուրբ եւ իմաստուն վարդապետաց։ Հատոր Առաջին։ Աշխատասիրութեամբ Տ. Կարապետի Արքեպիսկոպոսի Կոստանդնուպօլսոյ։ Ի Հայրապետութեան Մայր Աթոռոյն Սըրբոյ Էջմիածնի Տ. Ներսիսի սրբազան կաթողիկոսի ամ. Հայոց։ Ի Պատրիարքութեան Սրբոյ Աթոռոյս Երուսաղէմի տեառն Կիրակոսի սրբազան արքեպիսկոպոսի։ Եւ ի Կ. Պոլսոյ պատրիարք Տ. Մատթէոսի արքեպիսկոպոսի։ Յամի Տեառն 1847 եւ ի մերոյս ՌՄՂԶ, ի Խրիսուպօլիս։ Բարեաւ վայելես Հայր Գրիգոր ճգնազգեաց սուրբ վարդապետ. յիշեսջիր Առաքել ողորմելի խեղճ վարդապետ Մազմեանը, որ է կարօտ օրհնութեան։ 1880, ապր. 3 յԵրուսաղէմ։ Էջ Ը, դատարկ։\nԷջ 1.— Առաջաբան։ Էջ 5.— Քարոզ Ա. Կաղանդ։ Խոկումն Մահուան։ Էջ 194, կրկնուած։ Էջ 220.— Քարոզ ԼԷ։ Տօն Սրբոց Քառասնից։ Էջ 234, կրկնուած։ Նոյնպէս էջ 224, 257։ Էջ 289.— Քարոզ ԽԶ։ Ծաղկազարդ։ Էջ 335.— Քարոզ ԾԲ։ Զատիկ։ Էջ 476.— Քարոզ ՀԷ։ Վերափոխումն։ Էջ 521.— Քարոզ ՁԶ։ Խաչվերաց։ Էջ 597.— Քարոզ Ճ։ Տօն Ամ. Սրբոց։ Էջ 678.— Քարոզ ՃԺԴ։ Տօն Որդւոյն Որոտման։ Էջ 690.— Քարոզ ՃԺԶ։ Մասնաւոր Իշխանութեան. Գաւազան Վարդապետութեան։ Էջ 701.— Ցանկ Քարոզից.— Ա–ՃԺԶ Քարոզներ։ Էջ 710–714, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "240.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3028-refine.json",
+    "pipeline_version": "v1"
+  }
+}

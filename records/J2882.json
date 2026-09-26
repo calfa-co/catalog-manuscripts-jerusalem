@@ -1,0 +1,68 @@
+{
+  "id": "J2882",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2882",
+  "notice": "2882",
+  "volume": "Jerusalem_V9",
+  "title": "ՍԱՂՄՈՍԱՐԱՆ (ԵԹՈՎՊԵՐԷՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2882",
+    "no_notice": null,
+    "titre": "ՍԱՂՄՈՍԱՐԱՆ (ԵԹՈՎՊԵՐԷՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Early 15th century codex, vellum; 16.5 X 11.4 cm. D + 159 folios; full binding, wooden board covered with leather. On the leather cover there appear two rectangular figures with diagonal lines across them (one in front, the other in the back). On each rectangular figure there appear two stars (six pointed stars). Single columns throughout except for the Weddase Maryam which is in double columns. 22-26 lines per column; Ms. in fair condition, but stained throughout with occasional holes in some folios, and the bottom front eaten out (possibly by mice). Somewhat faded writing.",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Title: The Psalter. 1) fols. 1-116a The Psalms. The beginning of each Psalm is indicated by the rubrics and num-bers. At the end of most of the psalms there is a complex and ornamental punctuational design. Psalm 137 (cf. Ps. 136) in the recitative is abbreviated except after the first and the last stanzas. 2) fols. 116a-129b: The Songs of the Prophets or the fifteen morning odes indicated by their respective rubrics. 3) fols. 130a-137b: The Song of Songs. 4) fols. 138a-158a: Weddase Maryam together with Porch of Light.\nAdditional Content. 1) fols. a-d and fols 158a-159. Mostly blank with writing exercises on fol. a2, c1, and d1,and geometrical sketches on fols. b2 and c. On fol. 1a there is a design head piece. Տես էջ 181-182:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "107.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2882-refine.json",
+    "pipeline_version": "v1"
+  }
+}

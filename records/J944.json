@@ -1,0 +1,68 @@
+{
+  "id": "J944",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "944",
+  "notice": "944",
+  "volume": "Jerusalem_V3",
+  "title": "ԱՍՏՂԱԲԱՇԽՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "944",
+    "no_notice": "2",
+    "titre": "ԱՍՏՂԱԲԱՇԽՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "304",
+    "dimensions": "20x15x2",
+    "mise_en_page": "գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 16 տող",
+    "details_ecriture": "ցանցառ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սակաւ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Յաղագս Դիտողութեան Տիեզերիս՝ ըստ յանդիման լինելոյ աչաց։— Հմմտ. աստ թիւ 817։ Սահման Առաջին.— Աստղաբաշխութիւնն է գիտութիւն տիեզերիս եւ երեւութից նորա՝ ըստ որում այնպիսի։ Պարապումն.— Աստղաբաշխութիւնն բաժանի յերկուս մասունս. յառաջնումն ցուցանի, թէ տիեզերք յերկրէ աստի նըշմարեալ որպիսի երեւի աչաց մերոց։ Իսկ յերկրորդումն՝ զննին բնութիւն եւ յատկութիւնք մարմնոց եղելոց յաշխարհի ճըշմարիտ կազմութիւն տիեզերիս, եւ ճշմարիտ օրէնք շարժման։ Էջ 103.— Երկրորդ Մասն Աստղաբաշխութեան։ Յաղագս նկատողութեան Տիեզերիս՝ ըստ որում մտօք ըմբռնի։ Էջ 291-304, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "518.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "944-refine.json",
+    "pipeline_version": "v1"
+  }
+}

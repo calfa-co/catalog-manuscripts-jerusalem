@@ -1,0 +1,68 @@
+{
+  "id": "J2992",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2992",
+  "notice": "2992",
+  "volume": "Jerusalem_V9",
+  "title": "ՄԵԴՐԱԿԱՆ ԴՐՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2992",
+    "no_notice": "2",
+    "titre": "ՄԵԴՐԱԿԱՆ ԴՐՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "192",
+    "dimensions": "19 X 14 X 1",
+    "mise_en_page": "սրճագոյն թանաքով, միասիւն, 18 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը վեց թերթ, առաջին երեսին գրուած կայ. «Վահան Վրդ. Քէշիշեան, 1889, Յուլիս 16»",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Տասնորդ Մեդրական Դրութիւն կշռոց եւ Չափուց։ 1.— Չափ կը կոչուին այն գործիքները, որք կը գործածուին այլ եւ այլ ծանրութիւնները, երկայնութիւններն, եւ այլն, որոշելու համար։ Էջ 3.— Պատմական Տեսութիւն Մեդրական Դրութեան։ Էջ 18.— Պատկեր օրինական չափուց։ Էջ 22.— Ընդհանուր Մեդրական Չափեր։ Էջ 51.— Կրթութիւններ եւ խնդիրներ։ Էջ 86.— Չափք Պարունակութեանց։ Էջ 113.— Խտութիւն Մարմնոց։ Էջ 120.— Չափ արժէից կամ դրամոց։ Էջ 129.— Շինութիւն Դրամոց։ Էջ 132.— Կրթութիւններ եւ խնդիրներ։ Էջ 141-192, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "196.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2992-refine.json",
+    "pipeline_version": "v1"
+  }
+}

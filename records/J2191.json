@@ -1,0 +1,72 @@
+{
+  "id": "J2191",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2191",
+  "notice": "2191",
+  "volume": "Jerusalem_V7",
+  "title": "ՅԱՂԱԳՍ ԵՐԿՆ. ՔԱՀԱՆԱՅԱՊԵՏՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2191",
+    "no_notice": "1",
+    "titre": "ՅԱՂԱԳՍ ԵՐԿՆ. ՔԱՀԱՆԱՅԱՊԵՏՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "122",
+    "dimensions": "24.5 x 17.5 x 1.5",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 41 տող, երբեմն պակաս",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ. ցեցակերութիւն թեթև",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 — Գիրք Ա. Յաղագս Երկնային\nՔահանայապետութեան, ի Դիոնէսիոսէ առ Տիմոթէոս եպս. Եփեսացւոց. — Ամ. բարի՝ թէ բնութեան թէ շնորհաց, յԱստուծոյ Հօրէ երանէ...։ Ծանօթ. — Լուսանցքներու վրայ յաջորդաբար նշանակուած են, Դիոնէսիոս, Մաքսիմոս։ Էջ 30. — Գիրք Բ. Յաղագս եկեղեցական Քահանայապետութեան...։ — Մաքսիմոս. — Քանզի մաքրել, լուսաւորել, եւ կատարելագործել, նախնաբար եւ յատկապէս է Աստուծոյ, իսկ երկրորդաբար հրեշտակաց...։ Էջ 48. — Դիոնէսիոսի Արիսպագացւոյ Եպիսկոպոսի Աթենացւոյ առ Տիմոթէոս եպս. Յաղագս Աստուածայնոցն Անուանց։ Էջ 94. — Դիոնէսիոսի Արիսպագացւոյ եպիսկոպոսի Աթենացւոյ, առ Տիմոթէոս եպս. Եփեսացւոց, Յաղագս Խորհրդական Աստուածաբանութեան։ Գլուխ Ա.։ Էջ 100. — Առ Գայիոս միայնակեաց Թուղթ առաջին։ Էջ 110. — Առ Յովհաննէս Առաքեալ եւ Աւետարանիչ, աքսորեալ ի Պատմոս կղզին։\nՅիշատակագրութիւն. — 1838 Էջ 111, ստորոտը, տարբեր գրչէ. — Յիշատակ է գիրքս Երուսաղէմի միաբան Անդրիանուպօլսեցի նախկին պատրիարք մեծին Պօլսոյ՝ Պօղոս սրբազան արքեպիսկոպոսի ձեռնասուն աշակերտ Չորլուցի Տէր Կարապետեան նուիրակ հանգուցեալ Երեմիա շընորհազարդ վարդապետին, ի դուռն Սրբոց Յակոբեանց մայր աթոռոյն ամ. Հայոց, թըվին 1838, սեպտ. 6։ Էջ 112-122, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "300.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "301.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2191-refine.json",
+    "pipeline_version": "v1"
+  }
+}

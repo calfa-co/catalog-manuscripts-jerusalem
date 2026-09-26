@@ -1,0 +1,72 @@
+{
+  "id": "J3786",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3786",
+  "notice": "3786",
+  "volume": "Jerusalem_V11",
+  "title": "ԿՈՆԴԱԿ ՊԱՍՐԱՅԻ ՀԱՅՈՑ",
+  "date": {
+    "from": "1828",
+    "to": "1828",
+    "display": null
+  },
+  "fields": {
+    "numero": "3786",
+    "no_notice": null,
+    "titre": "ԿՈՆԴԱԿ ՊԱՍՐԱՅԻ ՀԱՅՈՑ",
+    "date_debut": "1828",
+    "date_fin": "1828",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "10",
+    "dimensions": "31X21",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 29– 31 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կանաչ թուղթ, պատռտած",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ամենաբարեպաշտ պատուելի երամոց Սբ. Լուսաւորչին Հայոց՝ հոգեւորականաց եւ մարմնաւորականաց բնակեցելոց ի Պասրայ, սրբագործ քահանայից՝ աւագաց եւ եղելոց յիւրաքանչիւր կարգի, եւ գերապատիւ ազգասէր իշխանաց հոգաբարձուաց հասարակութեան, եւ վերատեսչաց, սրբոց եկեղեցեաց, էրէցփոխանաց եւ գանձապետաց, եւ առ հասարակ ամ. ժողովրդականաց՝ արանց եւ կանանց՝ մեծաց եւ փոքունց, ողջոյն քրիստոսաւանդ նուիրեմ բազմապատիկ օրհնութեամբ:\nՕրհնեալ Տէր Ած. Իսրայէլի՝ որ յայց ել մեզ...: Լուեալ իցէք թերեւս կանխաւ յառաջ, զի յամի 1826, յամսեանն յուլիսի յանկարծակի անկեալ զօրաց պարսից ի վերայ բնակչաց մերձակայ սահմանաց ռուսաց ի գաւառն Շիրակայ՝ յԱրցախայ՝ որ է Ղարաբաղայ, Շագուայ եւ Շամախոյ...:\nԵւ աղաչեմ զԱծ. զի առաւել եւս յայսմհետէ արժանի արասցէ զմեզ գրել ձեզ հետզհետէ զուրախականս եւ զսիրելիս ձեր՝ զաւետարանութիւնս ազգական բարութեանց եւ յառաջդիմութեանց, եւ ես կամ եւ մնամ միշտ իսկական վերապատուութեամբ եւ կատարելագոյն ջերմեռանդութեամբ հոգւոյ իմոյ յաւերժ բարեպաշարտ ձեզ եւ ի սրտէ բարեացակամ, Ձերում ամենաբարեպաշտ արժանանձնութեանց խոնարհ ծառայ Արքեպս. Հայոց Վրաստանու Ներսէս: Ի 1828, ապրիլ 28 ի Սբ. Կաթուղիկէն Էջմիածին: Էջ 10, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "242.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "243.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3786-refine.json",
+    "pipeline_version": "v1"
+  }
+}

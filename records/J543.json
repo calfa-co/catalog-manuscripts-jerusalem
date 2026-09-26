@@ -1,0 +1,72 @@
+{
+  "id": "J543",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "543",
+  "notice": "543",
+  "volume": "Jerusalem_V2",
+  "title": "ՄԵԿՆ. ՅԱՅՏՆՈՒԹԵԱՆ ՅՈՎՀԱՆՆՈՒ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "543",
+    "no_notice": null,
+    "titre": "ՄԵԿՆ. ՅԱՅՏՆՈՒԹԵԱՆ ՅՈՎՀԱՆՆՈՒ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ՃԻԶ + 46. Հանգամանք լաւ",
+    "dimensions": "22x17x1.5",
+    "mise_en_page": "սեւ մելանով, միասիւն, 33, 23 տող։ Նոտր շեղագիր",
+    "details_ecriture": "շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "առաջին մասը կապտորակ, երկրորդին սկիզբը եւ վերջը հասարակ ճերմակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ Ա.— Համառօտ Քաղուածու Տեսլեանն եւ Յայտնութեանն Երանելոյն Յօհաննու Աւետարանչին, Գլուխ Ա.— Յայտնութիւն Յի. Քի.։ Զի՞նչ է յայտնութիւն, այսինքն ծածուկ խորհրդոցն երեւումն, իր մի որ ծածուկ լինի, որ մարդ տեսանել ոչ կարէ եւ ոչ իմանայ, յորժամ ի տեսութիւն գայ եւ յայտնի լինի և իմանայ մարդ՝ նորա յայտնութիւն ասի...։ էջ ՃԻ.— Գլուխ ԺԲ.— Բն. Եւ նշան մեծ երեւեցաւ յերկինս, կին մի արկեալ զիւրեւ զարեգակն...։ Մկ. Զայս ոմանք զԱծ.ածինն կարծեցին վասն Ած.ածնողութեան, բայց մեծն Մեթոդիոսոս հայրապետըն ոչ հաւանի այսմ, այլ ի վերայ եկեղեցոյ առնու զբանիս մեկնութիւնն...։ էջ ՃԻԶ.— ... զի ամ. մարդ երկնչի եւ պատրաստ կենայ որ զինքն չկլանէ սատանայ, որպէս զտասնաբանեայն օրէնքն։— էջ 1.— Քարոզ Յօնանու Մարգարէյին.— Անըսկիզբն եւ անվաղճան Ած.ութեան...։ Ծանօթ.— Հայերէն եւ Թրքերէն խառըն։ էջ 25.— Այս է պատմութիւն վարուցն Ադամայ եւ Եւայի նախաստեղծիցն, զկնի ելանելոյն ի դրախտէն փափկութեան.— Առեալ Ադամ զկինն իւր զԵւայ եւ գնաց ի տեղի մի...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "584.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "585.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "543-refine.json",
+    "pipeline_version": "v1"
+  }
+}

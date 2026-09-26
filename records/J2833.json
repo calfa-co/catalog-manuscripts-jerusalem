@@ -1,0 +1,68 @@
+{
+  "id": "J2833",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2833",
+  "notice": "2833",
+  "volume": "Jerusalem_V9",
+  "title": "ԹԱՓՕՐԻ ՏԵՏՐԱԿ Ս. ՅԱՐՈՒԹԵԱՆ ՏԱՃԱՐԻ",
+  "date": {
+    "from": "1828",
+    "to": "1828",
+    "display": null
+  },
+  "fields": {
+    "numero": "2833",
+    "no_notice": null,
+    "titre": "ԹԱՓՕՐԻ ՏԵՏՐԱԿ Ս. ՅԱՐՈՒԹԵԱՆ ՏԱՃԱՐԻ",
+    "date_debut": "1828",
+    "date_fin": "1828",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "19.5 X 14: Էջք Բ + 26: Հանգամանք բաւարար: Թուղթ հասարակ, ոչ միատեսակ: Գրիչ՝ Անտոն Աբղ. Եւդոկիացի: Գրութիւն՝ խորագիրները եւ գլխատառերը կարմիր, մընացեալը սեւ մելանով, միասիւն: Նոտրագիր անհարթ: Ուղղագրութիւն տկար: Կողք՝ կաշի",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա, դատարկ, անմաքուր: Էջ Բ.— Որ ըզշնորհս աստուածային...: Էջ 1.— Ի Սրբոյ Յարութեան Տաճարի թափորի Տետրակս կարգաւ գրեցաք յայտ լիցի ընդերցողաց, սկիզբն քառասուն մանկաց կիրակէյի շարականն: Որ պատուիրան ճշմարտութեան...: Էջ 8, դատարկ: Էջ 9.— Յաւուր Ծաղկազարդի Թափօր յայտ լիցի.— Որ ըզխորհուրդ...: Էջ 13.— Աւակ Շաբաթ լույսի երեկոյին Թաթրոն է: Էջ 14, դատարկ: Էջ 15.— Զատկի առաւօտեան Թաթրոն, որ կատարի ի մեծ Սրբոյ Յարեթեան Տաճարն.— Այսօր մեծ աւետիք...: Էջ 20.— Վերջաբանութիւն հարկաւորն եղաք աստ...:\nՅիշատակարան Գրչի.— 1828 Էջ 26.— Գրեցաւ Տետրակս ի թիւն ՌՄՀԷ, մարտի սկզբն, վերստին նորոգեցաք, ի հին Տետրակէ, ձեռամբ տրուպ եւ յիմար Անտոն աբեղայէ Եւդոկիացոյ: Եւ եթէ լինի սխալ ի մէջ սորին՝ խնդրեմ ընդերցողացդ ներում շնորհէք:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "068.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2833-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2864",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2864",
+  "notice": "2864",
+  "volume": "Jerusalem_V9",
+  "title": "Կ Ո Ն Դ Ա Կ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2864",
+    "no_notice": null,
+    "titre": "Կ Ո Ն Դ Ա Կ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "20",
+    "dimensions": "18x13",
+    "mise_en_page": "սկզբնատողերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 23 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": "թղթեայ, ներսի կողմը Յովակիմ պատրիարքի մէկ կոնդակին սկիզբի մասը, վերեւը կարմրադրոշմ կնիք, մէջտեղը Քըրիստոսի Յարութեան պատկերը, շուրջը երկաթագիր. «Կնիքս Սբ. Յարութեան, ոչ պարտուց, այլ օրհնութեան»։ Տես Պատմա-Բանասիրական Հանդէս, թիւ 35, 1966, էջ 178. Լ. Ս. Խաչիկյան",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— [Յի.] Քի. նուաստ ծառայ Յակոբ Կաթողիկոս ամ. Հայոց, Եւ փոխանորդ Սբ. Առաքելոցն Բարդուղիմէոսի եւ Թադէոսի, եւ Աթոռակալ Սրբոյն Գրիգորի Հայաստանեայց Լուսաւորչի, եւ վերադիտող Վաղարշապատու Աստուածաէջ Սբ. Տեղոյն իջման Բանին Այ. եւ խնամիչ Սբ. Աթոռոյն տառապեալ ազգիս...։ Էջ 6.— ...թէ խօճայ Նազարն եւ այլ Ջուղայեցիքն զիս չեն ընդունել. Շահն ասացեալ էր խօճայ Նազարին, եւ նա տուեալ ըզպատասխանին, որպէս որ գրեալ եմ ի մէջ Կաթողիկոսաց Պատմութեանն. եւ ոչ այնու գտաւ իւր անկարգ արարմանց դեղ...։ Անդ եւս ոչ դադարեաց վատաշվէրն իւր խարդախութենէն, որպէս գրեալ եմ լիապէս արարք նորա ի Պատմութիւն Կաթողիկոսացն...։ Էջ 18.— ...Հոգեւոր եւ սիրելի որդիք, այ, իմ կտակս է որ հարկաւոր ձեզ պատուիրեցի...։ Այլ ինքն ողորմեսցի եւ գթասցի իւր իջման տեղոյն եւ ցաւակցողացն ամենայնի։ Էջ 20, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "089.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2864-refine.json",
+    "pipeline_version": "v1"
+  }
+}

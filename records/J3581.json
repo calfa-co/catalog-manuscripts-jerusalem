@@ -1,0 +1,68 @@
+{
+  "id": "J3581",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3581",
+  "notice": "3581",
+  "volume": "Jerusalem_V10",
+  "title": "ՏԵՏՐ ՆՕԹԵՐՈՒ",
+  "date": {
+    "from": "1921",
+    "to": "1921",
+    "display": null
+  },
+  "fields": {
+    "numero": "3581",
+    "no_notice": null,
+    "titre": "ՏԵՏՐ ՆՕԹԵՐՈՒ",
+    "date_debut": "1921",
+    "date_fin": "1921",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "80",
+    "dimensions": "21x17",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 20 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "սեւ թուղթ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Երուսաղէմ մեկնելուս առթիւ նօթերու տետր։ 1921, Յունիս 16 առաւօտ ժամը 8ին, Փոխանորդարանէն ճամբայ ելայ դէպի Ղալաթիա Հայոց եկեղեցին...։ Էջ 14.— Յունիս 24. Այս առաւօտ ժամը 7ին ելանք եւ սակայն տակաւին չէր երեւար Եաֆան. վերջապէս ժամը 10ին Եաֆայի առջեւ էինք...։ Էջ 17.— Յունիս 26 Կիւրակէ։ Այսօր այցելեցի Չիլինկիրեան եւ Աղաւնունի եպիսկոպոսաց, լուսարարապետ Տ. Դաւիթ Ծ. վարդապետին...։ Էջ 28.— Յուլիս 1։ Առաւօտ նամակագրութիւնով եւ Պոլիս ղրկուելիք գրութիւններով զբաղեցայ...։ Էջ 33.— Յուլիս 18 եւ 19ին նամակներ գրեցի Պոլիս Ս. Պատրիարքին եւ բարեկամներու...։ Էջ 42.— 9 Օգոստ.։ Տեսայ Գայարեանը, որուն արդիւնքը հաղորդեցի Դուրեան Սրբազանի եւ Դաւիթ վարդապետի զատ զատ նամակներով...։ Էջ 48–73, դատարկ։ Էջ 74–80, մանր հաշիւներ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "639.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3581-refine.json",
+    "pipeline_version": "v1"
+  }
+}

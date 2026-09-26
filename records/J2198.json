@@ -1,0 +1,68 @@
+{
+  "id": "J2198",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2198",
+  "notice": "2198",
+  "volume": "Jerusalem_V7",
+  "title": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2198",
+    "no_notice": "14",
+    "titre": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "176",
+    "dimensions": "20.5 x 15 x 2",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 23-31-39 տող։ Նոտր շեղագիր անարուեստ",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ, մաշած։",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": "Էջ 1, ստ. լուսանցքին, տարբեր գրչէ. — Յիշատակ է ի դուռն Սբ. Յակոբայ որ յերուսաղէմ",
+    "informations_diverses": "Էջ 1. — Ճակատ. — Համառօտ ճարտասանութիւն, դիւրին ոճիւ եւ վայելուչ օրինակաւ, շարադրեցեալ աշխատասիրութեամբ տեառն Մխիթարայ վարդապետի Սեբաստացւոյ՝ աբբայ հայր կոչեցելոյ։ Յաղագս արհեստի ճարտասանութեանն, գիրք առաջին։ Յաղագս Սահմանի ճարտասանութեան, եւ բաժանմանց մասանց նորին։\nԷջ 111. — Յաղագս չորրորդի մասին ճարտասանութեան։ Էջ 122, դատարկ։ Էջ 123. — Գրէ իշխանն փիլիսոփայից առ Փեստրոս ոմն ի տրամաբանութեան իւրում...։ Էջ 160, դատարկ։ Էջ 161. — Այլ իմն խորհուրդ բացերեւեսցէ աստուածային Սողոմոսի վասն միաւորութեան բանին Աստուծոյ ընդ մարմնոյն, եւ յետ միաւորութեանն զանազանութիւն ոչ տեսանել ի միաւորութիւնն...։ Էջ 176, դատարկ, գրչափորձ, եւայլն",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "311.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2198-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2162",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2162",
+  "notice": "2162",
+  "volume": "Jerusalem_V7",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2162",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "120",
+    "dimensions": "30×20×1.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը, եւ սկզբնաբառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 35 տող։ Նոտր շեղագիր կանոնաւոր",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "հինցած",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Քարոզ առաջին։ Պենտեկոստէի Հոգւոյն Սրբոյ ի վերա բանին՝ Յօհ. ԺԴ. 15, ուր ասէ Տէրն, եթէ սիրէք զիս՝ ըզպատուիրանս իմ պահեսջիք...։— Բնաբանս այս ունի չորս մասունս։ Նախ, թէ Հոգին Սուրբ պարգեւի պահողաց պատուիրանացն Քրիստոսի...։ Էջ 23ա.— Երկրորդ՝ Քարոզ Սրբոյ Երրորդութեան...։ Էջ 31բ.— Քարոզ Երկրորդ կիրակէին զկնի Պենտեկոստէին...։ Էջ 43բ.— Քարոզ չորրորդ, ի վերելման ի Վիրապէն Սրբոյն Գրիգորի մեր Լուսաւորչի.— Դուք որ եկիք զկնի իմ...։ Էջ 96ա.— Քարոզ Ը երորդ։ Վեցերորդ կիրակէի զկնի Պենտեկո...։ Էջ 102–115ի միջեւ կը պակսի 6 թերթ։ Էջ 102բ–120, դատարկ, թէեւ գծուած։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "264.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2162-refine.json",
+    "pipeline_version": "v1"
+  }
+}

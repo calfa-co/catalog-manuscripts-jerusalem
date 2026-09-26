@@ -1,0 +1,68 @@
+{
+  "id": "J3342",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3342",
+  "notice": "3342",
+  "volume": "Jerusalem_V10",
+  "title": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3342",
+    "no_notice": "258",
+    "titre": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "3-598",
+    "dimensions": "21x15x6",
+    "mise_en_page": "սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 21 տող",
+    "details_ecriture": "վարժ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "անբաւարար. վնասուած հնութենէ. սկիզբը եւ վերջը թերի. առանց կողքի. կարօտ նորոգութեան",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "Ս. Յովհաննէս եւ Պրոխորոն, պատռուած փճացած, էջ 478",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "քառանկիւն, «Մատենադարան Ս. Նշան Վանուց Սեբաստիոյ, թիւ 83», էջ 3։ Հմմտ.— Ցուցակ Ձեռ. Սեբաստիոյ, թիւ 56",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր եւ լուսանցազարդ հատուածներու սկիզբը, զարդերէն շատերը կտրուած հանուած ; ԳՈՒՆԱՒՈՐ: խորանազարդ իւր սարօք էջ 175, 291, 479",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 3-10.— Կանոնի տախտակներ, յոյժ վնասուած եւ մասամբ փճացած։ Էջ 11-12, կը պակսի։ Էջ 13բ.— ...Ազովր ծնաւ զՍադովկ...։ Էջ 31էն յետոյ սխալմամբ դրուած է 40։ Էջ 125-126ի եւ 127-128ի միջեւ չորս էջ մնացած է առանց թիւի։ Էջ 173ա.— Նախադրութիւն Մարկոսի Աւետարանիս։ Էջ 174-175ի միջեւ պատռուած մէկ թերթ, որ ըստ երեւոյթին կը պարունակէր Ս. Մարկոսի նկարը։ Էջ 175.— Սկիզբն Աւետարանի Յի. Քի. ...։— Զարդագրերուն կէսը փճացած։ Էջ 286ա.— Աւետարանս Մարկոսի, Համբարձման կարգայ.— Յարուցեալ Յս. առաւաւտուն...։ Էջ 288բ.— Նախադրութիւն Ղուկասու Աւետարանին։ Էջ 290-291ի միջեւ կտրուած մէկ թերթ, որով կորսուած է Ս. Ղուկասի նկարը։ Էջ 291.— Քանզի բազումք յա[լ]ժարեցին...։ Էջ 476բ.— Նախադրութիւն Յոհաննու Աւետարանին։ Էջ 479.— Ի սկզբանէ էր Բանն...։ Էջ 597բ.— Եւ ածեն զՅս. ի վանաց Կայիափայ...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "216.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3342-refine.json",
+    "pipeline_version": "v1"
+  }
+}

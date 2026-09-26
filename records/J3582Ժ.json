@@ -1,0 +1,72 @@
+{
+  "id": "J3582Ժ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3582Ժ",
+  "notice": "3582Ժ",
+  "volume": "Jerusalem_V10",
+  "title": "ԶՕՐԱՎԱՐ ԱՆԴՐԱՆԻԿ",
+  "date": {
+    "from": "1984",
+    "to": "1984",
+    "display": null
+  },
+  "fields": {
+    "numero": "3582Ժ",
+    "no_notice": "Ժ",
+    "titre": "ԶՕՐԱՎԱՐ ԱՆԴՐԱՆԻԿ",
+    "date_debut": "1984",
+    "date_fin": "1984",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ը+266, մնացեալը, հատորին կէսէն աւելին, դատարկ. թէեւ գծուած ու պատրաստ",
+    "dimensions": "19x5x12.5x8",
+    "mise_en_page": "եւայլն, նման նախորդին",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "եւայլն, նման նախորդին",
+    "nb_lignes": null,
+    "reliure": "եւայլն, նման նախորդին",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա, Գ–Դ, Զ, դատարկ։ Էջ Բ.– Փակցուած սեւատիպ նկար. \" Զօրավար Անդրանիկ՝ 1916ին՝ նկարուած Թիֆլիսի մէջ\"։ Էջ Ե.– Զօր. Անդրանիկ, հաւաքեց Յ. Վ. Պարոնեան, Առք. Ուխտէն Ս. Յակոբեանց, Երուսաղէմ, 1984։ Էջ Է.– Փակցուած սեւատիպ նկար. \" Զօրավար Անդրանիկ, որուն մահուան տարեդարձն էր Օգոստոս 31ը։ Էջ Ը.– Փակցուած լուսանկար. \" Le General Major Andranik \"։ Էջ 1.– Ազգ. Անզուգական Հերոս Զօրավար Անդրանիկի մահուան եօթներորդ տարելիցին առթիւ։ Էջ 18.– Յարգանքի համար (Զինուորներուս). 1915–1917։ Զօր. Անդրանիկի Կովկասեան Ճակատի Պատմական Օրագրութենէն. Օրագրուած Զօրավարին թիկնապահ զինուորէն.– Երբ թուղթերուս ծրարները կը քրքրէի...։– Անդրանիկ, 1924, Յունիս 18, Ֆրէզնօ։ Էջ 21.– Դրուագ մը (Անդրանիկի Գործերէն).– Ազգերը կ’ապրին իրենց աւանդութիւններով, իրենց պատմութեամբ եւ հերոսներով ...։– Մխիթար Գէորգեան։ Էջ 27.– Զօրավար Անդրանիկ (Յուշեր)։ Գրեց՝ Յովակիմ Պօղոսեան (Օվականենց)։ Էջ 48.– General Antranik (Reprinted from the New Armenia of June, 1920). Էջ 78.– Անգլ. գրուածքի թարգմանութիւնն է հետեւեալը.– Թարգմանեց Հաճնցի Շաւարշ Վ. Գույումճեան, Առք. Ուխտէն Ս. Յակոբեանց։ 1984, Հոկտ. 28, Ս. Աթոռ։ Էջ 106.– Հերոսը.– Գրեց Քուրմ։ Էջ 122.– Շապին Գարահիսար եւ իր\nԱրծիւը։ Էջ 235էն յետոյ սխալմամբ դրած է 237։ Էջ 248.– Կոչ Սփիւռքի Հայութեան Ազգային Հերոս Զօր. Անդրանիկի Յուշար– ձանի Շինութեան առթիւ։ Վերջին թերթին վրայ փակցուած սեւատիպ նկար. \" Զօր. Անդրանիկի այս արձանը շինուած է ողբացեալ բանաստեղծ Յովհ. Թումանեանի փափաքով, յայտնի արձանագործ Պ. Յակոբ Կիւրջեանի կողմէ, 1916ին, երբ Զօրավարը Թիֆլիս կը գտնուէր...\"։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "647.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "648.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3582Ժ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

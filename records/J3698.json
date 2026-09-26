@@ -1,0 +1,68 @@
+{
+  "id": "J3698",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3698",
+  "notice": "3698",
+  "volume": "Jerusalem_V11",
+  "title": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ (Թերի)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3698",
+    "no_notice": "9",
+    "titre": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ (Թերի)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "73—288",
+    "dimensions": "20x14x1.5",
+    "mise_en_page": "սեւ մելանով, միասիւն, 27 տող։ Նոտր շեղագիր",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "չունի",
+    "etat_conservation": "անբաւարար. ազդուած թացութենէ, քայքայուած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 73.— Յօդուած Ը.— Յաղագս յօռութեանց ընդլայնման։ Էջ 75.— Գլուխ Թ։ Յաղագս կրից, եւ սկզբանց վարժութեան նոցա.— Քանզի ճարտասանը բան մը ընդլայնելով կը նայէ որ արթնցնէ, ու շարժէ մտիկ ընողներու կիրքը...։ Էջ 100.— Գիրք Երկրորդ։ Գլուխ Ա։ Յաղագս տրամադրութեան առ հասարակ։ Թէ զի՞նչ եւ քանիպատիկ իցէ տրամադրութիւնն։ Էջ 108.— Գլուխ Բ։ Յաղագս Յառաջաբանութեան։ Էջ 105.— Յօդուած Ա։ Յաղագս աղբերաց օրինաւոր յառաջաբանութեանց.— Կերպ կերպ են աղբիւրները...։ Էջ 111.— Գլուխ Գ։ Յաղագս Առաջարկութեանց։ Էջ 115.— Գլուխ Դ։ Յաղագս Բաժանման։ Էջ 129.— Գլուխ Է։ Յաղագս Հերքման։ Էջ 185.— Գիրք Երրորդ։ Գլուխ Ա։ Յաղագս Ճոխաբանութեան։ Էջ 189.— Յօդուած միակ։ Յաղագս Բացայայտութեան.— Բացայայտութիւնը աւելի հարկաւոր է ճառին, քան ընտիր հայկաբանութիւնը։ Անոր համար նախնիքը ըսեր են. Տգեղագոյնս խօսի, եւ յայտնագոյն...։ Էջ 198.— Գլուխ ԺԷ։ Յաղագս Ոճոյ։ Էջ 203.— Գիրք Չորրորդ։ Յաղագս Հանդիսից Ճարտասանութեան.— Հմմտ.— Թիւ 2856, Բ. Հատոր, էջ 64։ Էջ 278.— Գլուխ Է։ Յաղագս Քարոզի։ Էջ 286.— Գլուխ Ը։ Յաղագս Բարուց։ Էջ 287.— Յօդուած Ա։ Յաղագս պէսպէս հանգամանաց բարուց երիտասարդաց, ծերոց, եւ տղայոց.— Երիտասարդաց հասակը կրակոտ է...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "156.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3698-refine.json",
+    "pipeline_version": "v1"
+  }
+}

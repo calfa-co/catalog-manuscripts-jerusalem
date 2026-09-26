@@ -1,0 +1,68 @@
+{
+  "id": "J3549",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3549",
+  "notice": "3549",
+  "volume": "Jerusalem_V10",
+  "title": "ՄԱՇՏՈՑ (Հայրապետական)",
+  "date": {
+    "from": "1856",
+    "to": "1856",
+    "display": null
+  },
+  "fields": {
+    "numero": "3549",
+    "no_notice": "153",
+    "titre": "ՄԱՇՏՈՑ (Հայրապետական)",
+    "date_debut": "1856",
+    "date_fin": "1856",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "146",
+    "dimensions": "21x16x1",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 23, 24 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "սրճագոյն թուղթ",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Կա(նո)նովն զԹագաւորս Ձեռնադրելոյ.— Յորժամ զգեցուցանեն զԹագաւորական հանդերձս...։ Էջ 10.— Կանոն Կաթուղիկոս Ձեռնադրելոյ.— Եւ յորժամ հանդերձեալ լինի եւ բարձրացուցանել զոք ի պատիւ կաթուղիկոսութեան Տանս Հայոց...։ Էջ 59.— Կանոն Միւռոն Օրհնելոյ։ Էջ 102.— Կանոն Սրբոյ Պատարագի ըստ ծիսի Հռոմէական Սբ. Եկեղեցւոյ, թարգմանեալ յանգղիականէ ի հայկական բարբառ, ի Մովսէս Սահակ Շմաւոնէ, ի Կալկաթայ, 1856 ամի փրկչի.— Եթէ չարչարանացն կցորդ լինիմք...։ — Հմմտ. թիւ 2973, Թ. Հատոր, էջ 162։ Կարծիք օրինակողի.— Էջ 143, վարը.— Եթէ ոք ունիցի սէր առ ուղղափառ առաքելական քրիստոսահիմն եկեղեցի Հայոց, եւ ուշ ի կուրծս բերեալ վերծանութեամբ բաղդատիցէ ընդ Խորհրդատետր Հայոց Սրբոյ Պատարագի արարողութեան ընդ լատինականին, քանի քանի զանազանութիւն ունի գտանել բարեպաշտ ընթերձողն, որ ինքնի յայտ առնէ ի նմա գտեալ քաղցրութիւն աղօթից հոգիաշունչ լինելն, եւ ի հոգեկիր անձանց յօրինեալ գոլն ոչ եւս կարծիք մնայ, զի բանքն մաղթանաց յանդ ոչ կարօտին իսկ վկայութեան, եւ արժանաւոր հիւսեալ են ի նոյն մեծի խորհրդոյ հոգեկեցոյց փրկութեան, յաստուածարեալ վարդապետաց քրիստոսահիմն եկեղեցւոյ, ի փրկութիւն համայն զինուորեցոց ի Քս. յուսացելոց, եւ ոչ իբրեւ զլատինականին եկեղեցւոյ, որ վերջին յոյս նոցա՝ ի մարդ մեղսակիր, ի պապն կարօտ փրկութեան յաւիտենականին։ Էջ 145–146, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "547.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3549-refine.json",
+    "pipeline_version": "v1"
+  }
+}

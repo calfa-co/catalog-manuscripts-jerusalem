@@ -1,0 +1,72 @@
+{
+  "id": "J3801",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3801",
+  "notice": "3801",
+  "volume": "Jerusalem_V11",
+  "title": "ԵԿԵՂԵՑԱԿԱՆ ԵՐԳԵՑՈՂՈՒԹԻՒՆ.— Թ.",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3801",
+    "no_notice": null,
+    "titre": "ԵԿԵՂԵՑԱԿԱՆ ԵՐԳԵՑՈՂՈՒԹԻՒՆ.— Թ.",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": ", նման նախորդին, բացի պիտակէն. էջք 184։",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1—4, գծուած ջնջուած։ Նոյնպէս էջ 7—18։ էջ 5.— Բազմերամք վեհագունիցն...։ էջ 14.— Երգք Արեւագալի։ էջ 30.— Երգ Ծննդեան եւ Աստուածածնայ.— Կուսածին մարդացեալ...։ էջ 32.— Շարական Հանգստեան.— Գըթա Տէր...։ էջ 34.— Տաղ Յարութեան.— Եկեալ Մարիամ...։ էջ 35—38, գծուած ջնջուած։ Նոյնպէս էջ 50։ էջ 39.— Փառք Յարութեան քո Տէր...։ էջ 45.— Անբաժանելի եւ համագոյ Երրորդութիւնդ...։ էջ 51.— Թագաւոր յաւիտեան ապաշխարութեան, ԴՁ.։ Էջ 68.— Կանոնագլուխ ԱԿ։ Էջ 71–76, գծուած ջնջուած։ Նոյնպէս էջ 78, 86–101։ Էջ 108.— Փառք ի բարձունս Աստուծոյ...։ Էջ 110.— Յորդոր.— Ի խորոց սրտից խօսք ընդ Աստուծոյ.— Ընկալ քաղցրութեամբ...։ Էջ 49.— Կիրակի օրերը.— Արի, Տէր, օգնեա մեզ...։ Էջ 124.— Երգք Ոտնալուայի.— Աստուած մեծ...։ Էջ 127–182, դատարկ։ Էջ 188.— Ցանկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "251.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "252.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3801-refine.json",
+    "pipeline_version": "v1"
+  }
+}

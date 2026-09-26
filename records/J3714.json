@@ -1,0 +1,72 @@
+{
+  "id": "J3714",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3714",
+  "notice": "3714",
+  "volume": "Jerusalem_V11",
+  "title": "ՇԱՐԱԿԱՆՔ ԹԱՓՈՐԻ",
+  "date": {
+    "from": "1899",
+    "to": "1899",
+    "display": null
+  },
+  "fields": {
+    "numero": "3714",
+    "no_notice": null,
+    "titre": "ՇԱՐԱԿԱՆՔ ԹԱՓՈՐԻ",
+    "date_debut": "1899",
+    "date_fin": "1899",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "276",
+    "dimensions": "20x14x1.5",
+    "mise_en_page": "սեւ եւ մանիշակագոյն մելաններով, միասիւն, 16 տող",
+    "details_ecriture": "մաքուր, մանիշակագոյն գիծերու միջեւ։ Լաթակազմ խաւաքարտեայ նորադրոշմ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար. գործածութենէ վնասուած թեթեւօրէն",
+    "copiste": null,
+    "possesseur": "Խորէն Վրդ. Փոստոյեան Զղեցի (Խուրս)",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, վերի լուսանցքին. \"Յիշատակ Ս. Աթոռոյս Ձեռագրաց Թանգարանին Խորէն Վրդ. Փոսթոյեանէ, 26–9–48\"։ — Վարագայ Սուրբ Խաչ.— Շաբաթ, յութերրորդ ժամու, ի Սբ. Յակոբ հար-կանի կոչնակ...։ Էջ 8.— Հրաշափառ Աստուած...։ Էջ 22.— Գիւտ Խաչ։ Էջ 37.— Հարց Գիւտ Խաչի։ Էջ 58.— Օրհնութիւն Վարագայ Խաչի։ Էջ 91.— Ութօրէից, Թըլփատութեան։ Էջ 93.— Լոյս ի լուսոյ...։ Էջ 108.— Մեծ Պահոց Ա. Շաբաթու եւ Երկրորդ Կիւրակէ։ Էջ 112.— Որ ի լերինն այլակերպեալ...։ Էջ 132.— Մեծի Պահոց չորրորդ շաբաթու եւ հինգերրորդ Կիւրակէ։ Էջ 165.— Որ պատուիրան...։ Էջ 178.— Ղազարոսի շաբաթ երեկոյ։ Էջ 193.— Զատկի Ճրագալուցի Շաբաթ եւ Կիւրակէ աւուրց։ Էջ 197.— Այսօր մեծ աւետիք Ադամայ...։ Էջ 216.— Սրբոյ Զատկի Երկրորդ շաբաթու Շաբաթ օր։ Էջ 217.— Աշխարհամատրան Կանանչ Կիւրակէ։ Էջ 218–220, դատարկ։ Էջ 221.— Տեղեկութիւն.— Հանդիսաւոր մուտ ի Սբ. Յարութիւն Դատաւորի շաբաթ երեկոյեան...։ Էջ 224.— 1899, Օգ. 1։ Էջ 225.— Ցանկ։ Էջ 226.— Ցանկ Շարականաց։ Էջ 228–229, դատարկ։ Էջ 230.— Կանոն Աշխարհամատրան Կիւրակէին։ Էջ 240, դատարկ։ Էջ 241.— Հարց ԴՁ, Հինգերորդ Կիւրակէի Աղուհացից։ Էջ 246.— Մեղեդի Ութօրէից Թըլփատութեան, ԱՁ.— Միաբանութեամբ օրհնեցէք...։ Էջ 249–273, դատարկ։ Էջ 274–276.— Ձայնագրեալ մանրուք։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "180.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "181.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3714-refine.json",
+    "pipeline_version": "v1"
+  }
+}

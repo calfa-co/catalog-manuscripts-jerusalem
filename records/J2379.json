@@ -1,0 +1,68 @@
+{
+  "id": "J2379",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2379",
+  "notice": "2379",
+  "volume": "Jerusalem_V8",
+  "title": "Ս Ա Ղ Մ Ո Ս",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2379",
+    "no_notice": "58",
+    "titre": "Ս Ա Ղ Մ Ո Ս",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "574",
+    "dimensions": "13 X 9.5 X 4.5",
+    "mise_en_page": "խորագիրները կարմիր , սկզբնատողերը և սկզբնատառերը կապոյտ կամ կարմիր , մնացեալը սև մելանով , միասիւն , 17 տող , կարմիր գիծերու միջև",
+    "details_ecriture": "տըկար ։ Կարմիր կապոյտ զարդագիր և լուսանցազարդ գուրզաններու սկիզբը , Կանոնները հանդերձ գլխազարդով , ոչ նուրբ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "դեղնորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ հինցած",
+    "etat_conservation": "բաւարար գրեթէ . սկիզբը և վերջը թերի . խոնաւութենէ ազդուած . նորոգութիւն կրած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 . — . . . ։ Զ . — Ի կատարած Սաղմոս ի Դաւիթ , ի վերայ ութերորդացն , որ յետ Յարութեան լինի . — Տէր մի սրտմտութեամբ քով յանդիմաներ զիս . . . ։ Էջ 4-5ի միջև թերթեր ինկած ։ Էջ 5-6 , վերէն վար կէսը պատռուած կորած ։ Էջ 9 . — Սաղմոս ի Դաւիթ . — Ընդէ՞ր Տէր կացեր ի հեռաստանէ . . . ։ Էջ 23-24 , տարբեր հասարակ թուղթ , գրեթէ լի գրչափորձերով ևայլն ։ Էջ 26 . — Սաղմոս ի Դաւիթ ։ Աղաւթք վասն նեղութեան , զի խոստացան Զիփացիքն տալ զԴաւիթ ի ձեռն Սաւուղայ . — Լուր Տէր արդարութեան . . . ։ Էջ 55 . — [Ե]րկինք պատմեն զփառս Աստուծոյ . . . ։ Էջ 137 . — Սաղմոս ի Դաւիթ . — Մի նախանձիր . . . ։ Էջ 253-254 , վարի կէսը միայն կը մնայ ։ Էջ 320-321ի միջև կը պակսի մէկ թերթ ։ Էջ 355 . — Սաղմոս ի Դօիթ . — Տէր ապաւէն եղեր մեղ . . . ։ Էջ 380 381ի միջև կը պակսի մէկ թերթ ։ Էջ 414 . — Սաղմոս ի Դաւիթ . — Խոստովան եղերուք Տեառն զի քաղցր է . . . ։ Էջ 466-467ի միջև կը պակսի մէկ թերթ ։ Էջ 479 . — Ի նեղութեան իմում ես առ Տէր կարդացի . . . ։ Էջ 557 . — Տէր ամենակալ . . . ։ Էջ 563 . — Հաւատով խոստովանիմ . . . ։ Էջ 574 . — Փառաւորեալ Տէր . . . և ամ . սրբոց քոց երկնաւորաց և երկր [Այսչափ . յաջորդ երկու թերթերը ինկած կորուսած] ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "032.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2379-refine.json",
+    "pipeline_version": "v1"
+  }
+}

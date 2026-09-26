@@ -1,0 +1,72 @@
+{
+  "id": "J537",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "537",
+  "notice": "537",
+  "volume": "Jerusalem_V2",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "537",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "226",
+    "dimensions": "22X15X2",
+    "mise_en_page": "սեւ մելանով ընդհանրապէս, տեղտեղ կան կարմիր գլխագիրներ, միասիւն, 23–31 տող",
+    "details_ecriture": "մէկ մասը նոտր շեղագիր, միւսը՝ նոտրագիր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: շեղագիր մասին մէջ շատ առատ, նոտրագիր մասին մէջ չափաւոր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հաստկեկ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "երկու, անծանօթ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Զաքարիա Կաթողիկոսի վասն Մատնութեան Տեառն։ Էջ 5–18. — Զանազան հատուածք Մեկնութեան Եսայեայ, եւայլն։ Էջ 49. — Երանելւոյն Անանիայի Հայոց Վարդապետի խորհուրդ Յօհանու Մարգարէի. — Յաղագս Յօնանու հակիրճ և համառօտ բանիւ անցցուք...։ Էջ 3. — Տն. Զաքարիայ Հայոց Կաթողիկոսի ասացեալ.— Եւ արդ՝ ծածկեալ խորհուրդ դալստեան որդւոյն Այ. ...: էջ 73.— Տն. Զաքարիայ Հայոց կաթողիկոսի ասացեալ.— Սրբոյ մաքրեցելոց աւուրցն պարգեւաբաշխ քառասնորդաց...: էջ 82.— Տն. Զաքարիայ Հայոց կաթողիկոսի ասացեալ ի Համբարձման Տն. մերոյ Յի. Քս.ի.— Որք զպատուիրան թագաւորաց հանդերձեալ են զուգադրել...: էջ 98.— Այլ արարչագործ բանն Ած., լոյսն անստուեր...: էջ 109.— Տն. Զաքարիայ Հայոց կաթողիկոսի ասացեալ Մեծի Հինգշաբաթի.— Շնորհելով մեզ պարգեւս...: էջ 121.— ... Յաղագս Քարոզի ժողովեալ ի Սբ. Գրոց, Բարսղի իբր Վարդապետի արարեալ: էջ 208-226, զանազան հատուածներ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "572.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "573.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "537-refine.json",
+    "pipeline_version": "v1"
+  }
+}

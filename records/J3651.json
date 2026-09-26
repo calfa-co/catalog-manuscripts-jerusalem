@@ -1,0 +1,72 @@
+{
+  "id": "J3651",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3651",
+  "notice": "3651",
+  "volume": "Jerusalem_V11",
+  "title": "ԺԱՄԱՆԱԿԱԳՐՈՒԹԻՒՆ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3651",
+    "no_notice": "4",
+    "titre": "ԺԱՄԱՆԱԿԱԳՐՈՒԹԻՒՆ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "230",
+    "dimensions": "22x16x2",
+    "mise_en_page": "գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 31, 32 տող, կարմիր գիծերու միջեւ։ Նոտր շեղագիր անարուեստ",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "չունի",
+    "etat_conservation": "անբաւարար. սկիզբը եւ վերջը թերի. կան վնասուած ԹԵՐԹՔ. կարօտ նորոգութեան",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.–... Եւ պատասխանի յղէր Վարազդատ թագաւորն...։ Էջ 8.–... Եւ արդ զկա առցէ բանս վասն քաջ եւ տիրասէր յազգին Մամիկոնէից ՆԺԷ թվականիս Հայոց...։ Եւ Մեսրոբ մեծ ցանկութեամբ ծաղկաքաղ արարի զգիրս զայս, Հայոց Մնացորդք Յաբելնէից գրոց, զյաղթութիւն եւ զվաթարութիւն թագաւորացն Հայոց եւ Վրաց...։ Էջ 5.–... եւ յայնմ ժամանակի Դաւիթ անուն ոմն ձեռնադրեալ եղեւ ի Սիս. եւ զժտութիւն ի մէջ նոցա եղեւ, եւ անտի\nմինչեւ ի Ստեփաննոս որ գրեցաւ ի յԵգիպտոս. եւ ի Սիս ձեռնադրեալ կաթողիկոս մինչեւ ցԹումայ վարդապետն...։\nԻսկ ընդ յաւուրսն ընդ այնոսիկ, եւ ի ամին ՆԱ, եղեւ սով սաստիկ ի բազում տեղիս...։ Հմմտ. Տպ. 1869, Երուսաղէմ, էջ 1։ Էջ 155.— Իսկ յայսմ աւուրքս այրք Խ եղեն միաբանեալք ի խորհուրդն Յուդայի ...։— Հմմտ. նոյն, էջ 818։ Էջ 228.—... բարեխօս եւ օգնական զրկելոց.— Հմմտ. նոյն, էջ 478։ Ծանօթ.— Բարսեղ վարդապետի դամբանականը չկայ։ Էջ 229.— Եւ ի թւին Հայոց ԵՃՂԸ ամի սպանեալ եղեւ տէրն Անտոքայու...։ Հմմտ. նոյն, էջ 500։ Էջ 230.—... Եւ յառաջ քան զայս ամի միոյ ամսեանն յունվարի Լ, ի լուսանալ Բշբթի, եղեւ երկնուստ ահաւոր որոտումք եւ հրագութիւնք, եւ փոխեալ տարերաց զբնական բնու [ Այսչափ. շարունակութիւնը կորուսած].— Հմմտ. նոյն, էջ 503-4։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "090.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "091.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3651-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J315",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "315",
+  "notice": "315",
+  "volume": "Jerusalem_V2",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՄԱՐԿՈՍԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "315",
+    "no_notice": "4",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՄԱՐԿՈՍԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "330",
+    "dimensions": "26 x 19 x 3",
+    "mise_en_page": "բնաբանները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 35 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "շագանակագոյն",
+    "etat_conservation": "ընդհանրապէս լաւ. վարի կողմէն խոնաւութիւն առած եւ քիչ մը վնասուած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1ա. — Երկրորդ Հատոր Մեկնութեան Սրբոյ Աւետարանին Մարկոսի, ասացեալ Բարսեղի Վարդապետի, մակ անուամբ Ճոն կոչեցելոյ. — Հարցին ցնա եւ ասեն, զի՞նչ է այն՝ զոր դպիրքն ասեն...։ էջ 325բ. — Ցանկ Մեկնութեան Սրբոյ Աւետարանիս որ ըստ Մարկոսի։\nՅիշատակագրութիւն. — էջ 330բ, նոտրագիր, բնագրէն տարբեր գրչով. — Յիշատակ է Մեկնութիւն Աւետարանիս Մարկոսի, Հաճի Խաթուն Եղիսայրին, որ ետ ի կենդանութեան իւրում, անջինջ յիշատակ իւր կենդանի հոգւոյն եւ հանգուցեալ ծնողացն եւ համայն ննջեցելոցըն, ի ձեռն Ալաշկերտցի Յարութիւն անիմաստ Աբեղայիս։ Եւ որք հանդիպիք ընթեռնելով կամ օրինակելով յիշեսջիք զվերոյ յիշեալ բարեպաշտուհի Հաճի Խաթունն այն, եւ դուք յիշեալ լիջիք ահեղ ատենին. ի թվին ՌՄԾԷին [= 1808], յԵգիպտոսն, որ է Մսր։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "189.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "315-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J1387",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1387",
+  "notice": "1387",
+  "volume": "Jerusalem_V5",
+  "title": "Ք Ր Ի Ս Տ Ո Ն Է Ա Կ Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1387",
+    "no_notice": "1",
+    "titre": "Ք Ր Ի Ս Տ Ո Ն Է Ա Կ Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "80",
+    "dimensions": "16x11x1",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասին, 12 տող",
+    "details_ecriture": "մեծ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "բաւարար. խոնաւութենէ ազդուած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-8, դատարկ։ Էջ 9 . — Յաղագս Քրիստոնէականի անւան, եւ նշանի Սրբոյ Խաչին։ Գլուխ Առաջին։— Զինչ է քրիստոնէական վարդապետութիւն։ Քրիստոնէական վարդապետութիւնն է որ ուսուցանէ զհարկաւորսն փըրկութեան մերոյ . . . ։ Էջ 55 . — Առաւօտեան կրթութիւն։ Էջ 79 . — Երեկոյեան կրթութիւն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "052.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1387-refine.json",
+    "pipeline_version": "v1"
+  }
+}

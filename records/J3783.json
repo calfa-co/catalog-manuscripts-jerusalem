@@ -1,0 +1,68 @@
+{
+  "id": "J3783",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3783",
+  "notice": "3783",
+  "volume": "Jerusalem_V11",
+  "title": "ՃՌԱՔԱՂ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3783",
+    "no_notice": null,
+    "titre": "ՃՌԱՔԱՂ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "140",
+    "dimensions": "29x19",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 33 տող",
+    "details_ecriture": "սահուն",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "թանձր գունաւոր թուղթ",
+    "etat_conservation": "լաւ",
+    "copiste": "մեծ մասին Թ.Ե.Գ.",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ճռաքաղ։ Թ.Ե.Գ.։ Էջ 2, դատարկ։ Էջ 3.— Մատրաս.— Ի նամակէն առ Խաչատուր Եպս.ն Ջուղայի։ 1.— Գիտակցութիւն բարենախանձ...։ Օգոս. 8-1889։ Ի նամակէն առ Տ. Յովհ. Կաթողիկոս ամ. Հայոց (8 օգոստ. 1889)։ 4.— Յարգամեծար փափկանկատութիւն առ եկեղեցականս։ Էջ 6.— 7.— Առ ամենայն Սրբազան Սիւնհոդոսն Լուսաւորչական Հայոց Էջմիածնի։— 27 յունվ. 1840։ Էջ 18.— 8.— Առ Պատուելի Հասարակութիւն Հայոց որ ի Կալկաթա։ Էջ 27.— Բ.— Գրիչ, գովեմ, մի ղամիշ այ...։ Էջ 28.— Գ.— Ի սուրբ աւազանէն մինչ ի ցայսօր...։ Էջ 32.— Դ.— Մեր ազգն յիմարացել այ...։ Էջ 33.— Ե.— Կիտուինք գնանք երկնեայ ծովին...։ Ես եմ Ակօբ Ախաւանցի, ազգուտակով յԵրեւանցի, ես արժան չի քեզ գովեցի, Սալվու չինար Էջմիածին։ Էջ 35-37, համարեա դատարկ։ Էջ 38.— \"Փառք...։ Արդ, գրեցաւ սուրբ գիրքս, որ կոչի Տեսիլք Յովհաննու, ի թուին Հայոց ՌԿԲ... ի մայրաքաղաքս Իլով...։ Արդ, անկեալ աղաչեմ... յիշեցէք զանպիտան գրիչս զՆիկօլ Տօմաժիրսքին...։ Էջ 39.— Նախաբանք։ — Վէպք։ Էջ 52-53.— Վեցամսեայ Հաշուեկշիռ Կալկաթայի Նազարէթայ Ս. Եկեղեցւոյն։ Էջ 56.— Օրինակ նամակի օգոստափառ Տեառն երկրորդ Հերակլ թագաւորին Վրաց։ Էջ 58-140, դատարկ, բացի 134, 135, եւ 140 էջերէն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "240.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3783-refine.json",
+    "pipeline_version": "v1"
+  }
+}

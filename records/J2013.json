@@ -1,0 +1,68 @@
+{
+  "id": "J2013",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2013",
+  "notice": "2013",
+  "volume": "Jerusalem_V7",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԵՐՈՒՍԱՂԷՄԻ",
+  "date": {
+    "from": "1872",
+    "to": "1872",
+    "display": null
+  },
+  "fields": {
+    "numero": "2013",
+    "no_notice": "1",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԵՐՈՒՍԱՂԷՄԻ",
+    "date_debut": "1872",
+    "date_fin": "1872",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԾԶ + 1520",
+    "dimensions": "28x19x6.5",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 29 տող",
+    "details_ecriture": "մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ, մասամբ փրթած",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Հեղինակը",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Հրատարակուած է Երուսաղէմ, 1931ին, Նշանեան Մեսրոպ Եպիսկոպոսի աշխարհաբար թարգմանութեամբ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ. — Պատմութիւն Երուսաղէմի, Գրեաց Տիգրան Հ. Թ. Սաւալանեանց, նախկին դասատու ժառանգաւորաց եւ քարտուղար Պատրիարքարանի Սրբոց Յակոբեանց Վանուցն Սբ. Երուսաղէմի, 1872, Երուսաղէմ։ Էջ Ա. — Յառաջաբան. — Ի ժամանակի յորում զպաշտօն քարտուղարութեան վարէի յԵրուսաղէմ ի Վանս Ս. Յակոբեանց...։ Էջ ԺԱ. — Ցանկ Գլխոց։ Էջ ԾԴ. — Յաւելուածք. — Ա-ԺԴ Գըլուխներ։ Էջ 1. — Պատմութիւն Երուսաղէմի. — Գիրք Առաջին. — Ի հիմնարկութենէ Երուսաղէմի մինչեւ ցծնունդ Տեառն մերոյ Յի. Քի. (յամէ 1981—4). — Գլուխ Առաջին. — Ի հիմնարկութենէ նորա մինչեւ ցգերութիւն Բաբելացւոց (յամէ 1981— 584)։ Էջ 1451. — Յաւելուածք։ Էջ 1518—1520, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "066.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2013-refine.json",
+    "pipeline_version": "v1"
+  }
+}

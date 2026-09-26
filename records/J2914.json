@@ -1,0 +1,68 @@
+{
+  "id": "J2914",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2914",
+  "notice": "2914",
+  "volume": "Jerusalem_V9",
+  "title": "Կ Ա Ր Գ  Թ Ա Ղ Մ Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2914",
+    "no_notice": "2",
+    "titre": "Կ Ա Ր Գ  Թ Ա Ղ Մ Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "88",
+    "dimensions": "19 X 12.5 X 1",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մընացեալը սեւ մելանով, միասիւն, 18 տող",
+    "details_ecriture": "նոտրակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ։ «Ի գրեանց Եղիա Վարդապետի Յովհաննէսեանի» (էջ 1)",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1. — Կարգ Թաղման Կարգաւորաց։ Կա նոնագլուխ։ էջ 12-13, դատարկ մնացած։ էջ 17. — Կարգ Աշխարհականաց Թաղման։ Կանոնագլուխ։ էջ 49-50, դատարկ։ էջ 51. — Կարգ Աշխարհաթաղի, ի հասարակ Աւուրն։ Կանոնագլուխ։ էջ 57, դատարկ։ էջ 58. — Կանոն Տղայաթաղի։ էջ 84-86, դատարկ։ էջ 87. — Ցանկ։ էջ 88, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "138.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2914-refine.json",
+    "pipeline_version": "v1"
+  }
+}

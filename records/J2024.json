@@ -1,0 +1,68 @@
+{
+  "id": "J2024",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2024",
+  "notice": "2024",
+  "volume": "Jerusalem_V7",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2024",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "128",
+    "dimensions": "22x14",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 27 տող։ Նոտր շեղագիր մաքուր",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1—2, դատարկ։ Էջ 3.— Առաջաբան.— Եկեղեցի բանական՝ գեղեցիկ իմն յարմարութեամբ ի դըրախտ օրինակի...։ Էջ 7.— Քարոզ Ա, Կաղանդ, խոկումն մահուան.— Ցոյց ինձ Տէր զկատարած իմ (Սաղ. ԼԸ. 5)։ Էջ 12.— Քարոզ Բ, Կիւրակէ Ծննդեան պահոց, Բուն մեղաց.— Զարթիր, զարթիր, եւ արի՛ կաց Երուսաղէմ (Եսայ. ԾԲ, 10)։ Էջ 16.— Քարոզ Գ.— Ճրագալոյց Ծըննդեան։ Էջ 22.— Քարոզ Դ.— Ծնունդ Տեառն։ Էջ 26.— Քարոզ Ե.— Ի նմին աւուր Մըկրտութիւն Տեառն։ Էջ 30.— Երկրորդ օր Ծննդեան։ Քարոզ Զ։ Գալուստ հովուաց։ Էջ 33.— Քարոզ Է։ Կիւրակէ Ծննդեան։ Գալուստ մոգուց։ Էջ 39.— Քարոզ Ը։ Ութերորդ օր Ծըննդեան, Անուանակոչութիւն Տեառն։ Էջ 45.— Քարոզ Թ։ Տօն Ծննդեան Սըրբոյ Կարապետին։ Էջ 49.— Քարոզ Ժ։ Էջ 55.— Քարոզ ԺԱ։ Էջ 61.— Քարոզ ԺԲ։ Էջ 67.— Քարոզ ԺԳ։ Էջ 72.— Քարոզ ԺԴ։ Նախատօնակ Տեառնընդառաջին։ Էջ 76.— Քարոզ ԺԵ։ Տեառնընդառաջ։ Էջ 81.— Քարոզ ԺԶ։ Յիշատակ Յօնանու Մարգարէին։ Էջ 90.— Քարոզ ԺԷ։ Տօն Սրբոյն Սարգսի Զօրավարին։ Էջ 94.— Քարոզ ԺԸ։ Երկրորդ Կիւրակէ առաջաւորաց։ Չափաւորութիւն ի կերակուրս։ Էջ 100.— [Քարոզ] ԺԹ։ Էջ 105.— Քարոզ Ի։ Տօն Սրբոց Վարդանանց Զօրավարաց։ Էջ 110.— Քարոզ ԻԱ։ Բուն Բարեկենդան։ Անկումն նախաստեղծից։ Ես ասացի թէ աստուածք իցէք (Սաղ. ՁԱ. 6)։ Էջ 117.— Քարոզ ԻԲ։ Առաջին երկուշաբաթի մեծի պահոց։ Էջ 123.— Քարոզ ԻԳ։ Առաջին չորեքշաբաթի։ Կոչումն ապաշխարութեան.— Եկայք առ իս ամ. վաստակեալք եւ բեռնաւորք եւ հանգուցից զձեզ (Մատ. ԺԱ. 28)։ 1.— Եկն եհաս ժամ բարեպատեհ դառնալ մեզ յեդեմ վերստին...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "094.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2024-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3726",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3726",
+  "notice": "3726",
+  "volume": "Jerusalem_V11",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑԻՈՅ.— [Ը]",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3726",
+    "no_notice": null,
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑԻՈՅ.— [Ը]",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Նման է նախորդ հատորին, բայց սկիզբը թերի. էջ 278–862։",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Սկիզբը մէկ թերթ ճերմակ թուղթ՝ պակսող մասին փոխարէն։ [Գիրք ԺԵ]։ Էջ 278.— [արդար]ներու այնքան բազմութիւն ինչու համար բոլոր աշխարհի հոգեւոր եւ մարմնաւոր շնորհքներ վաստըկցընելու կարող պիտի չըլլան...։ Էջ 278.— Քննութիւնք ի ԺԵ երրորդ գիրս։ Էջ 310.— Գիրք ԺԶ։ Սբ. Աթանասի վախճանէն մինչեւ արիոսականութեան վերջին անկումը։ 373 էն մինչեւ 378։ Էջ 498.— Քննութիւնք ի ԺԶ գիրս։ Էջ 524.— Գիրք ԺԷ։ Վաղէսի մեռնելէն մինչեւ Պրիսկիլիանեան հերետիկոսներուն ծագումը։ Քի. 378–379–380 թիւերը։ Էջ 743.— Քննութիւնք ի ԺԷ գիրս։ Էջ 801.— Քննութիւն Բ։ Գանգրեայ ժողովքին եւ Եւստաթիոս աղանդապետին վրայ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "187.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3726-refine.json",
+    "pipeline_version": "v1"
+  }
+}

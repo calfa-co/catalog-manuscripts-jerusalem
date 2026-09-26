@@ -1,0 +1,68 @@
+{
+  "id": "J978",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "978",
+  "notice": "978",
+  "volume": "Jerusalem_V3",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "978",
+    "no_notice": "10",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "120",
+    "dimensions": "21x15x1",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 32 տող։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ անարուեստ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Բան առ բարեմիտ ընթերցողս, յաղագս առաջիկայ առակացս։ Էջ 9.— Յաղագս Հաշտութեան։ Էջ 65.— Աղէտ մարդկային անկման եւ կանգնումն նորին։ Էջ 112.— Յաղագս Արքայութեան Տեառն մերոյ։ Գլուխ 31։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "597.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "978-refine.json",
+    "pipeline_version": "v1"
+  }
+}

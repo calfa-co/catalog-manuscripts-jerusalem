@@ -1,0 +1,68 @@
+{
+  "id": "J449",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "449",
+  "notice": "449",
+  "volume": "Jerusalem_V2",
+  "title": "ՔՆՆՈՒԹԻՒՆ ԿԱՐԳԱՑ ԵԿԵՂԵՑՒՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "449",
+    "no_notice": "4",
+    "titre": "ՔՆՆՈՒԹԻՒՆ ԿԱՐԳԱՑ ԵԿԵՂԵՑՒՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "156",
+    "dimensions": "23.5 X 17 X 1.5",
+    "mise_en_page": "գլխագիրները տեղ տեղ կարմիր, իսկ յաճախ բաց ձգուած. մնացեալը սեւ մելանով, միասիւն, 36 տող սկիզբը նոտրագիր, 25 տող վերջը շեղագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 3. — Ցանկ Սրբոյ Մատենիս։ Էջ 7. — Խորհրդածութիւն վասն ուղղափառ հաւատոյ եկեղեցւոյ, որ ի Սբ. Երրորդութիւնն եւ ի Տնօրէնութիւնն Քրիստոսի. — Հաւատամք իմացականիս գիտութեամբ...։ Էջ 21. — Ի խնդրոյ հայցման երիցագոյն եղբարց, Քննութիւն կարգաց եկեղեցւոյ։ Եւ բացատրապէս որոշումն յարտաքուստ մտեալ ի սա նորաձեւութեանց։ — Գլուխ Բ։ — [Ս]կիզբն առաջի եդեալ բանիս գոհութիւն զԱյ. կարգեմք...։ — Հմմտ. աստ, Թ. 447։ Էջ 147. — Զի՞նչ են, եւ որպէս ա՛յլ մարմնական զգեստ, որով պաճուճեալ թացագլուխ զխորհրդական պաշտօնն կատարեն ժառանգաւորք եկեղեցւոյ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "433.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "449-refine.json",
+    "pipeline_version": "v1"
+  }
+}

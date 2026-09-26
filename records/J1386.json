@@ -1,0 +1,68 @@
+{
+  "id": "J1386",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1386",
+  "notice": "1386",
+  "volume": "Jerusalem_V5",
+  "title": "ՅԱՂԱԳՍ ԵՐԿՆԱՅԻՆ ՔԱՀԱՆԱՅԱՊԵՏՈՒԹԵԱՆՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1386",
+    "no_notice": "9",
+    "titre": "ՅԱՂԱԳՍ ԵՐԿՆԱՅԻՆ ՔԱՀԱՆԱՅԱՊԵՏՈՒԹԵԱՆՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "502",
+    "dimensions": "16×10×4.5",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 22 տող։ Նոտր շեղագիր",
+    "details_ecriture": "չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 — Սրբոյն Դիոնիսեայ առաջին եպիսկոպոսի Աթենացւոց առ Տիմօթէոս եպս. Եփեսացւոց, Յաղագս Երկնայնոցն Քահանայապետութեանց...։ Զի ամ. տուրք բարիք և ամ. պարգեւք կատարեալ ի վերուստ են իջեալ...։ Էջ 238–240, դատարկ։\nՅիշատակարան Թարգմանչի — 712 Էջ 498 — [Ի] վեցհազարերորդի, երկերիւրերորդի, քսաներորդի ամի արարածոց աշխարհիս...։ Էջ 500–502։\nՄանր յիշատակագրութիւնք — 1 — Էջ 241, վերը — Յիշեցէք ով պատահողք զգրչիկս։ 2 — Սկիզբի դատարկ թուղթին ներսի կողմը, անհարթ գրով — Այս գիրս տէր Գիրագօսի որդօ Վանէսին է։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "052.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1386-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2861",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2861",
+  "notice": "2861",
+  "volume": "Jerusalem_V9",
+  "title": "ԳՐԱԱԹԸ ՃԷՏԻՏԷ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2861",
+    "no_notice": null,
+    "titre": "ԳՐԱԱԹԸ ՃԷՏԻՏԷ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ+42",
+    "dimensions": "22.5X14.5",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 22 տող",
+    "details_ecriture": "մաքուր։ Լաթակազմ խաւաքարտեայ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Աւետիս Վրդ. Յովհաննիսեան",
+    "possesseur": "Աւետիս Վրդ. Յովհաննիսեան",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա.— Գրաաթը Ճէտիտէ։ Էջ Բ-Դ, դատարկ։ Էջ Ե.— Աւետիս վարդապետի անձնական գիրքերէն նուիրուած Ս. Աթոռոյս Թանգարանին, 1913։ Էջ Զ.— Ֆիհրիսթ։— Ա-ԺԶ Գլուխներ։ Էջ 1.— Ա.— Ալլահ եարատան։ Էջ 2.— Բ.— Գուրթարըճը Իսայ։ Էջ 4.— Գ.— Պահար։ Էջ 9.— Զ.— Կիճէ։ Էջ 14.— Ը.— Եաղ։ Էջ 17.— Թ.— Ֆամիլեա։ Էջ 21.— Ժ.— Նէպատաթլար։ Էջ 24.— ԺԱ.— Մէշէ Աղաճը։ Էջ 28.— ԺԲ.— Եըլտըզլար։ Էջ 31.— ԺԳ.— Գըշ։ Էջ 33.— ԺԴ.— Էօլիւմ էճէլ։ Էջ 37.— ԺԶ.— Եէնի Տիւնեա։ Էջ 40-42, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "087.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2861-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J854",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "854",
+  "notice": "854",
+  "volume": "Jerusalem_V3",
+  "title": "ԶԷՆ ԸՆԴԴԷՄ ՎԻՇԱՊԻՆ ԵՕԹՆԳԼԽԵՆԻՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "854",
+    "no_notice": "3",
+    "titre": "ԶԷՆ ԸՆԴԴԷՄ ՎԻՇԱՊԻՆ ԵՕԹՆԳԼԽԵՆԻՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "178",
+    "dimensions": "21x15x1",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 29 տող։ Նոտր շեղագիր",
+    "details_ecriture": "շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": "Սարգիս Վարդապետ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա. — Զէն ընդդէմ վիշապին եօթն գլխոյ., այսինքն, եօթն մահացու մեղաց։\nԱրտահանեցեալ ի լատինացւոց գրեանց, եւ շարադրեցեալ ի Պետրոսէ Վարդապետէ Թիֆլիզեցւոյ ։\nէջ 137ա. — Ցանկ Այսորիկ Գրկան ։ էջ 139ա. — Ողբ եւ սուգ վասն մեծի աւուր խաչելութեան Տեառն մերոյ Յիսուսի Քրիստոսի. — [Ո]վ ամենաչքնաղ եւ գեղեցիկ հարսնդ երկնաւոր փեսային... ։ էջ 141-142, դատարկ ։ էջ 143ա. — Կտակ Խաչելութեան Քըրիստոսի Աստուծոյ մերոյ. — Ով օր դառնութեան եւ սգոյ... ։\nՅիշատակարան. — էջ 178բ. — Վերջ Խաչելութեան Կտակիս ։ Առ ի վայելումն տէր Սարգիս հանճարաշատ եւ յոգնիմաստ վարդապետին, որ եւ Տէրն համայնից կեանս պարգեւեսցէ ։ Ամէն ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "365.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "366.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "854-refine.json",
+    "pipeline_version": "v1"
+  }
+}

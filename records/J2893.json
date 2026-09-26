@@ -1,0 +1,72 @@
+{
+  "id": "J2893",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2893",
+  "notice": "2893",
+  "volume": "Jerusalem_V9",
+  "title": "ԱՒԵՏԱՐԱՆ (ԱՐԱԲԵՐԷՆ)",
+  "date": {
+    "from": "1756",
+    "to": "1756",
+    "display": null
+  },
+  "fields": {
+    "numero": "2893",
+    "no_notice": null,
+    "titre": "ԱՒԵՏԱՐԱՆ (ԱՐԱԲԵՐԷՆ)",
+    "date_debut": "1756",
+    "date_fin": "1756",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "23X16X4",
+    "mise_en_page": "խորագիրները եւ կէտերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 15 տող",
+    "details_ecriture": null,
+    "types_cahiers": "191",
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ ընդհանուր առմամբ. լուսանցքները ցեցակեր",
+    "copiste": "Սալիպ Քահանայ Խպտի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը երեք թերթ, վերջը երկու",
+    "colophon": null,
+    "informations_diverses": "շեղագիր, առանձին թուղթի վրայ։ Սոյն մատեանը Աւետարան է, եւ վերջը [թղ. 191ա] հետեւեալ յիշատակարանը գրուած է զոր կը թարգմանենք հայերէնի։ ; «Վերջացաւ Յովհաննու Աւետարանի՝ սիրելոյն Քի. Աւետարանը ինչպէս նաեւ միւս աւետարանչացը չորեքշաբթի օրը, այն է Մարտիրոսաց 1472 թուականին պերմեհաթ ամսոյն 17ին, որ կը համապատասխանէ Փրկչական 1756 թուականի մարտ ամսոյ 13ին եւ հիճրէթի 22 ճեմազիլ ախըր ամսոյ 1168 թըականին. ի ձեռն Սալիպ քահանայի՝ ծառայի անարժանի Ս. Երուսաղէմի, յազգէն Խըպտըւոց. Ած. ողորմի հոգւոյն: Ընթերցողք աղօթեն իրեն համար եւ ողորմութիւն հայցեն, եւ Ած. իրենց ողորմի: Գոհութիւն Տեառն»:\nԴիտ.— Փրկչական (1756) եւ հիճրէթի (1168) թուականներուն միջեւ փոքր անհամաձայնութիւն մը կայ: Թարգմանողը հիճրէթի 1169 թուականը սխալմամբ կարդացեր է 1168:\nՆոյննման ՅԻՇԱՏԱԿԱՐԱՆ կան նաեւ Մարկոսի եւ Ղուկասի Աւետարաններուն վերջը",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Թղ. 1ա.— Աւետարան: Թղ. 2ա.— Գլխակարգութիւնք: Թղ. 6ա.— Աւետարան ըստ Մատթէոսի: Թղ. 57ա.— Յառաջաբան Աւետարանին Մարկոսի: Թղ. 60ա.— Աւետարան ըստ Մարկոսի: Թղ. 91ա.— Գլխակարգութիւնք: Թղ. 95բ.— Աւետարան ըստ Ղուկասու: Թղ. 148ա.— Յառաջաբան Աւետարանին Յովհաննու: Թղ. 151ա.— Աւետարան ըստ Յովհաննու: Թղ. 191բ, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "114.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "115.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2893-refine.json",
+    "pipeline_version": "v1"
+  }
+}

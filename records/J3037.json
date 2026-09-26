@@ -1,0 +1,72 @@
+{
+  "id": "J3037",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3037",
+  "notice": "3037",
+  "volume": "Jerusalem_V9",
+  "title": "Ս Ա Ղ Մ Ո Ս",
+  "date": {
+    "from": "1654",
+    "to": "1654",
+    "display": null
+  },
+  "fields": {
+    "numero": "3037",
+    "no_notice": "68",
+    "titre": "Ս Ա Ղ Մ Ո Ս",
+    "date_debut": "1654",
+    "date_fin": "1654",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԴ+406",
+    "dimensions": "8X5.5X3.5",
+    "mise_en_page": "խորագիրները կարմիր, սկզբնատողերը ոսկեգոյն եւ կապոյտ, մնացեալը սեւ մելանով, միասին, 18 տող",
+    "details_ecriture": "մանր եւ կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "նուրբ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ ոսկեդրոշմ",
+    "etat_conservation": "համարեա բաւարար. վնասուած խոնաւութենէ եւայլն եւ նորոգութիւն կրած",
+    "copiste": "Յակոբ Դպիր",
+    "possesseur": "ոմն Ջուղայեցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "նոր թուղթ վերջը տասներեք թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "ոսկեխառն զարդագիր եւ լուսանցազարդ գուբղաներու սկիզբը, կանոնները հանդերձ գլխազարդով",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ Ա–Բ, նոր թուղթ, վրան արձանագրըուած. «Նորոգեալ կազմեցաւ ի Ս. Յակոբ, 14–10–68»։ էջ Գ–Դ, ԺԳ–ԺԴ, հին թուղթ, դատարկ մեծագոյն մասամբ։ էջ Ե– ԺԲ, սպիտակ նոր թուղթ, դատարկ։ էջ 1.— Սաղմոս ի Դաւիթ.— Ընդէ՞ր խռովեցան հեթանոսք...։ էջ 49.— Սաղմոս ի Դաւիթ.— Երկինք պատմեն զփառս Աստուծոյ...։ էջ 106.— Սաղմոս ի Դաւիթ.— Մի՛ նախանձիր ընդ չարս...։ էջ 223.— Սաղմոս ի Դաւիթ.— Տէր ապաւէն եղեր մեր...։ էջ 275.— Ալէլուիայ.— Խոստովան եղերուք Տեառն զի քաղցր է...։ էջ 329.— Աւրհնութիւն Աստիճանաց.— Ի նեղութեան իմում ես առ Տէր կարդացի...։ էջ 397.— Հաւատով խոստովանիմ...։ էջ 405.— Փառաւորեալ Տէր...։\nՅիշատակարան Գրչի.— 1654 էջ 406, վարը, մաշած եւ գունաթափ.— Արդ գրեցաւ Սաղմոսարանս ի քաղաքն ԸՍտամբօլ, ձեռամբ Յակոբ Դպրի, ի թուականիս մերո ՌՃԳ. ի խնդրոյ ոմն Ջուղայեցոյ..... ...փափագանաւք...։\nԱրձանագրութիւն Մելիտոսի.— Գ. Մելիտոս, G. Melitus, էջ Գ, 222, 223, 246, 247։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "248.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "249.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3037-refine.json",
+    "pipeline_version": "v1"
+  }
+}

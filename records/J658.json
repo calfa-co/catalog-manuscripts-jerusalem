@@ -1,0 +1,72 @@
+{
+  "id": "J658",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "658",
+  "notice": "658",
+  "volume": "Jerusalem_V3",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "658",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "306",
+    "dimensions": "22x16x2",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, էջ 5–224 միասիւն, 227–299 երկսիւն, 28, 27, 23 տող։ Առաջին մասը նոտր շեղագիր, երկրորդը եւ երրորդը վայելուչ նոտրագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "եռատեսակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ խաչադրոշմ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "վերեւ մանր երկաթագիր «Գէորգ Վրպետն»",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդ, էջ 5, կեդրոնի երկգլխանի արծիւին ; ԳՈՒՆԱՒՈՐ: գլխազարդ, էջ 75",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1-4, դատարկ։ [Ա].— էջ 5.— Ի վերայ Մատ. 12, 41։ Արք Նինուէացիք եւայլն.— Երանելի հայրն Սբն. Եփրեմ ասէ, թէ կիսոցն պատժովքն այլքն զգաստասցին...։ ... Ոմն ի փիլիսոփայից կատակելով զքրիստոնեայսն ասաց. Ոչ գոյ լաւագոյն քան զքրիստոնեայսն մինչ խօսին, եւ ոչ գոյ վատթարագոյն քան զնոսա մինչ գործեն։ Ծանօթ.— Լեզուն խառն է, հայերէն եւ թրքերէն։ Բ.— էջ 15.— Քարոզ երկրորդ մասն ի վերայ Մտթ. որ ասէ. Արք Նինուէացիք եւ այլն։ Գ.— էջ 23.— Քարոզ երրորդ մասն ի վերայ նոյն բանի, թէ արք Նինուէացիքն յարիցեն եւ այլ։ Դ.— էջ 32.— Քարոզ դարձեալ ի վերայ նոյն բանի, թէ Արք Նինուէացիքն յարիցեն ի դատաստանի ընդ ազգիս եւայլն։ Ե.— էջ 40.— Դարձեալ Քարոզ հինգերորդ ի վերայ սոյն բանիս...։ էջ 50.— Ի վերայ Սրբոյն Ստեփաննոսի նախասարկաւագին...։ էջ 65.— Քարոզ ի վերայ գլխաւորաց Առաքելոցն Պետրոսի եւ Պօղոսի։ էջ 73, դատարկ։ էջ 75.— Անմարմին բնութիւնքն հեռի են ի նիւթաւոր կերպարանաց...։ Ծանօթ.— Կը յաջորդեն զանազան կրօնական հատուածներ, միջանկեալ դատարկ էջերով։ էջ 227-257.— Զգօն գրքէն երկու ճառ, անաւարտ. պրակ Ա-Բ (էջ 1-19)։ էջ 259-299.— Դիոն. Արիսպագացիի Մեկնութենէն հատուածներ, անաւարտ. պրակ Ա-Բ (էջ 3-40)։ էջ 300-306, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "108.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "109.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "658-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J416",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "416",
+  "notice": "416",
+  "volume": "Jerusalem_V2",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՄԱՏԹԷԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "416",
+    "no_notice": "2",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՄԱՏԹԷԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "624",
+    "dimensions": "24 X 17 X 5",
+    "mise_en_page": "հատուածներու սկզբնաւորութիւնները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 35 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ, տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "էջ 24, Ս. Մատթէոս եւ հրեշտակ",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "լուսանցազարդք եւ զարդագիրք իւրաքանչիւր հատուածի սկիզբը։ Երփնագեղ խորանազարդ, էջ 25",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1ա.— Մեկնութիւն սակս ժ խորանացն.— Մատեանք աստուածայինք եւ հոգեբուխ վարդապետութիւնք իմաստից...։ էջ 11ա.— Եկեղեցական Պատմութեան.— Առաքեալքն էին երկոտասան, եւ այլ աշակերտք ՀԲ...։ էջ 15ա.— Ներսեսի եպիսկոպոսի, եղբաւր Գրիգորի կաթողիկոսի, սակս Աւետարանին Մատթէոսի.— Սիրոյ զօրութիւն գերազանց է քան զբնութիւն...։ էջ 25.— Գիրք Ծննդեան Յի. Քի. որդւոյ Դաւթի, որդւոյ Աբրահամու...։ էջ 109ա.— Լրումն թերոյն համառօտ տեսութեամբ, Սրբոյ Աւետարանին որ ըստ Մատթէոսի։ Հաւաքեալ նուաստ վարդապետի Յոհանի Երզնկացւոյ, որ եւ ասի Ծործորեցի.— Գերապատիւ եւ բարեհռչակ հայրն մեր ըստ հոգւոյ եւ Բդ Լուսաւորիչն սբ. Եկեղեցւոյ...։ էջ 615–624, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "383.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "416-refine.json",
+    "pipeline_version": "v1"
+  }
+}

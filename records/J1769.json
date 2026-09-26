@@ -1,0 +1,68 @@
+{
+  "id": "J1769",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1769",
+  "notice": "1769",
+  "volume": "Jerusalem_V6",
+  "title": "ԲՈՒՐԱՍՏԱՆ Ս. ԵՐՈՒՍԱՂԷՄԻ",
+  "date": {
+    "from": "1805",
+    "to": "1805",
+    "display": null
+  },
+  "fields": {
+    "numero": "1769",
+    "no_notice": "4",
+    "titre": "ԲՈՒՐԱՍՏԱՆ Ս. ԵՐՈՒՍԱՂԷՄԻ",
+    "date_debut": "1805",
+    "date_fin": "1805",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Բ+162",
+    "dimensions": "24x18x1.5",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 31 տող։ Նոտր շեղագիր անարուեստ",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ։ Գըրիչ՝ Մինաս Վրդ. Պոլսեցի",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա, սկիզբը թերի.— արդեօք շարժեաց զիս մոռանալ զանձինս անբաւականութիւն ձեռնամուխ լինիլ ի գովեստ Սրբազան Տեղեաց... ամենատկար ծառայ Փրկչին մերոյ Քի. Անդրիանուպօլսեցի Պօղոս Վարդապետ, ի միաբանութենէ Սրբոց Յակոբեանց հանրատենչ Աթոռոյս ամ. Հայոց, որ ի Սբ. Երուսաղէմ։ Էջ 1.— Գլուխ Առաջին. Յաղագս թէ Սբ. Երուսաղէմ է նախնական եւ վախճանական բնակութիւն մարդոյ.— Բնաբոյս բերմունք բնութեան իրաց կարգեալ է...։\nՅիշատակարան Գրչի.— 1805 Էջ 160, ստորոտը.— Օրինակեալ կատարեցան ՌՄԾԴ, մարտի ԻԵին, ի Մինաս Վարդապետէ մեծի Պօլսեցւոյ, ի Միաբանութենէ Սրբոյն Յակոբայ, յԵրուսաղէմ։ Բոլորն տասն եւ վեց գլուխ է, լայն եւ ընդարձակ։ Էջ 161, դատարկ։ Էջ 162, տարբեր թանաքով.— Ի Հալապայ դէպ յԱրզրում տէրունական ուխտաւորաց ղաֆարըն, ի Քիլիս, յԱնթապ, ի Պէօլէօրէն, ի Պէսնի, (ետուն ի միասին ժողովեալ 9 ղռշ. 20 փարայ)։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "129.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1769-refine.json",
+    "pipeline_version": "v1"
+  }
+}

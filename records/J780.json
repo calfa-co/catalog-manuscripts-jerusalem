@@ -1,0 +1,72 @@
+{
+  "id": "J780",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "780",
+  "notice": "780",
+  "volume": "Jerusalem_V3",
+  "title": "ԲՆԱԶԱՆՑՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "780",
+    "no_notice": "2",
+    "titre": "ԲՆԱԶԱՆՑՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "372",
+    "dimensions": "20x15.5x2",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր ընդհանրապէս, մնացեալը սեւ մելանով, միասիւն, 25 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի։ Լուսանցքներու վրայ կան սրբագրութիւններ՝ տարբեր գրչէ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բարակ փայլուն",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ ընդհանրապէս, ետեւի կողքը փրթած",
+    "copiste": "երկու, անյայտ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Արիստոտէլի Ստագիրացւոյ, Գիրք Բնազանցականացն, որ կոչի յունարէն Մեթաֆիզիքոց։ Գիրք Առաջին, Պրակ Առաջին։ Յաղագս փորձի, արհեստի, եւ մակացութեան, եւ թէ իմաստութիւն է մակացութիւն, որ պատճառաց ոմանց, եւ սկզբանց խուզման պարապի։\nՅիշատակագրութիւն.— Էջ 299.— Զթարգմանիչ սորին, եւ\nղլուծմանց յօրինօղ Լեհացի Ստեփաննոս բանասէրն յիշել ի Քրիստոս յոյսն բնաւից, սրտի մտօք աղաչեմ :\nէջ 300.— Լուծմունք Գրոցն Մեթաֆիզիքոց Արիստոտէլի Ստագի[ր]ացւոյ, Շարադրեցեալ ի Ստեփաննոսէ Վարդապետէ Լեհացւոյ, որ եւս է թարգմանիչ նոյնոյ գրքոյն :\nէջ 371-2, դատարկ :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "249.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "250.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "780-refine.json",
+    "pipeline_version": "v1"
+  }
+}

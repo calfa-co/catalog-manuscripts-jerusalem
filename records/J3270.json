@@ -1,0 +1,72 @@
+{
+  "id": "J3270",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3270",
+  "notice": "3270",
+  "volume": "Jerusalem_V10",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԵՍԱՅԵԱՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3270",
+    "no_notice": "11",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԵՍԱՅԵԱՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "214",
+    "dimensions": "28.5X19.5X2",
+    "mise_en_page": "վերնագիրները եւ բնաբանները կարմիր, մնացեալը սեւ մելանով, միասիւն, 47 տող, կարմիր գիծերու միջեւ։ Մանր նոտրագիր վարժ գրչէ",
+    "details_ecriture": "առատ։ Փառակազմ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք ըսկիզբը երեք թերթ",
+    "colophon": null,
+    "informations_diverses": "ութանկիւն սեւադրոշմ. «Այս գիրքս Սեբաստիոյ Սբ. Նշանի վանիցն է», ներքեւը անհարթ գրով, «Ով ոք գողասցի նզովեալ է Հոգով Սրբով»",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Տիտղոսաթերթ, էջ 1.— Գիրք Մեկնութեանց Սրբոյ Մարգարէին\nԵսայեայ, արարեալ աշխատասիրութեամբ սրբոյ եւ մեծի վարդապետին Հայոց Գէորգեայ, հրամանաւ թագաւորին Հայոց Հեթմայ, ի փառս Աստուծոյ եւ ի յօգուտ մանկանց եկեղեցւոյ: էջ 2-6, դատարկ: էջ 7.— Համառօտ ժողովումն մեկնութեան Սուրբ Մարգարէին Եսայեայ՝ ի լուսաւոր մեկնչացն՝ տեառն Եփրեմի Խորին Ասորւոյ, Յովհաննու Ոսկեբերանի, Կիւրղի Աղէքսանդրացւոյ, լուսաւոր վարդապետին Գէորգեայ արարեալ: Ծածուկ միշտ եւ անյայտ են բանք օրինացն եւ մարգարէից...: Ծանօթ.— Լուսանցքներու վրայ կրճատ ձեւով նշանակուած են օգտագործուած հեղինակներու անունները, ինչպէս նաեւ աստուածաշնչական տեղիքը:\nէջ 10-14, դատարկ: էջ 15.— Գլուխ Առաջին.— Լուր երկին եւ ունկն դիր երկիր...: էջ 202.— Գլուխ ԿԶ.— Երկինք աթոռ իմ են, եւ երկիր պատուանդան ոտից իմոց...: էջ 206, կնիքին ներքեւ, անհարթ գրով.— Ով ոք զայս գիրքս գողանայ մտոք Սբ. Վանիցս հանցէ՝ աստուածային հրամանաւն հոգով եւ մարմնով կապեալ է ի մառայնաթայ: էջ 207-214, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "084.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "085.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3270-refine.json",
+    "pipeline_version": "v1"
+  }
+}

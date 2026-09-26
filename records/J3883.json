@@ -1,0 +1,68 @@
+{
+  "id": "J3883",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3883",
+  "notice": "3883",
+  "volume": "Jerusalem_V11",
+  "title": "ԿՏԱԿ ՉԱՐՉԱՐԱՆԱՑ",
+  "date": {
+    "from": "1985",
+    "to": "1985",
+    "display": null
+  },
+  "fields": {
+    "numero": "3883",
+    "no_notice": null,
+    "titre": "ԿՏԱԿ ՉԱՐՉԱՐԱՆԱՑ",
+    "date_debut": "1985",
+    "date_fin": "1985",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "126",
+    "dimensions": "16x11x1",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 17. 18 տող",
+    "details_ecriture": "տկար",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ, տոկուն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ, առաջին երեսին փակցուած թերթիկին վրայ՝ Կըտակ, Յիսուսուն Չարչարանքը",
+    "etat_conservation": "բաւարար",
+    "copiste": "Միհրան Զ. Մըսխեան",
+    "possesseur": "Գրիչը",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–9, համարեա դատարկ։ Էջ 10.– Յիսուս Քրիստոս էֆէնտիմիզին լաս կէճէսի չէքտիյի չարչարանք իլէ էօլմէսի։ Էջ 11.– Կըտակ կոչեցեալ զօրս զվըրկագործ չարչարանաց եւ զանպարտ մահվանէ տիեառն մեռո եւ փրկչին Յիսուսի Քրիստոսի յաւուրս մեծի ուրբաթու. Սովորութիւն է մարդկան զի յորժամ մեռանի ոք ի յոյլ տէղից եւ առնէ կըտակ եւ թէ ոք երթայ եւ գնայ գուժ ընտանեաց նորա յայնժամ որ արաւել սիրելին է արաւել լայ։ Ատէթտիր ատէմլէրէ քի, նէ զէման պիր քիմէսնէ, պաշքա պիր տիեարտա էօլիւր իսէ. եաս չէքէրլէր...։ Էջ 40.– Ուր ես մայր իմ, քաղցրիկ անուշ նազելի, զկուսական որդիդ եկ տես ցաւելի...։ Էջ 87.–... վէ ճէննէթ ճէլալընա ճիւմլէ իման էտէն գուլլարընը նայիլ էյլէսին ամին վէ ամին։ Էջ 88.– Ատանալը, Պու տէֆտէր հաճի Միհրան չուլֆա Մըսխեանըն տըր, 1985. Մայիս 21 տէ խըթամ օլտու։ Էջ 89–126, համարեա դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "348.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3883-refine.json",
+    "pipeline_version": "v1"
+  }
+}

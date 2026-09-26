@@ -1,0 +1,72 @@
+{
+  "id": "J2858",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2858",
+  "notice": "2858",
+  "volume": "Jerusalem_V9",
+  "title": "ԹԷՖԷՔՔԻՒՐԱԹ (ՀԱՅԱՏԱՌ ԹՐՔԵՐԷՆ)",
+  "date": {
+    "from": "1853",
+    "to": "1853",
+    "display": null
+  },
+  "fields": {
+    "numero": "2858",
+    "no_notice": null,
+    "titre": "ԹԷՖԷՔՔԻՒՐԱԹ (ՀԱՅԱՏԱՌ ԹՐՔԵՐԷՆ)",
+    "date_debut": "1853",
+    "date_fin": "1853",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ + 132",
+    "dimensions": "20 X 15 X 1",
+    "mise_en_page": "գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 18 տող",
+    "details_ecriture": "մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապոյտ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ Ա-Բ, դատարկ։ Նոյնպէս էջ Դ։ էջ Գ.— Տիտղոսաթերթ.— Թէֆէքքիւրաթ, Թէէլլիֆիմ՝ թէզքին իտէն՝ Գուտսի Շէրիֆտէ միւթէմէքքիւն րահիպանտէն Եէնի Տիւնեազատէ Յովհաննէս նամ րահիպ։ Տէր զէմանը սէր պիսգոպոսը, միւշթը էրմէնիեանըն միւթէպէրլէր Ներսէս Կաթողիկոս։ Վէ ազիմ Գուտսի Շէրիֆին փաթրիկի ալիհիմմէթ Յովհաննէս պիսգոպոս։ Վէ ալիյէի ասիթանէյի փաթրիկի իզզէթլիւ Յակոբ պիսգոպոս։ 1853, Քեանունի սանի 1։\nէջ 1.— Իլան.— Վագա ինսան մագիւլէսի քէնտի հէվայի նէվսինէ ույուպ...։ — Գուտս Շէրիֆտէ Քեայիթ Մար Եագուպ նամ Էրմէնի Մանասթըրընթն բուհպանլէրինտէն Թօգաթլը Եէնի Տիւնեազատէ Յովհաննէս րահիպ հազիր գուլլէրի։\nէջ 9.— Մուգատտէմէ։ էջ 16.— Մէսաիլի էվվէլ. վէ ֆազիլէսի քիպրիյէթ։ էջ 75.— Մէսաիլի եէտինճի, Զինա։ էջ 89.— Ահ, եազըք շու քէնտի ֆասիտ նէֆսիմիզէ...։ էջ 98, դատարկ։ էջ 99.— Ալանիյէթթ՝ եախոտ պէտիտիէ։ էջ 103.— Լուղէթ։ էջ 104.— Թապիր, մեկնութիւն։ Թէֆէքքիւրաթ, մտածումն, մտախոհութիւն։ Մէնքիւպ, ողորմելի, թշուառ։ Մէսաիլ, խնդիրք, վէճք։ Մուգատտէմէ, յառաջաբանութիւն։ Ուգուպէթ, պատիժ, պատուհաս։ Սուտուր, ծագումն, բղխումն։ Տէրճ, բովանդակութիւն, ամփոփումն։ Քիպրիյէթ, հպարտութիւն, ամբարհաւաճութիւն։ Ֆիզուլի, զրալան, անբաւական։ էջ 122-132, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "085.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "086.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2858-refine.json",
+    "pipeline_version": "v1"
+  }
+}

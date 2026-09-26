@@ -1,0 +1,72 @@
+{
+  "id": "J3416",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3416",
+  "notice": "3416",
+  "volume": "Jerusalem_V10",
+  "title": "ՅԱՂԱԳՍ ԵՐԿՆԱՅՆՈՑՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3416",
+    "no_notice": null,
+    "titre": "ՅԱՂԱԳՍ ԵՐԿՆԱՅՆՈՑՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "768",
+    "dimensions": "15X12X4",
+    "mise_en_page": "տետրակ մելանով, միասիւն, 24 տող, կարմիր գիծերու միջեւ։ Նոտր շեղագիր վարժ",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սկիզբը ճերմակ, վերջը կապտորակ, խառն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը մէկ թերթ, վերջը երկու։ Սեւատիպ նկար սկիզբը առանձին թերթով",
+    "colophon": null,
+    "informations_diverses": "քառանկիւն, սկիզբը, «Մատենադարան Ս. Նշան Վանուց Սեբաստիոյ, Թիւ 9»",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1.— Յառաջաբանութիւն Գրոց.— Նախ քան զձեռնարկել յիրողութիւնս...։ էջ 5.— Յաղագս Երկնայնոցն Քահանայապետութեան։ էջ 64էն յետոյ սխալմամբ դրուած է 67։ էջ 109.— Գլուխ Մետասաներորդ։ էջ 182-183 կրկնուած։ էջ 192.— Գլուխ Երրորդ.— Յաղագս ի ժողովի կատարմանց։ էջ 494.— Գլուխ Ե.— Յաղագս էի, յորում եւ յաղագս յարացուցի։ էջ 617էն յետոյ սխալմամբ դրուած է 978, ապա 979, ետքը իջած է եւ եղած 680, եւ շարունակուած այդպէս։ էջ 684.— Գլուխ ԺԳ։ Յաղագս կատարելոյն եւ միոյն։ էջ 743.— Ցանգ Գլխոյս։ էջ 766.— Յիշատակարան Գրոցս.— Շնորհիւ եւ գթութեամբն Աստուծոյ ես Ստեփաննոս Իլօվացի յետին ի բանասիրաց տեսեալ զգիրս Սրբոյն Դիոնէսիոսի այլափոխեալ եւ բազում տեղիս ապականեալ, փոյթ յանձին կալայ վերստին թարգմանել ի լատինացւոց բարբառոյ ի մեր լեզու...։ Նզովագիր, սկիզբը.— Ով ոք գողասցէ ի Սուրբ Ուխտէս՝ բանիւ է ի հայրապետաց ամէն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "344.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "345.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3416-refine.json",
+    "pipeline_version": "v1"
+  }
+}

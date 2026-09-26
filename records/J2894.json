@@ -1,0 +1,72 @@
+{
+  "id": "J2894",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2894",
+  "notice": "2894",
+  "volume": "Jerusalem_V9",
+  "title": "ՆՈՐ ԿՏԱԿԱՐԱՆ (ՄԱՍՆԱԿԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2894",
+    "no_notice": null,
+    "titre": "ՆՈՐ ԿՏԱԿԱՐԱՆ (ՄԱՍՆԱԿԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Date, 1913 (Eth. Cal.), i.e. 1920-1921. Vellum, codex. 28.5 x 20.5 x 7 cm; 248 folios; full binding. Wooden boards covered with red leather beautifully decorated with various geometrical designs also of the crosses that appear on both covers. 2 columns; 20-26 lines per column; Ms. in excellent condition.",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Title: The Epistles of the New Testament; The Book of Acts; The Book of Revelation. 1) fols. 3-14. Introduction to the *Epistles of Paul* giving the reasons why and the conditions under which they were written, a kind of brief commentary. 2) fols. 17-40a. Epistle to the Romans. 3) fols. 40a-63a. Ist Epistle to the Corinthians. 4) fols. 63a-78a. IInd Epistle to the Corinthians. 5) fols. 78a-85a. Epistle to the Galatians. 6) fols. 85a-91b. Epistle to the Ephesians. 7) fols. 91b-96a. Epistle to the Philippians. 8) fols. 96a-100b. Epistle to the Colossians. 9) fols. 100b-105a. Ist Epistle to the Thessalonians. 10) fols. 105a-107a. IInd Epistle to the Thessalonians. 11) fols. 107a-112b. Ist Epistle to Timothy. 12) fols. 112b-116b. IInd Epistle to Timothy. 13) fols. 116b-118b. Epistle to Titus. 14) fols. 118b-119b. Epistle to Philemon. 15) fols. 119b-134b. Epistle to the Hebrews. 16) fols. 137-143b. Ist Epistle of Peter. 17) fols. 143b-147a. IInd Epistle of Peter. 18) fols. 147a-153a. Ist Epistle of John. 19) fols. 153a-154a. IInd Epistle of John. 20) fols. 154a-154b. IIIrd Epistle of John. 21) fols. 154b-160a. Epistle of James. 22) fols. 160a-161. Epistle of Juda. 23) fols. 162-186b. Book of Revelation (Apocalypse of John). 24) fols. 186b-241a. Book of Acts of The Apostles."
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "115.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "116.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2894-refine.json",
+    "pipeline_version": "v1"
+  }
+}

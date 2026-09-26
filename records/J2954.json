@@ -1,0 +1,68 @@
+{
+  "id": "J2954",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2954",
+  "notice": "2954",
+  "volume": "Jerusalem_V9",
+  "title": "ՏԵՍՈՒԹԻՒՆ ԱՆԹԱՌԱՄ ԾԱՂԿԻ",
+  "date": {
+    "from": "1786",
+    "to": "1786",
+    "display": null
+  },
+  "fields": {
+    "numero": "2954",
+    "no_notice": "1",
+    "titre": "ՏԵՍՈՒԹԻՒՆ ԱՆԹԱՌԱՄ ԾԱՂԿԻ",
+    "date_debut": "1786",
+    "date_fin": "1786",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "36",
+    "dimensions": "16X11.5",
+    "mise_en_page": "սեւ մելանով, միասիւն, 21 տող",
+    "details_ecriture": "սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "թղթեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Գէորգ",
+    "possesseur": "Գէորգ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։ Էջ 3.— Անթառամ Ծաղիկ Վարդանայ Վարդապետի, ի խնդրոյ Սարգսի։ Թագաւորեալ Սբ. Եկեղեցի, աստուածաբար հրաման տայ ում եւ կամի՝ կոչելով ի գործ...։ Էջ 25.— Գրիգորի Սքանչելագործի ասացեալ ի Ծնունդն Տեառն.— Խորհուրդ մեծ եւ սքանչելի յայսմ աւուր տեսանեմ, եղբարք...։ Յիշատակագրութիւն գրչի.— 1786 Էջ 34.— Գրեցան երկոքին ճառքս ձեռամբ Գէորգայ նուաստի, ի Կոստանդինուպօլիս քաղաքի, ի թուականին Հայոց ՌՄԼԵ. ի վայելս անձին իւրոյ եւ այլոց սիրելեաց, որք միտ դնեն այսպիսի իրաց։ Էջ 35-36, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "169.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2954-refine.json",
+    "pipeline_version": "v1"
+  }
+}

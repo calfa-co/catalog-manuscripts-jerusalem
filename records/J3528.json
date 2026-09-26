@@ -1,0 +1,68 @@
+{
+  "id": "J3528",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3528",
+  "notice": "3528",
+  "volume": "Jerusalem_V10",
+  "title": "ՑՈՒՑԱԿ ՏԵՂԱՓՈԽԵԼԻ ՏՕՆԻՑ ՍՐԲՈՑ",
+  "date": {
+    "from": "1814",
+    "to": "1814",
+    "display": null
+  },
+  "fields": {
+    "numero": "3528",
+    "no_notice": null,
+    "titre": "ՑՈՒՑԱԿ ՏԵՂԱՓՈԽԵԼԻ ՏՕՆԻՑ ՍՐԲՈՑ",
+    "date_debut": "1814",
+    "date_fin": "1814",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "22",
+    "dimensions": "20X15.5",
+    "mise_en_page": "գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 18 տող կամ նուազ, կարմիր գիծերու միջեւ",
+    "details_ecriture": "յստակ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտ",
+    "etat_conservation": "լաւ",
+    "copiste": "Յակոբ Աբեղայ Կանցի, Կարնեցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–5, դատարկ։ Էջ 6.— Զփոքրիկ տետրակս որք տեսանէք է հաւաքեցեալ սակս տօնափոխեալ սրբոց մարտիրոսաց եւ այլոց սրբոց ըստ ցուցման տարեգրոյն նորասահման Տօնացուցին մերում... բազում աշխատութեամբ եւ խուզ ընտրութեամբ եղեւ հաւաքեցեալ Սրբոյ Աթոռոյս բնիկ միաբան, եւ լուսարար Սիմէօն շնորհաբան վարդապետի սպասաւոր ի մահտեսի Սարգսէ։ Ի ՌՄԿԳ եւ յամսեանն օգոստոսի սկզբան, եւ յաւուրս պատրիարգութեան տեառն Թէոդորոս սրբազան վեհի Վանցւոյ եւ ձեռամբ նորին ծառայ եւ նոտար Յակոբ աբեղայի Կ[ա]նցւոյ։ Էջ 7.— Անաստասայ քահանային, եւ Վարոսի եւ այլոց։... Էջ 14.— Քրիստափորի վկայից, եւ այլոց սրբոց։ Էջ 15–22, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "524.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3528-refine.json",
+    "pipeline_version": "v1"
+  }
+}

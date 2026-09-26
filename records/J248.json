@@ -1,0 +1,68 @@
+{
+  "id": "J248",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "248",
+  "notice": "248",
+  "volume": "Jerusalem_V2",
+  "title": "ԼՈՒՍԱՒՈՐՈՒԹԻՒՆ ԽՈՍՏՈՎԱՆՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "248",
+    "no_notice": "3",
+    "titre": "ԼՈՒՍԱՒՈՐՈՒԹԻՒՆ ԽՈՍՏՈՎԱՆՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "100",
+    "dimensions": "28x21x1",
+    "mise_en_page": "միասիւն, 47 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ճակատ.— Մեկնութիւն Խոստովանութեան, ի հասարակէ բնաբանօրէն ասացեալ։ Յորում ընձեռի զխոստովանութիւն մեղացն, սրտի, բերանոյ, գործոյ եւ զանցառութեան, զղջման եւ վճարման ապաշխարութեան։ Շարադրեցեալ ի Ած.աբան Պատրի Կուիլէլմէ կոչեցեալ Փլփին. փարիզեցի ի կարգէն քարոզողաց, ի փառս ամենազօրին Այ.։ Յաղագս ըննից թէութեանց, եւ յատկութեանցն բարւոյ խոստովանութեան, եւ ապաշխարութեան։ — Հմմտ. Ա. Հատոր, թ. 105։ Էջ 100.— Ապացուցաւ առաջին ընձեռուածին ի վերայ խոստովանութեան, նորում զնիւթոյ խոստովանութեան ընձեռեցաք երկարապէս, գիտելով թէ, ասացեալ նիւթն է փրկաւէտ, եւ հաճելի ռամիկ ժողովրդեանն, զոր սակայն խոհեմ քարոզչին կարի դիւրապէս է համառօտելն, ըստ որում հաճոյ թուիցի ինքեան։ Վերջ եւ եղբ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "029.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "248-refine.json",
+    "pipeline_version": "v1"
+  }
+}

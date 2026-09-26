@@ -1,0 +1,68 @@
+{
+  "id": "J3725",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3725",
+  "notice": "3725",
+  "volume": "Jerusalem_V11",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑԻՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3725",
+    "no_notice": "Է",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑԻՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Նման է նախորդ հատորին. էջք 882։",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1.— Պատմութիւն Եկեղեցւոյն Աստուծոյ. Հատոր Է։ Գիրք ԺԵ։ Վաղէսի կայսերութեան ըսկիզբէն մինչեւ Սրբոյն Աթանասի վախճանը։ Քի. 364 թուականէն մինչեւ 373։ էջ 272–289ի միջեւ կը պակսի 18րդ պրակը, տեղը դրուած է մէկ թերթ ճերմակ թուղթ։ Էջ 272ի շարունակութիւնը տեսնել թիւ 3726, էջ 278, պրակ 18, որով կը սկսի այդ հատորը։ էջ 289, պրակ 19.—... սոյն գումարմանս մէջ Փլաբիանոս կայսերական հրամանաւ ստիպուելով որ իր հաւատոյ դաւանութիւնը տայ, ըսաւ...։ Դիտ.— Ասիկա շարունակութիւնն է 18րդ պրակին, որ կը տեսնուի հետագայ թիւ 3730 հատորին մէջ, եւ մաս կը կազմէ ԻԸ րդ գրքին. այստեղ դրուած է սխալմամբ։ էջ 378.— Քննութիւն ի ԻԸ գիրս։ Մեծին Լէոնի տումարին վրայ։ (Այս քննութիւնը զատ թուղթի վրայ գրուած է).— Ակնարկուած թուղթը աստ ներմուծուած չէ։ էջ 378, ստորոտը.— Գիրք ԻԹ։ Վարդանանց պատերազմին հետեւանքը. Ղեւոնդեանց նահատակութիւնը. եւ Վահան Մամիկոնեանին պատերազմները։ Քի. 451 թիւէն մինչեւ 484 թուականը։ էջ 567.— Քննութիւն ԻԹ գրոց։ էջ 577.— Գիրք Լ։ Քաղկեդոնի ժողովքը, եւ այն ժամանակներուն պատմութիւնը։ էջ 781.— Քննութիւն ի Լ գիրսն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "187.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3725-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2682",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2682",
+  "notice": "2682",
+  "volume": "Jerusalem_V8",
+  "title": "Ք Ե Ր Ա Կ Ա Ն ՈՒ Թ Ի Ւ Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2682",
+    "no_notice": "1",
+    "titre": "Ք Ե Ր Ա Կ Ա Ն ՈՒ Թ Ի Ւ Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "312",
+    "dimensions": "21 X 17 X 2",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 18 տող, յաճախ նուազ",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ . — Էջ 1 . — Ընտիր Քերականութիւն Հայկազնեան Լեզուի, յօրինեալ ի պէտս ուսումնականաց, ի մեծն Պօլիս, 1840։ Էջ 2, դատարկ։ Էջ 3 . — Մասն Ա. — Ներածութիւն Քերականութեան։ 1 . — Քերականութիւնը ամմեն ազգի մէջ իր լեզուին գիտութիւնն է, որ անսխալ խօսիլ, ու անսխալ գրելը կը սորվեցընէ։ . . . Էջ 127 . — Յաւելուած։ Կազմութիւն բառից։ Հ. Բառերը իրենց կազմութեանը նայելով քանի՞ կերպ կ'ըլլան։ Էջ 162 . — Մասն Բ. — Զուգադրութիւն Մասանց Բանի։ Հ. Մասանց Բանի զուգադրութիւն ըսելով ի՞նչ կ'իմանամք։ Էջ 311 . — Գլուխ ԺԱ. — Միջարկութիւն։ Հ. Միջարկութիւնը ի՞նչ պաշտօն ունի։ Էջ 312 . — Վերջ Զուգադրութեանս Մասանց Բանի։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "321.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2682-refine.json",
+    "pipeline_version": "v1"
+  }
+}

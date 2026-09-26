@@ -1,0 +1,68 @@
+{
+  "id": "J161",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "161",
+  "notice": "161",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՀԻՆԳ ԳՐՈՑՆ ՄՈՎՍԵՍԻ",
+  "date": {
+    "from": "1822",
+    "to": "1822",
+    "display": null
+  },
+  "fields": {
+    "numero": "161",
+    "no_notice": "5",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՀԻՆԳ ԳՐՈՑՆ ՄՈՎՍԵՍԻ",
+    "date_debut": "1822",
+    "date_fin": "1822",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԲ+378",
+    "dimensions": "31X24X3",
+    "mise_en_page": "վերնագիրները եւ բընաբանները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 47 տող",
+    "details_ecriture": "յաճախակի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "պարզ։ Ճակատ.— Գրքին ճակատը չարաչար վնասցած է, այժմ կը մնան հետեւեալները. —Գիրք Մեկնութեան հինգ[Գ]րոցն Մովսէսի։ ... Համառօտեալ ի Պօղոս Վարդապետէ Ադրիանուպօլսեցւոյ ի միաբանութենէ սըրբոյ Աթոռոյն Երուսաղէմի, ի պէտս միաբան եղբարց",
+    "etat_conservation": "սկիզբի էջերը ա-ժբ+1-10 վնասւած, մնացեալը լաւ",
+    "copiste": "Մարտիրոս Շէքէրճեան, էջ 1-224, եւ Կեսարացի Յակոբ Սարկաւագ Մկրտիչեան էջ 225-368",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": "է սրբոյ Աթոռոյս Երուսաղէմի, եւ մի ոք արտաքս հանցէ գողութեամբ. եւ մտցէ ընդ ահեղ դատապարտութեամբ",
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Է.— Յառաջաբանութիւն։ Էջ 1.— Գիրք Ծննդոց։ Էջ 105.— Գիրք Ելից։ Էջ 203.— Մեկն. Ղեւտացւոցն։ Էջ 263բ.— Գիրք Թուոց։ Էջ 313.— Երկրորդ Օրէնք։\nՅիշատակարանք.— Էջ 102.— Ծննդոց Գրքի վերջը, սեւագոյն զարդանկարէ մը յետոյ.— «Շէքէրճեան նուաստ ծառայ Մարտիրոս»։— Յաջորդ թերթը դատարկ է։ Էջ 199.— Ելից Գրքի վերջը.— «Թուին Հայոց ՌՄՀԱ, եւ Նոյեմբերի դ. կատարեցաւ։ Գրեցաւ ձեռամբ անպիտան Մարտիրոսին որ է որդի Շէքէրճիի»։— Յաջորդ երեք էջերը դատարկ են։ Էջ 368.— Կարմիր մելանով, նախ բոլորգիր, ապա նոտր.— «Վերջ Մեկնութեան Հինգ Գրոցն Մովսէսի օգնութեամբն Աստուծոյ։ Ես դրագիր մեղաւոր եւ անա[ր]ժան ծառայ Կեսարիացի Մկրտիչեան Յակոբ իբր սարկաւագ։ Ի Թուին ՌՄՀԱ, սեպտեմբերի իե, աւարտեցաւ։ Որ եւ յիշեցէք ի տէր»։ — Յաջորդ հինգ թերթերը կը մնան դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "500.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "161-refine.json",
+    "pipeline_version": "v1"
+  }
+}

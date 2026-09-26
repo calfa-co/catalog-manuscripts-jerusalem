@@ -1,0 +1,68 @@
+{
+  "id": "J358",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "358",
+  "notice": "358",
+  "volume": "Jerusalem_V2",
+  "title": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "358",
+    "no_notice": "3",
+    "titre": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "328",
+    "dimensions": "25 x 19 x 3",
+    "mise_en_page": "խորագիրները եւայլն կարմիր, մնացեալը սեւ մելանով, երկսիւն, 30 տող",
+    "details_ecriture": "շատ առատ։ Լաթակազմ խաւաքարտեայ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ. վերջաւորութիւն թերի",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Առաջաբանութիւն, կամ ըսկիզբն Ածաբանութեան.— Մեծութիւն, կամ լայնատարածութիւն նիւթոց՝ զորոց ընձեռէ Ածաբանութիւնն, յառաջանալ պարտի ի մեկնութենէ նոյնոյ Ածաբանութեան...։ Էջ 5ա.— Ածաբանութիւն Սկօթոսին, Մասն Առաջին։ Զմիութիւն էութեան Ածայնոյ եւ զերրորդութիւն անձանց մեկնելով...։ Էջ 150ա.— Կատարեցաւ գիրս առաջին, որ ասի յաղագս միոյն Այ.։ Ծանօթ.— Յաջորդ դատարկ թերթին առաջին սիւնակին վրայ տարբեր գրիչ մը արձանագրած է հետեւեալ նկատողութիւնը, նոտր շեղագրով.— «Բազում վարդապետութիւն Սկոտոսի է աստ ամենեւին. ըստ մասին կարէ լինիլ ճշմարիտ, թէ ի բնականս եւ թէ ի գերբնականս. այսպէս հաստատեցի համարձակապէս. եթէ կամք իցէ բարեմիտ ընթերցողացդ, բաղդատեա մտադրութեամբ եւ տես թէ քանի ընդդէմ բանի եւ Սբ. Գրոց, քանի անպատշաճ բանք զոր ի յընթեռնուլն տգէտք եւս ծիծաղին ազդեցութեամբ բնական լուսոյ, ապա քանի առաւել գիտնականք, որք պարապին տիւ եւ գիշեր ի Սբ. Գիրս եւ յարտաքին յարուեստս»։ Էջ 153.— Սկօթոսի, ընձեռուած զերրորդակէ Այ. ...։ Էջ 275.— Երրորդ ընձեռուած Սկօթոսի Վարդապետին։ Յաղագս Ստեղծման Աշխարհիս...։ Էջ 328բ.— Վերջաւորութիւն Ածաբանութեան նրբագունեղի Սկօթոսի Վարդապետին.— Աւրհնութիւն անլռելի Հօրն անեղականի...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "278.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "358-refine.json",
+    "pipeline_version": "v1"
+  }
+}

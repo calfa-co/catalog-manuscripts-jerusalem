@@ -1,0 +1,72 @@
+{
+  "id": "J2696",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2696",
+  "notice": "2696",
+  "volume": "Jerusalem_V8",
+  "title": "Կ Ա Ն Ո Ն Ա Գ Ի Ր Ք",
+  "date": {
+    "from": "1868",
+    "to": "1868",
+    "display": null
+  },
+  "fields": {
+    "numero": "2696",
+    "no_notice": "2",
+    "titre": "Կ Ա Ն Ո Ն Ա Գ Ի Ր Ք",
+    "date_debut": "1868",
+    "date_fin": "1868",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "164",
+    "dimensions": "32x21x1.5",
+    "mise_en_page": "սևորակ մելանով, 37 տող",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ հնամաշ",
+    "etat_conservation": "բաւարար",
+    "copiste": "Աստուածատուր Խաչատուրեան, Կ. Պոլսեցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։ Էջ 3. — Ճակատ. — Գիրք Կանոնաց, հաւաքեալ ըստ կարգի այբուբենից, աշխատասիրութեամբ Յակոբ Դպրի Ամասիացւոյ, 1800 — ՌՄԽԹ։ Եւ այժմ վերստին օրինակեալ յընտիր գաղափարէ յԱռաքելական Աթոռս Սբ. Երուսաղէմ։ Ի հայրապետութեան Տ. Ներսեսի Ե. Սրբազնագոյն Կաթողիկոսի ամ. Հայոց։ Ի պատրիարգութեան Սրբոյ Գահիս Երուսաղէմի Տ. Յովհաննու սրբազան արքեպիսկոպոսի։ Եւ ի պատրիարգութեան Կոստանդնու\nպօլսոյ Տ. Յակոբայ սրբազան արքեպիսկոպոսի ։ Ձեռամբ միաբան Պօլսեցի Աստուածատրոյ Խաչատուրեան, 1868, ՌՅԺԶ ։ Էջ 4, դատարկ ։ Էջ 5.— Կանխաբանութիւն.— Յաղագս օգտակարութեան Կանոնագրաց և մանաւանդ հարկաւորութեան նորին առ ամ. հաւատացեալս, և ևս առ քահանայս և առ Եպիսկոպոսունս...։ Հմմտ. թիւ 2056, Է. Հատոր, էջ 102 ։ Էջ 12, դատարկ ։ Էջ 13.— Ազատ լիցին եկեղեցականք ի հարկաց... ։ Ծանօթ.— Կանոններու աղբիւրները նշանակուած են արտաքին լուսանցքներուն կից ուրոյն սիւնակներու մէջ ։ Էջ 22.— Բաժակէն Սրբոյ ևս պարտ է տալ ժողովրդեան ոչ թերացուցեալ զսրբութիւնն ։ Էջ 50.— Կաթընկերք այսինքն ի միոյ [մօր] կաթանէ սնեալք ոչ կարեն ամուսնանալ ընդ միմեանս ։ Էջ 79.— Ջրախառն գինեաւ պատարագողք նզովեալ եղիցին ։ Էջ 98.— Ի ՌՃ թուին մերոյ Փիլիպպոս կաթողիկոսն Էջմիածնի... ։ Էջ 99.— Զեկուցումն ի վերջոյ. Յաղագս ինչ ինչ բանից գիտելի է ։ Էջ 101-164, դատարկ ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "335.jpg"
+    },
+    {
+      "volume": "Jerusalem_V8",
+      "file": "336.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2696-refine.json",
+    "pipeline_version": "v1"
+  }
+}

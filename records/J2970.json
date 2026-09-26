@@ -1,0 +1,68 @@
+{
+  "id": "J2970",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2970",
+  "notice": "2970",
+  "volume": "Jerusalem_V9",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (Ե. ՀԱՏՈՐ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2970",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (Ե. ՀԱՏՈՐ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "194",
+    "dimensions": "23X16.5X1.5",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 25–27 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ. առաջին երեսին կը կարդացուի. «Գիրք Քարոզից, որ արարեալ է ի Տիմոթէոս Եպս. Սափրիչեանէս, Հատոր 5»",
+    "etat_conservation": "բաւարար",
+    "copiste": "Հեղինակը",
+    "possesseur": "Հեղինակը",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Քարոզ 1։ Ծաղկազարդ։ Էջ 12.— Քարոզ 2։ Ծնունդ Քրիստոսի։ Էջ 59.— Քարոզ 10։ Մեծութիւն ու Աղքատութիւն։ Էջ 122.— Քարոզ 19։ Զատիկ Քրիստոսի։ Էջ 152.— Քարոզ 26։ Քառասնօրեայ Գալուստն Քրիստոսի։ Էջ 159.— Քարոզ 27։ Յաւուր Վարդանանց, յաւուր ձեռնադրութեան քահանայի ի Գալաթոյ Եկեղեցին։ Էջ 169.— Քարոզ 29. չէ գրուած, այս եւ յաջորդ էջը կը մնան դատարկ։ Էջ 171.— 30.— Քարոզ Սբ. Պսակի ժամանակ։ Էջ 174.— Քարոզ 31։ Հոգւոյ Արիութիւն։ Էջ 177.— Քարոզ 32։ Դամբանական։ Էջ 191.— Քարոզ 35։ Խաչվերացման աւուրն նկատմամբ։ Էջ 193.— Ցանկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "180.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2970-refine.json",
+    "pipeline_version": "v1"
+  }
+}

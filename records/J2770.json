@@ -1,0 +1,72 @@
+{
+  "id": "J2770",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2770",
+  "notice": "2770",
+  "volume": "Jerusalem_V8",
+  "title": "ՀԱՒԱՔԱԾՈՅՔ ԳԱՂՏՆԵԱՑ ԱՐՀԵՍՏԱՒՈՐԱՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2770",
+    "no_notice": "2",
+    "titre": "ՀԱՒԱՔԱԾՈՅՔ ԳԱՂՏՆԵԱՑ ԱՐՀԵՍՏԱՒՈՐԱՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "304",
+    "dimensions": "29 x 19 x 2",
+    "mise_en_page": "սևորակ մելանով, միասիւն, 29 տող կամ նուազ",
+    "details_ecriture": "մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական գրեթէ։ Լաթակազմ խաւաքարտեայ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։ Էջ 3.— 1.— Կանէփը իբրև կտաւ գործելու կերպ և մեթոտ.— Հմմտ. թիւ 2769։ Էջ 48.— 101.— Փայտը ի մանուշակ ներկել։ Էջ 87.— 201.— Վերնիճ դեղին։ Էջ 138.— 322.— Մետաղական հայելեաց բաղադրութիւն։ Էջ 179.— 423.— Գինիներու խարդախութիւն։ Խարդախուած գինիները ճանաչելու եղանակ։ Էջ 229.— Մասն Հինգերորդ։ Բժշկականութեան վերաբերեալ զանազան դեղորայք. — 544.— Դեղորայք շատ պարզ զանազան հիւանդութեանց համար։ Էջ 241.— 545.— Լուծողական։ Էջ 249.— 563.— Ոչխարաց համար լուծողական դեղ։ Էջ 250.— Ցանկ նիւթոց.— Ա-Ֆ։ Էջ 275.— Ցանկ առաւել ընտրելեաց հաւաքեալ նախընթաց ցանկերէն.— Ա-Ք-Ֆ։ Էջ 282-304, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "412.jpg"
+    },
+    {
+      "volume": "Jerusalem_V8",
+      "file": "413.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2770-refine.json",
+    "pipeline_version": "v1"
+  }
+}

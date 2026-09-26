@@ -1,0 +1,68 @@
+{
+  "id": "J2255",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2255",
+  "notice": "2255",
+  "volume": "Jerusalem_V7",
+  "title": "ԵՕԹՆ ՄԱՀԱՑՈՒ ՄԵՂՔ",
+  "date": {
+    "from": "1852",
+    "to": "1852",
+    "display": null
+  },
+  "fields": {
+    "numero": "2255",
+    "no_notice": null,
+    "titre": "ԵՕԹՆ ՄԱՀԱՑՈՒ ՄԵՂՔ",
+    "date_debut": "1852",
+    "date_fin": "1852",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "30",
+    "dimensions": "29 x 18.5",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւորակ մելանով, միասիւն, 34 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի, թղթեայ, չարաչար որդնակեր",
+    "etat_conservation": "անբաւարար. ծակծկուած որդերէ",
+    "copiste": "Յակոբ Վրդ. Յոհաննէսեան, Տիգրանակերտցի",
+    "possesseur": "Յակոբ Վրդ. Յոհաննէսեան, Տիգրանակերտցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը երեք թերթ, որդնակեր",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Եօթն Մահացու մեղք եւ չար դարերք նորա, այսինքն մասունքն։ Էջ 3.— Յակոբ Աստուածաբան պատրիարքն ներգործական մեղքը կը նմանեցընէ եօթնագլուխ վիշապ գազանին...։ Էջ 4.— Յաղագս հպարտութեան, որ է առաջին եւ գլուխ մահացու մեղաց։ Էջ 15.— Վասն բղջախոհութեան որ է եօթներորդ մահացու մեղաց։ Էջ 17.— Կան այնպիսի մեղք եւս, որ առ Ած. աղաղակեն։ Էջ 20.— Անթողելի մեղաց տեսակները, որ կըսուին հայհոյութիւն Հոգւոյն Սրբոյ, և վեց են.— Ա.— Է յուսահատութիւնն, որ այսպէս էր մեղքն Կայենի եւ Յուդայի...։ Էջ 23.— Մեղայ ամենասուրբ Երրորդութեան...։ Սրբոյ Յարութեան երկնանման Տաճարիս ռէիզ Յակոբ վարդապետ Տիգրանակերտցի մահտեսի Յօհաննէսեան, 1852, յԵրուսաղէմ։ Էջ 26-30, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "390.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2255-refine.json",
+    "pipeline_version": "v1"
+  }
+}

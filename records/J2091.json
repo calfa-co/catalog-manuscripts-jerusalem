@@ -1,0 +1,72 @@
+{
+  "id": "J2091",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2091",
+  "notice": "2091",
+  "volume": "Jerusalem_V7",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Ւ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2091",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Ւ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "100",
+    "dimensions": "23 X 19",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 24— 32 տող",
+    "details_ecriture": "ոչ միաձեւ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 — Յոգեղուարճ գիտութեան երաժշտական արուեստի՝ միայն հանդիսացեալ ուսուցիչ ի հայկազեանս ազգի, գերամեծար հոգեկից եղբայր Պետրոս աղա՝ յարգելի վարժապետ, ողջոյն սիրոյ նուիրեմ քեզ կարօտով մեծաւ.— Զերեսին նամական հարազատիդ իմոյ, գրեալ ի յուլիսի, եւ յօգոստոսի եւ ի սեպտ. 25, ընկալայ բազում գոհութեամբ...։ Ի Հոկ. 28, վեբէլլիարն Մարտիրոսն, որ հարեալ է ի ժանտախտէ, վճարեցաւ ի կենաց, եւ զոր ունէր հանդերձ եւ զայլ ինչ՝ հրամայեցաւ տալ եղբօր նորա։ Էջ 23—24, դատարկ։ Էջ 25 — Աստուածային սիրոյն փառաբան՝ գերամեծար ազնուական... ապա եղբօր մերոյ ընտրելոյ մատուցանեմք սէր առատ կարօտախառն ըղձիւ.— Սէր սրտի քո եւ ջանք եւ տարժանմունք, որ յաղագս պայծառութեան սրբոյ եկեղեցւոյ, եւ վասն օգտի ազգիս մերոյ, յայտնի տեսանի ամենեցուն...։ Էջ 45 — Վսեմափառ պայազատ.— Զերկնատունկ ծառոյ սիրոյն Աստուծոյ՝ զանուշակ պտուղ ընկերին սիրոյ...։ Եւ դու, ով բարերար իշխան, ողջ լեր ամենայն փառօք՝ ի պարծանս ազգիս եւ ի մխիթարութիւն իմ, որ եմ վեհանձնութեան ձերում խոնարհագոյն ծառայ՝ տիրացու Գրիգոր Փեշտըմալճեան։ Էջ 70 — Գերամեծար վեհ իշխանիդ, Ալփիարեան պարծանք զարմիդ,\nՓիլիպպոսի Ամիրայիդ, նուիրի սէր անկեղծ ի սիրտ... էջ 83 — Յատուկ է ճշմարիտ բարեկամաց հաղորդակից առնել զսիրելիս իւրեանց յամենայն կիրս հոգւոյ...: էջ 92-100, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "178.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "179.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2091-refine.json",
+    "pipeline_version": "v1"
+  }
+}

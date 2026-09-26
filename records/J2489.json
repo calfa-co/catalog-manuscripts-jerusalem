@@ -1,0 +1,68 @@
+{
+  "id": "J2489",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2489",
+  "notice": "2489",
+  "volume": "Jerusalem_V8",
+  "title": "Տ Օ Ն Ա Ց Ո Յ Ց",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2489",
+    "no_notice": "48",
+    "titre": "Տ Օ Ն Ա Ց Ո Յ Ց",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "346",
+    "dimensions": "15x10.5x3",
+    "mise_en_page": "խորագիրները, սկզբնատողերը և գլխատառերը կարմիր, մնացեալը սև մելանով, միասիւն, 18-30 տող",
+    "details_ecriture": "նոտրակերպ անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ ; ՈՒՂՂԱԳՐՈՒԹԻՒՆ: տկար",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "անբաւարար. վնասուած ցեցերէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը և վերջը մէկմէկ թերթ, մասն երկաթագիր Աւետարանի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4, դատարկ։ Էջ 5.— Տաւնացոյց և Աւետարանայցոյց, և կարգայորութիւնք և հրայհանգ տէրունական տօնից, զոր եդեալ և սահմանեալ է Սրբոյն Սահակայ Հայոց Հայրապետին, որ ընկալեալ ի նմանէ հասուցին մեզ նախնիքն մեր։ Էջ 31.— Այս է խրատ վասն Անդաստան Աւրհնելոյ...։ Էջ 89.— Սբ. Զատկի գիշերն հսկումն է ...։ Էջ 139.— Պետայկոստէին գիշերն հըսկումն է...։ Էջ 207.— Սուրբ Խաչի Տաւն է։ Էջ 255.— Խրատք և կարգ շարայկանաց քաղելոյ, Ղուկաս Վարդապետին Կեղացոյ։ Էջ 283.— Այլ խրատք քաղուածոյ շարականաց, ըստ խորհրդոյ սուրբ, աշխատեալ ումեմնէ երաժշտէ բայբուռէ և բանայսիրէ, կիրակէի և ամ. տէրուն աւուրց, ի վերայ ութ ձայնի, ասա։ Էջ 291.— Քաղուածք յօուր տօնի Մարտիրոսաց և ամ. սրբոցն Աստուծոյ։ Էջ 306.— Մեսեդիք Ծնընդեանն Քրիստոսի։ Էջ 308.— Առօօտու երգ պահոց օուր։ Էջ 313.— Գովեայք Յինանց։ Էջ 314.— Ալէլուայ գիշերային, Յարութեան։ Էջ 319-346, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "184.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2489-refine.json",
+    "pipeline_version": "v1"
+  }
+}

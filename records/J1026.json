@@ -1,0 +1,68 @@
+{
+  "id": "J1026",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1026",
+  "notice": "1026",
+  "volume": "Jerusalem_V4",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՅԱՅՏՆՈՒԹԵԱՆ",
+  "date": {
+    "from": "1816",
+    "to": "1817",
+    "display": null
+  },
+  "fields": {
+    "numero": "1026",
+    "no_notice": "9",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՅԱՅՏՆՈՒԹԵԱՆ",
+    "date_debut": "1816",
+    "date_fin": "1817",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "256",
+    "dimensions": "20X15X2",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 21 տող։ Նոտր շեղագիր",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ, մասամբ ոսկեզօծ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Յովհաննէս դպիր Ճոնեան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— էջ 1 Մեկնութիւն Յայտնութեան Աստուածաբան Աւետարանչին Յօհաննու, արարեալ տեառն Անդրէասի Արքեպիսկոպոսի Կեսարու։ Թարգմանեալ ի հելլենացի լեզուէ ի հայ բարբառ ի Կոստանդեայ մետրապօլիտէ Յերապօլսի, եւ սրբագրեալ տեառն Ներսիսի Արքեպիսկոպոսի Տարսոնի Կիլիկեցւոյ։ Ի Հայրապետութեան տեառն տեառն Գրիգորիսի Հայոց Կաթողիկոսի։ Ի թուին ՈԼԸ (1179), ի հայրապետական Աթոռն Հռոմկլլա։ Իսկ այժմ օրինակեալ յամի տեառն 1807, եւ ի յամսեանն ապրիլի, ի դպրատունն որ ի Պրուսա։ Եւ զաղափարեալ յայնըմ օրինակէ յամին 1816, եւ ՌՄԿԵ, ի դեկտ. 12, ի նոյն դպրոցն Պրուսայ։ էջ 7.— Գլուխք Յայտնութեան զոր ետես ի Պատմոս կղզին Աւետարանիչն Յօհաննէս։ Յիշատակագրութիւն Գրչի.— 1817 էջ 254.— Աւարտեցաւ գիրքս ի ՌՄԿԶ, ի յապրիլի Ը, ի Պրուսայու Դպրատունն, ձեռամբ Ճոնեան Յովհաննու Դպրի։ էջ 255–256, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "064.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1026-refine.json",
+    "pipeline_version": "v1"
+  }
+}

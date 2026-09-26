@@ -1,0 +1,68 @@
+{
+  "id": "J383",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "383",
+  "notice": "383",
+  "volume": "Jerusalem_V2",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԵԶԵԿԻԷԼԻ ԵՒ ԴԱՆԻԷԼԻ",
+  "date": {
+    "from": "1798",
+    "to": "1798",
+    "display": null
+  },
+  "fields": {
+    "numero": "383",
+    "no_notice": "2",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԵԶԵԿԻԷԼԻ ԵՒ ԴԱՆԻԷԼԻ",
+    "date_debut": "1798",
+    "date_fin": "1798",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "252",
+    "dimensions": "24 x 18 x 1.5",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 36 տող",
+    "details_ecriture": "անկոկ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Պօղոս Վրդ. Ադրիանուպօլսեցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Հմմտ. թ. 156։ Էջ 1.— Մեկնութիւն Եզեկիէլի, ի ձեռըն Անդրիանուպօլսեցի Պօղոս Վարդապետի համառօտեալ, ի լայնածաւալ Մեկնութենէ Կուռնելիոսի. յԵէմ. յամի Տն. 1798։ Ոմանք ասացին թէ Եզեկիէլ է Պիւթաղորաս, բայց ոչ է, այլ էր քահանայ...։\nԷջ 157.— Մեկնութիւն Դանիէլի, ի ձեռն Անդրիանուպօլսեցի Պօղոս Վարդապետի համառօտեալ, ի լայնածաւալ Մեկնութենէ Կուռնելիոսի. յԵէմ. յամի Տն. 1798։ Գլուխ Առաջին. նախ եւ առաջ դեռ եւս տղայ գոլով հանդերձ երեք ընկերօք ի Բաբիլօն գերի վարեցաւ Դանիէլ մարգարէ...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "326.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "383-refine.json",
+    "pipeline_version": "v1"
+  }
+}

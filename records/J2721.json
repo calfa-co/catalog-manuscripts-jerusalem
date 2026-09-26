@@ -1,0 +1,68 @@
+{
+  "id": "J2721",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2721",
+  "notice": "2721",
+  "volume": "Jerusalem_V8",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (ԿԻՒՐԱԿԷԻՑ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2721",
+    "no_notice": "9",
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (ԿԻՒՐԱԿԷԻՑ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "416",
+    "dimensions": "26x17.5x2",
+    "mise_en_page": "սևորակ մելանով, միասիւն, 26 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ ոսկեզօծ երիզով",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սևադրոշմ բոլորշի. «Յարութիւն Եպս. 1860», էջ 15, վերի լուսանցքին",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Ճակատ. — Քարոզք Կիւրակէից, հաւաքեալ ի Սբ. Գրոց և ի մատենից սուրբ և իմաստուն վարդապետաց։ Հատոր Երկրորդ։ Աշխատասիրութեամբ տեառն Կարապետի արքեպիսկոպոսի Կոստանդնուպօլսեցւոյ։ Ի հայրապետութեան Մայր Աթոռոյն մերոյ Էջմիածնի Տ. Տ. Ներսեսի սրբազան կաթողիկոսի ամ. Հայոց։ Ի պատրիարքութեան Սրբոյ Աթոռոյն Երուսաղէմի տեառն Յօհաննու արքեպիսկոպոսի։ Յամի Տեառն 1853, Ապրիլ 1։ Էջ 2, դատարկ։ Էջ 3. — Առաջաբան. — Յետ առաջնոյ Քարոզագրոյն անուանելոյ Տարեկան Քարոզք, զսա ևս յարմարեցի ի մնացորդաց նորա՝ անուանեալ Քարոզք Կիւրակէից, թուով ութսուն և մէկ...։ Էջ 5. — Քարոզ Ա. Կաղանդ։ Գոհանալ զԱստուծոյ։ Էջ 121. — Քարոզ ԻԵ։ Հինգերորդ Կիւրակէ Մեծի Պահոց։ Բան Յիսուսի չորրորդ. «Ած. իմ, Ած. իմ, ընդէ՞ր թողեր զիս» (Մատ. ԻԷ, 49)։ Էջ 262. — Քարոզ ԾԳ. Վարդավառ։ Ճանապարհ փառաց չարչարանքն է։ — Ասէին զելիցն նորա (Ղու. Թ. 31)։ 1. — Ուրախական է յոյժ հանդէս այլակերպութեան Տեառն մերոյ Յի. Քի. յամ. կուտէ. . . ։ Էջ 402. — Քարոզ ՁԱ. — Վեցերորդ Կիւրակէ Յիսնակի. — Ազգասիրութիւն։ Էջ 408, դատարկ։ Էջ 409. — Ցանկ Քարոզից։ Էջ 413-416, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "364.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2721-refine.json",
+    "pipeline_version": "v1"
+  }
+}

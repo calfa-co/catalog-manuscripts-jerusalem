@@ -1,0 +1,68 @@
+{
+  "id": "J2120",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2120",
+  "notice": "2120",
+  "volume": "Jerusalem_V7",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2120",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Տետրակ մըն է, բաղկացած 68 էջերէ :",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1-2, դատարկ : էջ 3.— Այն ինչ հանդերձեալ էաք ելանել ի Տիգրանակերտ քաղաքէն... : Հինգ օթս փոխեալ՝ ժամանեցաք անվնաս ի քաղաքն յԵդեսիա... : ...յարուցեալ յայգուն ի չու անկեալ, ժամանեցաք ի քաղաքն Պիր... : ... ուր երեւեցաւ մեզ քաղաք լայնանիստ՝ առ որ հասեալ հասաք ի Բերիա... : Զերիս օթս փոխելով, հազիւ հասանել կարացաք ի քաղաքն Ադամիա... : Կացեալ մեր ի քաղաքի անդ իբրեւ երիս ժամս, ապա ի չու անկեալ ...հասեալ ժամանեցաք ի քաղաքն Համուս: ...: Եւ մինչ երթայաք, եւ ահաւասիկ յայտ եղեալ Դամասկեայ... : ...ժամանեալ ի քաղաքագեօղ ինչ Նազարէթ առձայնեալ... : Եւ ի չորրորդում աւուր ընդ արշալոյսն ի չու անկեալ հասաք ի մայրաքաղաքն Սամարիա : ... հասեալ ժամանեալ ի Սբ. Քաղաքն Երուսաղէմ, փառս մատուցաք Այ. բարձրելոյն : Աստէն ունիմք դարձուցանել զկարդ բանիս առ քաղաքամայրն Երուսաղէմ : Ծառայ Տեառն Կարապետ Տիգրանակերտցի, 1845, Փետր. 2 :\nէջ 35.— Գիրք ԺԵ : էջ 37.— Գիրք ԺԶ : էջ 40.— Գիրք ԺԷ : էջ 43.— Գիրք ԺԸ : էջ 47.— Գիրք ԺԳ, Արկածք Տելեմաքայ : էջ 54.— Գիրք ԺԴ :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "205.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2120-refine.json",
+    "pipeline_version": "v1"
+  }
+}

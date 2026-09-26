@@ -1,0 +1,72 @@
+{
+  "id": "J3718",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3718",
+  "notice": "3718",
+  "volume": "Jerusalem_V11",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3718",
+    "no_notice": "Բ",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Նման է նախորդ հատորին. էջք 982։",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.– Պատմութիւն Եկեղեցւոյն Աստուծոյ։ Հատոր Բ., որ կը պարունակէ Հրէից Բաբելոնի գերութենէն ազատուելէն մինչեւ Յիսուսի Քրիստոսի աշխարհ գալը Հին եկեղեցւոյն պատահած անցքերը։ 4667 թուէն մինչեւ 5199։ Պատմութիւն 532 տարուան։ Գիրք Ե.– Բաբելոնի գերեդարձէն մինչեւ Ասորւոց Անտիոքոս Եպիփան Թագաւորին Հրէից վրայ հանած հալածումը։ 4667 թուէն մինչեւ 5036։ Միջոց 369 տարուան։\nԷջ 141.– Քննութիւնք Ե. Գրոց.– Քննութիւն Ա.– Եզրասայ օրինագիտութեանը վրայ.– Եզրասայ երեւելի մէկ գործը եղաւ, աստուածաշունչ գրոց օրինակները շատցունելը...։ Էջ 188.– Գիրք Զ.– Անտիոքոս Եպիփանին Հրէից ըրած հալածանքէն մինչեւ Մակաբեանց Շմաւոն քահանայապետին մահը։\n5096 թուէն մինչեւ 5068 թիւը։ 32 տարուան պատմութիւն։ Էջ 405.— Գիրք Է.— Յովհաննէս Հիւրկանոսի քահանայապետութեան սկիզբէն մինչեւ Հերովդէսի մահը։ Աշխարհի 5097 թուէն մինչեւ 5200, միջոց 103 տարուան։ Էջ 567.— Յօդուած Դ.— Նոր Գասիտիմներուն վրայ.— Նոր Գասիտիմները...քիչ ժամանակէն տարածեցան շատցան չէ թէ միայն Լեհաստանի մէջ, այլ եւ Ուլահ եւ Պուղտան եւ Մաճառի երկիրները եւ մասնաւորապէս Կալիցիայի կողմերը, եւ մինչեւ հիմայ (1848) մարելու եւ վերնալու նշան մը վրանին չ’երեւիր։ Էջ 665.— Գիրք Ը.— Նախնի աստուածպաշտութեան աւրուիլը, եւ կռապաշտութեան տեսակները։ Էջ 892.— Քննութիւնք ութերորդ գըրոց.— Քննութիւն Ա.— Պղատոն արդեօք քըրիստոնէից դաւանած երրորդութիւնը ճանչցաւ։ Էջ 962.— Դ.— Եպիկուրեան դրութեան մէջ հեշտութիւնն ի՞նչ է։ Էջ 982.— Վերջ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "183.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "184.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3718-refine.json",
+    "pipeline_version": "v1"
+  }
+}

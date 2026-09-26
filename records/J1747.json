@@ -1,0 +1,68 @@
+{
+  "id": "J1747",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1747",
+  "notice": "1747",
+  "volume": "Jerusalem_V6",
+  "title": "ՔԱՐՈԶԱԳԻՐՔ. Ա. ՀԱՏՈՐ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1747",
+    "no_notice": "16",
+    "titre": "ՔԱՐՈԶԱԳԻՐՔ. Ա. ՀԱՏՈՐ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "386",
+    "dimensions": "30x22x3.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 43 տող։ Նոտր շեղագիր",
+    "details_ecriture": "յոյժ առատ։ Փառակազմ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ ընդհանրապէս. վերի կողմը մասամբ վնասուած թացութենէ",
+    "copiste": "Սարգիս Վարդապետ",
+    "possesseur": "Սարգիս Վարդապետ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, պակսած վաղուց։ Էջ 3, վերի լուսանցքին. — Քարոզ Հոգոյն Սրբոյ։ Էջ 6ա. — Մասն Երկրորդ։ ԶՀոգին ճշմարտութեան, զոր աշխարհս ոչ կարէ ընդունել, եւ այլն։ Էջ 14բ. — Քարոզ Երկրորդ. վասն Սըրբոյ Երրորդութեան։ Էջ 115բ. — Քարոզ Վեշտասաներորդ։ Շողակաթի Աստուածածնին իջման Բանին Աստուծոյ ի Վաղարշապատ քաղաքի, ի շաբաթի աւուր Վերափոխման Աստուածածնի։ Էջ 384ա. — Մասն Երրորդ։ Առնուլ ըզթագաւորութիւն է՝ տիրելն հաւատով ի վերա հեթանոսաց։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "083.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1747-refine.json",
+    "pipeline_version": "v1"
+  }
+}

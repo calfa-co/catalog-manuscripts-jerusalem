@@ -1,0 +1,72 @@
+{
+  "id": "J2124",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2124",
+  "notice": "2124",
+  "volume": "Jerusalem_V7",
+  "title": "ՎԵՑՕՐԷԻՑ ԳԻՐՔ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2124",
+    "no_notice": "9",
+    "titre": "ՎԵՑՕՐԷԻՑ ԳԻՐՔ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ+138",
+    "dimensions": "20x14x1.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը և գլխատառերը կարմիր, մնացեալը սև մելանով, երկսիւն, 25 տող",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, ոչ միատեսակ",
+    "nb_lignes": null,
+    "reliure": "անարուեստ",
+    "etat_conservation": "անբաւարար. նորոգութիւն կրած. թացութենէ վնասուած",
+    "copiste": "Պետրոս Աբղ. Ճակկեցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "տարբեր թուղթ վերջը վեց թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա—Դ, տարբեր թուղթ, դատարկ բացի երրորդէն։ Էջ 1ա. — Գիրք Յաղագս վեցաւրեայ գործոց արարչութեանն. Առաջի Աւուրն. — Սքանչելի եղեւ գիտութիւն քո, ասէ սաղմոս(ն)երդուն Դաւիթ. — Ասեն վարդապետք թէ մարդն է բաղադրեալ ի հոգւոյ եւ ի մարմնոյ...։ Հմմտ. թիւ 1314, Դ. Հատոր, էջ 562։ էջ 7բ-8, դատարկ։ էջ 9. — Ի սկզբանէ արար Ած զերկինս եւ զերկիր. — Վարդապետք ասեն թէ...։ էջ 63ա. — Երկրորդ այժմ ասելի է ի գործոյ յառաջին աւուրն, այսինքն ի յառնելոյ լուսոյն։ էջ 137ա. — Եւ արդ վասն գործոյ երկրորդ յաւուրն այսչափ բաւականասցի։ Յաղագս երրորդ յաւուրն. — Բայց վասն գործոյ երրորդ յաւուրն...։ էջ 138, դատարկ։\nՄանր յիշատակագրութիւնք Գրչի. —\n1. էջ 94բ, ստորոտը. — Ով եղբայր, յիշեայ արուպ մեղապարտ Ճահկեցի Պետրոս յաբեղայն։\n2. էջ 136բ, ստորոտը. — Ով եղբայրք, թողութիւն ներեցէք սղալանացս, ոչ մեր կամաց այլ մոռացմանէ։\nՅետնագոյն յիշատակագրութիւն. — 1827 էջ Գ, նոտր շեղագիր. — ՌՄՀԶ, յուլի Ժ, Յայսմաւուր ի ձեռս բերեալ զտետրակս՝ ետտու կազմել ի դիւղաքաղաքն Յարզան, այսինքն Հաճըն, յոր ընդ հօրեղբօր իմում տեառն Եփրեմայ աստուածարեալ բարունոյ, նուիրակին Սաղէմայ, շրջէաք ի վիճակըս, Հաճնցի Մէրէօճեան՝ Գրիգոր անիմաստ մարդապետս, ի վայելումն ընթերցասիրաց։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "209.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "210.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2124-refine.json",
+    "pipeline_version": "v1"
+  }
+}

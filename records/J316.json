@@ -1,0 +1,68 @@
+{
+  "id": "J316",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "316",
+  "notice": "316",
+  "volume": "Jerusalem_V2",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՊԱՏԱՐԱԳԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "316",
+    "no_notice": "2",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՊԱՏԱՐԱԳԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "230",
+    "dimensions": "26×18×3",
+    "mise_en_page": "բնագիրները կարմիր, բացատրութիւնները սեւ մելանով, միասիւն, 35 տող",
+    "details_ecriture": "վարժ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ, ստկեղծ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Լուսանցքներուն վրայ առատօրէն նշանակուած են սուրբ գրական տեղիքներ, բնագրական ճշդումներ, էջերու բաղդատութիւններ, եւայլն։— Պատարագի Մեկնութեան առաջին օրինակը տես Ա. Հատոր, թիւ 146, Մատենագրութիւնք Ն. Լամբրոնացւոյ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Մեկնութիւն Պատարագամատոյց Աղօթիցն, արարեալ Ներսեսի Լամբրոնացւոյ.— Զի՞նչ յայտ առնէ քահանայիցն հանդերձ սարկաւագօքն յաւանդատունն պայծառազգեստիլ.— [Ե]կեղեցիս տաճար եւ տուն Աստուծոյ է, որպէս եւ գրեաց Պօղոս, ո՛չ է տուն Տեառն տեղի ձեզ հաց ուտելոյ...։ Ծանօթ.— Լուսանցքի վրայ՝ Ա. Կորն. ժա, 20։\nՅիշատակագրութիւն Հեղինակի.— Էջ 226.— Նորին Սրբոյն Ներսեսի.— Այս բանք եւ աստուածային օրինադրութիւնք՝ սպասաւորութեամբ մտաց եւ ի ձեռին իմոյ թշուառ Ներսեսի ասացաւ ի Հոգւոյն Ս.յ. ի նախակարգեալ թուականդ, ի ԶՃԻԶին [= 1177], եւ ի ժամանակ կենաց մերոց՝ մինչ էի քսան եւ չորս ամաց...։— Հմմտ. Ա. Հատոր, էջ 418։ Էջ 227-230.— Դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "190.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "316-refine.json",
+    "pipeline_version": "v1"
+  }
+}

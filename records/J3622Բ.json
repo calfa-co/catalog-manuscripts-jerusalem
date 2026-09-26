@@ -1,0 +1,68 @@
+{
+  "id": "J3622Բ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3622Բ",
+  "notice": "3622Բ",
+  "volume": "Jerusalem_V11",
+  "title": "ԱԶԳԱՊԱՏՈՒՄԻ ՑԱՆԿԵՐ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3622Բ",
+    "no_notice": null,
+    "titre": "ԱԶԳԱՊԱՏՈՒՄԻ ՑԱՆԿԵՐ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "28x21x4։ Իջահամար չունի",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, շատ էջեր դատարկ, ոմանց վրայ գրուած քանի մը անուն",
+    "details_ecriture": "մանր։ Լաթակազմ խաւաքարտեայ։ Առաջին կողքի երեսին՝ Ազգապատում. Ցուցակ Անձանց, Ցուցակ Տեղեաց",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, վերը.— Ազգապատումի համար Ցուցակներ։ Ցուցակ Անձանց, Ցուցակ Տեղեաց։ Սկիզբի երեք էջերը քառասիւն։ Սիւնակ Ա.— 1.— Անձանց Ցուցակին մէջ չեն անցած վկայութեան կոչուած պատմիչներ կամ գրողներ։ 2.— Ցուցակի չենք անցուցած նաեւ ազգութեանց անուններ։... 7.— Օտարազգի անձեր մականունով նշանակուած են, անով աւելի ծանօթ ըլլալնուն համար։... Էջ 2.— Համառօտագրութիւնք Անձանց։ Էջ 3.— Համառօտագրութիւնք Տեղեաց։ Էջ 5.— Աբգար Հայոց թգ. 3, 4, 5, 12, 15... Օտա Ամատունի, նխ. 45, 58։ Աբրի Պուլանըքի գ. [Հատ.] 800 Ֆռնուզ գ. 188"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "058.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3622Բ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J3810",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3810",
+  "notice": "3810",
+  "volume": "Jerusalem_V11",
+  "title": "ՀԱՅՈՑ ԵԿԵՂԵՑԻՆ ԵՒ ԱՆԴՐԱԼԵՌՆԱԿԱՆՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3810",
+    "no_notice": null,
+    "titre": "ՀԱՅՈՑ ԵԿԵՂԵՑԻՆ ԵՒ ԱՆԴՐԱԼԵՌՆԱԿԱՆՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Թ +87",
+    "dimensions": "20.5x18x1",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 20 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Դանիէլ Արք. Յակոբեան",
+    "possesseur": "Մ. Եպս. Նշանեան",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մանիշակագոյն, \" Մեսրոպ Եպս. Նշանեան, 1924\"",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա.— Հայոց Եկեղեցին եւ Անդրալեռնականք, Գրեց Խորէն Եպս. Նարպէյ, Կ. Պօլիս։ Տպագրութիւն Յ. Քիւրքճեան, 1870։ Էջ Բ, Դ, դատարկ։ Էջ Գ.— Հայոց Եկեղեցին եւ Անդրալեռնականք, Գրեց Խորէն Եպիսկոպոս Նարպէյ։ Կոստանդնուպօլիս, Տպագրութիւն\nՔիւրքճեան, ի Ղալաթիա, 1869։ Էջ Ե.— Ազգ.— Անդրալեռնական լրագիրները միշտ մեր Սբ. Եկեղեցւոյս վրայ ամբաստանութիւններ կընեն...։ Էջ 1.— Հայոց Եկեղեցին եւ Անդրալեռնականք, Հերքումն Լը Մօնտ եւ Զիվիլթա Քաթթօլիքա Լրագրաց.— Ա.— Մեք, որ յաւէտ կը սիրեմք բոլոր մեր խնամքներն ու մեր բովանդակ ժամանակը նուիրել Աստուծոյ մեզի յանձնած փոքր հօտին առաջնորդութեանն ու դաստիարակութեանը...։ Էջ 48.— Մասն Բ.— Ա.— Մինչեւ հիմա ջանացինք ցուցնել թէ...։ Էջ 86, ստորոտը, կարմիր մատիտով, ստացողի գրչութեամբ.— Ընդօրինակութիւն Դանիէլ Արքեպս. Յակոբեանի Կ. Պոլսեցւոյ։ Էջ 87, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "256.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "257.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3810-refine.json",
+    "pipeline_version": "v1"
+  }
+}

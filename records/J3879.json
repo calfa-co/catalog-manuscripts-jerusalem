@@ -1,0 +1,68 @@
+{
+  "id": "J3879",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3879",
+  "notice": "3879",
+  "volume": "Jerusalem_V11",
+  "title": "ԾՆՆԴՈՑ",
+  "date": {
+    "from": "1940",
+    "to": "1940",
+    "display": null
+  },
+  "fields": {
+    "numero": "3879",
+    "no_notice": null,
+    "titre": "ԾՆՆԴՈՑ",
+    "date_debut": "1940",
+    "date_fin": "1940",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Գ+115, գըրուած է թուղթի մէկ երեսին միայն",
+    "dimensions": "21x15x1.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 20 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ։ Գըրիչ եւ Ստացող՝ Շ. Աբղ. Երեցեան",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Տիտղոսաթերթ.— Ա. Կարգի Աւարտաճառ, Շահէ Աբեղայ Երեցեան Ծննդոց ա.— Ներածութիւն բ.— Մեկնութիւն (Ա—ԺԱ) գ.— Պատմական ու կրօնական արժէք։ Երուսաղէմ, 1940\nԷջ Ա.— Բացատրական.— Կ’ուզեմ գրել հոս, իբրեւ բացատրականը կատարածս աշխատանքին, ինչ որ թելադրեց ինձ նոյնինքն այդ աշխատանքը՝ իր իրագործման միջոցին...։— Շ. ա. ե. — 9, 6, 40։\nԷջ 1.— Ա.— Ներածական.— Գիրքը։\nԷջ 5.— Հեղինակը։ Էջ 8.— I.— Բաղադրեալ նկարագիր Հնգամատեանի։ ա.— Բազմաթիւ անհարկի կրկնութիւններ։ Էջ 10.— Բ.— Յաճախակի անհամաձայնութիւններ եւ անհեթեթութիւններ։ Էջ 13.— Գ.— Նկարագրութեանց ընթացքին՝ կարգի ու կապակցութեան պակաս։ Էջ 14.— Դ.— Ոճի եւ յղացքի տարբերութիւն։ Էջ 19.—II.— Մեթոտը՝ աղբիւրներու հաւաքման մէջ։ Էջ 61.— Բ.— P. Քահանայական Օրինագիրք։ Էջ 69.— Գ.— P ի տարածութիւնը։ Էջ 74.— Դ.— P ի կազմութիւնն ու թուական։ Էջ 81.— Ե.— JE.— Եահվէական եւ Էլօհիմական աղբիւրներ։ Էջ 104.— Զ.— JE ի թուականն ու ծագումը։ Էջ 113.— Ամփոփում.— Ջանալով այս բոլորէն ետք ու այս բոլորով ամփոփել հաւանական պատմութիւնը Հնգամատեանի կազմութեան, կարելի է ըսել...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "345.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3879-refine.json",
+    "pipeline_version": "v1"
+  }
+}

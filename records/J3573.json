@@ -1,0 +1,68 @@
+{
+  "id": "J3573",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3573",
+  "notice": "3573",
+  "volume": "Jerusalem_V10",
+  "title": "ՀԱՇՈՒԵՏՈՄԱՐ (Դարպասական)",
+  "date": {
+    "from": "1857",
+    "to": "1857",
+    "display": null
+  },
+  "fields": {
+    "numero": "3573",
+    "no_notice": null,
+    "titre": "ՀԱՇՈՒԵՏՈՄԱՐ (Դարպասական)",
+    "date_debut": "1857",
+    "date_fin": "1857",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "90",
+    "dimensions": "22x18",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, սեւ գիծերու միջեւ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ անարուեստ",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ի 1856 փրկչական թուոջ, ի մայիսի սկզբանն։ Էջ 77.— Ի 1857, ի մարտի 26։ Էջ 80, ստորոտը.— 89 ուխտաւորք՝ առանց դարպասական ողորմութեան՝ միայն Սբ. Գլխադրի մոմագին կարացին տալ՝ ոմանք ոմանք աղքատք անձինք. վասնորոյ եղան աստ ի կարգի Գլխադրի ողորմութիւն տուողաց, որոց անուանք ի մեր ձեռաց տոմարի կան, յաւելորդ համարեցաք գրել յականէ յանուանէ առ ի չտալ ձանձրոյթ։ Ըստ որում այնպիսիքն մինչ ի գնալն յԵրուսաղէմէ, ի մեծ աշխանայն Սբ. Տանս կերակրեցան։ Էջ 83, ստորոտը.— Թիւ ուխտաւորաց 3991։ Մի միլիոն, երկու հարիւր երեսուն մի հազար, հարիւր քսան երկու— 1231122 — ղշ. բոլոր գումարն դարպասստի, իւղագնոյ, եւ մոմագնոյ, որ յանձն եղեւ յուխտաւորաց ըստ տնօրինութեան Ձերդ Սրբազնութեան ի դարպասատան կարգեալ գանձապետ Մեսրովպ Վ. եղբօր։ — Ի 1857, յապրիլի 20, ի Սբ. Երուսաղէմ, ծառայ Դաւիթ եպս.։ Էջ 85, վերը.— Յայտարարութիւն արտաքոյ կարգի։ Առ Սրբազան ... Հայրն մեր՝ գանձապետ Մեսրովպ վարդապետ եղբօր թէսլիմ արարեալ դրամոց որքանութիւնն ստորագրեմ ի վկայութիւն գիտութեան ժամանակ առ ժամանակ, ըստ աւուրց ամսաթուոյ, եւ փրկչական թուոյն։ Էջ 88–90, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "572.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3573-refine.json",
+    "pipeline_version": "v1"
+  }
+}

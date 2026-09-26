@@ -1,0 +1,72 @@
+{
+  "id": "J3778",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3778",
+  "notice": "3778",
+  "volume": "Jerusalem_V11",
+  "title": "ՀՆԴԿԱՀԱՅՈՑ ՏԱՊԱՆԱԳՐԵՐ.— Ա.",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3778",
+    "no_notice": null,
+    "titre": "ՀՆԴԿԱՀԱՅՈՑ ՏԱՊԱՆԱԳՐԵՐ.— Ա.",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "366",
+    "dimensions": "30x19x3",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 26 տող՝ յաճախ",
+    "details_ecriture": "հայերէն եւ անգլերէն։ Լաթակազմ խաւաքարտեայ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր, տոկուն, գրուած մէկ երեսին միայն",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Մադրասի Հայոց եկեղեցոյ շրջափակին մէջ գտնուող տապանաքարեր, եւայլն.— 1–252։ Էջ 142–146 դատարկ։ Էջ 147.— Սուրաթի Հայ Գերեզմանատան տապանաքարերու արձանագրութիւնները (ընդօրինակուած 1916, դեկ. 26ին).—1–139։ Էջ 196–198 դատարկ։ Էջ 199.— Պոմպէյ— Եկեղեցւոյ մեծ դրան առջեւ, իբրեւ ի գաւթի, կան այս գերեզմանական արձանագրութիւնները։ (Այս տապանագիրերէն ոմանք հայերէնի հետ ունին անգլերէն համիմաստ ամփոփումներ.—\n1-51: Էջ 207.— Պոմպէյ (շրկ.).— Գերեզմանատան մէջ... գտայ ընդօրինակեցի հետեւեալ արձանագրութիւնները...:— 1-51: Էջ 239.— Սէյտապատ.— Աւագ դրան առջեւի գաւիթին մէջ գերեզմանաքարեր.— 1-108: Էջ 279.— Տապանագիրք Հայոց Զինսուրայի.— 1-99: Էջ 305.— Կալկաթայի Գուլի-Բօլա փողոցին մէջ գտնուած գերեզմանատան տապանաքարերը.— 1-54: Էջ 319.— Ի գերեզմանատան Հայոց, որ ի Գրայա (Կալկաթա).— 1-55: Էջ 339.— Տապանաքարեր Տինգրայի գերեզմանատան.—1-120:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "237.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "238.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3778-refine.json",
+    "pipeline_version": "v1"
+  }
+}

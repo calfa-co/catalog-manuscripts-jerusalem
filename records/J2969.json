@@ -1,0 +1,72 @@
+{
+  "id": "J2969",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2969",
+  "notice": "2969",
+  "volume": "Jerusalem_V9",
+  "title": "Ե Ր Գ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2969",
+    "no_notice": null,
+    "titre": "Ե Ր Գ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "110+Բ+72",
+    "dimensions": "20.5X15X1",
+    "mise_en_page": "մանիշակագոյն եւ սեւորակ մելաններով, միասիւն, 19-21 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "ոչ միատեսակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ, անարուեստ",
+    "etat_conservation": "գրեթէ բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1.— Երգ.— Թէ հայրենեաց պսակադիր...։ էջ 8.— Երգ Կիլիկիոյ.— Ախ աչըլսա եագ գափուլար...։ էջ 10.— Մաղթանք.— Տէր կեցո դու ըզՀայս...։ էջ 19.— Եղբայր եմք մեք.— Ի բիւր ձայնից...։ էջ 20.— Կիլիկիա.— Երբոր բացուին դըռներն յուսոյ...։ էջ 21.— Սուգ Մօրն Հայաստանի.— Իմ սիրելի զաւակունքըս կը թափառին յօտար աշխարհ...։ էջ 40.— Ձօն առ Ամենապատիւ Տ. Տ. Յարութիւն սրբազան պատրիարքն Սաղիմայ, 1901, յունվար 5, ի Բեթլեհէմ գալստեան առթիւ.— ՅԱթոռսն փառապանծ մեր Սրբոց Յակոբեանց...։ էջ 73.— Սէր.— Սիրէ Հայը, թէեւ ըլլայ տնանկ, աղքատ, անկարող...։ էջ 91.— Կարօտ Հայրենեաց.— Ես արդ յարաժամ կարօտով շրջիմ, օտար, անծանօթ եւ անմըտերիմ...։ էջ 105.— Հրաւէր.— Տեսէք աղաւնին Նոյեան տապանին...։ էջ 108.— Ցանկ։ էջ Ա, դատարկ։ էջ Բ.— Խղունջն.— Անբարեկամ, անընտանի...։ էջ 1.— Գողթան Մանկտիք։ էջ 34.— Երգ Հայրենեաց.— Օտար երկիր, օտար պանդուխտ կը հեծեմ...։ էջ 42.— Երեւոյթներ.— Ամառուան մէջ ամպերն երբոր հանեն շըշուկ...։ էջ 44–72, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "179.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "180.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2969-refine.json",
+    "pipeline_version": "v1"
+  }
+}

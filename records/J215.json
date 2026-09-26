@@ -1,0 +1,68 @@
+{
+  "id": "J215",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "215",
+  "notice": "215",
+  "volume": "Jerusalem_V1",
+  "title": "Ն Ա Մ Ա Կ Ա Ն Ի",
+  "date": {
+    "from": "1856",
+    "to": "1856",
+    "display": null
+  },
+  "fields": {
+    "numero": "215",
+    "no_notice": null,
+    "titre": "Ն Ա Մ Ա Կ Ա Ն Ի",
+    "date_debut": "1856",
+    "date_fin": "1856",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "168",
+    "dimensions": "29 x 20 x 1",
+    "mise_en_page": "սեւ մելանով, միասիւն, 27 տող։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Սուքիաս Աբղ. Գրիգորեան, Վանեցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Ճակատ. — Ի պատրիարքութեան Սրբոյ Աթոռոյս Տ. եւ Տ. Յովհաննէս Սրբազան Արքեպիսկոպոսի, բազում աշխատութեամբ աստի եւ անտի ժողովեալ նամակայմատոյց գիրքս օրինակեցի, ի փառս Այ. 1856 Մայիս 1։ Վանեցի Սուքիաս աբեղայս Գրիգորեան, եւ միաբան ամենացանկալի Մայր Աթոռոյս Սբ. Յակոբայ, որ յԵրուսաղէմ։\nԾԱՆՕԹ. — Վերոգրեալին կից Սաւալանեանի գրով կը կարդացուի. «Յօրինեալ են նամակքս ի Տ. Հ. Թ. Սաւալանեանց վարժապետէ եւ քարտուղարէ Սրբոյ Աթոռոյ Եէմի»։ Իսկ իր Ցուցակին մէջ ալ սապէս ներկայացուած է. «Նամականիք գըրեալք Տիգրան Հ. Թ. Սաւալանեանցի ի կողմանէ Ս. Աթոռոյն, ի պատրիարքութեան Կիրակոսի, յամէ 1850-1851, ամփոփեալ ի միում հատորի, ձե[ռամբ] Սուքիաս Վար. Վանեցւոյ» (էջ 172)։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "614.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "215-refine.json",
+    "pipeline_version": "v1"
+  }
+}

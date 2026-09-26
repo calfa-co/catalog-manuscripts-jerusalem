@@ -1,0 +1,72 @@
+{
+  "id": "J2875",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2875",
+  "notice": "2875",
+  "volume": "Jerusalem_V9",
+  "title": "Ս Ա Ղ Մ Ո Ս (ԹԵՐԻ)",
+  "date": {
+    "from": "1718",
+    "to": "1718",
+    "display": null
+  },
+  "fields": {
+    "numero": "2875",
+    "no_notice": null,
+    "titre": "Ս Ա Ղ Մ Ո Ս (ԹԵՐԻ)",
+    "date_debut": "1718",
+    "date_fin": "1718",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "230",
+    "dimensions": "21.5 X 16 X 2",
+    "mise_en_page": "սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 35-36 տող։ Նոտր շեղագիր վարժ",
+    "details_ecriture": "սովորական գրեթէ։ Լաթակազմ խաւաքարտեայ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "համարեա բաւարար. նորոգութիւն կրած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1ա.— Տէր ասաց ցիս որդի իմ ես դու եւ ես այսօր ծնա զքեզ.— Գլ. Բ. հմր. 7։ էջ 1բ.— Րէպի տէտի պանա օղլումսըն սէն, վէ պու կիւն տօղուրտում սէնի։ էջ 2ա.— Ի կարդալ իմում լուար ինձ Ած. ըստ արդարութեան...։ էջ 2բ.— Օգուտուկումտէ իշիտըն պանայ, եա Ալլահ, ատալէթէ կէօրէ...։ էջ 31ա.— Երկինք պատմեն զփառս Աստուծոյ...։ էջ 68ա.— Մի նախանձիր ընդ չարս...։ էջ 68բ.— Հասէթ էթմէ շէրիրլէրէ...։ էջ 109ա.— Ողորմեա ինձ Ած. զի կոխեաց զիս մարդ...։ էջ 150-151ի միջեւ կը պակսի ութերորդ պրակը։ էջ 151ա.— Տէր ապաւէն եղեր մեր...։ էջ 184ա.— Խոստովան եղերուք Տեառն զի քաղցր է...։ էջ 201ա.— Ի նեղութեան իմում ես առ Տէր կարդացի, եւ լուաւ ինձ Տէր...։ էջ 201բ.— Տառլըկըմտէ պէն Րէպպէ օգուտըմ վէ իշիթտի պանա Րէպի...։ — Հմմտ. թիւ 1124, Դ. Հատոր, էջ 190։ էջ 230ա.— Դնէ զձիւն որպէս զասր, եւ զմէգ որպէս փոշի ցանեաց.— ՃԽԷ. 16։ էջ 230բ.— Գօյէ գարը եափաղի կիպի, վէ տումանի թօզ կիպի էքտի։\nՄանր յիշատակագրութիւն Գրչի.— 1718 էջ 108, ստորին լուսանցքին.— ՌՃԿԷ, ապրիլի Թ. օրն Դշի. ո՛հ վայ ինձ։\nՅետնագոյն յիշատակագրութիւնք.— 1739, 1762, 1771 էջ 133, աջակողմեան լուսանցքին.— Հաճի Ըստեփան եազտը պու եազըեը. թիվին Հայոց ՌՃՁԸ սէնէսինտէ յԵրիսաղիմէ կիտթիմ, յուեըլ Գիր Տարոյ Ր, Զատիկ ապրիլին ԻԲ սինտէ յուտու։\nՀաճի Ըստեփան տէրտէր օլտու ՌՄԺԱ տէ. օղլու մահտեցի Գէվորք եազտի թվին ՌՄԻԱ յունիվարին ԺԵ տէ, Ալլահ սաղլըք վէրէ ճումլէ քրիստօնեայ եղբայրլարայ, անտան պէզ քօնայքարայ եարտըմըը օլլայ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "097.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "098.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2875-refine.json",
+    "pipeline_version": "v1"
+  }
+}

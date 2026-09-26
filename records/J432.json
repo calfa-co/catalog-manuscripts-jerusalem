@@ -1,0 +1,72 @@
+{
+  "id": "J432",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "432",
+  "notice": "432",
+  "volume": "Jerusalem_V2",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԵՐԵՄԻԱՅԻ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "432",
+    "no_notice": "1",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԵՐԵՄԻԱՅԻ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "96",
+    "dimensions": "24x17",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 34—41 տող",
+    "details_ecriture": "անկոկ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Սաւալանեանի Ցուցակին մէջ կը կարդանք. «Պօղոս Պատր. Անդրիանուպոլսեցւոյ Մեկն. Մարգ. Երեմեայ՝ մինչեւ ցԺԳ գլ. համառօտեալ որպէս թուի յընդարձակէն Կուռնելիոսի։ Գրեալ է ձեռամբ նորին Պօղոսի Պատրիարքի շուրջ զամօք 1799-1800» (էջ 302)",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1.— Երեմիաս.— Գլխ. 1.— Արդ գլուխս է յառաջաբանութիւն բոլոր գրքոյն. քանզի ուսուցանէ Երեմիաս, թէ որպէս յԱյ. առ պաշտօն մարգարէութեան սահմանեցեալ իցէ ի յարգանդէ...։ էջ 85.— Գլխ. ԺԴ.— Նախ խօսի զամլութենէ եւ զապառնոյ սովու...։ էջ 87-96, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "411.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "412.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "432-refine.json",
+    "pipeline_version": "v1"
+  }
+}

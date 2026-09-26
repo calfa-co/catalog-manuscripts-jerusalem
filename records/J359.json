@@ -1,0 +1,72 @@
+{
+  "id": "J359",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "359",
+  "notice": "359",
+  "volume": "Jerusalem_V2",
+  "title": "ՀԵՐՔՈՒՄՆ ՎԱՀԱՆ ՀԱՒԱՏՈՅ ԳՐՈՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "359",
+    "no_notice": "1",
+    "titre": "ՀԵՐՔՈՒՄՆ ՎԱՀԱՆ ՀԱՒԱՏՈՅ ԳՐՈՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "124",
+    "dimensions": "25 x 19 x 1",
+    "mise_en_page": "ամբողջովին տետրակ մելանով, միասիւն, 28 տող",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Շարունակութիւն, կամ հաստատութիւն յառաջագոյն գրեալ մերումս տեսարանի։ Կամ, Յայտնի ապացոյց նոր հերձուածող լինելոյ վերապատուելի Հայր Միքայէլի Չամչեանց եւ բոլոր միաբանութեան իւրոյ, քաղեալ ի բուն ձեռագիր\nդրուածոյ իւրոյ, զոր իբր հրաշիւք ձգեցաք ի ձեռս մեր, յամին 1815, մարտի 4։ **Էջ 117.** — Յայտարարութիւն դաւանութեան Վ․ Հ․ Պօղոս Վրդ․ի Թընկըրեան՝ աշակերտի Վ․ Հ․ Միքայէլի Չամչեան, զոր դրեաց ի ժամանակս վերջին միաբանութեան, եւ հրատարակեաց թէ առ հայս եւ թէ առ ուղղափառս, որով իւրաքանչիւր ոք քաջ իմանայ, թէ քանի ազգակցութիւն ունի այս դաւանութիւն ընդ վերոյդրեալ բանսն Հ․ Միքայէլին։ **Էջ 124.** — ․․․ Վերջ։ 1815 փետ․ 12։ Ի Կոստանդնուպօլիս։ **Ծանօթ.** — «Հերքումն Վահան Հաւատոյ Գրոցն Միք․ Վարդ․ Չամչեան, արարեալ ի ղալէճցի վարդապետաց, յորում ցուցանի անուղղակի կերպիւ թէ Միք․ Չամըչեան եւ բովանդակ միաբանութիւն ուխտին Վենետկոյ՝ են հերձուածող․․․» (Սալալանեան, Ցուցակ, էջ 254)։\nՅիշատակագրութիւն, էջ 1, ստորին լուսանցքին, տարբեր մելանով եւ գրչութեամբ․— Յիշատակ է Եէմի միաբան Անդրիանուպօլսեցի նախկին Պատրիարք մեծին Պօսոյ Պօղոս Սրբազան Արքեպս․ին ձեռնասուն աշակերտ Զօրլուցի Տէր Կարապետեան նըւիրակ հանգուցեալ Երեմիա շնորհազարդ Վարդապետին, ի դուռն Սրբոց Յակոբեանց Մայր Աթոռոյն Ամ․ Հայոց։ 1838, սեպտ․ 6։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "278.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "279.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "359-refine.json",
+    "pipeline_version": "v1"
+  }
+}

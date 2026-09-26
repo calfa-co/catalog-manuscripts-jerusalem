@@ -1,0 +1,68 @@
+{
+  "id": "J3080",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3080",
+  "notice": "3080",
+  "volume": "Jerusalem_V9",
+  "title": "ԳՈՅԱԿԱՆԱՅԱՐՄԱՐ ԱԾԱԿԱՆՔ",
+  "date": {
+    "from": "1817",
+    "to": "1817",
+    "display": null
+  },
+  "fields": {
+    "numero": "3080",
+    "no_notice": null,
+    "titre": "ԳՈՅԱԿԱՆԱՅԱՐՄԱՐ ԱԾԱԿԱՆՔ",
+    "date_debut": "1817",
+    "date_fin": "1817",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ը+314",
+    "dimensions": "19X15X4.5",
+    "mise_en_page": "սեւ մելանով, քառասիւն, անհաւասար տողերով։ Նոտր շեղագիր մանր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, շատեր յաւելուածական կտորներով",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ, հնամաշ եւ մասամբ քայքայուած",
+    "etat_conservation": "անբաւարար",
+    "copiste": "յօրինողը",
+    "possesseur": "յօրինողը",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Դ, դատարկ։ Էջ Ե.— Տիտղոսաթերթ։ Գոյականայարմար Ածականք. հաւաքեալք հատընտիր ի գերապանծ մատենից հնոց եւ արդեաց՝ առ յաջող յառաջադիմութիւն ի շարադրութիւն, ի Ռօմանցի Գէորգայ սարկաւագէ Տէր Յարութիւնեան՝ տոհմիւ Թաթարեանց, ի Միաբանութենէ Սբ. Աթոռոյն Երուսաղէմի, եւ յաշակերտէ նորին ծայրագոյն նուիրակի՝ կրկին վիճակացն Ելլադայ եւ Ռու[ս]աստանու, Պօղոսեան Փօթիշանցի տէր Մարկոս փրկհապատիւ Ծայրագոյն Վարդապետի, յամի Տեառն 1817։ Էջ Զ, դատարկ, անմաքուր։ Նոյնպէս էջ Է։ Էջ Ը.— Բազում ճանապարհք են դիւրաւ յառաջադէմ զարգանալոյ...։ Էջ 309.— Ոճ պատերազմապատում։ Էջ 312-313, դատարկ։ Էջ 314.— Մասունք Բուսոց։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "316.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3080-refine.json",
+    "pipeline_version": "v1"
+  }
+}

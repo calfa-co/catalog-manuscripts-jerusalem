@@ -1,0 +1,72 @@
+{
+  "id": "J1710",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1710",
+  "notice": "1710",
+  "volume": "Jerusalem_V6",
+  "title": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1710",
+    "no_notice": "11",
+    "titre": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "626",
+    "dimensions": "12x8.5x4.5",
+    "mise_en_page": "սկզբնատողերը, գլխատառերը, տէրունական անունները եւ կարգ մը կարեւոր բառեր ոսկեգոյն եւ կարմիր, մնացեալը սեւ կամ ժանգագոյն մելանով, երկսիւն, 21 տող",
+    "details_ecriture": "կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական։ Ծաղկուած եւ նկարազարդուած ճոխ կերպով։ Մեծ ու փոքր նկարներ Մատթէոսի Աւետարանին մէջ 35, Մարկոսի 23, Ղուկասի 31, Յովհաննէսի 22։ Լուսանցազարդերէն եւ մանրանկարներէն շատեր վընասուած են խստութեան պատճառաւ ներկին, որ կերած է մագաղաթը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "ընտիր",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ ոսկեզօծ երեզով",
+    "etat_conservation": "անբաւարար եւ շատ տեղ ցաւալի . վնասուած թացութենէ . նորոգութիւն կըրած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "«Աւետարանս այս ի Կալկաթայէ առաքեցաւ ի սմին ամի 1869» (Տ . Սաւալանեան, Ցուցակ, էջ 960)",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, դատարկ ։ Էջ 2 .— Մատթէոս Աւետարանիչ ։ Էջ 3 .— Խորանազարդ իւր սարօք .— Գիրք ծննդեան Յի. Քի. որդւոյ Դաւթի . . . ։ Էջ 4—5, նահապետներու նկարներ, լուսանցքի վրայ ։ ըստ Ղուկասու .— Քանզի բազումք յաւժարեցին . . . ։ Էջ 467 .— Խորանազարդ .— Աւետարան ըստ Յոհաննու .— Ի սկզբանէ էր Բանն . . . ։ Էջ 487 .— Լուսանցագրութիւն Գրչի .— Ով եղբայր, կու շտապեցնեն, չեն թողուլ կամաց գրեմ ։\n7 .— Փախուստ յԵգիպտոս Թ. 1710, էջ 11\n8 .— Համբարձումն Տեառն Թ. 1710, էջ 466\nԷջ 174 .— Մարկոս Աւետարանիչ ։ Էջ 175 .— Խորանազարդ .— Սկիզբն Աւետարանի Յի. Քի . . . ։ Էջ 290 .— Ղուկաս Աւետարանիչ ։ Էջ 291 .— Խորանազարդ .— Աւետարան Եւսեբիոսի նամակը եւ Կանոնական տախտակները ամէնէն վերջը դրուած են խառն ի խուռն, էջ 606, 603, 610, 612, 614, 615, 617, 619, 621, 623 ։ Էջ 625—626, դատարկ ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "036.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "037.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1710-refine.json",
+    "pipeline_version": "v1"
+  }
+}

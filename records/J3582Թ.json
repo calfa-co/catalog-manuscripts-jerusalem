@@ -1,0 +1,72 @@
+{
+  "id": "J3582Թ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3582Թ",
+  "notice": "3582Թ",
+  "volume": "Jerusalem_V10",
+  "title": "ԶՕՐԱՎԱՐ ԱՆԴՐԱՆԻԿ",
+  "date": {
+    "from": "1988",
+    "to": "1988",
+    "display": null
+  },
+  "fields": {
+    "numero": "3582Թ",
+    "no_notice": "Թ",
+    "titre": "ԶՕՐԱՎԱՐ ԱՆԴՐԱՆԻԿ",
+    "date_debut": "1988",
+    "date_fin": "1988",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ը+509",
+    "dimensions": "19.5x18.5x2.6",
+    "mise_en_page": "եւայլն, ըստ նախորդին",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "եւայլն, ըստ նախորդին",
+    "nb_lignes": null,
+    "reliure": "եւայլն, ըստ նախորդին",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Դ, Զ–Է, դատարկ։ Էջ Ե.– Զօր. Անդրանիկ, Քաղեց Յ. Վ. Պարոնեան, Առաքել. Ուխտին Ս.\nՅակոբեանց, Երուսաղէմ, 1988։ Էջ Ը.— Փակցուած լուսանկար՝ նոյն նախորդին հետ։ Էջ 1.— Զօրավար Անդրանիկի մահուան Հինգերորդ Տարելիցին Առթիւ։ Էջ 46.— Անդրանիկի Գործունէութիւնը Զանգեզուրի մէջ։ Էջ 50.— Գրեց՝ Հայկ–Արամ Գրաւեան։ Էջ 222.— Ընդօրինակուած է \"Մարտկոց\" օրաթերթէն (1933)։ Էջ 223.— Ուխտագնացութիւն։ Էջ 267.— Խէչօի Դարդը։ Գրեց՝ Վարդգէս Ահարոնեան։ Էջ 363.— Զօր. Անդրանիկ կը խօսի։ Էջ 381–388 պարապ մնացած։ Էջ 413.— Զօր. Անդրանիկի Ամուսնութիւնը։ Էջ 447.— Փակցուած սեւատիպ նկար. \"Անդրանիկը վերջին օրերուն\"։ Էջ 451 կրկնուած։ Էջ 475.— Ա. Չօպանեանի Ճառը Անդրանիկի Շիրմին վրայ։ Էջ 494–505, դատարկ։ Էջ 506.— Փակցուած լուսանկար. \"Յիշատակ Անդրանիկ Անմահ Զօրավարին\", Հեղինակ եւ նկարիչ՝ Շաւարշ, Հալէպ (Սուրիա)։ Էջ 507–509, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "646.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "647.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3582Թ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

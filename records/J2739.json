@@ -1,0 +1,72 @@
+{
+  "id": "J2739",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2739",
+  "notice": "2739",
+  "volume": "Jerusalem_V8",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (ՏԱՐԵԿԱՆ)",
+  "date": {
+    "from": "1847",
+    "to": "1847",
+    "display": null
+  },
+  "fields": {
+    "numero": "2739",
+    "no_notice": "6",
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (ՏԱՐԵԿԱՆ)",
+    "date_debut": "1847",
+    "date_fin": "1847",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "734",
+    "dimensions": "23 X 15 X 5",
+    "mise_en_page": "սևորակ մելանով, միասիւն, 29 տող",
+    "details_ecriture": "մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն աւելի։ Կազմին կողքերը փրթած են, կը մնայ միայն կռնակի կաշին, դրոշմազարդ և ոսկեդրուագ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "դեղնորակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ճակատ.— Տարեկան Քարոզք, հաւաքեալ ի Սբ. Գրոց և ի մատենից սուրբ և իմաստուն վարդապետաց։ Հատոր Առաջին։ Աշխատասիրութեամբ տեառն Կարապետի արքեպիսկոպոսի Կոստանդնուպօլսեցւոյ։ Ի հայրապետութեան Մայր Աթոռոյն մերոյ Սրբոյ Էջմիածնի տեառն Ներսեսի սրբազան կաթողիկոսի ամ. Հայոց։ Ի պատրիարքութեան Սրբոյ Աթոռոյն Երուսաղէմի\nտեառն Կիրակոսի արքեպիսկոպոսի։ Եւ ի պատրիարքութեան Կոստանդնուպօլսոյ տեառըն Մատթէոսի արքեպիսկոպոսի։ Յամի Տեառն 1847 և ի մերոյս ՌՄՂԶ, ի Խրիսուպօլիս։ Էջ 2, դատարկ։ Էջ 3.— Առաջաբան։ Էջ 7.— Քարոզ Ա.— Կաղանդ.— Խոկումն Մահուան։ Էջ 110.— Քարոզ Ի.— Տօն Սրբոց Վարդանանց Զօրավարաց։ Էջ 230.— Քարոզ ԼԷ.— Տօն Սրբոց Քառասնից։ Էջ 357.— Քարոզ ԾԲ.— Զատիկ.— Յարութիւն Տեառն։ Էջ 404.— Քարոզ ԿԱ.— Համբարձումն Տեառն։ Էջ 506.— Քարոզ ՀԷ.— Վերափոխումն — Պատուական Ննջումն Աստուածամօր։ Էջ 615.— Քարոզ ՂԷ.— Տօն Սրբոց Հըրեշտակաց։ Էջ 720.— Քարոզ ՃԺԷ.— Կիւրակէ պատահեալ ի մէջ Աւագ Տօնից։ Բացատրութիւն Առակի Ազնուականին։ Էջ 727.— Ցանկ Քարոզից.— Ա-ՃԺԷ Գլուխներ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "385.jpg"
+    },
+    {
+      "volume": "Jerusalem_V8",
+      "file": "386.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2739-refine.json",
+    "pipeline_version": "v1"
+  }
+}

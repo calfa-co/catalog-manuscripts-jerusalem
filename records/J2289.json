@@ -1,0 +1,72 @@
+{
+  "id": "J2289",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2289",
+  "notice": "2289",
+  "volume": "Jerusalem_V7",
+  "title": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2289",
+    "no_notice": "58",
+    "titre": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "52",
+    "dimensions": "23.5 X 17 X 1",
+    "mise_en_page": "խորագիրները կարմիր, սկզբնատողերը կամ սկզբնատառերը ոսկեգոյն եւ կարմիր, մնացեալը սեւ մելանով, երկսիւն, գունաւոր գիծերու միջեւ, 23 տող",
+    "details_ecriture": "կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր, կրկնաւ",
+    "nb_lignes": null,
+    "reliure": "խաւարտաքարեայ, դրոշմազարդ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Տիրատուր",
+    "possesseur": "ըստ երեւոյթին՝ Խաչատուր երէց",
+    "commanditaire": null,
+    "enlumineur": "Մարկոս պատկերահան",
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "եպիսկոպոս պատարագի, եւ չորս սպասարկուներ, էջ 2, այլ դրուագներ, կէս սիւնակի մեծութեամբ եւ կից լուսանցազարդով, էջ 8բ, 17ա, 19բ, 25բ, 28ա, 29բ, 32ա, 44ա",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը եւ վերջը երկուական թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդ իւր սարօք, էջ 3",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1։ գծուած, դատարկ։ Էջ 3.— Որ զգեցեալ ես զլոյս...։ Էջ 8բ.— Ամենակալ, բարերար, մարդասէր...։ Էջ 17ա.— Սուրբ Աստուած, Սուրբ եւ հզօր...։ Էջ 19բ.— Հաւատամք ի մի Աստուած...։ Էջ 25բ.— Տէր Աստուած զօրութեանց...։ Էջ 28ա.— Սուրբ, սուրբ, սուրբ ես ճշմարտապէս...։\nԷջ 29բ — Առէք, կերայք...: Էջ 32ա — Որով զհացս աւրհնեալ...: Էջ 44ա — Գոհանամ եւ մեծացուցանեմ ...: Էջ 48ա — Որ աւրհնես զայնոսիկ...: Էջ 50-52, գծուած, բայց անգիր:\nՄանր յիշատակագրութիւնք.— 1. Տիրատուր Գրչի.— Էջ 36, ստորին լուսանցքին, բոլորգիր, սեւատառ.— Ով սուրբ պատարագող, յիշեա զմեղաւ(ո)ր Տիրատուր գծողս:\n2.— Ծաղկող Մարկոս պատկերահանի. Էջ 36, նախորդին ներքեւ, նոտրագիր անհարթ, կարմրատառ.— Եւ զծաղկող սորին զՄարկոս պատկերահանս, եւ զորդեակն իմ զԳաբրիէլ պատկերահան՝ յիշեա, ով սուրբ պատարագող:\n3. Ստացող՝ Խաչատուր Երեցի.— Էջ 37, ստորին լուսանցքին, բոլորգիր կանոնաւոր, սեւատառ.— Ով սուրբ պատարագող, յիշեա զԽաչատուր երէցս եւ զհանգուցեալ երիցակինս Աննումն:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "428.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "429.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2289-refine.json",
+    "pipeline_version": "v1"
+  }
+}

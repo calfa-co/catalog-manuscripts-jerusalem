@@ -1,0 +1,68 @@
+{
+  "id": "J2730",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2730",
+  "notice": "2730",
+  "volume": "Jerusalem_V8",
+  "title": "ԲՆԱԲԱՆՔ ՔԱՐՈԶԻՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2730",
+    "no_notice": "1",
+    "titre": "ԲՆԱԲԱՆՔ ՔԱՐՈԶԻՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "104",
+    "dimensions": "23x17x1",
+    "mise_en_page": "սեւորակ մելանով, տեղ տեղ կարմրախառն",
+    "details_ecriture": "նոտրակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "դեղնորակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ որդնակեր",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։ Էջ 3.— Քարոզք.— Եօթնկարգեան մատենին նշանակեալք ըստ աւուրց ըստ կարգի Տօնացուցին. բազումք ևս բնաբանի տեղւոյն համաձայնութեամբ այլ Աւետարանաց՝ որք յաւուրս իւրեանց ընթերցեալ լինին։ Զորս առ իմացուած զյատուկսն Քարոզագրին և միանգամայն ընթերցուածոյ աւուր, բոլորագիր նշանակեմք՝ Մատ. Մար. Ղու. Յովհ. իսկ չհամաձայնեալսն, նոտրագիր՝ մատ. մար. ղու. յօհ.։ Վասնորոյ ուր ի մի տող համաձայնին, զերեսահամար թուանշանս՝ և ուրեք ի փակագծի միա՛յն զԱւետարանչացն անուանս կարմրադեղ դրոշմեմք։ Էջ 3 Ծնունդ. 5 Զատիկ. 7. Պենտեկոստէ. 9 Վարդավառ, Վերափոխումն. 10 Խաչվերաց։ Էջ 13.— Ցանկ Քարոզագիր Եօթնկարգեան Մատենին ըստ վերտառութեան քարոզից։ Ագարակ և սիրտ, 625։ Ահարկութիւն մեղաւորաց և սփոփանք արդարոց, 1։... Էջ 22.— ...Օգնականութիւն Աստուծոյ և շնորհք, 105։ Էջ 23.— Այլ Ցանկ գտելոց ի սփիւռսն նորա՝ մասն, հատուած, և անդամ։ [Այսչափ. էջին մնացեալ մասը և յաջորդ հինգ թերթերը դատարկ]։ Էջ 35.— Ցանկ բնաբանացն ըստ կարգի Աւետարանաց։ Էջ 38.— Տեղիք Սբ. Գրոց վկայութեանց յիշատակելոց ի նմին Մատենի՝ հաւաքեալ ըստ կարգի գլխոց և տանց ի նպաստ օրապատշաճ քարոզելոյ անտի պատուաստմամբ կցորդելով հատուածոց բանից ընդ միմեանս։ Էջ 39-88.— Աղիւսակաձև ցուցակ, Ծնունդք — Յայտնութիւն։ Էջ 89, դատարկ։ Էջ 90.— Տեղիք Սբ. Գրոց վկայութեանց յիշատակելոց ի Պատկեր Տօնից գիրսն ըստ կարգի գլխոց և տանց։ Էջ 91-104.— Աղիւսակաձև ցուցակ, Ծնունդք — Յայտնութիւն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "375.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2730-refine.json",
+    "pipeline_version": "v1"
+  }
+}

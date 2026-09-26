@@ -1,0 +1,68 @@
+{
+  "id": "J3762",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3762",
+  "notice": "3762",
+  "volume": "Jerusalem_V11",
+  "title": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": "1888",
+    "to": "1888",
+    "display": null
+  },
+  "fields": {
+    "numero": "3762",
+    "no_notice": "Զ",
+    "titre": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+    "date_debut": "1888",
+    "date_fin": "1888",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "244",
+    "dimensions": "19x18.5x1.5",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 19 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: չափաւոր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": "Դանիէլ Վրդ. Յակովբեան",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–18, դատարկ կամ լի մանր գրուածքներով։ Էջ 19.— Պատմութիւն։ Հարցում.— Ի՞նչ է պատմութիւնը։ Պատասխան.— Պատմութիւնը գործուած իրաց յայտարարութիւնն է, զոր կարգաւ եւ վայելուչ ընելու համար չորս հանգամանք կուզէ, այսինքն, պատմութիւնը պէտք է ըլլայ, բացայայտ, հաւանական, համառօտ, եւ քաղցր։ Էջ 24.— Գլուխ Ա։ Պէտք ճարտասանութեան։ Էջ 28.— Յաղագս Ճարտասանութեան։ Էջ 29.— Մասն Ա։ Յաղագս ճոխաբանութեան։ Էջ 35.— Մասն Բ։ Յաղագս փոխակերպութեան։ Էջ 74.— Մասն երկրորդ։ Յաղագս Գիւտի։ Էջ 100.— Ը.— Աննմանութիւն։ Էջ 128.— Մասն Գ։ Տրամադրութիւն։ Էջ 192.— Գլուխ Գ։ Ատենական Հանդէս։ Էջ 199.— Տաղաչափութիւն։ Գլուխ Ա։ Էջ 220.— Որ ի կանանցն իւղաբերից արտասուեցար յառաւօտին...։ Էջ 222–244 դատարկ. բացի 5 էջերէ ուր կան քանի մը մանրուք։ Արձանագրութիւնք Ստացողի.— 1.— Էջ 10, վերը.— Ի սեպհականութեանց Կարապետ Յակոբեանի Կ. Պոլսեցւոյ, ի 27 Նոյ. 1888, ի Յոպպէ։ 2.— Էջ 17, վերը.— Ի սեպհականութեանց Դանիէլ Վարդապետի Յակովբեան։ 3.— Էջ 19.— Ի սեփհականութեանց Դանիէլ Վարդապետի Յակովբեան։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "220.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3762-refine.json",
+    "pipeline_version": "v1"
+  }
+}

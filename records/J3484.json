@@ -1,0 +1,68 @@
+{
+  "id": "J3484",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3484",
+  "notice": "3484",
+  "volume": "Jerusalem_V10",
+  "title": "Ա Ւ Ե Տ Ա Ր Ա Ն (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3484",
+    "no_notice": "287",
+    "titre": "Ա Ւ Ե Տ Ա Ր Ա Ն (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "11–312",
+    "dimensions": "27.5x20.5x3",
+    "mise_en_page": "սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 23 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բոլորովին փտած եւ փճացած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր եւ լուսանցազարդ հատուածներու սկիզբը։ Առանց կողքի եւ քայքայուած",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 11ա.– Յայնժամ իբրեւ ետես Հերովդէս թէ խաբեցաւ...։ Էջ 41–88 կը պակսի։ Էջ 312բ.– Եւ Հերովդէս իբրեւ ետես զՅս. ուրախ եղեւ յոյժ...։– Ղկս. ԻԳ. 8։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "472.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3484-refine.json",
+    "pipeline_version": "v1"
+  }
+}

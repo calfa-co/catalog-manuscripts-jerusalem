@@ -1,0 +1,68 @@
+{
+  "id": "J706",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "706",
+  "notice": "706",
+  "volume": "Jerusalem_V3",
+  "title": "ՔԱՐՈԶԱԳԻՐՔ (ՄԱՍՆԱԿԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "706",
+    "no_notice": null,
+    "titre": "ՔԱՐՈԶԱԳԻՐՔ (ՄԱՍՆԱԿԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "298",
+    "dimensions": "22x17x1.5",
+    "mise_en_page": "ամբողջովին սեւ մե– լանով, միասիւն, 32 տող։ Նոտր շեղագիր",
+    "details_ecriture": "շատ առատ։ Կաշե– կազմ խաւաքարտեայ",
+    "types_cahiers": "ԼԵ–ԽԶ",
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 11 .— Զմեծութեանցն եւ զգերա– զանցութեանցն քրիստոնէականի հաւա– տոցն, եւ թէ պարտի ընկերակցիլ ընդ բա– րեգործութեանցն. Գլուխ 14։ Էջ 24 .— Զպատկանաւոր յարգմանէ սրբազնասուրբ անուանն Յիսուսի, եւ ըզ– պատժոցն որք վերամնան հայհոյչաց. Գը– լուխ ԺԵ։ Էջ 262 .— Բան առ ի առնանիլ ի հան– դիսաւոր արարողութեան, որ ի կիր առ– նանի ի հատման հերաց կուսանաց, որք նուիրին Այ.։ Գլուխ ԼԷ։ Էջ 269–272, դատարկ։ Էջ 275 .— Քարոզ Չորրորդ, Ի վերայ Ծննդեան Սսի. Քսի.։ Էջ 292 .— Մասն Երրորդ։ Յաղագս փառաբանութեան երկնային զօրացն։ Էջ 295–8, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "169.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "706-refine.json",
+    "pipeline_version": "v1"
+  }
+}

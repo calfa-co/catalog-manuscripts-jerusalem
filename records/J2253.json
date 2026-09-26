@@ -1,0 +1,68 @@
+{
+  "id": "J2253",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2253",
+  "notice": "2253",
+  "volume": "Jerusalem_V7",
+  "title": "ԽՐԱՏ ՅԱՂԱԳՍ ԳՈՐԾԱԾՈՒԹԵԱՆ ԶԻՃԻՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2253",
+    "no_notice": "1",
+    "titre": "ԽՐԱՏ ՅԱՂԱԳՍ ԳՈՐԾԱԾՈՒԹԵԱՆ ԶԻՃԻՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "72",
+    "dimensions": "30 19.5",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "հաւկթաձեւ, կանաչատիպ, «Յիշատակ թանգարանի Սրբոց Յակովբեանց, 1867»",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–4, դատարկ։ Էջ 5. — Խրատ Յաղագս գործածութեան զիճին. — Զիճն գլխաւորաբար ուսուցանէ մեզ զչորս ինչ, այս է՝ ծնունդ Լուսնի, լըրումն լուսնի, խաւարումն լուսնի, եւ խաւարումն արեգական...։ Յօդուած Ա. — Յաղիւսակս լուսնի այսպէս կարես մտանել...։ Էջ 8. — Յօդուած Բ. — Յետ այսորիկ պարտիս իմանալ նաեւ արեգական ուր լինիլըն...։ Էջ 9. — Յօդուած Գ. — Արդ որովհետեւ իմացաք թէ այսօր ի կէս օր ուր են լուսինն եւ արեգակն, այժմ պարտիս բաղդատել ըզնոսա առ միմեանս...։ Էջ 13. — Յաղագս խաւարման լուսնի. — Լուսինն խաւարի ի լրման իւրում...։ Էջ 15. — Յաղագս խաւարման արեգական. — Արեգակն խաւարի ի ծննդեան լուսնի...։ Էջ 18–72, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "388.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2253-refine.json",
+    "pipeline_version": "v1"
+  }
+}

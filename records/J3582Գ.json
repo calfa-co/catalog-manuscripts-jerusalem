@@ -1,0 +1,68 @@
+{
+  "id": "J3582Գ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3582Գ",
+  "notice": "3582Գ",
+  "volume": "Jerusalem_V10",
+  "title": "ԶՕՐԱՎԱՐ ԱՆԴՐԱՆԻԿ",
+  "date": {
+    "from": "1928",
+    "to": "1928",
+    "display": null
+  },
+  "fields": {
+    "numero": "3582Գ",
+    "no_notice": "Գ",
+    "titre": "ԶՕՐԱՎԱՐ ԱՆԴՐԱՆԻԿ",
+    "date_debut": "1928",
+    "date_fin": "1928",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԲ + 884",
+    "dimensions": "20x12.5x8",
+    "mise_en_page": "եւայլն, ըստ նախորդին",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "եւայլն, ըստ նախորդին",
+    "nb_lignes": null,
+    "reliure": "եւայլն, ըստ նախորդին",
+    "etat_conservation": "եւայլն, ըստ նախորդին",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա.— Տպուած նկար. \"Անդրանիկ Զօրավարի Տարազով\"։ Էջ Բ–Դ, Զ. Ը–Թ, դատարկ։ Էջ Ե.— Գ. Հատոր։ Էջ Է.— Զօր. Անդրանիկ, Հաւաքեց Շ. Գարահիսարցի Յ. Վրդ. Պարոնեան, Առաքել. Ուխտէն Ս. Յակոբեանց, Երուսա– ղէմ, 1928։ Էջ Ժ.— Փակցուած լուսանկար, ըստ նախորդին, էջ Ը։ Էջ Ժա.— Անդրանիկին Դաշնակցական խումբը։ Էջ 1–158 Անդրանիկ.— Մահը — Իր Սուրը — Հողի Ըմբոստացումը — Շէֆը — Ժողովուրդը եւ Հերոսականը — Հայրենիքի Սիրտը — Դաշնակցութիւն եւ Անդրանիկ — Անդրանիկ եւ Խրիմեան Հայրիկ — Զօրավար Անդրանիկ — Անցնող Շրջանը.— Ա. Ահարոն– եան։ Էջ 243.— Ցաւակցութիւններ եւ Յար– գանքի Արտայայտութիւններ Զօրավար Անդ– րանիկի մահուան առթիւ։ Էջ 256.— Կոկորդիլոսի Արցունքներ։ Էջ 805.— Աննման եւ Փառահեղ Յու– ղարկաւորութիւն, սեպտեմբեր 7, չորեք– շաբթի։ Էջ 868.— Զօր. Անդրանիկ եւ Ֆրան– սական Մամուլը։ Էջ 878–880, դատարկ։ Նոյնպէս 884։ Էջ 881.— Ցանկ.— 86 Գլուխ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "641.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3582Գ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

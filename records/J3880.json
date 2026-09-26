@@ -1,0 +1,72 @@
+{
+  "id": "J3880",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3880",
+  "notice": "3880",
+  "volume": "Jerusalem_V11",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՄԱՏԹԷԻ ԱՒԵՏԱՐԱՆԻՆ",
+  "date": {
+    "from": "1896",
+    "to": "1896",
+    "display": null
+  },
+  "fields": {
+    "numero": "3880",
+    "no_notice": "Զ",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՄԱՏԹԷԻ ԱՒԵՏԱՐԱՆԻՆ",
+    "date_debut": "1896",
+    "date_fin": "1896",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԶ+698",
+    "dimensions": "20x14x2.5",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 22 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա.— Ս. Յ. Ձեռագրատան յանձնուեցաւ 1987 Մարտ 17 ին։— Ն. Արքպ.։ Էջ Բ, դատարկ։ Նոյնպէս էջ Դ։ Էջ Գ.— Ի յիշատակ Շրջանաւարտութեան, 1896, Օգոստոս 1.— Պօղոս...։\nԷջ Ե, տպագիր պիտակ.— Ի Գրոց Տ. Սմբատ Ս. Եպս. Գազազեանի, հանգուցեալ միաբանակցին մերոյ...։ Էջ Զ–ԺԶ, դատարկ։\nԷջ 1, վերի կէսը դատարկ մնացած.— Ի համեմատութենէ Մատթէոսի Թ. 9, ընդ Մարկոսի Բ. 14, եւ Ղուկասու Ե. 27, յայտնի է որ Մատթէոս առաքեալն որ միշտ առաջին կանոնական Աւետարանի հեղինակ համարուած է, նաեւ Ղեւի անունն ունէր...։— Հմմտ. թիւ 2997։ Էջ 9.— Աւետարան.— Աւետիք (բարի եւ ուրախալի լուր) պարունակող կամ բերող գիր կամ թուղթ կամ նոյնիսկ կենդանի խօսք ...։ Գլուխ Ա.— Տուն 1–17.— Ազգաբանութիւն Յիսուսի։ Էջ 26.— Գլուխ Բ, Տ. 1–12. Մոգք յարեւելից։ Էջ 78.— Գլուխ Ե։ Էջ 144.— Գլուխ Ը։ Էջ 168–169 ի միջեւ կը գտնուի մէկ թերթ տարբեր թուղթ, որ կը պարունակէ \"երկոտասան առաքելոց\" անունները։ Էջ 184.— Գլուխ ԺԱ.— 1–19։ Պատգամ Յովհաննու։ Էջ 296 ին կը յաջորդէ 439, տարբեր գրով։ Էջ 439.— Գլուխ Ի. տ. 1–16.— Առակ Վարձկանութեան Մշակացն։ Էջ 505.— Գլուխ ԻԳ, Տ. 1–39.— Յանդիմանական ճառ Յի. ընդդէմ դպրաց եւ փարիսեցւոց։ Էջ 518.— 24.— Որ զմժղուկս քամէք եւ զուղտս կլանէք։ Էջ 633.— Գլուխ ԻԷ։ Էջ 675.— Գլուխ ԻԸ։ Էջ 687.— 19.— Գնացէք այսուհետեւ, եւայլն։ Էջ 689–698, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "345.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "346.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3880-refine.json",
+    "pipeline_version": "v1"
+  }
+}

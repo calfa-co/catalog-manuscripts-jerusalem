@@ -1,0 +1,68 @@
+{
+  "id": "J2108",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2108",
+  "notice": "2108",
+  "volume": "Jerusalem_V7",
+  "title": "Վ Կ Ա Յ ՈՒ Թ Ի Ւ Ն Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2108",
+    "no_notice": null,
+    "titre": "Վ Կ Ա Յ ՈՒ Թ Ի Ւ Ն Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "և Բովանդակութիւն. — Տետրակ մըն է բաղկացած 24 էջերէ, չեղագիր, թղթակազմ :",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 3. — Վասն Յղութեան եւ Ծննդեան Տեառն մերոյ՝ ի քնեալ Գէորգ Խուրով վարժապետէ Հայոց, ժողովեալ զբազմադիմի հաստատագոյն վկայութիւնս յաստուածայնոց գրոց, եւ ի կանոնաց սրբազանից Առաքելոց եւ առաքելագործ Հայրապետացն Սըրբոց, ևս եւ յերեւելի հեղինակաց այլ աղանց : Խնդրի թէ էր վասն ազգ յունաց հետեւեցելովքն՝ զտօն Յղութեան եւ Ծննդեանն Քի. Այ. մերոյ, ի 25 մարտի եւ դեկտեմբերի կատարեն, եւ ազգ մեր Հայոց ի 7 ապրիլի, եւ ի 6 յունվարի : Էջ 15. — (Աստուածայնոց եւ աստուածաբեալ սրբազանից վկայութիւնք այսչափ եւեթ բաւ լիցի, զննեսցուք ապա եւ զոմանս վկայութիւնս այլոց քրիստոնէիցն իմաստասիրաց) :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "193.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2108-refine.json",
+    "pipeline_version": "v1"
+  }
+}

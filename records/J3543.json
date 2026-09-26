@@ -1,0 +1,68 @@
+{
+  "id": "J3543",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3543",
+  "notice": "3543",
+  "volume": "Jerusalem_V10",
+  "title": "ՈՂԲ ԵՒ ՍՈՒԳ ՎԱՍՆ ԽԱՉԵԼՈՒԹԵԱՆ ՏԵԱՌՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3543",
+    "no_notice": null,
+    "titre": "ՈՂԲ ԵՒ ՍՈՒԳ ՎԱՍՆ ԽԱՉԵԼՈՒԹԵԱՆ ՏԵԱՌՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "38",
+    "dimensions": "22x17",
+    "mise_en_page": "այլազան",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "չունի",
+    "etat_conservation": "անբաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջա1–10, սեւ մելանով միասին, նոտր շեղագիր։ Էջ 1.— Ողբ եւ սուգ վասն մեծի աւուր խաչելութեանն Տեառն մերոյ Յի. Քի.։ – Ո՜վ ամենաշքնաղ եւ գեղեցիկ հարսնդ երկնաւոր փեսային, ո՜վ սուրբ եկեղեցի...։ Էջ 9.— Յաղագս լուացման տեառն ոտից աշակերտացն.— Արդ՝ յետ ուտելոյ զզատկական գառն...։ Էջ 11–28, աւելի խիտ գրչութիւն, սեւ գիծերու մէջեւ։ Էջ 11.— Եւ զկնի լուանալոյն զոտս աշակերտացն...։ Էջ 19.— Եւ ի լու[ս]անալ առաւօտուն ժողովեցան քահանայապետքն հանին զՏէրն մեր ի բանդէն...։ Էջ 28.—... զինչ որ կամիմ չկատարի, ո՞վ տայր [Այսչափ կայ]։ Էջ 29, դատարկ։ Էջ 30.— Գրչափորձ։ Էջ 31–38, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "541.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3543-refine.json",
+    "pipeline_version": "v1"
+  }
+}

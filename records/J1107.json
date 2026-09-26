@@ -1,0 +1,72 @@
+{
+  "id": "J1107",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1107",
+  "notice": "1107",
+  "volume": "Jerusalem_V4",
+  "title": "Ա.— ՊԱՏՄՈՒԹԻՒՆ ՄԵԾԻՆ ՆԵՐՍԷՍԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1107",
+    "no_notice": "5",
+    "titre": "Ա.— ՊԱՏՄՈՒԹԻՒՆ ՄԵԾԻՆ ՆԵՐՍԷՍԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "570.",
+    "dimensions": "20x14x5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը կամ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 23 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": "սկիզբը եւ վերջը երկուական թերթ, յունարէն փոքրատառ, մասն Աւետարանին Մարկոսի",
+    "lettrines": "էջ 9",
+    "initiales": null,
+    "enluminures_marginales": "էջ 9",
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "բոլորշի, սեւադրոշմ, մանրատառ, էջ 9, 123, 381, «Մանուէլ»",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր և լուսանցազարդ իւրաքանչիւր գլուխի սկիզբը, առաջին մասին մէջ ; ԽՈՐԱՆԱԶԱՐԴ: էջ 9",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1 — Ցանջն է գրոցս կարգաւ որ գտանես զամենայն։ Ա–ՃԺԸ գլուխներ։ Թե– րի է։ էջ 8, դատարկ մեծագոյն մասամբ. կ’առնենք մէկ տող — ՌՃԾԷ, յամսեանն հոկտեմբերի մէկ։\nԱ.— ՊԱՏՄ. ՄԵԾԻՆ ՆԵՐՍԷՍԻ էջ 9.— Պատմութիւն Սրբոյն Ներսեսի Հայոց Հայրապետի.— Որպէս յաւուրսն Տրդա]տա նստաւ յաթոռ սրբոյ առաքելոյն Թադէոսի Լուսաւորիչն Հայոց Սուրբն Գը– րիգոր...։— Հմմտ. թիւ 1051։ ԻԷ.— էջ 123բ.— Յաղագս մահուան քաջին Մուշեղա, զօրավարին Հայոց եւ վը– րաց, ի թագաւորելն Վարազտըրդատա, որ էր եղբօրորդի թագաւորին Պապա։\nԲ.— ԺԱՄԱՆԱԿԱԳՐՈՒԹԻՒՆ էջ 133բ.— Իսկ ընդ աւուրսն ընդ այ– նոսիկ եւ Կ ամին ՆԱ եղեւ սով սաստիկ ի բազում տեղիս...։— Հմմտ. թիւ 1051։ էջ 409բ.— Ի յամի ԴՃԵրորդի, եւ Ծե– րորդի, ի գիրս աստ ժողովեցաք զգործ ժա– մանակաց Ճ եւ Ծից ամաց...։ էջ 508ա.— ՄՀԲ.— Քանզի ի բարձ– րանալ թվականութեանն Հայոց յամս ՇՁ եւ Զ...։ էջ 568բ.— Յայսմ ամի առօ մեծանուն քաղաքն Դուին...։ էջ 569–570, դատարկ մեծագոյն մա– սամբ։ Արտաքին սիւնակին վարի կէսը պա– տոռած կորած։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "187.JPG"
+    },
+    {
+      "volume": "Jerusalem_V4",
+      "file": "188.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1107-refine.json",
+    "pipeline_version": "v1"
+  }
+}

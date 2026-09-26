@@ -1,0 +1,68 @@
+{
+  "id": "J1437",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1437",
+  "notice": "1437",
+  "volume": "Jerusalem_V5",
+  "title": "Բ Ա Ռ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1437",
+    "no_notice": "15",
+    "titre": "Բ Ա Ռ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "15.5x10x2",
+    "mise_en_page": "սկզբնատողերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 17 տող",
+    "details_ecriture": "սովորական ; ՈՒՂՂԱԳՐՈՒԹԻՒՆ: տկար։ Սեւագիծ զարդագիր եւ լուսանցազարդք իւրաքանչիւր տառի սկիզբը",
+    "types_cahiers": "ՃԻԵ",
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "բաւարար. լուսանցքները ցեցակեր. նորոգուած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Թղ. Ա1ա. — Աւետեաց երկիր որ է յԵրուսաղէմ։ Թղ. Թ2ա. — Բամբիշ, տիկնաց տիկին։ Թղ. ԺԵ1ա. — Գրիգոր, Արթուն։ Թղ. ԺԹ2բ. — Դաղմատ, Ֆռանկն է։ Թղ. ԼԴ1բ. — Էն որ է դատիմ։ Թղ. ԼԵ2բ. — Աղիփ, ուսումն նշանագրաց։ Թղ. ԼԶ1ա. — Զբառս Պարսից Վարդան Գրոց?։ Լուսանցագրութիւն Գրչի. — Թղ. ԼԶ 2բ, ստորոտը, մանրատառ. «Եղբայր զի օրինակն խառնակ է խիստ»։ Թղ. ԼԷ1ա. — Ընկլուզաք, եխտեցաք։ Թղ. ԽԱ1բ. — Թովիճ, ապըսօճի, կամ, իլանճի։ Թղ. ԽԵ1ա. — Ժպիրհ, հաշարի, կամ, անամաթ։ Թղ. ԽԶ1ա. — Ի սկզբանէ, շատուցմնէ։ Թղ. ՃԳ2բ. — Ստորոգութիւն, մեկնութիւն։ Թղ. ՃԺԷ1բ. — Իիւթական, մարմնաւոր։ Թղ. ՃԻ2ա. — Քահանայ, քաւիչ մեղաց։ Թղ. ՃԻՂ2ա. — Խաւսեցօ Ած. ընդ Ադամայ Ե անգամ, ընդ Կայենի Դ, ընդ Նոյի Զ...։ Թղ. ՃԻԵ, դատարկ։\nՄանր յիշատակագրութիւնք Գրչի. — 1. — Թղ. ԺԴ2, ստորոտը, մանրատառ — Զանարժան եւ զանպիտան սոտանուն գրծողս յիշեցէք ի մաքրափայլ աղաւթս ձեր ամէն։ 2. — Թղ. ԽԹ1ա. — Ով եղկելի անգէտ յիմար, ունայն թափուր ի ժուռ եկար, յազտ աշխարհիս ինչ շահեցար, ի յարարչէն յամաւթ եղար. յեր աւրն դայ դատաստանին, ճուղապ չտաս պատասխանին։ 3. — Թղ. ՀԹ-Զ, ստորին լուսանցքին. — Ով անարհեստ գրիչ յիմար, անցօրին հաւասարեցար, ապա զանանցն չի յիմացար, յամէն բարոյ դատարկ ելար։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "134.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1437-refine.json",
+    "pipeline_version": "v1"
+  }
+}

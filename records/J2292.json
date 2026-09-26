@@ -1,0 +1,72 @@
+{
+  "id": "J2292",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2292",
+  "notice": "2292",
+  "volume": "Jerusalem_V7",
+  "title": "Մ Ա Շ Տ Ո Ց (ՁԵՌՆ. ՔԱՀԱՆԱՅԻ)",
+  "date": {
+    "from": "1687",
+    "to": "1687",
+    "display": null
+  },
+  "fields": {
+    "numero": "2292",
+    "no_notice": "71",
+    "titre": "Մ Ա Շ Տ Ո Ց (ՁԵՌՆ. ՔԱՀԱՆԱՅԻ)",
+    "date_debut": "1687",
+    "date_fin": "1687",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "70",
+    "dimensions": "17.5 x 12 x 1.5",
+    "mise_en_page": "խորագիրները եւ տեղտեղ սկզբնատողերը կարմիր, սկզբնատառերը կապոյտ կամ կարմիր, մնացեալը սեւ մելանով, երկսիւն, կարմիր գիծերու միջեւ, 22 տող",
+    "details_ecriture": "կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական գրեթէ։ Կարմրագիծ զարդագիր՝ կանոններու սկիզբը, ոմանք հանդերձ գլխազարդով. լուսանցազարդերը կազմի ժամանակ կտրուած կիսով չափ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": "խարարտեայ դրոշմազարդ որդնակեր",
+    "etat_conservation": "բաւարար. վնասուած որդերէ. կը պակսի առաջին պրակին առաջին թերթը",
+    "copiste": "Գրիգոր Երեւանցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ՝ սկիզբը եւ վերջը երեքական թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա. — Սկիզբն Աստիճանաց կղերիկոսաց...։ Էջ 3բ. — Առաջին կարգ Դռնապանին։ Էջ 5ա. — Երկրորդ կարգ Ընթերցողութեան։\nԷջ 6բ.— Երրորդ Կարգ Երդմնեցուցչագրին։ Էջ 8ա.— Չորրորդ Կարգ Աստիճանի Ջահընկալութեան։ Էջ 10բ.— Հինգերորդ Կարգ Կիսասարկաւագաց, որ է Դպիր։ Էջ 18ա.— Կանոն յորժամ Սարկաւագ ձեռնադրեն։ Էջ 36բ.— Կանոն Ձեռնադրութեան Քահանայի։ Էջ 68բ.— Օրհնութիւն Վեղարի։ Էջ 69ա.— Եւ ապա տան զՈղջոյնն, եւ Պատարագն մատչի...։\nՅիշատակարան Գրչի.— 1687 Էջ 69բ, ստորոտը.— Գրեցաւ ի թուին ՌՃԼԶ, ձեռամբ յոգնամեղ Գրիգորի երեւանցւոյ։ Էջ 70, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "432.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "433.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2292-refine.json",
+    "pipeline_version": "v1"
+  }
+}

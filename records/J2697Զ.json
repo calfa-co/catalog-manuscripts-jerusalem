@@ -1,0 +1,68 @@
+{
+  "id": "J2697Զ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2697Զ",
+  "notice": "2697Զ",
+  "volume": "Jerusalem_V8",
+  "title": "Օ Ր Ա Գ Ր Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1873",
+    "to": "1873",
+    "display": null
+  },
+  "fields": {
+    "numero": "2697Զ",
+    "no_notice": null,
+    "titre": "Օ Ր Ա Գ Ր Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": "1873",
+    "date_fin": "1873",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "228",
+    "dimensions": "19.5×14×1.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, շեղագիր",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Յակոբ Եպս. Յովհաննէսեան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4, դատարկ։ Էջ 5 — 1873.— Օրագիր պատահեալ իրաց գլխաւորաց։ Յունվար 1, Բշ. Պատարագ ի Սբ. Այրըն, ժամարար Մշու Թիլ գիւղացի տէր Աւետիս, զոր Տէրամբ ձեռնադրեցաք 1869, Փետր. 14, յաւուր Տեառնընդառաջին ի Վանըս Սրբոց Առաքելոց ի Մուշ։ Էջ 8 — Յունվար 6, Շբ. Սբ. Ծնունդ։ Էջ 66 — Ապրիլ 8, Կիրակի, Քս. յարեաւ։ Էջ 174 — Սեպտեմբեր 16, Կիրակի, Սբ. Խաչ։ Էջ 207 — Դեկտեմբեր 2, Կիրակի, յերեկոյիս ժամերգութիւն ի Սբ. Թորոս, Սըրբոյ Մերկեռիոսի նախատօնակ։ — Դեկտ. 3, Բշ. Պատարագ ի Սբ. Թորոս, ժամարար Եփրեմ վարդապետն՝ նախկին Թարգման. ծանուցումն Ներսէս Վրդ. իբրև 40 րոպէ։ Էջ 219 — Դեկտ. 29, Շբ. Որդւոց Որոտման.— Պատարագ ի Սբ. Գլխադիր, ժամարար Սրբազան պատրիարք՝ հանդիսաւոր, քարոզ զկնի Ճաշու Գրքին, մի ժամ...։ Էջ 220 — Դեկտ. 31, Բշ. ...յերեկոյիս սեղանի կերակուրն էր սիսռէ թօփ քուֆթայ, և ճերմակ բէլթէ։ Էջ 221-228, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "341.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2697Զ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

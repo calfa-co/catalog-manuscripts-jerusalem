@@ -1,0 +1,68 @@
+{
+  "id": "J2849",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2849",
+  "notice": "2849",
+  "volume": "Jerusalem_V9",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2849",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "25X19: Էջք 48: Հանգամանք լաւ: Թուղթ հասարակ: Գրիչ եւ Ստացող՝ Աւետիս Դպիր Փօթիշանցի: Գրութիւն՝ սեւ մելանով, միասիւն, 30 տող: Նոտր շեղագիր մաքուր: Համառօտագրութիւնք սովորականէն աւելի: Կողք թղթեայ. առաջին երեսին կը կարդացուի. «Փօթիշանցի դպիր տիրացու Աւետիսի գրեալ առակք եւ նամակաց օրի.»",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": "Էջ 7, տարբեր գրչէ.— Ի 1838, պարկեշտասուն մահտեսի դպիր հեզաբարոյ Աբգարեան Փօթիշանցի Աւետիսի շարադրեցեալ տետրակըն է, որ ի 20 ամեայ հանգեաւ ի Տէր մահտարաժամ ցաւովք ի Սբ. Ծնունդ հանդերձ Եղիշէ վարդապետիւ համշիրակին իւրով, որք ոչ սակաւ ցաւս ետուն ռէյիզ Սրբոյ Ծընընդեան Մարկոս Եպիսկոպոսին եւ հոգեսնունդ Գէորգ վարդապետին իւրոյ եւ միաբանութեանս ամենեցուն, մանաւանդ Տիգրանակերտցի դպիր Յակոբիս հոգեւոր եղբօր տիրացու Աւետիս հանգուցելոյն: Որ ոք ընթերցցի եւ օգտիցի բան ինչ՝ ողորմիս տացէ, քանզի չունի յիշատակ այլ ինչ բաց ի յարծաթեայ խաչէ միոյ, որ է ի Սբ. Աթոռս Երուսաղէմի: Իսկ եթէ սխալ ինչ գտանիցի ի սմա, ներեցէք, զի տակաւին չէր ընթերցեալ Քերականութիւնն ամբողջ",
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-6, դատարկ: Նոյնպէս էջ 8: Էջ 9.— Այսօր չոքայ ի շուկայն վասն առնլոյ զցորեան...: Էջ 22.— Երանելի Սբ. Մարգարէն Դաւիթ ասէ ի գիրս Սաղմոսաց...: Էջ 24.— Նամակագրութիւն: Էջ 27-48, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "081.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2849-refine.json",
+    "pipeline_version": "v1"
+  }
+}

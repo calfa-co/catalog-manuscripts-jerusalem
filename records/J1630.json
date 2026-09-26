@@ -1,0 +1,72 @@
+{
+  "id": "J1630",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1630",
+  "notice": "1630",
+  "volume": "Jerusalem_V5",
+  "title": null,
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1630",
+    "no_notice": null,
+    "titre": null,
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Սոյն Ձեռագիրը կը պակսէր 1906 Սեպտեմբեր 1ին, ըստ Արձանագրութեան Տոմարին։ Դարձեալ ըստ նոյն Տոմարին Տպարանէն գտնուած եւ իր կարգին դրուած է 1911 Յունիս 30ին։ Նոյն Տոմարին կցուած թուղթ մը, Մ․ Վ․ Նշանեանի ստորագրութեամբ, կը տեղեկացնէ թէ Թ․ 1630 Ձեռագիրը կը պակսէր 1913 Յուլիս 16ին։ ; Տ․ Սաւալանեանի Ցուցակին մէջ կը գտնենք հետեւեալ նկարագրութիւնը․ — Շարական, բոլորգիր, հին թըղ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "460.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "461.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1630-refine.json",
+    "pipeline_version": "v1"
+  }
+}

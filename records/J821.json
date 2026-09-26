@@ -1,0 +1,72 @@
+{
+  "id": "J821",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "821",
+  "notice": "821",
+  "volume": "Jerusalem_V3",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԺՈՂՈՎՈՅՆ ՔԱՂԿԵԴՈՆԻ",
+  "date": {
+    "from": "1751",
+    "to": "1751",
+    "display": null
+  },
+  "fields": {
+    "numero": "821",
+    "no_notice": "3",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԺՈՂՈՎՈՅՆ ՔԱՂԿԵԴՈՆԻ",
+    "date_debut": "1751",
+    "date_fin": "1751",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ+646",
+    "dimensions": "21×16×4",
+    "mise_en_page": "խորագիրները եւ սկզբնատողերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 26 տող։ Նօտրագիր վարժ",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Ստեփանոս Ղուկասեան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Դ, դատարկ գրեթէ։\nէջ 1ա.— Գործք Քաղկեդոնի ժողովոյն։ Սկիզբն Քաղկեդոնի ժողովոյն. — Յամի Տեառն չորս հարիւր յիսուն եւ մէկ, եւ ի ներքոյ բղեշխութեան տեառն մերոյ Մարկիանոսի մշտնջենաւոր օգոստոսին...։\nէջ 224բ.— Ի գործոց երկրորդ ժողովոյն Եփեսոսի. — Եւ երբ Յօհաննէս Երէց եւ գլխաւոր դրիչն երկրորդ ժողովոյն Եփեսոսի ընթերցաւ զայս գործս առաջին ժողովոյն Եփեսոսի, յայնժամ Դէոսկորոս Եպիսկոպոսն Աղէքսանդրիայու ասէ...։\nէջ 340, դատարկ։\nէջ 341ա.— Երրորդ գործ Քաղկեդոնի ժողովոյն. — Ի թուականին Քրիստոսի չորս հարիւր յիսուն եւ մեկին, եւ ի ներքոյ բղեշխութեան տեառն մերոյ մշտնջենաւոր օգոստոսին, հոկտեմբերի ԺԴ.ն...։\nէջ 492բ.— Երկոտասաներորդ գործ Քաղկեդոնի ժողովոյն. — Նմանապէս եւ ի քսանեւութն հոկտեմբերի, հրամանաւ զերիվերոյ աստուածապսակ եւ յոյժ բարեպաշտ տեառն մերոյ Մարկիանոսի...։\nէջ 606ա.— Եօթնեւտասաներորդ գործ Քաղկեդոնի ժողովոյն։\nէջ 636բ.— Վերջ գործոցն Քաղկեդոնի ժողովոյն։\nէջ 637–646, դատարկ։\nՅիշատակագրութիւն Գրչի. էջ 636բ.— Գրեցաւ ձեռամբ Ղուկասեան Ստեփաննոս նօտարի Կոստանդնուպօլսեցւոյ, ի թվին Յիսուսի, 1751, Դեկտեմբերի 16։\nՅետնագոյն յիշատակագրութիւն. էջ Ա, անհարթ գրով. — Յիշատակ է տիրացու Հօանէսին որդեուն նորայ Կարապետին։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "313.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "314.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "821-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J2073Ա",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2073Ա",
+  "notice": "2073Ա",
+  "volume": "Jerusalem_V7",
+  "title": "ՔԱՐՈԶԳԻՐՔ, Ա. ՀԱՏՈՐ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2073Ա",
+    "no_notice": "1",
+    "titre": "ՔԱՐՈԶԳԻՐՔ, Ա. ՀԱՏՈՐ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԸ+528",
+    "dimensions": "20x13x4",
+    "mise_en_page": "խորագիրները եւ սկզբնատողերը կարմիր, մնացեալը սեւ մելանով, միասին, 22 տող։ Նոտր շեղագիր կանոնաւոր",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ տոկուն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ ոսկեգիր",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Հեղինակը, ըստ երեւոյթին",
+    "possesseur": "Հեղինակը, ըստ երեւոյթին",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա.— Տարեկան Շրջանակ Եռանկիւնի — Յառաջաբանութիւն ի Հեղինակէն։ Հարցումն.— Զի՞նչ է ճակատագրութիւնս ո՞վ զուգնաքեայ գրքոյկ...։ Էջ ԺԱ.— Հ.— Ո՞վ իցէ քոյդ ծնող, եւ ո՞ւր տեղին յորում ծնար։ Պ. Ծնողն իմ ըստ կարի իւրում ոչ սակաւ աշխատ եղեւ յերկնէն, այնու և եթ մըխիթարեալ, զի ունէր ծնանիլ զերկս աշխատութեան իւրոյ որպէս մարդ յաշխարհ էվէրեկցի Ծարուկեան Կարապետ նուաստ տեսւորնն՝ որ յետին ի Միաբանութենէ Սրբոյ Կարապետին Կեսարիոյ, ուր էր եւ տեղի ծըննդեան իմոյ ընդ հովանեաւ Ամրդոլոյն մեծի...։ Էջ ԺԴ-ԺԸ, դատարկ։ Էջ 1.— Նախընթաց Քարոզ առ Հոգին Սուրբ։ Էջ 6.— Քարոզ Առաջին, վասն ընդունելութեանն Հոգւոյն Սրբոյ։ Որք պահեն ըզպատուիրանս Քրիստոսի ընդունին զՀոգին Սուրբ։ Էջ 11.— Քարոզ Երկրորդ։ Առաջին մասըն ի Գալուստ Հոգւոյն Սրբոյ։ Էջ 125.— Յաջորդ Առաջին։ Ո՞ւր է Սբ. Երրորդութիւնն։ Էջ 161.— Յաջորդ Երկրորդ։ Ո՞ւր է Այլակերպութիւն Տեառն։ Էջ 233.— Յաջորդ Երրորդ։ Ո՞ւր է անարատ յղութիւն Սրբոյ Կուսին։ Էջ 293.— Յաջորդ չորրորդ։ Ո՞ւր է ծընունդ Սրբոյ Կուսին։ Էջ 375.— Յաջորդ հինգերորդ։ Ո՞ւր է երեքամեայ ընծայումն Սրբոյ Կուսին։ Էջ 435.— Յաջորդ վեցերորդ։ Ո՞ւր է գերահրաշ աւետումն Սրբոյ Կուսին։ Էջ 524-528, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "159.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "160.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2073Ա-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3588",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3588",
+  "notice": "3588",
+  "volume": "Jerusalem_V10",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ Ս. ԵՐՈՒՍԱՂԷՄԻ",
+  "date": {
+    "from": "1980",
+    "to": "1980",
+    "display": null
+  },
+  "fields": {
+    "numero": "3588",
+    "no_notice": "1",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ Ս. ԵՐՈՒՍԱՂԷՄԻ",
+    "date_debut": "1980",
+    "date_fin": "1980",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "10 +Ժ +560",
+    "dimensions": "20.5x18x8",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 18 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "ճերմակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Յարութիւն Վրդ. Պարոնեան",
+    "possesseur": "Յարութիւն Վրդ. Պարոնեան",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–6, դատարկ։ Նոյնպէս էջ 8 եւ 10։ Էջ 7.– Հաննայ Պատմագիր, ընդօրինակեց Շապին Գարահիսարցի Յարութիւն Վրդ. Պարոնեան, Առաքել. Ուխտէն Ս. Յակոբեանց, Երուսաղէմ, 1980։ Էջ 9.– Գիրք Պատմութեան Սրբոյ եւ Մեծի Քաղաքիս Աստուծոյ Երուսաղէմիս եւ Սրբոց Տնօրինականաց Տեղեաց Տեառն մերոյ Յիսուսի Քրիստոսի։ Էջ Ա.– Բան առ ընթերցող եղբարս մեր։ Էջ 1.– Օգնեա՛ Տէր։ Վասն Գովութեան Սրբոյ Երուսաղէմի, վկայութեամբ Սուրբ Գրոց։ Էջ 536.– Ցանկ յիշեցեալ եւ պատմաբանեալ Ուխտից եւ այլ Տեղեաց Սրբոյ Երկրին Աւետեաց, որ է Սուրբ Երուսաղէմ Քաղաք Պատուական։ Էջ 545.– Յամի Տեառնս 1807, եւ մերս թուականի ՌՄԾԶ։ Էջ 552.– Յամի Տեառն 1807, եւ ի թուին Հայոց ՌՄԾԶ։ Ի Տպարանի Մայր Դպրատան որ ի Կոստանդնուպօլիս, ի ձեռն Տպագրիչ Մարտիրոսի։ Էջ 553–560, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "651.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3588-refine.json",
+    "pipeline_version": "v1"
+  }
+}

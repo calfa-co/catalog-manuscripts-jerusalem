@@ -1,0 +1,72 @@
+{
+  "id": "J2214",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2214",
+  "notice": "2214",
+  "volume": "Jerusalem_V7",
+  "title": "Բ Ժ Շ Կ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2214",
+    "no_notice": "11",
+    "titre": "Բ Ժ Շ Կ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "362",
+    "dimensions": "33 x 20 x 4",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, երկսիւն, էջ 1—33, մնացեալը միասիւն, 26—28 տող",
+    "details_ecriture": "ոչ միատեսակ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ, ոսկեդրուագ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1ա.— Ցանկ մուֆրէթէտին, ի վերայ այբուբենական գրոց։ Այուսան. Հայոց, վառվառուկ, թուրքերէն, Ղուստուզ օթի։ Այատրիլալ, հ. ագռաւի ճանկ, թ. ղուզղուն այաղի։ էջ 4ա.— Բարունաճ, երիցուկ, գետնի խնձորն է։ էջ 19բ.— Յաճ, վզի ոսկոռն է։ էջ 32բ.— Ֆանիտ, ֆանիտ շաքար։ էջ 33բ.— Ֆրիկ, եղին ցորենն որ այրեն ի կրակն եւ ուտեն։ Թ. ութմակ։ Վերջ ցանկիս։ էջ 34.— Շնորհիւ եւ ողորմութեամբն Աստուծոյ, որ պարգեւող է ամ. բարեաց եւ շնորհաց, պարգեւեաց մարդկան շնորհ հրմտութիւն եւ իմաստութիւն ի պէտս արհեստաւորութեան իւրաքանչիւր գործոյ, որոց մեծ արհեստն է բժշկականութիւնս, որ ապրեցուցիչ եւ մահացուցիչ մարդկան է...։ էջ 45.— Եւ թէ ճանապարհն խառնուած լինի ի հակառակութենէ եւ ի զօրութենէ, սոցա խառնուածն իւր զօրութեան եւ իւր աստիճանին վերայ է...։ էջ 47–72, դատարկ։ էջ 73ա.— Ցանկ մարդակազմութեան գրքոյս.— Ա.— Նախ յիշեմք զմարդակազմութիւնն՝ թէ որպէս ընծայի մանուկն յարգանդ մօրն։...— ԿԱ.— Վասն ճանաչելոյ զպիղծ խառնուածսն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "332.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "333.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2214-refine.json",
+    "pipeline_version": "v1"
+  }
+}

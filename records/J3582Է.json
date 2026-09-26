@@ -1,0 +1,68 @@
+{
+  "id": "J3582Է",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3582Է",
+  "notice": "3582Է",
+  "volume": "Jerusalem_V10",
+  "title": "ԶՕՐԱՎԱՐ ԱՆԴՐԱՆԻԿ",
+  "date": {
+    "from": "1981",
+    "to": "1981",
+    "display": null
+  },
+  "fields": {
+    "numero": "3582Է",
+    "no_notice": "Է",
+    "titre": "ԶՕՐԱՎԱՐ ԱՆԴՐԱՆԻԿ",
+    "date_debut": "1981",
+    "date_fin": "1981",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ժ +250 +182",
+    "dimensions": "19.5x18.5x3",
+    "mise_en_page": "եւայլն, ըստ նախորդին",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "եւայլն, ըստ նախորդին",
+    "nb_lignes": null,
+    "reliure": "եւայլն, ըստ նախորդին",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Դ, Զ, Ը–Թ, դատարկ։ Էջ Ե.— Զօրավար Անդրանիկ, Հաւաքեց Շ. Գարահիսարցի Յ. Վրդ. Պարո– նեան, Առաքել. Ուխտէն Ս. Յակոբեանց, Երուսաղէմ, 1981։ Էջ Է.— Է. Հատոր։ Էջ Ժ.— Փակցուած լուսանկար, ներ– քեւը տպագիր, Le General Major Antra– nik, le heros national Armenien. Էջ 1.— Անդրանիկի Յուշերը։ Տաս– նեմէկերորդ Գլուխ։ Կռիւները Սասնոյ եւ Մշոյ դաշտին մէջ։ Էջ 8էն յետոյ սխալմամբ գրած է 10։ Էջ 42.— Մերկերի Կռիւը։ Էջ 50.— Ամբողջ 7 գիշեր ես քնացած չէի. ցերեկները դիրքերով զբաղուած, իսկ գիշերները փամփուշտ լեցնելով։ Էջ 57.— Քոփի Կռիւը։ Էջ 89.— Բերդակու Կռիւը։ Էջ 91.— Մկրագոմի Կռիւը։ Էջ 95.— Դերքի եւ Կուրավու Կռիւները։ Էջ 98.— Վահանի Մահը։ Էջ 102.— Տասնեմէկերորդ Գլուխ։ Էջ 125.— Գոմսի Կռիւը։ Էջ 195.— Տասնեմէկերորդ Գլուխ.— Դառնանք Աղթամար։ Էջ 207էն յետոյ սխալմամբ գրած է 209։ Էջ 230.— Առաջիկայ ընդհանուր ժողովը, աչքի առաջ ունենալով 15–20 տարուան գործունէութիւնը եւ օգտուելով անցեալի փորձերից՝ թող քիչ մը հեռատես ըլլայ։ Եթէ շարունակենք գործունէութեան նոյն եղանակը՝ արդեօք պիտի հասնի՞նք մենք մեր նպատակին։ Էջ 231.— Յաւելուած։ Էջ 235.— Մեր Ընկերներուն Ցուցակը, 1895ից մինչեւ 1905։— 1–56։ Էջ 239.— Երկիր մնացող ընկերներ.— 1–26։ Էջ 241.— Արտասահման դուրս եկած ընկերներ.— 1–27։ Էջ 243.— Վերջ։ Էջ 244–249, դատարկ։ Էջ 250.— Փակցուած սեւատիպ նկար, նման սկիզբը դրուածին։ Ներքեւը գրուած է. Զօր. Անդրանիկ. 1866–1927, Շապին Գարահիսարցի։\nԷջ 1.— Զօր. Նազարբէկեանի իբրեւ յաղթական \" Դիլմանի եւ Բաղէշի Ճակատա– մարտներուն\".— Պ. Քէշիշեան։ Էջ 18.— Դիլմանի Ճակատամարտը.— Պ. Քէշիշեան։ Էջ 56.— Յիշողութիւններ։ Գրեց՝ Գաբրիէլ Ա. Շահխաթունի։ Էջ 75–182, դատարկ. թէեւ գծուած ու պատրաստ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "644.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3582Է-refine.json",
+    "pipeline_version": "v1"
+  }
+}

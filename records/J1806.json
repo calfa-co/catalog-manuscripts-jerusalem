@@ -1,0 +1,68 @@
+{
+  "id": "J1806",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1806",
+  "notice": "1806",
+  "volume": "Jerusalem_V6",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1806",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "316",
+    "dimensions": "28x19x1.5",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 31 տող։ Նոտր շեղագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–6, դատարկ։ Էջ 7.— Ծնունդ Մարիամու ի յԱննայէ։ Ած. իմաստութեամբ հիմունս էարկ երկրի. Առկ. 3, 19.— Եթէ հիմնադիր ճարտարապետք աշխարհիս ջանան գեղեցիկ շինուածոց իւրեանց խորագոյն հիմունս արկանել...։ Էջ 14.— Ի վերայ երից ամաց ընծայման։ Ի Պտղոյ արդարութեան բուսանի ծառ կենաց.— Աստանօր հակառակ խօսի Սողոմօն...։ Էջ 21.— Երից ամաց ընծայումն։ Գտի զոր սիրեաց անձն իմ.— Այս օր տօն մեծ է աշխարհիս...։ Էջ 25.— Վերափոխման։ Արի՛ Տէր ի հանգիստ քո. Սղ. 131, 7.— Աստուածահայր մարգարէն Դաւիթ...։ Էջ 286.— Սակս Սրբոյ Ծննդեան Տեառն մերոյ Յի. Քի.։ Նարդոս իմն բուրեաց զհոտ իւր. Երգ. 1, 11.— Այսօր մայրս մեր Սբ. Եկեղեցի բուրեաց ի լսելիս եւ ի հոտոտելիս մեր...։ Էջ 299.— Ցանկ Քարոզից եւ բնաբանից նոցա ըստ իւրաքանչիւր երեսաց թղթահամարիցն։ Էջ 303–316, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "190.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1806-refine.json",
+    "pipeline_version": "v1"
+  }
+}

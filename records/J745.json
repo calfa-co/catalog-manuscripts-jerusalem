@@ -1,0 +1,72 @@
+{
+  "id": "J745",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "745",
+  "notice": "745",
+  "volume": "Jerusalem_V3",
+  "title": "ՎԱՐԴԱՊԵՏՈՒԹԻՒՆ ՃՇՄԱՐՏՈՒԹԵԱՆ",
+  "date": {
+    "from": "1760",
+    "to": "1760",
+    "display": null
+  },
+  "fields": {
+    "numero": "745",
+    "no_notice": "3",
+    "titre": "ՎԱՐԴԱՊԵՏՈՒԹԻՒՆ ՃՇՄԱՐՏՈՒԹԵԱՆ",
+    "date_debut": "1760",
+    "date_fin": "1760",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "342",
+    "dimensions": "21x16x3",
+    "mise_en_page": "սեւ մելանով, բացի քանի մը խորագիրներէ եւ բնաբաններէ. միասին, 21 տող։ Նոտր շեղագիր",
+    "details_ecriture": "սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք՝ սկիզբը եւ վերջը չորսական թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ, էջ 1.— Գիրք որ կոչի Վարդապետութիւն Ճըշմարտութեան, որով իմաստնանալով մարդ ճանաչէ զմոլութիւն իւր, եւ եղանի իմաստուն եւ զգաստ։ Շարադրեցեալ ի Պետրոսէ Վարդապետէ Թիֆլիզեցոյ, յամի Տն. ՌԷՃԻԲ [= 1722], ի քաղաքն Վէնէտիկ։ Արդ եղեւ ծրումն սորին Բիւզանդիայ ի պատրիարքարանն ամ. Հայոց, թուին Հայոց, ՌՄԹ [= 1760], ի Հայրապետութեան Տն. Յակոբայ նորապսակ կաթողիկոսի ամ. Հայոց, եւ ի Նոյեմբերի ԺԷ, ի փառս Այ. ամէն։\nԲան առ ընթերցօղսն.— Յամս ոմանս կայի ի քաղաքն Բօլոնիեայ...։ Էջ 157.— Վարդապետութիւն Տասներորդ.— Ընդդէմ նոցա որ առնելով օրինակ ի սբ. աւազակէն կամին կեալ չարութեամբ, եւ կամին մեռանիլ բարեաւ մահուամբ։\nԾանօթ.— Կը յաջորդեն մի քանի քարոզք Յակոբ Պատրիարք Նալեանի: Էջ 180.— Քարոզ ի վերայ Ապաշխարութեան.— Արդ եթէ կարես իմանալ...: Էջ 188.— Քարոզ ԿԴ.: Քարոզ երկրորդ, ի վերայ Ծննդեանն Քի.: Էջ 224.— Քարոզ ԿԵ.: ի վերայ Թըլփատութեանն Քի.: Էջ 244.— Քարոզ ԿԶ.: ի վերայ Մըկրտութեանն Քի.: Էջ 277.— Քարոզ ԿԷ.: Առաջին կիրակէի զկնի Աստուածայայտնութեան: Էջ 301.— Քարոզ ԿԸ.: ի վերայ Ծընընդեանն Յոհաննու Մկրտչին:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "211.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "212.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "745-refine.json",
+    "pipeline_version": "v1"
+  }
+}

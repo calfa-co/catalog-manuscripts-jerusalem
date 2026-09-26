@@ -1,0 +1,72 @@
+{
+  "id": "J2999",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2999",
+  "notice": "2999",
+  "volume": "Jerusalem_V9",
+  "title": "Թ Ո Ւ Ա Բ Ա Ն Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1885",
+    "to": "1885",
+    "display": null
+  },
+  "fields": {
+    "numero": "2999",
+    "no_notice": "1",
+    "titre": "Թ Ո Ւ Ա Բ Ա Ն Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": "1885",
+    "date_fin": "1885",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "352",
+    "dimensions": "18.5 X 13 X 1.5",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 20 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "հաւկիթաձեւ . «Եփ . Վ . Պ . Պէզիրճեանի Սեբաստացւոյ, յԵրուսաղէմ, 1892», էջ 17, 259",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-16, դատարկ . բացի «յԵրուսաղէմ, 1885» յիշատակութենէն որ կը գտնուի 15րդ էջին վրայ ։ Էջ 17 . — Յաւելման վրայ խնդիրներ ։ Էջ 1 . — Դպրոցի մը աշակերտները չորս դասի կը բաժնուին . . . ։ Էջ 37 . — Բաժանման վրայ խնդիրներ ։ Էջ 43 . — Չորս գործողութեան վրայ խընդիրներ ։ Էջ 98 . — Կոտորակաց վրայ խառն խնդիրներ ։ Էջ 121 . — Պարզ երից կանոնի վրայ խընդիրներ ։ Էջ 137 . — Բաղադրեալ համեմատութեան վրայ խնդիրներ ։\nէջ 209.— Դրամք Տաճկաստանի։ 1 մէկ բեռ = 100000 ղշ․ 1 մէկ քիսէ = 500 » 1 մէկ ղուրուշ = 40 փարա, 120 ստակ 1 մէկ փարա = 3 ստակ, 18 փուլ 1 մէկ ստակ = 6 փուլ էջ 210.— Չափք Տաճկաստանի։ էջ 211-214, դատարկ։ էջ 215.— Տոկոսի վրայ խնդիրներ․ պարզ։ էջ 231.— Բաղադրեալ տոկոսի վրայ խընդիրներ։ էջ 249.— Ուղղակի յարակցութեան վրայ խնդիրներ։ էջ 255.— Անուղղակի յարակցութեան վըրայ խնդիրներ։ էջ 263.— Վճարաժամու վրայ խնդիրներ։ էջ 290.— Խառն խնդիրներ։ էջ 321-324, դատարկ։ էջ 325.— Կանոն եւ Ձեւք Շահու վերաբերեալ խնդրոց։ էջ 331.— Բաղադրեալ շահ կամ բաղադըրեալ տոկոս։ էջ 339-352, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "201.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "202.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2999-refine.json",
+    "pipeline_version": "v1"
+  }
+}

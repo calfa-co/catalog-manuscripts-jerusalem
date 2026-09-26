@@ -1,0 +1,72 @@
+{
+  "id": "J1911",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1911",
+  "notice": "1911",
+  "volume": "Jerusalem_V6",
+  "title": "Ս Ա Ղ Մ Ո Ս",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1911",
+    "no_notice": "23",
+    "titre": "Ս Ա Ղ Մ Ո Ս",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "464",
+    "dimensions": "13.5x9.5x4",
+    "mise_en_page": "խորագիրները, ըսկզբնատողերը եւ գլխատառերը կարմիր, մընացեալը սեւ մելանով, միասիւն, 19 տող",
+    "details_ecriture": "կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ։ Կարմիր կապոյտ զարդագիր եւ լուսանցազարդ զուրդաններու սկիզբը, կանոնները հանդերձ գլխազարդով",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ, կռնակը ոսկեզօծ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Ստեփանոս",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "Դաւիթ Մարգարէ, էջ 4",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Յակոբ Կարապետեան, Կամարակապցի (1874)։ ; 30 . — Դաւիթ Մարգարէ Թ . 1911, էջ 4",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդ իւր սարօք, էջ 5",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, դատարկ։ Նոյնպէս էջ 3։ Էջ 5. — Երանեալ է այր...։ Էջ 53. — Սաղմոս ի Դաւիթ. — Երկինք պատմեն...։ Էջ 106. — Սաղմոս ի Դաւիթ. — Մի նախանձիր...։ Էջ 167. — Սաղմոս ի Դաւիթ. — Ողորմեա ինձ Ած. ... Էջ 277. — Սաղմոս ի Դաւիթ. — Տէր Ապաւէն...։ Էջ 383. — Աւրհնութիւն աստիճանաց. — Ի նեղութեան...։ Էջ 454. — Աղօթք Սրբոյն Ներսեսի Հայրապետին. — Հաւատով խոստովանիմ. . . ։ Էջ 463. — Փառաւորեալ Տէր...։ Էջ 464, դատարկ։\nՄանր յիշատակագրութիւն Գրչի. — Էջ 166, ստորոտը. — Եւ մեղապարպ գրչի Ստեփանոս՝ զհայրն եւ զմայրն յիշեցէք հայր մեղ.։\nՅետնագոյն յիշատակագրութիւն. — 1874 Էջ 2, բոլորգիր նոր. — Ավ., Յիշատակ է այս մագաղաթ Սաղմոս յԱկնայ գիւղէն Կամրկապցի մահտեսի Կարապետեան մահտեսի Յակոբս, զայս Սուրբ յԵրուսաղէմայ Թանգարանին շնորհեցի. ով ոք ընթեռնու կամ նայելու համար ձեռք առնէ կը պարտաւորեմ որ յիշեսցէ ըզհոգիս իմ մէկ Հայր մերին։ Մ. Յակոբ Մ. Կարապետեան, 1874. յուլիս 5, ի Կ. Պօլիս։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "361.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "362.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1911-refine.json",
+    "pipeline_version": "v1"
+  }
+}

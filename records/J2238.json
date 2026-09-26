@@ -1,0 +1,68 @@
+{
+  "id": "J2238",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2238",
+  "notice": "2238",
+  "volume": "Jerusalem_V7",
+  "title": "ՏՈՄԱՐԱԿԱՆ ԱՂԻՒՍԱԿՆԵՐ (Բ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2238",
+    "no_notice": "3",
+    "titre": "ՏՈՄԱՐԱԿԱՆ ԱՂԻՒՍԱԿՆԵՐ (Բ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "24",
+    "dimensions": "37 X 25",
+    "mise_en_page": "կարմիր եւ սեւ մելաններով, աղիւսակաձեւ",
+    "details_ecriture": "Եւրոպական թուանշաններով",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": "անարուեստ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, դատարկ։ Էջ 2, վերի լուսանցքին. — Ճետվէլի թասիհի իշթիմայ վէ իստիգպալ վէ քիւչիւք նազարէթ։ — Ստորին լուսանցքին. — Լուսինն թէ անցեալ իցէ քան զարեգակն՝ ի կես աւուր ժամուց հան, թէ արեգականն անցեալ իցէ քան զլուսինն՝ դիր ի վերայ կես աւուր ժամուցն։ Էջ 8, վարը. — Ծնունդ լուսնոյ ժամաւն եւ կենդանակերպիւն մուտ այսր...։ Էջ 9, վարը. — Արեգակն միշտ ի կողմանէ յարեւմտից սկսի խաւարիլ. քանզի լուսինն միշտ յարեւելից կողմանէ մտանէ ի ներքոյ արեգական, որ վերջ խաւարման լինի։ Էջ 11, վերը. — Ճէտվէլի քիւսիւֆի ղամէր թէվաֆուտի րապի Ավրահամ Զարութո։ — Աջակողմեան լուսանցքին. — Ճետվէլի խուսուֆի ղամէր քիթէլիֆի քըրաք տօն Ալֆօնսօ պի մէքամ ի Սպանիա իլ մահրուսէ։ Էջ 15. — Ճէտվէլի շէմսին մէյլի վէ քեայլիւ արդ պիւյմէք իւչիւն։ Էջ 16-23. — Շեմսի սանէ տէվրի 136 սենէ, հէր պիր տէվիր պիր կիւն 20 րաճիքէ թարխ օլաճագ։ Էջ 24, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "370.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2238-refine.json",
+    "pipeline_version": "v1"
+  }
+}

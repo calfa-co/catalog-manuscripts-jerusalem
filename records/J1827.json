@@ -1,0 +1,72 @@
+{
+  "id": "J1827",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1827",
+  "notice": "1827",
+  "volume": "Jerusalem_V6",
+  "title": "ԺՈՂՈՎԱԾՈՅ ՄԵԿՆՈՒԹԵԱՆՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1827",
+    "no_notice": null,
+    "titre": "ԺՈՂՈՎԱԾՈՅ ՄԵԿՆՈՒԹԵԱՆՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "140",
+    "dimensions": "21x15x1.5",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 31 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": "ԻԸ+ԼԴ, անկանոն, պակասաւոր",
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "անբաւարար. թացութենէ վնասուած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— ՄԵԿՆ. ԱՌԱԿԱՑ.— 16 Էջ 1ա.— Ցանկ է Առակացն Սողոմոնի։ Էջ 3ա.— Գրիգորի Աշակերտի եռամեծի եւ տիեզերալոյս Վարդապետի Յոհանու Որոտնեցոյ և քաջ դիտապետի, Համառօտ Հաւաքումն յԱռակաց Գրոցն Սաղոմոնի, ի լուսաւոր բանից մեծին Ներսեսի...։ էջ 43ա. — Առակաց Գրոցն վերջքն է։ Եւ զեղկելի գրող սմին փրկեա ի չար կանանց։\nԲ. — ՄԵԿՆ. ԺՈՂՈՎՈՂԻ. — 15 էջ 43ա. — Գիրք Ժողովողին։ էջ 34ա. — Կատարումն Ժողովողին։\nԳ. — ՄԵԿՆ. ԻՄԱՍՏՈՒԹԵԱՆ. — 15 էջ 34ա. — Յաղագս իմաստութեան Սողոմոնի։\nԴ. — ՄԵԿՆ. ԵՐԳՈՑ ԵՐԳՈՅՆ. — 20 էջ 83բ. — Ցանգ է առաջիկայս լուծմանց Երգ Երգոցին։ էջ 85բ. — Համառօտ Հաւաքումն ի տեսութիւն լուծմանց Երգ Երգոցի, աշխատասիրեալ Գրիգորիոս հսկողի... ի լուսաւոր բանից Վարդապետին Վարդանա։ էջ 137-140, դատարկ մեծագոյն մասամբ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "217.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "218.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1827-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2097",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2097",
+  "notice": "2097",
+  "volume": "Jerusalem_V7",
+  "title": "ՆԱԽԱԶԳՈՒՇՈՒԹԻՒՆ ՎԱՍՆ ԾՈՒԱԶԱՏԿԻ",
+  "date": {
+    "from": "1823",
+    "to": "1823",
+    "display": null
+  },
+  "fields": {
+    "numero": "2097",
+    "no_notice": null,
+    "titre": "ՆԱԽԱԶԳՈՒՇՈՒԹԻՒՆ ՎԱՍՆ ԾՈՒԱԶԱՏԿԻ",
+    "date_debut": "1823",
+    "date_fin": "1823",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Կապոյտ թուղթով տետրակ մըն է՝ բաղկացած 16 էջերէ. գրութեան վերնագիրն է. Նախազգուշութիւն ի բազմավտանգ աղճատանաց Հ. տարեգրին, արարեալ ի նոյնոյ Գէորգ Խուրով իշխանէ: Ի 1823 յունվարի 15:",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Առարկեն անզգոյշ եւ բարւոք ասացեալ անգէտ եւ անտեղեակք բազումք ի Հայկազեանց՝ մինչ գուցէ եւ ի հոգեւորականաց եւս վասն Ծուազատկի զմոլութիւնն մա[ր]դահաճութիւն կարծելով...:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "182.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2097-refine.json",
+    "pipeline_version": "v1"
+  }
+}

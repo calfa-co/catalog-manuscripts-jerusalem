@@ -1,0 +1,68 @@
+{
+  "id": "J3619",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3619",
+  "notice": "3619",
+  "volume": "Jerusalem_V11",
+  "title": "ՔԱՐՈԶԳԻՐՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3619",
+    "no_notice": null,
+    "titre": "ՔԱՐՈԶԳԻՐՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "65",
+    "dimensions": "28x17.5x1",
+    "mise_en_page": "սեւ եւ կարմիր մելաններով, միասիւն, 24 տող, կարմիր գիծերու միջեւ։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը եւ վերջը չորս չորս թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Յաղագս Աւագ Ուրբաթի Աւուր Չարչարանացն Քի. Քարոզ եւ Կտակ.— Սարսափիմ եւ զարհուրիմ, ով սիրելիք իմ...։ Էջ 57.— Գրիգորի Եսամճեծի եւ քաջ հռետորի եւ գերահռչակ փիլիսոփայի։ Քարոզ վասն Գաւազան եւ Իշխանութիւն տալոյ եւ Վարդապետութեան Կարգ կոչելոց, եւ Քարոզութեան Հրաման տալոյ նորընծայ վարդապետին, ի բանն որ ասէ.— Որպէս առաքեաց զիս Հայր եւ ես առաքեմ զձեզ...։ Էջ 65.— Վախճան Գրքոյս. ի փառս ամենամեծին Քի. Այ. մերոյ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "055.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3619-refine.json",
+    "pipeline_version": "v1"
+  }
+}

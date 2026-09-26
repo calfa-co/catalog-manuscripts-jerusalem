@@ -1,0 +1,72 @@
+{
+  "id": "J3415",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3415",
+  "notice": "3415",
+  "volume": "Jerusalem_V10",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3415",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "312",
+    "dimensions": "20.5X15X3.5",
+    "mise_en_page": "խորագիրները, սկզբնատառերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 26 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ։ Կարմիր կապոյտ զարդագիր եւ լուսանցազարդ գլուխներու սկիզբը",
+    "types_cahiers": "Ա–Ը (էջ 1–186), Ա–Դ (187–266)",
+    "matiere_principale_id": null,
+    "details_matiere": "դեղնորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ ընդհանուր առմամբ. մասամբ ազդուած թացութենէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը երկու թերթ",
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը եւ վերջը երկուական թերթ, մասն երկաթագիր Աւետարանի ; ԿՆԻՔ: քառանկիւն, «Մատենադարան Ս. Նշան Վանուց Սեբաստիոյ, թիւ 171»",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդ իւր սարօք, էջ 9, 187",
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "343.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "344.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3415-refine.json",
+    "pipeline_version": "v1"
+  }
+}

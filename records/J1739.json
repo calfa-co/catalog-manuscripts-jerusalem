@@ -1,0 +1,72 @@
+{
+  "id": "J1739",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1739",
+  "notice": "1739",
+  "volume": "Jerusalem_V6",
+  "title": "Ս Ա Ղ Մ Ո Ս (ԹԱԹԱՐԵՐԷՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1739",
+    "no_notice": "1",
+    "titre": "Ս Ա Ղ Մ Ո Ս (ԹԱԹԱՐԵՐԷՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "846",
+    "dimensions": "9.5x7.5x6",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 13 տող",
+    "details_ecriture": "Կարմրաներկ խորանազարդ իւր սարօք՝ կանոններու սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "դեղնորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ հնամաշ",
+    "etat_conservation": "լաւ. լուսանցքները մասամբ ցեցակեր",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը հինգ թերթ, վերջը վեց, որոնցմէ առաջինին վրայ կայ տարբեր թանաքով՝ նոտրագիր. «Վասն Վարդումի օրհնութեան թխտին, մեր մտացն չանկանի»",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Սաղմոս ի Թաւիդ.— Սանը տըր էր խայսիքի պարմատը, զէնկա չինա խըրսըզլարընըն տա եօլունա եաղըխլըլարնընկ օլուրմատը, տա օլտուղունջինայ ... ջալարնընկ օլ օլուրմատը...։ Էջ 56 — ԺԵ. — Տունք Զ. Սաղմոս ի Դաւիթ. — Սախլա մէնի Թէնկրի զէրայ մէն սանկա յուսանտըմ...։ Էջ 107 — ԻԱ. — Տունք ԺԴ. Գուրդայս ԼԸ, Սաղմոս ի Դաւիթ. — Թէնկրի Թէնկրիմ մէնիմ նէ ուչուն խոյտունկ մէնի...։ Էջ 419 — ՀԲ. — Սաղմոս յԱսափ. — Նէչիք քի եախչը տըր Իսրայէլկա Թէնկրի...։ Էջ 437 — ՀԴ. — Տունք ԺԲ, Գուրդայս ԽԵ տունն է. Սաղմոս ի Դաւիթ. — Խոստովանել պօլիյիյի սանկա Թէնկրի...։ Էջ 844 — Քիչի էտիմ մէն խարտաշլարըմտան...։ Էջ 846, գունաւոր շրջանակի մէջ. — Պոսարի դիմսանինկ աւղշը պիլա պիյ Թէնկրի արզանի էդքայ, ուչմախքա պիզեագըխլը դիմսանը սառնականնը իչիդ քաննը. տա եազըխլըեագկաննը. ամէն, Հայր մեր.։\nՅետնագոյն յիշատակագրութիւն. — Սկիզբի դատարկ թուղթերուն վերջին էջին վրայ, անհարթ գրով. — Յիշատակ է գիրքս ի դուռն Սբ. Յակոբայ, որ յԵրուսաղէմ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "068.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "069.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1739-refine.json",
+    "pipeline_version": "v1"
+  }
+}

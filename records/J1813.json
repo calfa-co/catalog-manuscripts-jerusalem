@@ -1,0 +1,68 @@
+{
+  "id": "J1813",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1813",
+  "notice": "1813",
+  "volume": "Jerusalem_V6",
+  "title": "Ք Ա Ր Ո Զ Ա Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1813",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Ա Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "166",
+    "dimensions": "28x23",
+    "mise_en_page": "խորագիրները եւ գլխատառերը մասամբ կարմիր, մնացեալը սեւ մելանով, միասիւն, 25 տող",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Կը նշանակենք գլուխներէն ոմանք, զեղչելով մեծագոյն մասը, մանաւանդ փոքրագոյնները եւ կրկնուածները։ Էջ 1.— Վասն Վարագայ Սրբոյ Խաչին .— Պարգեւ գերագոյն պարգեւի այսօր հաւատացելոց...։ Էջ 2.— Վասն Երեւման Սբ. Կենսատու Խաչին.— Այսօր գոլով հինգերորդ Կիւրակէ զկնի Սրբոյ Զատկի...։ Էջ 3.— Վասն Տեառնընդառաջի.— Շընորհք գերահրաշ քառասնօրեայ գալստեան ...։ Զիւնքի էտկի մովսիսական օրէնք՝ վէ օլ օրէնք իլէ թէնպիհ օլունան տիւրլիւ ատէթլէր...։ Էջ 11.— Աւագ Հինգշաբթի Աւուր ի Սբ. Հաղորդութեան վերայ.— Գերասքանչ մեծահրաշ աւուրս...։ Յեդեմական աստուածաստեղծ դրախտին մէջ շատ տեսակ ծառեր կային...։ Էջ 15.— Յաղագս Սրբոյ Յարութեան։ Էջ 20, դատարկ, ոչ մաքուր։ Էջ 21.— Վասն Սրբոյ Յարութեանն չորրորդ Կիւրակէի, որ է Կարմիր Կիւրակէ։ Էջ 26.— Ի վերայ զղջման եւ ապաշխարութեան, եւ ողորմութեանն Աստուծոյ։ Էջ 33.— Վասն Ուսումնարանի Ճեմարանի եւ Հիւանդանոցի Հաստատութեան Խըրատ։ Էջ 39-40, դատարկ։ Նոյնպէս էջ 84-86։ Էջ 41.— Նոր պատրիարք նստելոյ նախերգանք։ Էջ 49.— Վասն Սրբոյ Յարութեան Դըրան բացման։ Էջ 79.— Վասն Վերափոխման Սբ. Աստուածածնի։ Էջ 87.— Իջցէ եղբօրորդին իմ ի պարտէզ իւր...։ Էջ 110.— Որ խնդրէ զիս գտանէ։ Էջ 128.— Ծանուցում վասն Սրբոյ Յարութեան Դրան բացման։ Էջ 133.— Երախտագիտութիւն եւ ապերախտութիւն.— Բանականաց առաջին երախտաւորն Աստուած է...։ Էջ 151.— Ի Սիովն ապրեսջիք, եւ յԵրուսաղէմ մխիթարեսջիք։ Էջ 153.— Ծանուցումն նորաեկ ուխտաւորաց։ Էջ 155.— Վասն զաւակ կրթելոյ։ Էջ 157-166, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "198.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1813-refine.json",
+    "pipeline_version": "v1"
+  }
+}

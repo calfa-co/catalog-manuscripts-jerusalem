@@ -1,0 +1,72 @@
+{
+  "id": "J951",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "951",
+  "notice": "951",
+  "volume": "Jerusalem_V3",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՍԱՂՄՈՍԱՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "951",
+    "no_notice": "8",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՍԱՂՄՈՍԱՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "404",
+    "dimensions": "20x15x2",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխագիրները մասամբ կարմիր, մնացեալը սեւ մելանով, միասիւն, 30 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հին բարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ, դրոշմազարդ, անարուեստ",
+    "etat_conservation": "լաւ. լուսանցքներէն ցեցակեր",
+    "copiste": "Աստուածատուր կրօնաւոր",
+    "possesseur": "Կարապետ բարունապետ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը երեք թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Նուաստ ծառայի Քրիստոնէից Վարդան վարդապետի հաւաքումն Մեկընչաց ..... Սաղմոսարանին Դաւթի.— [Մի է Ած. եւ մի] միջնորդն Այ. եւ մարդկան մարդն Յս. Քս. ասէ Բիւ. կենդանին Պօղոս...։ Էջ 13.— ... Յորս եւ մեք ապաւինալք ի շնորհն որ աստ ծածկեալ կան, եւ նպաստաւորեալ ի հոգէխառնութենէ սբ. հովուապետացն, Եպիփանու, Աթանասի, Բարսղի, Դանիէլի, որպէս Հ քն ի հոգոյն Մովսէսի, եւ Եղիսէէ յԵղիաէ, կեցցուք այսուհետեւ ի սկիզբն սաղմոսիս, որ ասէ։ Էջ 14, դատարկ։ Էջ 15.— Սաղմոս ի Դաւիթ.— [Երանեալ է] այր որ ոչ գնաց ի խորհուրդս ամբարըշտաց...։ Ծանօթ.— Լուսանցքներու վրայ յաջորդաբար նշանակուած են, Եպիփան, Բարսեղ, Դանիէլ, Եփրեմ, Աթանաս։ Գըլխազարդերուն եւ զարդագրերուն տեղերը կը մնան բաց։ Էջ 400-404, դատարկ։ Յիշատակագրութիւն Գրչի.— Էջ 102.— [Ա]նպիտան եւ ղրիւր քանքարոյ պարտապան Աստուածատուր գըծողս, յետինս ի կարգաւորաց, եւ զստացող այս սուրբ մատենիս զտէր Կարապետ քաջ րաբունապետ եւ աստուածաբան վարդապետն, եւ զննջեցեալսն մեր, յիշեսջիք ի Քրիստոս, աղաչեմ. եւ ձեզ եւ մեզ ողորմեսցի Քրիստոս յոյսն մեր, ամէն։\nՅետնագոյն յիշատակագրութիւն. — 1740 էջ 399. — ... ի թվ. ՌՃՁԹ, յշ. ի Տէր. — Համաձայն Սաւալանեանի. «Գր. Շղթայակիր դնէ յիշ. ի Սբ. Աթոռն ի թվ. ՌՃՁԹ» (Ցուցակ, էջ 502)։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "525.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "526.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "951-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3081",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3081",
+  "notice": "3081",
+  "volume": "Jerusalem_V9",
+  "title": "Բ Ն Ա Գ Ի Տ ՈՒ Թ Ի Ւ Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3081",
+    "no_notice": "2",
+    "titre": "Բ Ն Ա Գ Ի Տ ՈՒ Թ Ի Ւ Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "324",
+    "dimensions": "20 X 14 X 1.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 22 տող",
+    "details_ecriture": "չափաւոր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ, առաջին կողքին վարի անկիւնը կտրուած ինկած",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— Տետր Բնագիտութեան։ Էջ 1.— Գլուխ Ա.— Մարմնոց էական յատկութիւնները։ 1.— Բնագիտութիւնը (Physique) մարմնոց ցուցըցած երեւոյթները կը սորվեցնէ առանց բաղադրութեանը վրայ խօսելու։ Էջ 5.— Գլուխ Բ.— Մարմնոց ընդհանուր յատկութիւնները։ Էջ 67.— Տաքութիւն։ Էջ 117.— Գլուխ Գ։ Լոյս։ Էջ 153.— Գլուխ Դ։ Մագնիսականութիւն։ Էջ 165.— Գլուխ Ե։ Ելեքտրականութիւն։ Էջ 197.— Անկայուն Ելեքտրականութիւն կամ Կալվանականութիւն։ Էջ 235.— Ելեքտրականութեան արագութիւնը։ Էջ 236-242, դատարկ։ Էջ 243.— Լուսոյ շառաւիղներուն փոքրիկ ծակերու մէջէն անցնելով կազմած պատկերները։ Էջ 245.— Ստուերագրի Գործիքներ։ Էջ 249-324, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "316.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3081-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J392",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "392",
+  "notice": "392",
+  "volume": "Jerusalem_V2",
+  "title": "ԿՐՕՆՔ ԵՒ ՎԱՐՔ ԵԲՐԱՅԵՑՒՈՑ",
+  "date": {
+    "from": "1766",
+    "to": "1766",
+    "display": null
+  },
+  "fields": {
+    "numero": "392",
+    "no_notice": "1",
+    "titre": "ԿՐՕՆՔ ԵՒ ՎԱՐՔ ԵԲՐԱՅԵՑՒՈՑ",
+    "date_debut": "1766",
+    "date_fin": "1766",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "25x18x3...: Էջք 648: Հանգամանք՝ լաւ: Թուղթ հասարակ: Գրիչ՝ Մելքիսէթ Կ. Պոլսեցի: Գրութիւն՝ ամբողջովին սեւ մելանով, միասիւն, 22 տող: Շեղագիր խոշոր: Լաթակազմ խաւաքարտեայ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ճակատ.— Կրօնք եւ վարք Եբրայեցւոց, շարադրեցեալ հանդերձ կործանմամբն նոցին ի յիտալիական լեզուն, ի Տոգդոռ Պօղոս Բժշկէ, եւ թարգմանեցեալ ի պարզ լեզուն յունաց՝ առ բարեհաճութիւն հետաքրքիր ուսումնասիրացն կամաց, իսկ այժմիկ փոխեալ ի հայկական բարբառ՝ վասն անխռով պատրաստութեան քրիստոսասիրացն մտաց: Ի Թուին Հայոց ՌՄԺԵ, եւ ի Սեպտեմբերի դ սկսեալ: Շնորհօք Սբ. Հոգւոյն թարգմանեցաւ գիրքս ի Յունաց լեզուէ ի Հայ բարբառ ի Տիրացու Մելքիսեթէ Կոստանդինուպօլսեցւոյ, թաղիւ Պալաթցւոյ. արդեամբք եւ ընչիւք Կարապետ Վարդապետի Անդրիանուպօլսեցւոյ, փոխանորդի երկուց Սրբազան Պատրիարքաց Տն. Յակոբայ Զիմառացւոյ, եւ Տն. Գրիգորի Կոստանդինուպօլսեցւոյ: Յամի Տն. 1766, յամսեանն Սեպտմ.: Էջ 2.— Կրօնք եւ Վարք Եբրայեցւոց: Գլուխ Առաջին: Առաջաբանութիւն հարկաւոր, առ ի իմանալ մարդոյ՝ զայն որ պարունակէ գիրքս այս.— Եւ արդ՝ առ ի իմանալ մարդոյ զայն որ կամիմ ասել ի յայսմիկ գրուածոջս...: Էջ 620.— Գլուխ ԼԳ.— Վասն պատուհասիցն, զորս կրէ այժմ սինակոկայն Եբրայեցւոց...: Էջ 643.— Սուտ մէսիեայք զորս ընդունեցին եւ հաւատացին մոլորեալ Եբրայեցիքն: Էջ 645.— Ցանկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "335.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "392-refine.json",
+    "pipeline_version": "v1"
+  }
+}

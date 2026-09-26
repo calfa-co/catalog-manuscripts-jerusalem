@@ -1,0 +1,72 @@
+{
+  "id": "J610",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "610",
+  "notice": "610",
+  "volume": "Jerusalem_V3",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԵՍԱՅԵԱՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "610",
+    "no_notice": "5",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԵՍԱՅԵԱՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": "ՌՄԻԶ = 1777 ՆԿԱՐԱԳՐՈՒԹԻՒՆ. — Ծաւալ 21x16x3",
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "486",
+    "dimensions": null,
+    "mise_en_page": "խորագիրները, սկզբնաւորութիւնները, գլխագիրները եւ լուսանցքի տնահամարները կարմիր, մնացեալը սեւ մելանով, միասիւն, 29 տող",
+    "details_ecriture": "շեղակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ փայլուն։ Գըրիչ՝ Գրիգոր Աբղ. Գաղատացի",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ, դրոշմազարդ ոսկեզօծ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթեր սկիզբը երեք թերթ, վերջը՝ ինը",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 3. — Համառօտ ժողովումն Մեկնութեան Սբ. Մարգարէին Եսայեայ, ի լուսաւոր մեկնողաց Սրբոյ Հօրն Եփրեմի, Յոհաննու Ոսկ., եւ Կիւրղի Աղեք. Հայրապետին. հրամանաւ Տն. Հայոց Հեթմոյ, Գէորգեա Վարդապետի արարեալ. — Ծածուկ\nմիշտ եւ անյայտ են բանք օրինացն եւ մարդարէիցն...։ Հմմտ. Թիւ 431։ Ծանօթ. — Վարի լուսանցքին շեղագիր տարբեր գրչով, «Յիշատակ է ի դուռն Սբ. Յակոբայ Աթոռոյն յԵմ.։ Ով ոք հանցէ, առցէ զպատիժ յԱյ.»։ էջ 468-9, մէկուկէս էջ դատարկ ձըգուած, ըստ երեւոյթին օրինակը թերի եղած է. Գլուխ ԿԵ. համար 8էն կ'անցնի 17ին։\nՅիշատակագրութիւն Գրչի. — 1777 էջ 485. — Յամի ՌՄԻԶ եւ յուլիսի Զ աւարտ եղեւ գիրքս այս Եսայեայ Մեկնիչս ձեռամբ Գաղատացի Գրի. իբր արդ.։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "027.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "028.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "610-refine.json",
+    "pipeline_version": "v1"
+  }
+}

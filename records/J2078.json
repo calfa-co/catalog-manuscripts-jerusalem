@@ -1,0 +1,68 @@
+{
+  "id": "J2078",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2078",
+  "notice": "2078",
+  "volume": "Jerusalem_V7",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2078",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Բ+210",
+    "dimensions": "21x14x2",
+    "mise_en_page": "ամբողջովին սեւ մելանով գրեթէ, միասիւն, 23-24 տող",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "ցաւալի, շատ մը ԹԵՐԹՔ սեւցած, վնասուած, եւ նորոգուած. լուսանցքները ցեցակեր",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա, դատարկ։ Էջ Բ — Ցանկ — 1-11 Գլուխներ։ Էջ 1 — Սէրն Աստուծոյ դէպ առ մարդն։ Օգնեայ Սբ. Հոգի Աստուած։...։ Յաղագս մեծի սիրոյն, զոր Տէր Ած. մեր միշտ ունեցաւ առ մարդն։ Էջ 34 — [2] — Յաղագս հարկաւորութեան, զոր ունին ի յապաշխարութիւն, ուստի ոչ է պարտ յապաղել։ Էջ 173 — [9] — Յաղագս սաստկագունի քննութեան, զոր Աստուած խստագունեղ դատաւորն առնէ զգործոց մերոց...։ Էջ 186-192, դատարկ։ Էջ 193 — Աստուածազարդից արանց գովասանութիւն բազում եւ զանազան է...։ Էջ 194, դատարկ։ Էջ 195-202, տարբեր գրչութիւն, նոտրագիր մանր։ Էջ 195 — [10] — Քարոզ տեռատես կնոջ ի բանն որ ասէ, « մերձեցաւ յիս ։ Էջ 197 — [11] — Ի յԱռաքելէ վասն քանանացի կնոջն, ի բան. ո՛վ կին դու, մեծ են հաւատք քո.— Եւ գիտելի է թէ ով հրաւիրեաց զսա այսպիսի գովութեանս արժանի լինիլ...։— Վերջաւորութիւնը թերի։ Էջ 203-210, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "166.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2078-refine.json",
+    "pipeline_version": "v1"
+  }
+}

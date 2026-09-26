@@ -1,0 +1,72 @@
+{
+  "id": "J3092",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3092",
+  "notice": "3092",
+  "volume": "Jerusalem_V9",
+  "title": "ԳԻՐՔ ՃԱԿԱՏԱՄԱՐՏՈՒԹԵԱՆ",
+  "date": {
+    "from": "1839",
+    "to": "1839",
+    "display": null
+  },
+  "fields": {
+    "numero": "3092",
+    "no_notice": "6",
+    "titre": "ԳԻՐՔ ՃԱԿԱՏԱՄԱՐՏՈՒԹԵԱՆ",
+    "date_debut": "1839",
+    "date_fin": "1839",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "148",
+    "dimensions": "21X15.5X1",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 21 տող",
+    "details_ecriture": "մանր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: գրեթէ սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "թղթեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": "Կարապետ Քահանայ Խասգիւղի",
+    "possesseur": "Կարապետ Քահանայ Խասգիւղի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։ Էջ 3. — Գիրք Ճակատամարտութեան կամ ընտրողութեան՝ այն որ ունի ընդ ազգին հրէից վասն օրինաց եւ ծիսից նոցին, վըկայութեամբ Ս. Գրոց [Հին] եւ Նոր Կտակարանաց։ Արարեալ է ոմն Նէոփիտոս Յունաց աբեղայ՝ որ լեալ է երբեմն րաբունի ազգին հրէից։ Եւ թարգմանեալ եղեւ ի Մոլտովանու լեզուէ ի հայ բարբառ աշխատութեամբ տէր Ներսէս քահանայի, յամի Տեառն 1808, մայիս 30, ի քաղաքն Եաշ։ Իսկ այժմ օրինակեցաւ ի Կ. Պոլիս, ի հայրապետութեան տեառն Եփրեմ սրբազան կաթուղիկոսի ամենայն Հայոց, ձեռամբ տէր Մելքոն տրուպ քահանայի իբր աթոռակալի Սրբոց Հրեշտակապետաց տաճարին։ Նոյնպէս օրինակեցաւ Խասգիւղ Սուրբ Ստեփաննոս եկեղեցւոյ մահտեսի տէր Կարապետ յետին քահանայէ, յամի Տեառն 1839, ապրիլի 13, ի հայրապետութեան տեառն\nՅովհաննէս կաթուղիկոսի Սրբոյ Էջմիածնի, եւ Սուրբ Երուսաղէմի պատրիարք տեառն Գաբրիէլի, եւ Կոստանդնուպօլսոյ տեառն Յակոբոս պատրիարքի։\nէջ 4.— Յառաջաբանութիւն շարադրողի սոյն գրոյս։ էջ 7.— Զծածուկ խորհուրդսն այժմ բացայայտեալ։ Գլուխ Առաջին։ էջ 21.— Վասն երկբայութեան։ էջ 31.— Գլուխ Երկրորդ։ էջ 33-38, դատարկ։ էջ 39.— Արդ տուր նոցա եւ այլ նշան...։ էջ 48.— Գլուխ Երրորդ։ էջ 70, դատարկ։ էջ 71.— Ամբակում համբեր նմա...։ էջ 106-118, դատարկ։ էջ 119.— Հարցումըն Հինգերրորդ։ էջ 124.— Հարցումն Եօթներրորդ։ էջ 127.— Վերջ Գրքոյս։ էջ 128.— Յայտարարութիւն ինչ վասն գրքոյս ի թարգմանչէն։ էջ 130-148, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "324.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "325.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3092-refine.json",
+    "pipeline_version": "v1"
+  }
+}

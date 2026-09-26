@@ -1,0 +1,68 @@
+{
+  "id": "J1177",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1177",
+  "notice": "1177",
+  "volume": "Jerusalem_V4",
+  "title": "ՅԱՂԱԳՍ ԲՆՈՒԹԵԱՆ ՄԱՐԴՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1177",
+    "no_notice": "5",
+    "titre": "ՅԱՂԱԳՍ ԲՆՈՒԹԵԱՆ ՄԱՐԴՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "162",
+    "dimensions": "19 X 14 X 1.5",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մընացեալը սեւ մելանով, միասիւն, 25 տող",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր, լուսանցազարդ եւ խորանազարդ էջ 3։ Ուրուագծեալ նկար Գր. Նիւսացոյ, էջ 2",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Ցանկ։ Ա–ԽԲ Գլուխներ։ Էջ 3. — Գրիգորի Նիւսացւոյ Յաղագս (կազմութեան) [բնութեան] մարդոյ. — Ըզմարդն ի հոգւոյ իմանալոյ, եւ ի մարմնոյ գեղեցիկ կազմեալ...։ — Հմմտ. թիւ 390, Բ. Հատոր, էջ 314, Յաղագս Բնութեան Մարդոյ։ Էջ 22. — Բ. — Յաղագս անձին է բանն, այսինքն հոգոյ մարդոյ. — Գրէ թէ անմիաբան է հնոցն ամենեցունց որ յաղագս անձին է բան...։ Էջ 48. — Գ. — Յաղագս Միաւորութեան հոգոյ եւ մարմնոյ. — Խնդրելի է թէ զիարդ լինի միաւորութիւն անձին եւ մարմնոյ...։ Էջ 100. — ԻԳ. — Յաղագս Շնչականին. — Շնչերակականն զօրութիւն կոչի, եւ կենդանական զօրութիւն զսիրտն ունելով սկիզբն...։ Էջ 148. — ԽԲ. — Յաղագս թէ ոյց է նախախնամութիւն. — Արդ՝ զի է նախախնամութիւն, եւ զինչ է ասացաւ...։ Էջ 162. — Աւարտեցաւ Բնութեան Գիրքս Գրիգոր անուն կոչեցելոյ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "303.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1177-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2803",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2803",
+  "notice": "2803",
+  "volume": "Jerusalem_V9",
+  "title": "Ա. — Ո Ղ Բ Ե Դ Ե Ս Ի Ո Յ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2803",
+    "no_notice": "11",
+    "titre": "Ա. — Ո Ղ Բ Ե Դ Ե Ս Ի Ո Յ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "220",
+    "dimensions": "14X11X1.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 24 տող",
+    "details_ecriture": "մանըր։ Լաթակազմ խաւաքարտեայ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-8, դատարկ։ Էջ 9. — Ճակատ. — Ողբ Եդեսիեայ Քաղաքի, վայելչահիւս չափաբանութեամբ շարադրեալ Սրբոյն Ներսեսի Շնորհալւոյ Հայոց Կաթուղիկոսի Կըլայեցւոյ։ Վիպասանութիւն Հայոց չափեալ ոտիւք, տեառն Վահրամայ մեծի վարդապետի։ Ներբողեան առ Սուրբն Ներսէս Շնորհալին, ասացեալ տեառն Ներսեսի Լամբրոնացւոյ, ոտանաւոր հեգմամբ յանգեալ։ Զգուշաւոր քըննութեամբ ուղղագրեալ՝ բաղդատութեամբ ձեռագիր օրինակաց։ Յընտրութեան ի Հայրապետութիւն ամենայն Հայոց տեառն Եփրեմի Արքեպիսկոպոսի, Առաջնորդին Հայոց Ռուսաստանու։ Յամի Տեառն 1810, եւ ի թուին Հայոց ՌՄԾԹ ի Մայիսի 20։ Արդեամբք եւ ծախիւք Պարոն Սարգիս Ծատուր Աղավալեանց կոչեցելոյն, եւ ի նորին Տպարանի որ ի Մադրաս։ Էջ 10. — Առ բարեմիտ ընթերցողս։ Էջ 13. — Ողբ Եդեսիոյ, Տեառն Ներսեսի Սրբազան Կաթուղիկոսի, եղբօր Տեառն Գրիգորիսի Հայոց Կաթուղիկոսի, Հօրըն մերոյ Շնորհալւոյ, ի Հռոմկլայ այն բռնակելոյ...։ Էջ 15. — Ա. — Արդ ողբացէք եկեղեցիք...։\nԲ. — ՊԱՏՄ. ՌՈՒԲԻՆԵԱՆՑ. — 2 Վահրամ Վրդ.\nԷջ 102. — Տեառն Վահրամայ մեծ վարդապետի, րաբուն կոչեցելոյ, քաջ ատենադըպրի երրորդի Լեւոնի Արքայի Հայոց, արարեալ ըստ խնդրոյ նոյնոյ Արքայի՝ զՊատմութիւն Հայոց, ոտից չափմամբ։ Էջ 103. — Տէր Ներսեսի լուսազարդեալ...։\nԳ. — Էջ 166. — Գովեստ ներբողական պատմագրական բանիւ յաղագս վարուց մեծի Հայրապետին Տեառն Ներսեսի Կլայեցւոյ Հայոց Կաթուղիկոսի, ասացեալ Տեառն Ներսեսի Լամբրոնացւոյ՝ Արքեպիսկոպոսի Տարսոնի Կիլիկեցւոյ։ Էջ 167. — Շարժեալ ստիպէ հարկ տէրունի...։ Էջ 209. — Գովասանութիւն Սրբոյն Ներսեսի կըրկնեալ. — Սուրբ հայրապետ տէր րաբունի համանըման...։ Էջ 211-220, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "022.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2803-refine.json",
+    "pipeline_version": "v1"
+  }
+}

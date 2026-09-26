@@ -1,0 +1,72 @@
+{
+  "id": "J2319",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2319",
+  "notice": "2319",
+  "volume": "Jerusalem_V7",
+  "title": "Հ Ա Ր Ի Ւ Ր Ե Ա Կ   Ա Ռ Ա Կ Ք",
+  "date": {
+    "from": "1852",
+    "to": "1852",
+    "display": null
+  },
+  "fields": {
+    "numero": "2319",
+    "no_notice": "3",
+    "titre": "Հ Ա Ր Ի Ւ Ր Ե Ա Կ   Ա Ռ Ա Կ Ք",
+    "date_debut": "1852",
+    "date_fin": "1852",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "20 x 13 : Էջք 136 : Հանգամանք լաւ : Թուղթ բարակ : Գրիչ ՝ Խաչատուր Աբղ . Գերմանիկեցի : Գրութիւն ամբողջովին սեւորակ մելանով , միասին , 24 տող : Նոտր շեղագիր մաքուր : Համառօտագրութիւնք առատ : Թղթակազմ :",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Ճակատ . — Էջ 1 . — Հարիւրեակք ասացեալ : Առածք բարոյականք եւ իմաստալիցք , յօրինեալ յիմաստասէր արանց գիտնականաց , եւ որոշեալ ի հարիւրեակս եւ ի տասնեակս : Որոց յիւրաքանչիւր տասնեակս մի կամ երկուս բարոյական համառօտ պատմութիւնս կցորդեալ : Յորոց վերջինսն մնացեալ ութն տասնեակ թերին , որ յառաջին հեղինակէ անտի , լցոյց անհեթեթ բանիւք կրկին օրինակողն սորա ՝ Գերմանիկեցի Մկրտիչ աբեղա : Վերստին օրինակեցաւ ՝ ձեռամբ Գերմանիկեցի , Խաչատուր աբեղաի , յամի Տեառըն 1852 , օգոստոսի 12",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Յառաքելական նախագահ աթոռն Սըրբոց Յակոբեանց , ի քաղաքամայրն Սբ . Երուսաղէմ , ՌՅԱ :\nԷջ 3 . — Հարիւրեակ Առաջին : Տասնեակ առաջին : 1 . — Յաճախութիւնն ծնանի ըզտաղտկութիւն . — Հմմտ . ստոր , թ . 2304 : Էջ 20 . — Հարիւրեակ Երկրորդ : Էջ 69 . — Պատմութիւն Բ . — Հայ ոմն վրացի ճանապարհորդեալ ի Պարսկաստանէ գայր ի Պասրայ ընդ միում ( ի ) պարսկահայի , որ էր փարթամ յոյժ . . . : — Հմմտ . թ . 1313 , Դ . Հատոր , էջ 561 : Էջ 93 , դատարկ : Էջ 123 . — Պատմութիւն . — Տիկին ոմն տրամբի . . . : Էջ 124 . — Տասնեակ Գ . — Մարդ հայի յերեսս մարդոյ , իսկ Ած . հայի ի սիրտս : Պատմութիւն , միակ . — Թագաւոր ոմն ունէր մահհաձիգ աղախին մի սիրելի . . . : Էջ 127 . — Տասնեակ Զ . : Էջ 128 . — Պատմութիւն , միակ . — Մեծատուն ոմն անգորոմ ունէր շուն մի . . . :\nէջ 132 — Տասնեակ Ժ.։ Պատմութիւն մխակ. — Զգող ոմն հարին յոյժ, եւ ոչ խոստացաւ զգողանին, եւ ապա բերեալ զորդի նորա՝ սկսան հարկանել զնա ...։ էջ 134-136, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "465.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "466.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2319-refine.json",
+    "pipeline_version": "v1"
+  }
+}

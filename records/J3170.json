@@ -1,0 +1,68 @@
+{
+  "id": "J3170",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3170",
+  "notice": "3170",
+  "volume": "Jerusalem_V9",
+  "title": "ՔԵՐԱԿԱՆՈՒԹԻՒՆ (ԳՐԱԲԱՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3170",
+    "no_notice": "1",
+    "titre": "ՔԵՐԱԿԱՆՈՒԹԻՒՆ (ԳՐԱԲԱՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "395",
+    "dimensions": "15.5X10X2.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 16 տող, շրջագծեալ։ Նոտր շեղագիր վարժ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ գծագրոշմ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Օգնեա Հոգի Սուրբ։ Առաջին Հատոր, Գլուխ Ա։ Քի նէ տիր Քերականութիւն վէ քաչ մասը վար։ Քերականութիւն պիր զեննեհտ տիր քի տորղու սէօյլէմէք վէ տորղու եազմաք էօրկէտիր։ Տէօրտ մասը վար Քերականութիւնըն, գիր, վանկ, բառ, բան. զէրէ քիր օլուր վանկ, վանկ օլուր բառ, բառ օլուր բան...։ Էջ 20էն ցատքեր է 22ի։ Նոյնպէս 31էն 34ի։ Էջ 50.— Քի նէ տիր հոլով վէ հոլովումն վէ (վէ) քաչ տըր։ Էջ 112.— Քի նէ տիր դերանուն վէ քաչ թիւրլիւ։ Էջ 207.— Քի նէ տիր պակասաւոր բայլար վէ նէ չէքիլ խոնարհլ օլուր։ Էջ 311.— Վախթան Առաջի Հատոր։ Էջ 312.— Իքինճի Հատոր. Գլուխ Ա։ Էջ 343էն կ'անցնի 346ի։ Էջ 357.— Քի նէ տիր պատիւ վէ քաչ։ Էջ 358–395, դատարկ։\nՅիշատակարանին 1923ի փակցուած առաջին կողքին, թիւ 41։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "463.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3170-refine.json",
+    "pipeline_version": "v1"
+  }
+}

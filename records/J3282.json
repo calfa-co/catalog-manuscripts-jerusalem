@@ -1,0 +1,72 @@
+{
+  "id": "J3282",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3282",
+  "notice": "3282",
+  "volume": "Jerusalem_V10",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3282",
+    "no_notice": "27",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "120",
+    "dimensions": "27X19.5X1",
+    "mise_en_page": "կարմիր եւ սեւ մելաններով, միասիւն, 29 տող, կարմիր գիծերու միջեւ։ Նոտրտագիր վարժ",
+    "details_ecriture": "յոյժ առատ ; ՈՒՂՂԱԳՐՈՒԹԻՒՆ: ոչ զօրաւոր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խասաքարտեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": "Պետրոս Եպս. Սեբաստիոյ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1.— Յաղագս Առաջիկայ Առակաց Սբ. Աւետարանականաց: Բան առ բարեմիտ ընթերցողս: էջ 7.— Յաղագս Տեսակաւորեալ Հաւատոյ: էջ 93.— Յաղագս յարքայութենէն Տեառն մերոյ: էջ 98.— Ասացեալ ի հեղինակէ գրքանս որ կոչի Աղբիւր Բացեալ, տեառն Պետրոսի, բանասիրի եւ աստուածաբանութեան վարդապետի, որ կոչիւրն ցեղիւ Աղամալեան, եւ մականուամբ պարոն Պետրոս Փերթումեան:\nԱւարտ գրքոյս: էջ 99–106, դատարկ: էջ 107.— Քաղցրաշար գեղգեղանաց աղերս, եւ ամոքալու դրուատանաց օղերձ ...: — Հմմտ. աստ թիւ 3285: էջ 119–120, դատարկ:\nՅիշատակագրութիւնք.— 1.— էջ 118, ստորոտը, անհարթ գրով.— Այս գիրքը Անապատու Սուրբ Աստուածածնի Վանից է. ով ոք հանցէ ի դրանէ՝ բանադրեալ եւ նզովեալ լիցի: 2.— Առաջին կողքին ներսի կողմը, մանիշակագոյն թանաքով, շեղագիր. Ես Պետրոս Արքեպիսկոպոս Առաջն. Սեբաստ-Եւդոկիոյ կ'ծանուցանեմ թէ՝ սոյն ձեռագիր մատեանս նուիրեցի Ս. Նշան վանուց: Ով որ գողանայ պարտաւոր մնայ Աստուծոյ ահեղ դատաստանին առջեւ.— 1905, հոկտ. 13.— Առաջն. Վանահայր, [Թերթեալ կնիք] Պետրոս Եպս. Սեբաստի:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "109.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "110.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3282-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J237",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "237",
+  "notice": "237",
+  "volume": "Jerusalem_V1",
+  "title": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": "1828",
+    "to": "1828",
+    "display": null
+  },
+  "fields": {
+    "numero": "237",
+    "no_notice": "1",
+    "titre": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+    "date_debut": "1828",
+    "date_fin": "1828",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "240",
+    "dimensions": "29 x 20 x 1",
+    "mise_en_page": "միասիւն, 31 տող։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Ճակատ. — Ածաբանութիւն վարդապետական եւ բարոյական, արարեալ տեառն Լուդովիկեայ Հաբերտի սորբոնեան Ածաբան վարդապետի փարիզեան համալսարանի։ Թարգմանեալ ի լատին լեզուէ ի հայ բարբառ, աշխատասիրութեամբ տեառն Ներսէսի Քազանճեան Բերիացւոյ ի փառս Այ. եւ յօգուտ արամեան ազին։ Յամի փրկութեան մերոյ 1828։ Հայոց ՌՄՀԷ։ Հատոր Առաջին։ — 1849, Մ. Վ. Արծրունեան։ Էջ 3. — Ճառ Յաղագս Շնորհացն Քսի. — Արդ այնպիսի կապակցութիւն ունի ընդ նախ[ը]նթացին մինչ զի պատշաճագոյն էր ընդ մի եւ նոյն մակագրաւ յաղագս մարդեղութեան եւ շնորհացն խօսիլ...։ ԾԱՆՕԹ. — Սաւալանեանի Ցուցակին համաձայն մեր այս ձեռագիրը օրինակուած է «ի խնդրոյ Մկր. վար. Արծրունեան, որ եւ զգաղափարն ստացեալ է ի վանացն Լիբանանու» (էջ 178)։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "665.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "237-refine.json",
+    "pipeline_version": "v1"
+  }
+}

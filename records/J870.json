@@ -1,0 +1,68 @@
+{
+  "id": "J870",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "870",
+  "notice": "870",
+  "volume": "Jerusalem_V3",
+  "title": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "870",
+    "no_notice": "24",
+    "titre": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "922",
+    "dimensions": "21x15x6",
+    "mise_en_page": "վերնագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 23 տող։ Նոտր շեղագիր",
+    "details_ecriture": "շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը տասնմէկ թերթ, վերջը չորս",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Բանք ոսկիականք եւ գեղեցկագոյնք, զանազան Սբ. Գրոց վարդապետութեամբն յարդարեալ եւ ճոխացուցեալ, բոլոր ժամանակս տարւոյն, շարադրեալ եւ արարեալ ի գերազանց սրբազան աստուածաբանութեան վարդապետէ, եղբայր Յակոբէ Վոռաճինոյ, կարգին քարոզողաց, յումեմնէ եպիսկոպոսէ Եանվենսիոյ երջանկապէս սկսանին։ Էջ 618.— Կիւրակէ իններորդ, բան առաջին, զկացութիւնն մեղաւորին տնտեսին նշանակեալ։ Ծանօթ.— Թւագրութեան մէջ երկու տեղ սխալ կայ. կը պակսին 44 եւ 707 թիւերը։ Էջ 909ա.— Ցանկ գրքոյս ի վերայ Աւետարանին թէ քարոզութեանց եւ թէ ըսքանչելագործութեանցն Քրիստոսին Աստուծոյ մերոյ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "389.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "870-refine.json",
+    "pipeline_version": "v1"
+  }
+}

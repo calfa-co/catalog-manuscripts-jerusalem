@@ -1,0 +1,72 @@
+{
+  "id": "J2064",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2064",
+  "notice": "2064",
+  "volume": "Jerusalem_V7",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": "1848",
+    "to": "1848",
+    "display": null
+  },
+  "fields": {
+    "numero": "2064",
+    "no_notice": "1",
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": "1848",
+    "date_fin": "1848",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "170",
+    "dimensions": "22.5 x 15.5 x 1",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 24 տող։ Նոտր շեղագիր",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւարտեայ։",
+    "etat_conservation": "լաւ",
+    "copiste": "Գրիգոր Վրդ. Խարբերթցի",
+    "possesseur": "Գրիգոր Վրդ. Խարբերթցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Ճակատ.— Տետրակ Քարոզի. արարեալ տեառն տեառն Կիրակոսի սրբազան արքեպիսկոպոսի եւ պատրիարգի Սրբոյ Աթոռոյն Երուսաղէմի։ Վերստին ի նոյն գաղափարէ յօրինեալ ի տեսչէն Սբ. Հրեշտակապետու Վանուց Խարբերթցի տէր Գրիգոր Վարդապետէ ի վայելումն անձին իւրոյ եւ յիշատակ յապագայից։ Յամի Տեառն 1848, ի Սբ. Երուսաղէմ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Գլուխ Առաջին։ Քարոզ վասն անուան քրիստոնէութեան թէ զինչ է.— Ի վերայ քրիստոնէական սուրբ հաւատոյ եւ կրօնքը ձեզի սորվեցու եւ գիտնալու պէտք եղած բաները այստեղս պիտի խօսիմք...։ Էջ 12.— Քարոզ. վասն քրիստոնէութեան գործոց եւ վարուց։ (Գլուխ Բ)։ Էջ 24.— Քարոզ. վասն քրիստոնէութեանն նշանի։ Գլուխ Գ.— Անցեալ երկու կիրակին մեր ատենաբանութեանն նիւթը այս էր...։\nէջ 153 — Քարոզ վասն Ծննդեան մարդեղութեան Բանին։ Գլուխ ԺԲ. — Ժամանակը եկաւ մերձեցաւ Քի. Այ. մարդեղութեամբ ծննդեամբ ի Սրբոյ Կուսէն Մարիամայ յաշխարհ գալոյն...։ էջ 167 — Ցանկ Գլխոց սրբոյ մատենիս։ էջ 168-170, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "150.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "151.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2064-refine.json",
+    "pipeline_version": "v1"
+  }
+}

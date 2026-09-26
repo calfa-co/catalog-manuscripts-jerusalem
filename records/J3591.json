@@ -1,0 +1,72 @@
+{
+  "id": "J3591",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3591",
+  "notice": "3591",
+  "volume": "Jerusalem_V10",
+  "title": "ԹԱՏՐԵՐԳՈՒԹԻՒՆՔ",
+  "date": {
+    "from": "1929",
+    "to": "1929",
+    "display": null
+  },
+  "fields": {
+    "numero": "3591",
+    "no_notice": null,
+    "titre": "ԹԱՏՐԵՐԳՈՒԹԻՒՆՔ",
+    "date_debut": "1929",
+    "date_fin": "1929",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ը+82+156+ 108+162+87+70",
+    "dimensions": "20x18.5x8.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 17 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապոյտ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": null,
+    "copiste": "Յ. Վ. Պարոնեան",
+    "possesseur": "Յ. Վ. Պարոնեան",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Բ, Դ, Զ–Ը, դատարկ։ Էջ Գ.— Թատր[եր]գութիւնք, ընդօրինա– կեց Նիկոպոլսեցի Յ. Վ. Պարոնեան, Առաքլ. Ուխտէն Ս. Յակոբեանց, Երուսա– ղէմ, 1929։ Էջ Ե.— Մկրտիչ Պէշիկթաշլեան, Վահէ\nՈղբերգութիւն երեք արարուած։ Էջ չունի.— Թոմաս Թէրզեան, Սանդուխտ Ողբերգութիւն հինգ Արարուած։ Էջ չունի.— Մեծն Ներսէս կամ Հայաստանի Բարերարը, Ողբերգութիւն Չորս Արարուած։ Էջ չունի.— Տիգրան Մանաւեան, Վարդան Մամիկոնեան (Հայրենիքի Նահատակը), Ողբերգութիւն Հինգ Արարուած եւ մէկ վերջաբան։ Էջ 148.— Վերջաբան։ Էջ չունի.— Մկրտիչ Պէշիկթաշլեան, Վահան Մամիկոնեան, Ողբերգութիւն երեք Արարուած։ Էջ չունի.— Տիտղոսաթերթ։ Ժամանակ եւ Խորհուրդ Իւր, Խորհրդածեց Խրիմեան Հայրիկ, ի լոյս բերաւ մտերիմ հայրենակիցն մեր Պարոն Համբարձում Աճէմեան, Կ. Պոլիս, Տպագրութիւն Ե.Մ. Տնտեսեան, 1876։ Էջ 55 – 70, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "653.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "654.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3591-refine.json",
+    "pipeline_version": "v1"
+  }
+}

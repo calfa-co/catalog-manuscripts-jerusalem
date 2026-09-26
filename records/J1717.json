@@ -1,0 +1,68 @@
+{
+  "id": "J1717",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1717",
+  "notice": "1717",
+  "volume": "Jerusalem_V6",
+  "title": "ՅԱՅՍՄԱՒՈՒՐՔ — ԺՈՂՈՎԱԾՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1717",
+    "no_notice": null,
+    "titre": "ՅԱՅՍՄԱՒՈՒՐՔ — ԺՈՂՈՎԱԾՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "840",
+    "dimensions": "10.5×7×7",
+    "mise_en_page": "խորագիրները եւ նախատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 19-29 տող",
+    "details_ecriture": "այլազան անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ ; ՈՒՂՂԱԳՐՈՒԹԻՒՆ: աղճատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "դրոշմազարդ հինցած",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-8, դատարկ։ Էջ 9.— Աւգ. ԺԱ. Սբ. Նշխարն Կարապետին.— Յորժամ լուսօրեաց Սբ. Գրիգոր զՀայս...։ Էջ 128.— Դեկտեմբերի ԺԵ, Յակոբ Մծբնայ Հայրապետ.— Սբ. Հայրապետ Յակոբ ձմեռն ի ցուրտն կենար, ամառն ի շողն ...։ Էջ 202.— Յունվարի Ա. Բարսղի Հպ. եւ Յուլիանոսի.— Այս մեծ եւ սքանչելի այրս Աստուծոյ Բարսեղ...։ Էջ 316.— Մարտի Դ. Վկայեայրաբնութիւն Մակարայ.— Յայսմ օուր յիշատակ է Սբ. Հօրն Մակարայ, որ էր յԵգիպտացի...։ Էջ 501.— Այս Հարցմանց Գրգեճ է։ Էջ 540-541ի միջեւ կտրուած 11 թերթ։ Էջ 663.— Մէկ աքինճի մի տարին Ճ քիլայ ցորեն կու վերցնէր...։ Էջ 797.— Հարցումն Բարսղի ընդ Գրիգորի։ Էջ 801.— Յաղագս կանանց...։ — Պիւթայգորոս ասէ. Ի հուր եւ ի կին անկանելն մի է, զի նոյն ախտ է զպատճառն...։ Էջ 807.— Գովասանութիւն Համօրէն Հօատացելոց։ Էջ 815.— Վասն Յանցման Սատանայի։ Էջ 828.— Յաղագս Դրախտին Հարց։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "043.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1717-refine.json",
+    "pipeline_version": "v1"
+  }
+}

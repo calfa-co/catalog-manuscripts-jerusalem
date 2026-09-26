@@ -1,0 +1,72 @@
+{
+  "id": "J3807",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3807",
+  "notice": "3807",
+  "volume": "Jerusalem_V11",
+  "title": "ՕՐԱԳՐՈՒԹԻՒՆ.— Բ.",
+  "date": {
+    "from": "1945",
+    "to": "1945",
+    "display": null
+  },
+  "fields": {
+    "numero": "3807",
+    "no_notice": null,
+    "titre": "ՕՐԱԳՐՈՒԹԻՒՆ.— Բ.",
+    "date_debut": "1945",
+    "date_fin": "1945",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "յունուար 1—31 դեկտ., Յուշատետր 1941ի, օգտա- գործուած 1945ին",
+    "dimensions": "20.5x18.5x2",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 1—28 տող",
+    "details_ecriture": "Լաթակազմ խաւաքարտեայ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "շատ լաւ ընդհանրապէս. կան կտրուած ԹԵՐԹՔ",
+    "copiste": "Կիւրեղ պտր. Իսրա- յէլեան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Տիտղոսաթերթ, տպագիր.— Palestine\nOffice Diary for 1941. One day to each page. Յունուար 1–2, կտրուած մէկ թերթ։ (1944), [1945] յունիս 1, ուր.– Ի Թէհրան, ի տան, Այցի եկան՝ Սիսակ Նազա– րէթեան, Դանէշուար, ես գացի Ռուսաց հիւպատոսարան անցագրիս համար։... Յունիս 2, շբ.– ... Երեկոյեան ներկայ եղայ ժամերգութեան. գացի Տէր– զօսի պանդոկ տեսնելու Տիար Ճանիկ Չազըր, Պ. Փափազեան, եւ Մամբրէ Սրբա– զանին, որոնք այսօր ժամանած էին Թէհ– րան։... Յունիս 8, Կիր.– Ի Թէհրան, անցագրի աշխատանք առաւօտուն։... Յունուար 27–28, կտրուած մէկ թերթ։ Յունիս 25, բշ.– Սկիզբ Ժառ. Վար– ժարանի քննութեան։ Յունիս 8 Կիր.– Վեհափառին անունը այսօր յիշատակել սկսան։ Յուլիս 26, եշ.– Տարելից լուս. պատրիարքի։ Օգոստոս 22, Դշ.– 7ին Երուսաղէմ ժամանում, Հրաշափառ Toc Hի առջեւէն, ողջոյնի խօսք ի Տաճարի եւ ի պատրիար– քարան, ի պատասխան Հ. Եղիշէի եւ Գարե– գին Սրբ.ի եւ Մամբրէի, աջահամբոյր ժո– ղովրդեան, պատուասիրութիւն։ Մայիս 18–14, կտրուած մէկ թերթ։ Մայիս 28–28 կտրուած երեք թերթ։ Սեպտեմբեր 26 Դշ.– Ժառ. Վարժ. տես– չական փոխանցում։ Դեկտեմբեր 28 Կիր.– Ս. Պատարագ. Ձեռնադրութիւն 8 սարկաւագներու, քարոզ։ Օգոստոս 25–31 դեկտեմբեր, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "254.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "255.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3807-refine.json",
+    "pipeline_version": "v1"
+  }
+}

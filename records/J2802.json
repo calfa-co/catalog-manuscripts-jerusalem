@@ -1,0 +1,68 @@
+{
+  "id": "J2802",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2802",
+  "notice": "2802",
+  "volume": "Jerusalem_V9",
+  "title": "ՆՄԱՆՈՒԹԻՒՆ ՅԻՍՈՒՍԻ ՔՐԻՍՏՈՍԻ",
+  "date": {
+    "from": "1894",
+    "to": "1894",
+    "display": null
+  },
+  "fields": {
+    "numero": "2802",
+    "no_notice": "1",
+    "titre": "ՆՄԱՆՈՒԹԻՒՆ ՅԻՍՈՒՍԻ ՔՐԻՍՏՈՍԻ",
+    "date_debut": "1894",
+    "date_fin": "1894",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "122",
+    "dimensions": "14 X 11 X 1",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 26 տող",
+    "details_ecriture": "մանըր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը մէկ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Գիրք Չորրորդ. Գլ. Ա.։ Նմանութիւն Յիսուսի Քրիստոսի։ Գիրք Չորրորդ. Ամենասուրբ Հաղորդութեան վրայ։ Թովմաս Գեմբացի։ Թարգմանեալ Հ. Թադէոս Վ. Թոռնեան, 1894։ Ջերմեռանդն հրաւէր առ Սուրբ Հաղորդութիւն։ Ձայն Քրիստոսի։ Եկէք ինծի դուքդ ամէնքդ՝ որ աշխատեալ եւ բեռնաւորեալ էք, եւ ես կ'հանգչեցնեմ զձեզ. . .։ Էջ 63. — Գլուխ ԺԸ. թէ մարդս պէտք չէ որ զՍբ. Խորհուրդն քննէ հետաքրքրութեամբ. . .։ Էջ 67. — Ցանկ եւ Ցուցակ, Գիրք Չորրորդ. Ամենասուրբ Հաղորդութեան վրայ։ Էջ 69–76. — Հատուածք Հարանց Վարքէն։ Էջ 76. — Խօսք ընդ անձին։ — Ի 1 յունվարի 1870, Յովհաննէս Ավգալ։ Էջ 78–122, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "021.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2802-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J771",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "771",
+  "notice": "771",
+  "volume": "Jerusalem_V3",
+  "title": "Բ Ժ Շ Կ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "771",
+    "no_notice": null,
+    "titre": "Բ Ժ Շ Կ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "108",
+    "dimensions": "21x16.5x1",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապոյտ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ. — Էջ 1. — Համառօտ Քաղուածու զարմանալի խորհրդոց, փորձիւ հաստատեալք յաջողակ իմն դիպուածովք, ի տրամադրութիւնս մարմնոյ։ Բաժանեալ ի չորս գիրս։ Յառաջնումն ընձեռի զբժշկական խորհրդոց։ Յերկրորդումն զխորհրդոց զանազան իրացն պատկանեցելոց։ Յերրորդումն զպէսպէս տեսակաց քիմիական խորհրդոց։ Եւ ի չորրորդումն զաստեղաբաշխական բժշկականութենէ։ Հանդերձ կիրառութեամբ իւիք առ ի պահպանել յառողջութեան։ Ի լոյս ածեալ ի Պրն. Ֆռանչիսկոսեան Դոմենիկոսէ Ավտայ։ Որ է վերակացու դեղօրէից ի յաւագ հիւանդանոցն Ս. Հոգւոյն Եկեղեցւոյ ի Հռովմ։ Յաւելմամբն ի նորոյ՝ նոյնոյ հեղինակի։ Ի Վենետիկ, ի տպարանի Բասսանի, ձեռամբ Հռիմսոնդինոյ, հրամանաւ մեծաւորաց։ Արդ երկու տետրակքս այսոքիկ ի սոյն հեղինակի յիտալիական գրոցն յաւելան ի Հայս ի մետասան պրակս պսակեալ։ Էջ 2. — Յորդորակ ի թարգմանչէ առ անձն վայելօղ՝ յերկուց կենացս ի փրկութիւն, ոտանաւոր բանիւ ընթացեալ. — Յամենայնի յոյս վախճանի...։ — Յ ա ր ո ւ թ ե ա ն է ա յ ս յ ի շ ա տ ա կ։ Էջ 33. — Նշատր բուհու։ Ծանօթ. — Էջ 33-46 հայատառ թրքերէն է, ուր կը բացատրուին կարգ մը դեղերու պատրաստութեան կերպեր։ Էջ 47. — Անուամբ Հօր եւ Որդւոյ եւ Հոգւոյն Սրբոյ. — Պարտ է նախ բժշկին երթալ առ հիւանդն եւ յամել անդ բազում ժամանակս...։ Էջ 67. — Վասն Նուզլայի Գլխոյ։ Էջ 77. — Յաղագս Գարշահոտութեան Բերանոյ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "236.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "237.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "771-refine.json",
+    "pipeline_version": "v1"
+  }
+}

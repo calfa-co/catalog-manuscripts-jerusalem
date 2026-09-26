@@ -1,0 +1,68 @@
+{
+  "id": "J2638",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2638",
+  "notice": "2638",
+  "volume": "Jerusalem_V8",
+  "title": "ԱՒԵՏԱՐԱՆ, մագաղաթ, արծաթապատ, մէկ քարով. գը-",
+  "date": {
+    "from": "1729",
+    "to": "1729",
+    "display": null
+  },
+  "fields": {
+    "numero": "2638",
+    "no_notice": "83",
+    "titre": "ԱՒԵՏԱՐԱՆ, մագաղաթ, արծաթապատ, մէկ քարով. գը-",
+    "date_debut": "1729",
+    "date_fin": "1729",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "294.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2638-refine.json",
+    "pipeline_version": "v1"
+  }
+}

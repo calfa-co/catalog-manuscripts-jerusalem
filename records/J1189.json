@@ -1,0 +1,68 @@
+{
+  "id": "J1189",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1189",
+  "notice": "1189",
+  "volume": "Jerusalem_V4",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": "1797",
+    "to": "1797",
+    "display": null
+  },
+  "fields": {
+    "numero": "1189",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": "1797",
+    "date_fin": "1797",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "120",
+    "dimensions": "19.5x14",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 18 տող",
+    "details_ecriture": "գրեթէ սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ. տեղտեղ ցեցակեր",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւական լաւ",
+    "copiste": "Կարապետ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— Էջ 1.— Սրբոյն Գրիգորի Նարեկացւոյ ասացեալ։— Հայեաց յանձն քո, զուցէ մի լինիցի բան ծածուկ ի սրտի քո անօրէն.— Գութ արարչական խնամոցն Աստուծոյ, եւ անդունդք սեռն եւ յիստակ սիրոյ նորա, եւ անմեկնելի եւ անորիշ են յարարելոցն յիւրմէ լուսաշարժ եւ բարեբուղխ ստեղծագործելոցն յառաջնոցն մինչեւ ի հուսկք յետին յարարածս...։ Էջ 59.— Ատենական բանս Գրիգորի Սրբոյ Նարեկացւոյ, ի հին ձեռագրէ օրինակեալ, ձեռամբ ուրումն Գրիգորի, 1788։ Եւ օրինակեցի ես անպիտանս Կարապետ ի մերոյ վարժապետի ձեռագրէ, 1797։ Էջ 60–62, դատարկ։ Բ.— Էջ 63.— Արդարութիւն յորդորական գլխոյն, Աղարիոսի Սարկաւաքի սրբոյ և մեծի եկեղեցւոյն Աստուծոյ.— Առ աստուածային եւ բարեպաշտ թագաւորն մեր ի Յուստինիանոս։ Քան զամ. պատիւ զերագոյն ունելով արժանապատուութիւն ով թագաւոր, պատուես զԱծ. ի վեր քան զամ. որ արժանի արարեալ է զքեզ այնըմ...։ Ծանօթ.— «Նոր թարգմանութեամբ։ Են իմաստուն բանք խրատուց ուղղեալ առ թագաւորն։ Գրեալ ի նոյն թուականի» (Տ. Սաւալանեան, Ցուցակ, էջ 637)։ Էջ 103.— Կատարած յորդորական արտագրութեանցն Աղանիոզոսի սարկաւարգի, որ առ Յուստինիանոս կայսրն։ Ի թուականիս ՌՄԼԶ [= 1787], նոյ իգ։ Էջ 104, դատարկ։ Գ.— Էջ 105.— Առ տէր Գրիգոր այրն Աստուծոյ, եպիսկոպոսն Անաւարզոյ, գրեցաւ նամակս հոգալոյ, առ ի յՕշնէ տեառն Կանչոյ.— Պարծանք իմ ի Քրիստոս, յուսոյ տեղի հոգոյս նուաստ...։ Դ.— էջ 109.— Տեառն Ներսեսի Կաթողիկոսի առ եղբօրորդին իւր Ապիրատն ի Կոստանդնուպօլիս.— Արեգական լուսոյ ծագման, սէր քո առ իս համանրման...։ Էջ 113–120, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "318.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1189-refine.json",
+    "pipeline_version": "v1"
+  }
+}

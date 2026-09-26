@@ -1,0 +1,68 @@
+{
+  "id": "J2514",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2514",
+  "notice": "2514",
+  "volume": "Jerusalem_V8",
+  "title": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+  "date": {
+    "from": "1735",
+    "to": "1735",
+    "display": null
+  },
+  "fields": {
+    "numero": "2514",
+    "no_notice": "79",
+    "titre": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+    "date_debut": "1735",
+    "date_fin": "1735",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "90",
+    "dimensions": "15x11x1.5",
+    "mise_en_page": "խորագիրները և գլխագիրները կարմիր, մնացեալը սև մելանով, միասիւն, 14 տող, սև գիծերու միջև",
+    "details_ecriture": "մեծ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "ճերմակ թանձր",
+    "nb_lignes": null,
+    "reliure": "թղթեայ։ Սկիզբը դատարկ թուղթ մէկ թերթ",
+    "etat_conservation": "բաւարար . լուսանցքները ցեցակեր",
+    "copiste": "Կիրակոս",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Կիւրեղ Վրդ. Ջուղայեցի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 . — Աղօթք . — Որ զգեցեալ ես զլոյս . . . ։ Էջ 62 . — Յոհաննու Ոսկեբերանի ասացեալ, Աղօթք . — Գոհանամ և մեծացուցանեմ . . . ։ Էջ 75 . — Ասէ Քահանայն . — Օրհնեալք եղերուք . . . ։ Էջ 76 . — . . . եւ ասէ զԱղօթս առ Սբ . Հոգին տնօրինիչ գործոց . — Ամենակալ, բարերար . . . ։ Էջ 82 . — Դարձեալ կրկնեցից . . . ։ — Աղաչեմք և աղերսեմք . . . ։\nՅիշատակարան Գրչի . — 1735 Էջ 87 . — Շնորհիւ Տեառն և ողորմութեամբ նորին, Կիրակոս նուաստ ծառայ Յի . Քի . գրեցի այս Խորհրդատետրակս ի ՌՃՁԴ թուականիս, յուլիսի ամսոյ քըսանին, ի Սբ . Քաղաքս Երուսաղէմ, ընդ հովանեաւ Սրբոյն Յակոբայ։ Դարձեալ աղաչեմ զձեզ, ով հոգևոր հարք իմ, որք հանդիպիք ի տեսութիւն գրոյս ընթերցմամբ, յիշեսջիք ի սրբամատոյց յաղօթս ձեր զԿիրակոս մեղօք լցեալս, և թողութիւն խնդրեցէք մեղաց իմոց, ի բարերար Տեառնէն մերմէ Յէ . Քէ . ։ Եւ նա որ մեծն է ողորմութեամբ ի միւսանգամ գալստեանն իւրոյ ողորմեսցի ձեզ յիշողացդ, և մեզ յիշեցելոցս ողորմեսցի, ըստ մեծի ողորմութեանն իւրում, Ամէն։\nՅիշատակ է փոքրտիպ Խորհրդատետրս Ջուղայեցի ծերունի Կիւրեղ Վարդապետին, ի դուռն Սբ . Աստուածածնի շնորհաբաշխ գերեզմանին, և մի՛ ոք յիշխեսցէ տանել աստի։ Եւ դուք ընթերցօղքդ Ած . ողորմի ասացէք իւրն և ծնողաց նորա և համայն զարմիցն, ամէն։ Էջ 90, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "209.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2514-refine.json",
+    "pipeline_version": "v1"
+  }
+}

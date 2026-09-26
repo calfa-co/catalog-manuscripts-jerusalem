@@ -1,0 +1,72 @@
+{
+  "id": "J2119",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2119",
+  "notice": "2119",
+  "volume": "Jerusalem_V7",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+  "date": {
+    "from": "1808",
+    "to": "1808",
+    "display": null
+  },
+  "fields": {
+    "numero": "2119",
+    "no_notice": "19",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+    "date_debut": "1808",
+    "date_fin": "1808",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "240",
+    "dimensions": "19X15X2.5",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 22 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ, ոսկեզօծ երէզներով",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Յակոբ Աբղ. Մահլիւճեցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1-2, դատարկ : էջ 3 — Ճակատ . Գիրք Աղբիւր Բացեալ, որ է Մեկնութիւն Առակաց Սբ . Աւետարանին : — Զոր արարեալ է Բերթումեան Պետրոս յաստուածաբան վարդապետէ Նախիջեւանցւոյ : Եւ նորոգ օրինակեալ յընտիր գաղափարէ Անդրիանուպօլսեցի Պօղոս վարդապետի աշակերտ Յակոբ իբր յաբեղայէ Մահլիւնցւոյ, ի Միաբանութենէ գերագահ Աթոռոյն Սբ . Երուսաղէմի ամենայն Հայոց : Ի թիւ շնորհաց 1808, յունվար 1 . ի Զմիւռնիա :\nէջ 4, դատարկ : էջ 5 — Յաղագս առաջիկայ սուրբ աւետարանական առակացս՝ բան առ բարեմիտ ընթերցողսդ : էջ 18 — Յաղագս տեսականորեալ հաւատոյ : էջ 207 — Յաղագս Արքայութեանն Աստուծոյ : Գլուխ երեսուն եւ երեք :\nՅիշատակարան Գրչի — 1808 էջ 220 — Փառք եւ անճառելի միոյ եւ անքննելի Երրորդութեանն, Հօր եւ Որդւոյ եւ Հոգւոյն Սրբոյ, որպէս էրն ի սկզբաննէ, նոյնպէս եւ է միշտ եւյտ, որ ըստ իւրոյ անբաւ կարողութեանն նպաստ եւ ձեռնտու եղեւ ինձ անկարիս, որ ի կատարն հասեալ աւարտեցի զհոգելից մատեանս զայս, որ կոչի Մեկնութիւն Առակաց Սրբոյ Աւետարանի : Վասնորոյ խնդրի ի բարեսէր ընթերցողացդ յիշման արժանի առնել զանիմաստ գրիչս անուամբ եւեթ Մահլիւցի Յակոբ Աբեղայս, որ մեծաւ տաժանմամբ հազիւ կարացի աւարտել զայս Մեկնութիւնս աստուածային գրոց : Նաեւ զհոգեւոր հայրս Անդրիանուպօլսեցի մեծիմաստ Պօղոս լիաշնորհ վարդապետս իմ : Եւ յիշողքդ յիշեալ լիջիք ի Տեառնէ մերմէ Յիսուսէ Քրիստոսէ, Ամէն : էջ 221-240, դատարկ :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "204.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "205.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2119-refine.json",
+    "pipeline_version": "v1"
+  }
+}

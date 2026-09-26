@@ -1,0 +1,68 @@
+{
+  "id": "J3655",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3655",
+  "notice": "3655",
+  "volume": "Jerusalem_V11",
+  "title": "ՔԱՐՈԶԳԻՐՔ (Թերի)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3655",
+    "no_notice": null,
+    "titre": "ՔԱՐՈԶԳԻՐՔ (Թերի)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "186",
+    "dimensions": "18.5x14x1.5",
+    "mise_en_page": "խորագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն. 27 տող",
+    "details_ecriture": "չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "չունի",
+    "etat_conservation": "անբաւարար. վնասուած հնութենէ եւ որդերէ. սկիզբը եւ վերջը թերի. կարօտ նորոգութեան",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 8.— Գրիգորի եռամեծի աշակերտի, Քարոզ վասն Ծննդեան Տեառն ի բանն՝ Առաքեաց զբան իւր եւ բժշկեաց զնոսա եւ փր[կ]եաց զնոսա յապականութենէ իւ.։— [Մ]եծ են գործք քո աստուածային եւ հրաշալիք...։ Էջ 18.— Նորին Քարոզ վասն Ծննդեան ի բանն՝ Տէր ասաց ցիս որդի իմ ես դու։ Էջ 28.— Յայլմէ՝ Մկրտութեան, ի բանն՝ Ի քէն է Տէր աղբիւր կենաց...։ Էջ 38.—[Ն]որին դարձեալ վասն Տեառնընդառաջին...։ Էջ 50.— Նորին Քարոզ վասն Յովաննու ...։ Էջ 56.— Խրատ կրօնաւորաց թէ զինչ հարկաւոր է եւ զինչ պիտանացու։ Էջ 65.— Նորին Քարոզ Պահոց եւ Առաջաւորին...։ Էջ 71.— Նորին Քարոզ վասն Չորեքշաբաթի...։ Էջ 76.— Նորին Քարոզ Մարտիրոսաց Սրբոյն Սարգսի...։ Էջ 86.— Նորին Քարոզ վասն կրկին աստիճանաց, որք Վարդապետք եւ Հայրապետք։ ԺԲ.— Էջ 90.— Նորին վասն ոգեվարին ...։ ԺԳ.— Էջ 97.— Քարոզ վասն մահուան ...։ ԺԴ.— Էջ 104.— Նորին Քարոզ վասն Բ. աւուրն, ի բանն, Ընդ երեկոյս հանգիցեն լալիք։ ԺԵ.— Էջ 108.— Նորին վասն Մխիթարութեան...։ ԺԶ.— Էջ 118.— Նորին, Հինգերորդ Կիրակէին Քարոզ, վասն մահու եւ կատարածի աշխարհի...։ ԺԷ.— Էջ 121.— Յայլմէ Քարոզ, վասն բարի եւ չար հովւաց...։ ԺԸ.— Էջ 138.— Յայլմէ Քարոզ երիքովի, ի դէմս քահանայից եւ ժողովրդոց...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "095.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3655-refine.json",
+    "pipeline_version": "v1"
+  }
+}

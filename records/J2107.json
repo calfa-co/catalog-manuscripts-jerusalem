@@ -1,0 +1,72 @@
+{
+  "id": "J2107",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2107",
+  "notice": "2107",
+  "volume": "Jerusalem_V7",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Ւ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2107",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Ւ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "152",
+    "dimensions": "20x15x1",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն",
+    "details_ecriture": "ոչ միատեսակ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, ոչ միակերպ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ի Մկրտութիւն Քրիստոսի։ Էջ 12.— Ի Մկրտութիւն Տեառն։\nէջ 16 — Ի Ծնունդ Տեառն : էջ 65 — Յաղագս Մանանային : էջ 81 — Յաղագս Չորեքդրամեան : էջ 82, դատարկ : էջ 83 — Յաղագս Աւագ Ուրբաթու : էջ 86-88, դատարկ : էջ 89 — Յաղագս Մեծի Աւագ Ուրբաթու : էջ 98 — Յաղագս Ծաղկազարդի Աւուր : էջ 111 — Յաղագս պատկերացուցութեան. — Ոչ է պարտ զանց առնել զիմաստս փիլիսոփայից . . : էջ 120 — Յաղագս բարուց. — Աղուան եւ փայլակուան բարուք են երկչոտք . . . : էջ 126 — Յաղագս ժամու տունջեան եւ գիշերոյ. — Ժամացուցին թէ ուստի գտաւ . . : էջ 131 — Յաղագս շարժման աշխարհի եւ հողմման : էջ 142-152, դատարկ :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "192.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "193.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2107-refine.json",
+    "pipeline_version": "v1"
+  }
+}

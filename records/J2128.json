@@ -1,0 +1,68 @@
+{
+  "id": "J2128",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2128",
+  "notice": "2128",
+  "volume": "Jerusalem_V7",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԵՍԱՅԵԱՅ",
+  "date": {
+    "from": "1692",
+    "to": "1692",
+    "display": null
+  },
+  "fields": {
+    "numero": "2128",
+    "no_notice": "9",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԵՍԱՅԵԱՅ",
+    "date_debut": "1692",
+    "date_fin": "1692",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "648",
+    "dimensions": "29 X 14 X 4",
+    "mise_en_page": "խորագիրները, սկզբնատողերը, եւ յաճախ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 25 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": "Ա—Զ",
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ, դրոշմազարդ",
+    "etat_conservation": "բաւարար. լուսանցքները մասամբ ցեցահար. կան վնասուած եւ կարկատուած ԹԵՐԹՔ",
+    "copiste": null,
+    "possesseur": "Իսահակ րաբունի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Լուսանցքի վրայ յաճախակի նշանակուած են, Կրղ., Եփր., Յոհ.։ Էջ 309. — Երկրորդ հատոր համառօտիս. Տեսիլ Չորքոտանեաց Անապատին կամ Հաբաւոյ։ Էջ 638-648, համարեա դատարկ։ Մանր յիշատակագրութիւն Գրչի. — Էջ 308, ներքեւը. — Յիշեսջիք ի բարին, զյիշման արժանին, զԻսահակ րաբունին, զըստացող սորին, ի վայելս անձին, եւ ապագային. Հայոցս թուականին, Ռ [= հազար] հարիւրին, քառասուն եւ մէկին, եղեւ գիծ սորին, Տիգրանակերտին, Յամիթ քաղաքին, ձեռամբ փանաքի, ումեմն յիմարի, յունիսի ութի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "գլխազարդ իւր սարօք, էջ 309 ; ԽՈՐԱՆԱԶԱՐԴ: իւր սարօք, էջ 5",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4, դատարկ, պատռուած։ Էջ 5. — Համառօտ ժողովումն Մեկնութեան Սբ. Մարգարէին Եսայեայ, ի լուսաւոր Մեկնչացն, Տեառն Եփրեմի Խուրին Ասորւոյ, Յովհաննու Ոսկեբերանի, Կիւրղի Աղեքսանդրացւոյ։ Հրամանաւ Տեառն Հեթմոյ, արարեալ լուսաւոր վարդապետին Գէորգեա։ Օգնեա Ած. Հոգիդ Սուրբ. — Ծածուկ միշտ եւ անյայտք են բանք օրինացն եւ մարգարէից...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "213.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2128-refine.json",
+    "pipeline_version": "v1"
+  }
+}

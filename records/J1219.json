@@ -1,0 +1,72 @@
+{
+  "id": "J1219",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1219",
+  "notice": "1219",
+  "volume": "Jerusalem_V4",
+  "title": "Ծանօթ. — Այս թիւը կրող ձեռագիրը",
+  "date": {
+    "from": "1906",
+    "to": "1906",
+    "display": null
+  },
+  "fields": {
+    "numero": "1219",
+    "no_notice": null,
+    "titre": "Ծանօթ. — Այս թիւը կրող ձեռագիրը",
+    "date_debut": "1906",
+    "date_fin": "1906",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— Հարցմունք եւ պատասխանիք մեկնողականք ի Սբ. Գրոց, յորում եւ յղ. տեսլեանց զոր ետես Յովհ. Գառնեցի, եւ յղ. ձայնից եւ նուագաց եւ նոցին հեղինակաց։ Բ.— Թղ. Պիղատոսի առ Տիբեր։ Գ.— Հարցմունք դշխոյին եւ պատաս. Սողոմոնի...։ Դ.— «Թղ. սրբոյ վարդ. Վարդանայ, գրեալ հրամանաւ կաթ. Կոստանդեայ, առ թգրն. Հայոց Հեթում, պատասխանիք ընդդէմ Հռոմայեցւոց կարճառօտ.— Սբ. թագաւոր, զայս մարդիքս, զոր մեզ ուղարկել էիք»։ Ռամկական բանիւք գրեալ։ Եւ համարի եթէ այս էր առաջակ օրինակն առ Հեթում եւ ոչ միւսն որ ի գրոց լեզու...։ Թ.— Դարձեալ պիտանի եւ քաղցրահամ բանք սրբոյն Վարդանայ Հայոց վարդապետի ասացեալ...։ Ի վերջ ճառիս գոյ յիշատակարան գրչութեանս. «Եւ արդ ըսկըսայ եւ կատարեցի զգիր քարոզութեան Վարդանայ վարդ. թվ. ՌԾԶ (1607), ի ամիսն նոյ. ժ, ի վայելումն մեղապարտ անձին իմոյ Սիմոն Դպրի, ի քաղաքն Լով, ի դուռն Սբ. Աստուածածնի։ Այսմ ամի մեծ բարունի եւ արհի եպս.ն Ըռդաց աշխարհին հանգեաւ ի Քս., տէր Կարապետն»...։ ԺԶ.— Բանք յղ. աղօթից եւ պահոց. այլազգ գրչութեամբ նօտրեալ ի թվ. ՌԺԳ (1564), ձեռամբ Վարդանայ ծերոյ...։ ԻԳ.— Յովհ. Պլուզ Վարդ. Խրատք.— Արար Ած. զմարդն հոգի։— Աստ գտանի թվ. գրչութեանս ի ԺԷ գլխէ սկսեալ, որ է ՌԾԵ (1606)։...\nԽԵ.— Այլ առակք յայլմէ արարեալ։ Մինչեւ ցաստ նօտրագիր են։ ԽԶ.— Աղաբիա կաթ. Մեկնութիւն Քերականութեան Յովհաննու Ծործորեցւոյ։ Յիշէ սա զմեկնիչս Քերականին որք են Եսայի Վարդ.։ Գր. Մագիստրոս։ Վարդան Վարդ.։ Պլուզ Վարդ. եւ Յովհ. Ծործորեցի։ Գրեալ է բոլորագիծ ի վերայ բամբակաթղթոյ առանց թուականի, զի պակասեն թերթք ի վերջ կուսէ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "384.JPG"
+    },
+    {
+      "volume": "Jerusalem_V4",
+      "file": "385.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1219-refine.json",
+    "pipeline_version": "v1"
+  }
+}

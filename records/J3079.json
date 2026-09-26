@@ -1,0 +1,68 @@
+{
+  "id": "J3079",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3079",
+  "notice": "3079",
+  "volume": "Jerusalem_V9",
+  "title": "ԲՆԱԿԱՆ ՊԱՏՄՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3079",
+    "no_notice": "1",
+    "titre": "ԲՆԱԿԱՆ ՊԱՏՄՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "270",
+    "dimensions": "20 X 14.5 X 1",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 18 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը մէկ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Բնական պատմութիւնը կը սորվեցնէ մեզ բնութեան մէջ գտնուած մարմնոց էութիւնը, եւ անոնց թէ արտաքին եւ թէ ներքին կազմութիւնը կը նկարագրէ։ Էջ 3.— Մարդ։ Էջ 13.— Բ։ Տեսակի Յաջորդութիւն։ Էջ 28.— Մարդկան Ցեղեր։ Էջ 38.— Մասն Ա.— Կենդանաբանութիւն։ Էջ 173.— Դաս Բ.— Թռչուններ։ Էջ 235.— Կարգ Բ.— Ցամաքի Թռչուններ։ Էջ 248.— Կարգ Գ.— Ջրի Թռչուններ։ Էջ 261.— Ցեղ Բ.— Լողացող Թռչուններ։ Էջ 268.— 8.— Բադեր։ Էջ 269–270, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "315.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3079-refine.json",
+    "pipeline_version": "v1"
+  }
+}

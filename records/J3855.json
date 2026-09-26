@@ -1,0 +1,72 @@
+{
+  "id": "J3855",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3855",
+  "notice": "3855",
+  "volume": "Jerusalem_V11",
+  "title": "ԵԿԵՂԵՑԱԿԱՆ ԵՐԳԵՑՈՂՈՒԹԻՒՆՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3855",
+    "no_notice": null,
+    "titre": "ԵԿԵՂԵՑԱԿԱՆ ԵՐԳԵՑՈՂՈՒԹԻՒՆՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԴ +886",
+    "dimensions": "19.5x14x1.5",
+    "mise_en_page": "սեւ, կանաչ եւ կարմիր մելաններով, միասին, 18 տող, կամ նուագ, կարմիր գիծերու միջեւ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Մարկոս Կ. Մաթեան, Մագնիսացի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Դ, դատարկ։ Նոյնպէս էջ Զ-ԺԴ։ Էջ Ե.— Մագնիսացի Մարկոս Կ. Մաթեան, աշկ. ժառ. Վարժ. յԵրուսաղէմ։ Էջ 1.— Գորգին ի ծունկս անկեալ համբուրէ զՍուրբ պատանատեղին Քրիստոսի եւ ելեալ առնու զգաւազանն եւ գնան թափորականքն դասադաս ի Սուրբ Գերեզման զոյգ զոյգ՝ ասելով զքաղցրանուագ շարականն.— Հրաշափառ Աստուած...։ Էջ 8.— Ի հասանելն թափորապետի ի մէջ սեանց՝ ասի շարական, ԱԿ, Առաքեցար ի Հօրէ...։ Էջ 20.— Ուրախ լեր սուրբ եկեղեցի...։ Էջ 23.— Իսկ յիններորդ ժամու գիշերի հարկանի կոչնակն ի Ս. Յակովբ, դարձեալ գնան ի Ս. Յարութիւն։ Ճաշուն առաջի դրան Սբ. Գերեզմանին։ Ի սենեակ տեսչին զգեստաւորի ժամարարն...։ Էջ 25-40, դատարկ։ Էջ 41.- Կանոն Գիւտ Խաչի։ Էջ 50.- ԱՁ, ծանր.- Հրաշակերտ եւ զօրեղ...։ Էջ 79.- ԱԿ.- Նըշանաւ...։ Էջ 91.- ԲՁ.- Պարգեւատուն...։ Էջ 107.- Եւ գան ի դուռն Սբ. Գերեզմանին ասելով.- ԴՁ.- Ահագին ձայնիւդ քո Քրիստոս...։ Էջ 111.- ԲԿ.- Խաչի քո Քրիստոս...։ Էջ 120-136, դատարկ։ Էջ 137.- Կանոն Ութօրէից։ Գիշերային ժամերգութիւն ի Սուրբ Յակոբ...։ Էջ 139.- ԴՁ.- Լոյս ի լուսոյ...։ Էջ 150.- Ճաշու Ութօրէից։ Էջ 157.- Հարց նորին, ԱՁ վերնախաղ .- Տընօրինեցաւ...։ Էջ 173-176, դատարկ։ Էջ 177.- ԱՁ.- Որ ի լերինն այլակերպեալ...։ Էջ 195-196, դատարկ։ Էջ 197.- Որ պատուիրան...։ Էջ 228.- Ընդ լուսափայլ զըւարթնոյն...։ Էջ 235.- Որ ըզխորհուրդ...։ Էջ 265.- Կանոն Ծաղկազարդի Կիւրակէին՝ գալստեան Տեառն յԵրուսաղէմ.- Որ վերօրհնիս...։ Էջ 271-376, դատարկ։ Էջ 377.- Ցանկ։ Էջ 379-386, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "317.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "318.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3855-refine.json",
+    "pipeline_version": "v1"
+  }
+}

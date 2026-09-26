@@ -1,0 +1,68 @@
+{
+  "id": "J2895",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2895",
+  "notice": "2895",
+  "volume": "Jerusalem_V9",
+  "title": "ՔԱՐՈԶԳԻՐՔ. — Ա. ՀԱՏՈՐ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2895",
+    "no_notice": null,
+    "titre": "ՔԱՐՈԶԳԻՐՔ. — Ա. ՀԱՏՈՐ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "24 X 18 X 1.5: Էջք Դ + 286: Հանգամանք լաւ ընդհանուր առմամբ: Թուղթ հասարակ: Գրիչ եւ Ստացող՝ Հեղինակը: ԳՐՈՒԹԻՒՆ մանիշակագոյն թանաքով, միասիւն, 22–33 տող, սեւ գիծերու միջեւ: Շեղագիր: Համառօտագրութիւնք առատ: Կազմ կիսակաշի խաւաքարտեայ հինցած: Սկիզբի կողքին վրայ կը կարդացուի. «Գիրք Քարոզից. Սափրիչեանիս տուած քարոզներն են. Հատոր 1»",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա, դատարկ: Էջ Բ, շարունակութիւնն է Դրդ էջին: Էջ Գ.— (Քարոզ 26): Վարագայ Սբ. Խաչ .— Խաչին երեւումն Հայաստանի զաւակաց հաւատոյ ու սուրբ կրօնից ամրապնդութիւն տուաւ...: Էջ 1.— Քարոզ 1: Բնաբան «Եւ ո՞ հանդարտեսցէ յայտնութեան նորա».— Ո՞ւր է այսօր մարգարէն Մաղաքիա, թող ձայնէ, թող իմացնէ մեզի...: Էջ 14, դատարկ: Էջ 15.— Քարոզ 2: Հոգեգալստեան օրն, Հոգւոյն Սրբոյ Ներգործութիւնն: Էջ 146.— Քարոզ 21: Ծնունդ ու Մկրտութիւն Քրիստոսի: Էջ 281.— Քարոզ 47, յաւուր Կաթողիկէ Եկեղեցւոյ: Էջ 283.— Ցանկ գլխոց Քարոզից. 1–47 Քարոզներ: Էջ 286, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "116.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2895-refine.json",
+    "pipeline_version": "v1"
+  }
+}

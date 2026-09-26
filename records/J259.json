@@ -1,0 +1,68 @@
+{
+  "id": "J259",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "259",
+  "notice": "259",
+  "volume": "Jerusalem_V2",
+  "title": "Ա.— ՄԵԿՆ. ԹՂԹՈՅՆ ՀՌՈՎՄԱՅԵՑԻՈՑ",
+  "date": {
+    "from": "1790",
+    "to": "1790",
+    "display": null
+  },
+  "fields": {
+    "numero": "259",
+    "no_notice": "2",
+    "titre": "Ա.— ՄԵԿՆ. ԹՂԹՈՅՆ ՀՌՈՎՄԱՅԵՑԻՈՑ",
+    "date_debut": "1790",
+    "date_fin": "1790",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "724",
+    "dimensions": "28x21x6",
+    "mise_en_page": "գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 47 տող։ Նօտրադիր վարժ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կրկնատեսակ",
+    "nb_lignes": null,
+    "reliure": "փայտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "նօտար Մանուկ Դպիր",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": "Գրիչը, եւ Ստացողը՝ Պետրոս եպս. Ածատրեանց ; ՅԻՇԱՏԱԿԱԳՐՈՒԹԻՒՆՔ: Էջ 298բ.— ՌՄԼԹ օգս. 20։ Մեծի Կոստանդնուպօլսոյ Տն. Զաքարիայ ազգասէր եւ բարեկարգ Պատրիարքին յետին ձեռնասուն աշակերտ եւ վէքիլ՝ Կեսարացի ի Վանք գիւղէն եւ յԱծատրեանց զարմէն Խանճի Պուտախին որդի Պետրոս եւեթ եպսս. ստացայ զայս գիրք ի վայելումն ինձ, եւ զկնի իմոյ վախճանի՝ վայելող ընթերձասէր եղբարցդ, եւ խնդրեմ աղերսանօք, միով Հայր մերիւ յիշեսջիք սիրով զիս եւ զամ. հոգեւոր եւ մարմնաւոր մերայինս, որ եւ յիշօղքդ լերուք յիշեալք յԱյ. աստ եւ ի հանդերձեալն, Ամէն։ Գրի յիշատակարանս ՌՄԽԶ յԱպ. Թ. ի Մեծն Պօլիս, եւ ի Պատրիարքարանս Հայոց։",
+    "informations_diverses": "«Ք. Ծ. Պետրոս Վարդապետ», փակագրեալ, թկ. «1232», էջ 1, 298, 299, 720 ; Էջ 720բ.— Գծագրեցաւ ընդ հովանեաւ Սբ. Ածածնայ եկեղեցւոյն ի Կոստանդնուպօլիս, ձեռամբ մեղսաներկ նօտար Մանուկ Դպրի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Յառաջաբանութիւն Հեղինակին։ Էջ 299.— Մեկն. Ա. ընթերցուածոյն առ Կորնթացիս։ Էջ 525բ.— Մեկնութիւն երկրորդ ընթերցուածոյն առ Կորնթացիս։ Էջ 638բ.— Մեկնութիւն առ Գաղատացիս ընթերցուածոյն.— Գաղատացիք հեթանոսք էին, որք ի Ֆռանցիոյ ի Յունաստան չուեցին...։ Էջ 721-724.— Դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "065.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "259-refine.json",
+    "pipeline_version": "v1"
+  }
+}

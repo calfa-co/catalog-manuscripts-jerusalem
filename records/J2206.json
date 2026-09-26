@@ -1,0 +1,72 @@
+{
+  "id": "J2206",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2206",
+  "notice": "2206",
+  "volume": "Jerusalem_V7",
+  "title": "ՀԱՐՑՄԱՆՑ ԳԻՐՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2206",
+    "no_notice": "14",
+    "titre": "ՀԱՐՑՄԱՆՑ ԳԻՐՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "928",
+    "dimensions": "21 X 14.5 X 6.5",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 32 տող",
+    "details_ecriture": "փոքր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "ճերմակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ, դրոշմազարդ, ներսի կողմը գունաւոր կտաւ՝ ուշադրաւ գծագրութեամբ",
+    "etat_conservation": "լաւ. լուսանցքի ցեցահարութիւն թեթեւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը եւ վերջը երկուական թերթ, ընտիր երկաթագիր, սրճագոյն թանաքով, ; մասն Յովհաննու Աւետարանին, գունաւոր մեծ զարդագիր մը եւ բոլորակաձեւ լուսանցազարդի մը մնացորդներով",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Յառաջաբան գրոցս ։ Էջ 5ա.— Ցանկն Առաջին Հատորի Հարցմանց ։ Էջ 72, դատարկ, ըստ երեւոյթին գաղափարը թերի եղած է ։ Էջ 86բ.— Երկրորդ հատորն հերձմուեքըն է Արիանոսաց. Ի գլուխ ։ Էջ 223ա.— Յաղագս արարչութեան Աստուծոյ եւ վեցաւրէից ։ Էջ 305բ.— Հինգերորդ Հատոր Հարցմանցս, վասն կազմութեան մարդոյն ։ Էջ 561բ.— Ութերորդ հատոր Յաղագս մարդեղութեան Փրկչին ։ Էջ 783ա.— Ժ Հատոր Հարցմանց ։ Էջ 901բ.— Հարցմունք Գէորգեա վարդապետի, եւ լուծմունք Գրիգորի.— Գիր քոյոյ վսեմամիտ խոհեմութեան... ...Եւ այսպէս տրտմեալ ոգով եւ թաղծեալ մտաւք ընծայեցի սխեղծ մատամբ զխունախոյ[զ] նուէրս բանի, իբր զլումայս այրւոյն, քումդ գանձարանի, եւ մաղթեմ եղբայրական սիրով, զի ըստ բնածին բարեբոյս բարուցդ՝ աշխոյժ մտօք ուղղապէս որոնել, զթերին լընուլ եւ զաւելորդն կշռել, հաճանելեացն Տեառն շնորհք, եւ սխալանաց տկարս անօթոյ, միայն բարէսէր կամօք յիշատակ բարի առ քոյդ արձանագրեսցի ի Տէր ողջ լեր ։\nՅիշատակագրութիւն.— 1697 Էջ 920ա, նոտրագիր տարբեր.— Հարցմանցս, որ էր Յոհաննէս առաջնորդին, եւ եդ յիշատակ Սբ. Յակոբայ եւ ինքն հանգեաւ ՌՃԽԶին ։ Էջ 920բ-928, դատարկ, թէեւ գծուած ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "318.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "319.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2206-refine.json",
+    "pipeline_version": "v1"
+  }
+}

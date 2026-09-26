@@ -1,0 +1,72 @@
+{
+  "id": "J3612",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3612",
+  "notice": "3612",
+  "volume": "Jerusalem_V11",
+  "title": "ԿԱՆՈՆ ՊՂԾԵԱԼ ՏԱՃԱՐԻ",
+  "date": {
+    "from": "1868",
+    "to": "1868",
+    "display": null
+  },
+  "fields": {
+    "numero": "3612",
+    "no_notice": null,
+    "titre": "ԿԱՆՈՆ ՊՂԾԵԱԼ ՏԱՃԱՐԻ",
+    "date_debut": "1868",
+    "date_fin": "1868",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "21x14.5: Էջք 40: Հանգամանք լաւ: Թուղթ հասարակ: Գրիչ՝ Սարգիս Սրկ. Գէորգեան, Պրուսացի: Գրութիւն սեւորակ մելանով, միասիւն, 19 տող: Նոտր շեղագիր: Լաթակազմ խաւաքարտեայ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Կանոն Պղծեալ Տաճարի՝ ի յանօրինաց։ Գիշերն հսկումն առնեն ի յայն եկեղեցին, եւ ի ժամ Շաշուն ասեն զայս Սաղմոս.— Աստուած մտին հեթանոսք ի ժառանգութիւն քո, պղծեցին զՏաճար Սուրբ Քո...։ Էջ 10.— Եւ ապա սարկաւագն քարոզէ այսպէս...։ — Եւ քահանայն ասէ զԱղօթս զայս.— Որ ընդունօղ ես աղօթից ժողովրդեան քում...։ Յիշատակագրութիւն.— 1868 Էջ 85, վարը.— Վերստին ընդ օրինակեալ Սրբոյ Առաքելական Աթոռոյս Սրբոց Յակովբեանց միաբան նուաստ Պրուսացի տիրացու Սարգիս Աւագ Սարկաւագէ Գէորգեան։ Յամի Տեառն Փրկչին մերոյ Յիսուսի, 1868, Մարտ 1։ Էջ 86–40, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "050.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "051.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3612-refine.json",
+    "pipeline_version": "v1"
+  }
+}

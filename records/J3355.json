@@ -1,0 +1,68 @@
+{
+  "id": "J3355",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3355",
+  "notice": "3355",
+  "volume": "Jerusalem_V10",
+  "title": "Ս Ա Ղ Մ Ո Ս",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3355",
+    "no_notice": "74",
+    "titre": "Ս Ա Ղ Մ Ո Ս",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "468",
+    "dimensions": "18X13.5X6",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 17 տող",
+    "details_ecriture": "վարժ։ Կարմրաներկ զարդագիր եւ լուսանցազարդ գուբղաներու սկիզբը, Կանոնները հանդերձ գլխազարդով",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բամպակեայ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ մաշած",
+    "etat_conservation": "անբաւարար. վնասուած հնութենէ. շատ ԹԵՐԹՔ փրթած. սկիզբը թերի. նորոգութիւն կրած. դարձեալ կարօտ նորոգութեան",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Գ.— Տէր զի բազում եղեն...։ Էջ 43.— ԺԸ.— Ի կատարած Սաղմոս Դաւթի.— Երկինք պատմեն զփառս Աստուծոյ...։ Էջ 72-73ի միջեւ ինկած մեկ թերթ։ Էջ 95.— ԼԶ.— Սաղմոս ի Դաւիթ.— Մի՛ նախանձիր ընդ չարս...։ Էջ 160.— ԾԵ.— Ի կատարած Սաղմոս ի Դաւ[ի]թ վասն ժողովրդեանն...։ Էջ 215.— Ի կատարած Սաղմոս յԱսափ.— Իբրեւ զի բարի է...։ Էջ 279.— ՁԹ.— Տէր ապաւէն եղեր մեր ...։ Էջ 333.— ՃԶ.— Ալելուիա.— Խոստովան եղերուք Տեառն զի քաղցր է...։ Էջ 391.— ՃԺԹ.— Երգ Աստիճանաց.— Ի նեղութեան իմում ես առ Տէր կարդացի...։ Էջ 426-427ի միջեւ թերթ ինկած։ Էջ 443.— Աւրհնութիւն Երից Մանկանցն։ Էջ 448-449ի միջեւ թերթ ինկած։ Էջ 456.— Փոքր էի ես յեղբարս իմ...։ Էջ 457.— Աղաւթք Մանասէի Թագաւորի. — Տէր ամենակալ...։ Էջ 462-463.— Խազմզուքով ծածկուած։ Էջ 464, անհարթ գրչութիւն.— Ած. անեղ...։ Էջ 468.— Յետ կամաւոր մահու խաչի...։\nՊիտակ հասարակ թուղթէ, փակցուած վերջին կողքին. «Թիւ 31, Սաղմոս»։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "234.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3355-refine.json",
+    "pipeline_version": "v1"
+  }
+}

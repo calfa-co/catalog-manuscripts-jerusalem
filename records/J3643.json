@@ -1,0 +1,68 @@
+{
+  "id": "J3643",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3643",
+  "notice": "3643",
+  "volume": "Jerusalem_V11",
+  "title": "ԺՈՂՈՎԱԾՈՅ (ԱՐԱԲԵՐԷՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3643",
+    "no_notice": null,
+    "titre": "ԺՈՂՈՎԱԾՈՅ (ԱՐԱԲԵՐԷՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "786",
+    "dimensions": "29x16x6",
+    "mise_en_page": "սեւ եւ կարմիր մելաններով, մէջտեղը կանաչագիծ շրջանակի մէջ 29 տող. երեք արտաքին լուսանցքներն ալ լիուլի գրուած՝ կարմրագիծ շրջանակներու մէջ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բարակ եւ փափուկ",
+    "nb_lignes": null,
+    "reliure": "թղթեայ, հնամաշ եւ վարի աջակողմեան անկիւնը փտած փճացած։ Առաջին կողքին ներսը, սեւորակ մելանով. \"Էսկի Հիքայէթ վէ Պէյթ\"",
+    "etat_conservation": "ողբալի, չարաչար վնասուած հնութենէ, խոնաւութենէ, որդերէ նաեւ գործածութենէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "080.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3643-refine.json",
+    "pipeline_version": "v1"
+  }
+}

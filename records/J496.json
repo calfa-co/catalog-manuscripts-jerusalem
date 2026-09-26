@@ -1,0 +1,68 @@
+{
+  "id": "J496",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "496",
+  "notice": "496",
+  "volume": "Jerusalem_V2",
+  "title": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ (Գ. ՄԱՍ, Ա. ՀԱՏՈՐ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "496",
+    "no_notice": null,
+    "titre": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ (Գ. ՄԱՍ, Ա. ՀԱՏՈՐ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "573",
+    "dimensions": "23 X 18 X 4",
+    "mise_en_page": "ամբողջովին սեւ մելանով, երկսիւն, 32 տող",
+    "details_ecriture": "նոտրակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ լաւորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": "երբեմն թռչնագիր, յաճախ խոշոր երկաթագիր։ Կան նաեւ սեւ գոյնով լուսանցազարդեր կարգ մը գլուխներու վերջը",
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Կարապետ Գանձակեցի, Պտր. Եէմի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, ճակատ, երկաթագիր.— Առաջին Հատոր Երրորդի Մասին լիակատարի Ածաբանութեան սրբոյն Թօմայի Ագուինացւոյ հրեշտակայնոյ վարդապետի ի կարգէ քարոզողաց։ Էջ 3, Գլխազարդի մը ներքեւ.— Առաջին Հատոր Երրորդի Մասին. Առաջաբանութիւն.— Քանզի Փրկիչն մեր Տէր Յս. Քս. վկայութեամբ հրեշտակի, զժողովուրդ իւր փրկեալ ի մեղաց նոցին, զճանապարհ ճշմարտութեան եցոյց մեզ նիւրում ինքեան...։ Էջ 4.— Խնդիր Առաջին.— Յաղագս յարմարութեան Ուրմարմնութեան ի վեց մասունս բաժանեալ։ Էջ 239.— Խնդիր Քսանեւեօթներորդ։ Յաղագս սրբացուցման Երանուհւոյ Կուսին Մարիամու ի վեց պրակս բաժանեալ։ Էջ 548.— Խնդիր ԾԹ.— Յաղագս դատողականի իշխանութեանն Քս.ի, ի վեց պրակս բաժանեալ։ Էջ 557.— Պրակ Զ.— Արդեօք դատողական իշխանութիւնն Քի. տարածիցէ զինքն առ Հրեշտակս։ Էջ 561.— Ցանկ Խնդրոց եւ Պրակաց Երրորդի Մասին Առաջնոյ Հատորի։\nՅիշատակագրութիւն.— Թկ. 1768 Էջ 573, նոտրագիր, տարբեր գրչէ.— «Զստացող զրոյս, զՍրբոյ Աթոռոյս Եէմի Պատրիարգ Գանձակեցի Կարապետ Վարդապետն յիշեցէք ի Տէր, որ եդ զգիրքս յիշատակ ի գրքատունն Սրբոց Յակոբեանց. եւ ըստ իւրոյ կտակին չունի ոք իշխանութիւն հանելոյ զսա ի Սրբոյ Աթոռոյս. ի թուին ՌՄԺԷ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "507.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "496-refine.json",
+    "pipeline_version": "v1"
+  }
+}

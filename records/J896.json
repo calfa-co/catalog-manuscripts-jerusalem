@@ -1,0 +1,72 @@
+{
+  "id": "J896",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "896",
+  "notice": "896",
+  "volume": "Jerusalem_V3",
+  "title": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "896",
+    "no_notice": "13",
+    "titre": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "722",
+    "dimensions": "21x16x5.5",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 31-33 տող։ Նոտր շեղագիր",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ հնամաշ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": "Աբրահամ վարդապետ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ, երկու տեսակ, խաչաձեւ, եւ բոլորշի, փակագիր «Աբրահամ վարդապետ», էջ 5 եւ 708",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1, միասիւն.— Ի հանդիսարանս խօսից ատենի բանի մաղթանաց Սրբոյն Գրիգորի Նարեկացւոյ ասացեալ...։ էջ 3.— Սա կոչի օշինտր։— Արսինզիոսն է խոտ իմն դառնագոյն...։ էջ 4, դատարկ։ էջ 5.— Ճակատ Անտառ Նորագոյն Մտածմանց, հիմնեալ ի հեղինակութեան Սբ. Գրոց, ի սուրբ հարց, եւ ի յայլոց ծայրագոյն վարդապետացն սրբոյ եկեղեցւոյ։ Յարմարեցուցանելի ամենից լուր աւուրցն քառասնորդաց կիւրակէից տարոյն եւ հասարակ տօնիցն։ Ի գերյարգելի տեառն Աղէքսանդր Գալամաթօյ կոչեցելոյ մեսինացւոյ ի փատուայ։ Թարգմանեցեալ ի տալիականէ լեզուէ հայկական բարբառ ի Ղուկասու վարդապետէ\nԽարբերթացւոյ, յամի Տեառն 1741։ Ըստ խնդրոյ արհի եւ պանծալի եպիսկոպոսին տեառն Յովհաննու պատրիարքին Կոստանդնուպօլսոյ հանգուցելոյն առ Յիսուս։ Կոստանդինուպօլիս քաղաքին։\nԷջ 6, դատարկ։ Էջ 7.— Սէրն Աստուծոյ դէպ առ մարդն։ Յաղագս մեծի սիրոյն զոր Տէր Աստուած միշտ ունեցաւ առ մարդն.— Ամենակարողն Ած. ի յաւիտենից սահմանեալ առ ի ստեղծել զմարդն...։ Էջ 274–278, դատարկ ձգուած։ Նոյնպէս՝ էջ 389 եւ 709։ Էջ 710.— Յանգ Սէր Այ.։ Իօ 717–722, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "431.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "432.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "896-refine.json",
+    "pipeline_version": "v1"
+  }
+}

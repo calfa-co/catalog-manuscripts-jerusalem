@@ -1,0 +1,72 @@
+{
+  "id": "J2252",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2252",
+  "notice": "2252",
+  "volume": "Jerusalem_V7",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ԲԱՆՔ ՔԱՐՈԶԻՑ)",
+  "date": {
+    "from": "1856",
+    "to": "1856",
+    "display": null
+  },
+  "fields": {
+    "numero": "2252",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ԲԱՆՔ ՔԱՐՈԶԻՑ)",
+    "date_debut": "1856",
+    "date_fin": "1856",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "30x20x1.5: Էջք Բ+40+140: Հանգամանք բաւարար: Թուղթ հասարակ: Գրութիւն ամբողջովին սեւորակ մելանով գըրեթէ, միասիւն, 24 տող: Շեղագիր: Համառօտագրութիւնք սովորականէն աւելի: Կազմ կիսակաշի, թղթեայ, չարաչար որդնակեր",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա, դատարկ: Էջ Բ — Ընթերցասէր սիրելի եղբարք իմ ի Քս.: Եթէ շահիցէք ինչ ի սոյն տետրակէս, խնդրեմ յիշել ի մաքուր մաղթանս ձեր ըզչարագրող տետրակիս բանս քարոզից, որ եմ յետին ծառայ, եւ միաբան Սրբոյ Երուսաղէմի Աթոռոյս, Տիգրանակերտցի Յակոբ Վրդ. Դաւիթ Եպիսկոպոսեանն, 1856, յԵրուսաղէմ ի Սբ. Աթոռս Սրբոց Յակոբեանց : Ներքեւ . Յիշատակ եղիցի Սրբոյ Աթոռոյս մտերիմ միաբան սուրբ եղբարց իմոց : — Սրբոյ Երուսաղէմի Աթոռոյ դպրապանեալ Յակոբ Եպս. վերոյիշեալն, 1866, փետր. 20, յԵրուսաղէմ :\nԷջ 1 — Հարց զփոխմանէ Ենովքայ : Էջ 2 — Պատասխան զվարուց եւ զվերացմանէ եւ զկացութենէ Ենովքայ նահապետին : Էջ 6 — Հարց զայլակերպութենէ Քըրիստոսի : Էջ 8 — Պատասխան զՔրիստոսի Տեառն մերոյ զայլակերպութենէ եւ զհանգամանաց նորա : Էջ 25-40, դատարկ :\nԷջ 1 — Իջցէ եղբօրորդին իմ ի պարտէզ իւր, եւ կերիցէ զպտուղս ծառոց իւրոց . Երգ . 5, 1 : Էջ 6 — Վասն Խոստովանութեան : Էջ 12 — Քարոզ վասն խոստովանութեան մեղաց . . . : Էջ 77 — Կամի՞ս ողջ լինիլ . Յօհ . 5, 6 : Էջ 92 — Երբ ցոյց զանձն քո քահանային : Էջ 115 — Աներկբայ յուսով ապաւինիլ յԱծ . : Էջ 122 — Քարոզ յԱւագ Հինգշաբթի Աւուր, վասն Հաղորդութեան : Էջ 132 — Քարոզ խոստովանութեան : Էջ 139-140, դատարկ :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "387.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "388.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2252-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2251",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2251",
+  "notice": "2251",
+  "volume": "Jerusalem_V7",
+  "title": "ՏՈՄԱՐԱԿԱՆ ԱՂԻՒՍԱԿՆԵՐ (Դ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2251",
+    "no_notice": "1",
+    "titre": "ՏՈՄԱՐԱԿԱՆ ԱՂԻՒՍԱԿՆԵՐ (Դ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "31 x 21 : Էջք 20 : Հանգամանք լաւ : Թուղթ հասարակ : Գրութիւն՝ գոյնզգոյն մելաններով . բառեր՝ բոլորգիր և նոտրագիր , թուանշաններ արաբական եւ եւրոպական : Կաշեկազմ խաւաքարտեայ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 , դատարկ : Էջ 2 . — Ճէտվէլի թատիլի , այսինքն աղիւսակ նահանջիցն արեգական : Աղիւսակ արեգական վասաթի , այսինքնըն միջական ընթացք իւրաքանչիւր ժամուց եւ րոպէից եւ մնացորդ մանրամասանցն , որք զկնի շար ի շար , բայց հակ գումարմամբ : Էջ 3 . — Ճէտվէլի թատիլ : Էջ 4 , վերի լուսանցքին . — Ճէտվէլի թաքվիմի շէմս սենէ (1) : Էջ 6 . — Ճէտվէլի թաքվիմի շէմս սենէ (2) : Էջ 8 . — Ճէտվէլի թաքվիմի շէմս սենէ (3) : Էջ 10 . — Ճէտվէլի թաքվիմի շէմս սենէ (4) : Էջ 12 . — Հինգ բոլորակներ . — Եօթներեակներ : Էջ 13 . — Ինն եւ ժերեակ : Էջ 14—19 . — Գոյնզգոյն աղիւսակներ : Էջ 20 , դատարկ :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "387.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2251-refine.json",
+    "pipeline_version": "v1"
+  }
+}

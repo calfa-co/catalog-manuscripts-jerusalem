@@ -1,0 +1,68 @@
+{
+  "id": "J3806",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3806",
+  "notice": "3806",
+  "volume": "Jerusalem_V11",
+  "title": "ՕՐԱԳՐՈՒԹԻՒՆ.— Ա.",
+  "date": {
+    "from": "1944",
+    "to": "1945",
+    "display": null
+  },
+  "fields": {
+    "numero": "3806",
+    "no_notice": null,
+    "titre": "ՕՐԱԳՐՈՒԹԻՒՆ.— Ա.",
+    "date_debut": "1944",
+    "date_fin": "1945",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "յունուար 1—31 դեկտ., յուշատետր 1941ի, օգտագործուած 1944, յուլիս 26—31 մայիս 1945",
+    "dimensions": "20.5x18.5x2",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 4—28 տող",
+    "details_ecriture": "Լաթակազմ խաւաքարտեայ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": "Կիւրեղ Ծ. Վրդ. Իսրայէլեան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Տիտղոսաթերթ, տպագիր.— Palestine Office Diary for 1941. Յունուար 1—4, կտրուած երկու թերթ։ 1944, յուլիս 26, Դշ.— Ամեն. Ս. պատրիարքը տագնապի մէջ էր ամբողջ գիշեր. Տքթ. Գալպիեան կանչուեցաւ...։ Այսօր ժամը 3ին Տնօրէն ժողով գումարելով որոշեցինք վաղը իսկ Տեղապահ ընտրել. հրաւիրագիրը ղրկուեցաւ։ Յուլիս 30, Կիր.—... Գերեզմանատունէն յետոյ եկանք պատրիարքարան եւ ցաւակցութիւն յայտնեցին...։ Յուլիս 31, Բշ.— 5 սարկաւագ եւ 2 ուրարակիր մեկնած են վարժարանէն առաւօտ կանուխ։ Օգոստոս 1, Գշ.— Լուսանկարիչ մը բերաւ յուղարկաւորութեան լուսանկարներէն։ Օգոստոս 2, Դշ.— Բարձր Քօմիսէրի վաւերացումը եկաւ։ Հոկտեմբեր 20, Ուր.— Միաբ. Ընդ. Ժողով, պատր. ընտրութիւն։ [1945] յունուար 1, Բշ.— Նոր Տարիի շնորհաւորականք։ Մարտ 8 Եշ.— Գեր. Եփրեմ Արքեպ. Տոհմունի իր ընկերոջ հետ եկաւ. հրաշափառով ընդունուեցաւ։ Մարտ 9 ուր.— Ժամանում Կիլիկիոյ կաթ.։ Մարտ 19 բշ.— Տօքթ. Գալպիեան այցելեց կաթ.ին, քննեց, թեթեւ հազը կը շարունակուի, բայց աւելի լաւ գտաւ ընդհանուր առմամբ։ Կաթ. զբաղեցաւ Ձեռագրերով...։ Մայիս 31 Եշ.— Ռուսաց պատրիարքի ժամանում։ 1941 նոյմ. 18—30, դատարկ։ Դեկտ. 1—2 կտրուած մէկ թերթ։ Դեկտ. 3—4, դատարկ։ Դեկտ. 5—12 կտրուած չորս թերթ։ Դեկտ. 18—28, դատարկ։ Դեկտ. 29—30 Զանազան մանրուք։ Յաջորդ թերթը կտրուած։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "254.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3806-refine.json",
+    "pipeline_version": "v1"
+  }
+}

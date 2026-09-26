@@ -1,0 +1,68 @@
+{
+  "id": "J3582Դ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3582Դ",
+  "notice": "3582Դ",
+  "volume": "Jerusalem_V10",
+  "title": "ԶՕՐԱՎԱՐ ԱՆԴՐԱՆԻԿ",
+  "date": {
+    "from": "1928",
+    "to": "1928",
+    "display": null
+  },
+  "fields": {
+    "numero": "3582Դ",
+    "no_notice": "Դ",
+    "titre": "ԶՕՐԱՎԱՐ ԱՆԴՐԱՆԻԿ",
+    "date_debut": "1928",
+    "date_fin": "1928",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԲ+492",
+    "dimensions": "20x12.5x3.5",
+    "mise_en_page": "եւայլն, ըստ նախորդին",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "եւայլն, ըստ նախորդին",
+    "etat_conservation": "եւայլն, ըստ նախորդին",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Բ, Դ, Զ–Է, ԺԲ, դատարկ։ Էջ Գ.— Դ. Հատոր։ Էջ Ե.— Զօր. Անդրանիկ, Հաւա– քեց Շ. Գարահիսարցի Յ. Վրդ. Պարոնեան, Առաքել, Ուխտէն Ս. Յակոբեանց, Երուսա– ղէմ, 1928։ Էջ Ը.— Փակցուած սեւատիպ նկար Զօր. Անդրանիկի, ներքեւը կայ. Առաջին՝ կռուի մէջ, Առաջին՝ յաղթանակի մէջ, Առաջին՝ իր ժողովրդի սրտին մէջ։ Էջ 1.— Զօր. Անդրանիկի փառահեղ սգահանդէսը Նիւ Եորքի մէջ։ Էջ 188, սխալմամբ չէ նշանակուած։ Էջ 226էն յետոյ սխալմամբ դրուած է 230։ Էջ 383–421.— Զօր. Անդրանիկ կը պատմէ։ Շապին Գարահիսարի եւ Կ. Պոլսի կեանքս — Ռումանիա անցնիլս եւ դէպի երկիր մուտքս խումբին հետ։ Էջ 427.— Դարձեալ փայլեց Սասնոյ գլխին...։ Էջ 469.— Զօր. Անդրանիկի գործերը։ 1.— Մարտական հրահանգներ։ 2.— Զօր. Անդրանիկ կը խօսի։ 3.— Հաշուետուութիւն (պատկերա– զարդ)։ 4.— Պատուոյ Գիրքը։ 5.— Առանձին Հարուածող Զօրամասը, գրի առաւ Ե. Քաջունի։ 6.— Առաքելոց Վանքի Կռիւը, Պատմեց Զօր. Անդրանիկ, գրի առաւ Լեւոն Կ. Լիւլէճեան։ 7.— Զօր. Անդրանիկի Կովկասեան ճակատի պատմական օրագրութիւնը, 1914– 1915։ 8.— Պշարը Խէլիլի Սպանութիւնը (անտիպ), պատմեց՝ Զօր. Անդրանիկ, գրի առաւ Լեւոն Կ. Լիւլէճեան։ 9.— Զօր. Անդրանիկ կը պատմէ (կեն– սագրութիւն եւ գործեր, անտիպ)։ Գրի առաւ՝ Լեւոն Կ. Լիւլէճեան։ 10.— Զանգեզուրեան նամականի (ան– տիպ) դասաւորեց Զօրավարին օգնութեամբ՝ Լեւոն Կ. Լիւլէճեան։ Էջ 475–487, դատարկ։ Էջ 488.— Ցանկ.— 59 Գլուխ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "642.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3582Դ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J2962",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2962",
+  "notice": "2962",
+  "volume": "Jerusalem_V9",
+  "title": "Ե Ր Գ Ա Ր Ա Ն — Տ Ա Ղ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2962",
+    "no_notice": null,
+    "titre": "Ե Ր Գ Ա Ր Ա Ն — Տ Ա Ղ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "50",
+    "dimensions": "14X11",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 30 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": "մանր կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սակաւ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը երկու թերթ, վերջը մէկ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Տալւորիկցի Կտրիճը։ Քայլերգ\n.— Տալւորիկցի կտրիճ եմ խորթ...։ Էջ 4.— Ֆըրֆըռքար.— Քաջ տալւորցու ապաստան, նեղ օրերու եւ կռուի...։ Էջ 6.— Սասուն. Ֆըրֆըռարի ստորոտէն. 1892։ Ծանօթութիւնք։ 1.— Ֆըֆըռքար. անմատչելի ապառաժուտ կողերով սարատափ մէ...։ Էջ 7.— Պերքցւոց քաջութիւնը.— Ամարան շոգ օր մըն էր...։ Էջ 12.— Սասուն. 1892. Ծանօթութիւնք։ Էջ 15.— Հայոց միացեալ ընկերութեանց քայքայման առթիւ։ Էջ 16.— Զուխ կէտուկի կռիւը։— 1889, Կ. Պոլիս։ Էջ 18.— Նահատակ Սմբատին մօր ողբը։ Էջ 19.— Պանդուխտ Մշեցին։ Էջ 20.— Վարդենիսի կընիկ։ Էջ 21.— Կիւլիզար. Ողբ առեւանգած աղջկայ մօր։ Էջ 25.— Պատմական Ծանօթութիւն.— Կիւլիզարի առեւանգման պատմութիւնը քիչ շատ ծանօթ է ամէնուն...։ Էջ 26.— Արձագանգ.— Պատգամախօս ես դու մեզի համար քարէ. Հա, մարգարէ...։ — Մուշ, 1892։ — Առ Հընչակ.— Հեռաւոր երկիր...։— Սասուն, 1892։ Էջ 27.— Բանտարկեալ Յեղափոխական։— Մուշ, 1891։ Էջ 29.— Ախ... Հայեր.— Սասուն, 1891։ Էջ 31.— Կարմիր կարմիր։— Մուշ, 1892։ Էջ 33.— Առ խմբակն, ի Քարէմսուր։— 1892, Քարէմսուր (Մշոյ դաշտ)։ Էջ 38-48.— Տաղեր, Աւետեաց, Ծննդեան, Աստուածածնի, Ջրօրհնեաց, Տեառնընդառաջին, Խաչի, Յովհաննու Մկրտչին, Յարութեան, Վարդավառին, եւայլն։ Էջ 49.— Ցանկ երգարանիս։— Երկրորդ Ցանկ եկեղեցական երգոց։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "174.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "175.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2962-refine.json",
+    "pipeline_version": "v1"
+  }
+}

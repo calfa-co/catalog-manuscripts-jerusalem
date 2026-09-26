@@ -1,0 +1,68 @@
+{
+  "id": "J655",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "655",
+  "notice": "655",
+  "volume": "Jerusalem_V3",
+  "title": "ՍԱՆԴՈՒԽՔ ԵՐԱՆՈՒԹԵԱՆՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "655",
+    "no_notice": "1",
+    "titre": "ՍԱՆԴՈՒԽՔ ԵՐԱՆՈՒԹԵԱՆՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "126",
+    "dimensions": "22x17.5x1;",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 17–19 տող",
+    "details_ecriture": "յստակ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— Սանդուղք Երկնաճեմ Քրիստոսաձիր Երանութեանց։ Յօրինեցաւ ի վայելումն մաքրամիտ մանկանց բարեպաշտաբար Աղդիս լրութեան, յամի Տեառն 1864, յունվ. 10, ի Մայր Ս. Աթոռն Էջմիածին։ էջ 1.— Յառաջաբանութիւն.— Նախերգանք գրքուկիս ջանամիտի յիշեցուցանել առաքինասէր փափագողաց աւետարանական ամենացանկալի երանութեանց ըզհրաշալի սանդղոցն խորհրդաւոր տեսութիւնն, զոր երանելի նահապետն Յակոբ...։ էջ 9.— Բան Ա.— Աստանօր արժան իսկ է մեզ...։ էջ 108.— Բան Թ.— Զերկնաձիր եւ բազմադիմի լիութիւնս...։ էջ 119.— Վերջաբան.— Ի վերջոյ հոգեկեցոյց տեսութեան իննեակ երանութեան աւետարանական անժխտելի բանից երկնաւոր Վարդապետին մերոյ...։ էջ 122–6, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "100.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "655-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2801",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2801",
+  "notice": "2801",
+  "volume": "Jerusalem_V9",
+  "title": "Բ Ժ Շ Կ Ա Ր Ա Ն (ՀԱՄԱՌՕՏ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2801",
+    "no_notice": null,
+    "titre": "Բ Ժ Շ Կ Ա Ր Ա Ն (ՀԱՄԱՌՕՏ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "32",
+    "dimensions": "14 X 10.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 26 տող։ Նոտր շեղագիր մանր",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "թանձր թուղթ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Մարդու մէջքն որ ցաւում է, եւ ցաւըն շատ տարէն լինի, ալիւրին թեփն տաք ջըրով շաղախէ, տաք տաք կապէ մէջքի վրայ, Գ օր այսպէս արա, լաւանայ Աստուծով։ Էջ 3.— Դեղ մայասուլի։ Էջ 4.— Դեղ աչաց փէրտէյի։ Էջ 11.— Վասն ջերման, որ փորձած է։ Էջ 17.— Փերփերն հով է եւ չոր, օգտէ տաք բնութեան եւ ստամոքսին։ Էջ 19.— Զէնճեֆիլն տաք է եւ չոր Բ տարանայ, քամին յանձնէն վարէ, ամ. հով ցաւոց օգտէ։ Էջ 20.— Վասն մրգաց։ — Խընձորն հով է եւ չոր Ա տարաճայ. օգտէ սաֆրային, լաւըն ստամոքսն ուժովցնէ, սիրտն խնդացըրնէ, եւ լերդին օգուտ է։ — Քաղցր նուռն տաք է եւ գէճ, կրծոցն տաքութիւն եւ կակղութիւն տայ, ըղեղն զօրացընէ, օգտէ լերդին, փորն կապէ, եւ ծարաւն կտրէ, ըղեղն կակղացնէ եւ զօրացնէ, եւ սիրտն կարողացընէ։ Էջ 21.— Թըթու նուռն հով է եւ չոր. սաֆրայն եւ զբոցն ի սրտէն հանէ, լերդին եւ ստամոքսին օգտէ, հազին շատ վնաս է։ Էջ 30.— Մեծ մաճուն, որ է մաճուն մուրտ. մաճունս այս օգտէ լերդին...։ Էջ 32, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "021.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2801-refine.json",
+    "pipeline_version": "v1"
+  }
+}

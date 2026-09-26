@@ -1,0 +1,68 @@
+{
+  "id": "J1990",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1990",
+  "notice": "1990",
+  "volume": "Jerusalem_V6",
+  "title": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1990",
+    "no_notice": "30",
+    "titre": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "52",
+    "dimensions": "28x19x1",
+    "mise_en_page": "խրատները եւ սկզբնատառերը կարմիր , մնացեալը սեւ մելանով , միասիւն , 19 տող",
+    "details_ecriture": "մեծ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "անարուեստ",
+    "etat_conservation": "անբաւարար . լուսանցքները ցեցակեր . նորոգութիւն կրած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2 , դատարկ ։ Էջ 3 . — Որ զգեցեալ ես զլոյս . . . ։ Էջ 44 . — Գոհանամ եւ մեծացուցանեմ . . . ։ Էջ 49 . — Որ օրհնես զայնոսիկ . . . ։ Էջ 51—52 , դատարկ ի բաց առեալ հետեւեալ երկու տողերը ։ Յիշատակագրութիւն . — 1697 Էջ 51 , նոտրագիր . — Յիշատակ է Բալուցի տէր Թումային , թուին ՌՃԽԶին [ապա տարբեր գրով] ի վայելումն տէր Մըրտչիչին ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "600.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1990-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J143",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "143",
+  "notice": "143",
+  "volume": "Jerusalem_V1",
+  "title": "ՀԱՄԱՐՈՂՈՒԹԻՒՆ (ԱՐԻՖՄԱԹԻԿԱՅ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "143",
+    "no_notice": "1",
+    "titre": "ՀԱՄԱՐՈՂՈՒԹԻՒՆ (ԱՐԻՖՄԱԹԻԿԱՅ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "160",
+    "dimensions": "31x21x2",
+    "mise_en_page": "խորագիրները կարմիր, մնացեալը սեւ մելանով։ Միասիւն, 30-35 տող",
+    "details_ecriture": "հասարակ։ Զափազանց համառօտագրեալ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակով",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "ՄԱՍՆ ԱՌԱՋԻՆ Էջ 1.— Սկիզբ.— Հրց.— Զի՞նչ է համարողութիւն։ Պտխնի.— Համարողութիւն է արհեստ պատուական աննախանձ, եւ յամենից դիւր ուսանելի, բազմաց շահաւէտ, եւ յոյժ գովելի, ի հնոց եւ ի նորոց իմաստասիրաց, համարողական արհեստաւորաց եւ ի վաղուց գտեալ, եւ հաւաքեալ, եւ բարեգոյնս յայտնեալ։— Հմմտ. Հանդէս Ամսօրեայ, 1953, էջ 604։\nՄԱՍՆ ԵՐԿՐՈՐԴ Էջ 46.— Յաղագս կոտորեալ թուոց կամ մասնացելոց։\nՄԱՍՆ ԵՐՐՈՐԴ Էջ 74.— Յաղագս կանոնաց այսինքն կարգադրութեան երրորդեկի, հինգերորդեկի եւ եօթներորդեկի խմբից ողջ թուոց եւ կոտորելոց։\nՄԱՍՆ ՉՈՐՐՈՐԴ Էջ 111.— Սկիզբ.— Առ ընթերձողդ սիրելագոյն.— Արդ արարաք վերջ չորրորդ մասնս համարողութեան զորքան կարն էր մեր եւ բացայայտեալ ցուցաք...։ Էջ 159.— Վախճան չորրորդ մասին։ Էջ 160.— Ով բարեմիտ ընթերցող, Զանուն հեղինակիս, Եթէ գտցես ի գրքիս, Նշանագրեա ի թղթիս, Տալ նմին զողորմիս։\nԾԱՆՕԹ.— Այս ձեռագրի մասին հետեւեալ տողերը կը կարդանք Տ. Հ. Թ. Սաւալանեանցի անտիպ ցուցակին մէջ.— «Թուաբանութիւն հարուստ, եւ երեւի թարգմանութիւն յօտար լեզուէ ի բարբառ գրոց անհարթ ոճով, եւ թէպէտ չիք անուն թարգմանչի կամ հեղինակի, այլ համարի լինել կամ հնդկաստանցի եւ կամ պարսիկ ոք հայ» (էջ 104-5)։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "426.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "143-refine.json",
+    "pipeline_version": "v1"
+  }
+}

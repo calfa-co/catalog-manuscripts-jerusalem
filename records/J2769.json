@@ -1,0 +1,68 @@
+{
+  "id": "J2769",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2769",
+  "notice": "2769",
+  "volume": "Jerusalem_V8",
+  "title": "ՀԱՒԱՔԱԾՈՅՔ ԳԱՂՏՆԵԱՑ ԱՐՀԵՍՏԱՒՈՐԱՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2769",
+    "no_notice": "1",
+    "titre": "ՀԱՒԱՔԱԾՈՅՔ ԳԱՂՏՆԵԱՑ ԱՐՀԵՍՏԱՒՈՐԱՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "532",
+    "dimensions": "21x12.5x4",
+    "mise_en_page": "խորագիրները կանաչ, մնացեալը մանիշակագոյն թանաքով, միասիւն, 20 տող",
+    "details_ecriture": "մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական գրեթէ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4, դատարկ։ Էջ 5. — Հաւաքածոյք Գաղտնեաց արհեստաւորաց և զուարճութեան համար աշխատողաց։ Ի Պ. Ճիօյաէ։ 1. — Կանեփը իբրև կտաւ գործելու կերպ եւ մէթօտ, յերես 9. — Լաւ մոխրով մոխրաջուր մը շինելով մէջը սակաւ ինչ չմարած կիր աւելցուր։ 2. — Թելերը, կտաւին՝ և մետաքսի հիւսուածքը խոնաւութենէ պահելու։ 9. — Քաուչուն կամ կոմէլաստիկը կպրի (կուտռօն) իւղի մէջ լուծէ...։ Էջ 6. — 3. — Կտաւները անթափանցիկ ընելու նոր մէթոց. — Ասոր համար կը գործածուի Պ. Սիրօ Մէնօթթի հնարած սապօնը ...։ Էջ 79. — 101. — Փայտը ի մանուշակ ներկել։ Էջ 87. — Թանաք շինելու մէթոտներ։ Էջ 111. — Առաջին աստիճանի սեաւ թանաք շինել։ Էջ 138. — Վեռնիճներ շինելու գաղտնիք։ 179. — Վեռնիճ ոսկւոյ (Վեռնի տօռ)։ Էջ 213. — Գաղտնիք փորագրչաց։ Էջ 276. — Երկաթի և պօղովատի վրայ տարածուելի մոմ։ Էջ 311. — 401. — Արբեցութիւնն անհետացնելու շատ դիւրին կերպ. — Արբեցած մարդուն օղիի փոքրիկ գաւաթով մը զօրաւոր քացախ տուր և ահա արբեցութիւնն իսկոյն կ'անհետանայ իբրև հրաշալիք։ Էջ 440. — Մասն Հինգերորդ։ Բժշկականութեան վերաբերեալ զանազան դեղորայք։ 544. — Դեղորայք շատ պարզ զանազան հիւանդութեանց համար։ Էջ 464. — Լուծողական։ Էջ 482. — 563. — Ոչխարաց համար լուծողական դեղ։ Վերջ գրքոյս։ Էջ 483-484, դատարկ։ Էջ 485. — Ցանկ նիւթոց։ Ա-Ֆ։ Էջ 525. — Ցանկ առաւել ընտրելեաց հաւաքեալ նախընթաց ցանկէն։ Ա-Ֆ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "412.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2769-refine.json",
+    "pipeline_version": "v1"
+  }
+}

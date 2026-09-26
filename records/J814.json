@@ -1,0 +1,72 @@
+{
+  "id": "J814",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "814",
+  "notice": "814",
+  "volume": "Jerusalem_V3",
+  "title": "ՄԵԿՆ. ՅԱՅՏՆՈՒԹԵԱՆՆ ՅՈՎՀԱՆՆՈՒ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "814",
+    "no_notice": "5",
+    "titre": "ՄԵԿՆ. ՅԱՅՏՆՈՒԹԵԱՆՆ ՅՈՎՀԱՆՆՈՒ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "168",
+    "dimensions": "21x15x15",
+    "mise_en_page": "խորագիրները եւ սկզբնատողերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 26 տող",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ անարուեստ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք՝ սկիզբը հինգ թերթ, վերջը երեք, արտաքոյ իջահամարի",
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ, փակագիր. ; «է, Քի. Ծռ. Յակոբ Վարդապետ Պալաթցի» ; ԾԱՆՕԹ: Յ. Վրդ. Պալաթցի վախճանած է 1739 թուին (Ցուցակ, Ե. Հատոր, 1960, էջ 158)",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1–2, դատարկ։ էջ 3ա.— Ի տիեզերական ժողովոյն կամ, որ եղեւ յաստուածապահ քաղաքն կոստանդինուպօլիս, Յայտնութիւնս Յովհաննու ընկալեալ եղեւ։ Այլ եւ սորին քըննութիւն, որ եղեւ յեպիսկոպոսացն կեսարու...։— Հմմտ. Ձեռ. թ. 425։ էջ 163ա.— Յիշատակ տառիս գտողիս Տն. Ներսիսի գերահռչակ վարդապետի, զոր գտեալ ի մեծն Անտիոք, եւ գրեաց զսա ի լուսաւորութիւն Հայոց.— Ես Ներսէս նուաստս ի Քրիստոս...։ էջ 165–8, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "306.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "307.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "814-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J3054",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3054",
+  "notice": "3054",
+  "volume": "Jerusalem_V9",
+  "title": "ԺԱՄԱՆԱԿԱԳՐՈՒԹԻՒՆ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3054",
+    "no_notice": "11",
+    "titre": "ԺԱՄԱՆԱԿԱԳՐՈՒԹԻՒՆ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "25-328",
+    "dimensions": "15X11X3",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 19 տող",
+    "details_ecriture": "նոտրակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ հնամաշ, առաջին կողքը կը պակսի",
+    "etat_conservation": "ընդհանուր առմամբ լաւ, բայց կը պակսի առաջին պրակը",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 25.— ...եւ տապալեցան ամ. Ճռծք. հրաշ նորանշան զօդդ բերէր զպատիժն Ադամայ, եւ եռայր գետինն յանդընդոց ջուր սեաւ, եւ բերէր խեցեմորթս եւ կրիայս եւ ոսկերս գազանաց, եւ հուր եւ ջուր ի ներքուստ ի վեր գայր, եւ ոչ դադարեցաւ ամ մի ողջոյն պատուհասն...եւ մեծ եկեղեցին զոր\nշինեալ էր Կոստանտ[ի]անոս՝ գողաց զեւթն օր, եւ պատառեցաւ տեղին եւ ել հուր եւ այրեաց զեկեղեցին...։ Էջ 196.— Ի թուին ասորոց ՌՀԳ, եւ Հայոց ՃԼԴ, շինեաց Զափր ի վերայ Տգրիս գետոյ, ի վեր քան զԿատիզբոն, քաղաք, եւ կոչեաց զնայ Բաղտատ, որ թարգմանի միջոց, այսինքն Պարսից եւ Ասորոց...։ Էջ 239-242, երկու թերթերու վերի անկիւնները կտրուած։ Էջ 309.— Ի թուին ասորոց ՌՆՃ, եւ ի հայոց ՇՁԶ, տանիք, որ կոչին աբզմումնիք, ասպատակեցին ի Սպանիայ, եւ ամին անդ տարի մի...։ Էջ 313, համարեա դատարկ։ Էջ 314–328, տարբեր գրչութիւն, 21 տողով։ Էջ 314.— Երկիր ետ զպտուղ իւր եւ աւրհնեաց զմեզ Աստուած...։ Էջ 322.— Ի նուաստ եւ յանպիտան ծառայէս Աստուծոյ որ գոլ անուանս չեմ արժան...։ Էջ 328.— Անըսկիզբն էէն, յանհուն պատճառէն...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "288.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "289.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3054-refine.json",
+    "pipeline_version": "v1"
+  }
+}

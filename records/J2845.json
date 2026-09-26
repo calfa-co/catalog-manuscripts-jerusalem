@@ -1,0 +1,68 @@
+{
+  "id": "J2845",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2845",
+  "notice": "2845",
+  "volume": "Jerusalem_V9",
+  "title": "Ա. — ՊԱՏՄՈՒԹԻՒՆ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2845",
+    "no_notice": "10",
+    "titre": "Ա. — ՊԱՏՄՈՒԹԻՒՆ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "200 ; ԷՋՔ: 82",
+    "dimensions": "20X14X1.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 22 տող ; ԳՐՈՒԹԻՒՆ: մութ սրճագոյն, միասիւն, 25 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ։ Անկազմ 10 պրակներ։ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սակաւ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ ; ԹՈՒՂԹ: տոկուն",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "Ջրհեղեղ, նոյն Տապանը Արարատ լերան վըրայ, էջ 1։ Անկազմ. նախորդին հետ նոյն կողքի մէջ, որ է խաւաքարտ կաշեպատ",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "ՆԿԱՐԱԳՐՈՒԹԻՒՆ. — Ծաւալ 21X16X1",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Յոհաննու Հայոց Կաթողիկոսի Յաւաշաբան Պատմութիւն. — Զդադարումն դարուց ժամուց եւ ժամանակաց թէպէտ եւ իսկապէս զՀօրէ ասաց Բանն դնել յիւրում իշխանութեան...։ — Հմմտ. Տպ. 1867, էջ 5։ Էջ 200. — Յետ այսորիկ Սմբատ իբրեւ ետես զմիատարր խաղաղութիւն մշտնջենաւորեալ ի Հայս...։ — Հմմտ. նոյն, էջ 218։\nԷջ 1. — Յետ երկնաստահանացն հեղեղաց եւ անդընդապտոյտ ջրահեղձն լինելոյ բոլոր շնչականաց...։ — Հմմտ. նոյն, էջ 15։ Էջ 80. — Զայսու ժամանակաւ լինի ապա կոիւն ի Վարդանակերտի. . .։ — Հմմտ. նոյն, էջ 121։ Էջ 81-82, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "079.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2845-refine.json",
+    "pipeline_version": "v1"
+  }
+}

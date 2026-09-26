@@ -1,0 +1,68 @@
+{
+  "id": "J3780",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3780",
+  "notice": "3780",
+  "volume": "Jerusalem_V11",
+  "title": "ՀՆԴԿԱՀԱՅՈՑ ՏԱՊԱՆԱԳՐԵՐ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3780",
+    "no_notice": "Գ",
+    "titre": "ՀՆԴԿԱՀԱՅՈՑ ՏԱՊԱՆԱԳՐԵՐ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "148",
+    "dimensions": "26x18x1",
+    "mise_en_page": "սեւ մատիտով, միասիւն, 18–28 տող",
+    "details_ecriture": "հայերէն եւ անգլերէն։ Լաթակազմ խաւաքարտեայ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Պոմպէյ։ Դատարկ էջեր 7, 9, 11, 13, 15, 17։ Գծուած ջնջուած էջեր 25–27։ Էջ 45.— Սուրաթի հայ գերեզմանատան տապանաքարերու արձանագրութիւնները զոր այցելեցինք 1916 դեկ. 26ին ըստ լատինացոց.— 1–189.— Տես թիւ 3778։ Էջ 81.— Եկամուտք Ս. Պետրոս եկեղեցւոյ Պոմպէյի։ Էջ 84–109, դատարկ։ Էջ 110.— Մատրասի Ս. Աստուածածին եկեղեցւոյ սեղանի արծաթ մեծ խաչի բունին վրայ։ Էջ 117.— Մատրասի Հայոց Անուանք։ Էջ 124.— Կալկաթա։ Էջ 127.— Չիչըրայի եկեղեցւոյ հիւսիսային գաւիթում։ Էջ 129.— Սէյտապատ.— 1–108.— Տես թիւ 3778։ Էջ 146–147 դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "238.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3780-refine.json",
+    "pipeline_version": "v1"
+  }
+}

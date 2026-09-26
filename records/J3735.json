@@ -1,0 +1,68 @@
+{
+  "id": "J3735",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3735",
+  "notice": "3735",
+  "volume": "Jerusalem_V11",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑԻՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3735",
+    "no_notice": "ԺԶ",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑԻՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Նման է նախորդ հատորին. էջք 992:",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.– Պատմութիւն Եկեղեցւոյն Աս– տուծոյ: Հատոր ԺԶ, որ կը պարունակէ միակամեանց հերետիկոսութեան ծագումէն մինչեւ Սարգիս Ա. Հռոմայ հայրապետին մահը: 625էն 701: Գիրք ԽԵ: Միակամեան հերետիկոսու– թեան ծագումը եւ նոյն ժամանակի եղած երեւելի դէպքերը. 625–649: Էջ 209.– Գիրք ԽԶ: Լատերանու առա– ջին ժողովքէն մինչեւ Իտալիայի լօմպարտ– ներուն արիոսականութենէ դառնալը, 649էն 668: Էջ 428.– Գիրք ԽԷ: Հայոց Եկեղեց– ւոյն պատմութիւնը. Եզր կաթուղիկոսին վախճանէն մինչեւ Սահակ կաթուղիկոսին վախճանը. 689էն 708: Էջ 584.– Գիրք ԽԸ: Կոստանդ կայսեր մահուանէն մինչեւ Սերգիոս Ա. Հռոմայ հայրապետին վախճանը. 668էն 701: Էջ 850.– Քննութիւնք ԽԵ գրոց: Էջ 909.– Քննութիւնք ԽԸ երրորդ գրոց: Էջ 926.– Քննութիւն Բ. Ոնորիոսի Հռոմայ հայրապետին վրայ: Էջ 987.– Քննութիւն Գ: Հին ատենը ժողովուրդը սուրբ հաղորդութիւնն ի՞նչ– պէս կընդունէր:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "192.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3735-refine.json",
+    "pipeline_version": "v1"
+  }
+}

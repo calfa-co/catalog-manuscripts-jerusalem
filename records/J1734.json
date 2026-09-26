@@ -1,0 +1,68 @@
+{
+  "id": "J1734",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1734",
+  "notice": "1734",
+  "volume": "Jerusalem_V6",
+  "title": "Բ Ա Ն Ք Չ Ա Փ Ա Ւ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1734",
+    "no_notice": "9",
+    "titre": "Բ Ա Ն Ք Չ Ա Փ Ա Ւ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "294",
+    "dimensions": "10.5x7.5x2.5",
+    "mise_en_page": "խորագրերը, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 10 տող",
+    "details_ecriture": "սովորական",
+    "types_cahiers": "անկանոն, այժմ ԻԳ–ԼԶ (էջ 1–294), կան կորած պրակներ եւ ինկած ԹԵՐԹՔ",
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ դրոշմազարդ",
+    "etat_conservation": "լաւ ընդհանրապէս",
+    "copiste": "Նիկողայոս",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "ԻԳ պրակին առաջին եւ վերջին թերթերը միայն կը մնան, միւսները քակուած կորած։ էջ 1 — Գրչափորձ։ էջ 2 — Կարմրաներկ նկար Յիսուսի։ էջ 3 — Եւ ի սմանէ դոլով յայտնեալ, այն որ Թիրասըն կոչեցեալ, ծնընդեամբ յանդուստ իսկ յառաջեալ, եւ Թորգոմա սայ հայր եղեալ...։ էջ 199, դատարկ։ էջ 200 — Գունաւոր նկար։ էջ 201 — Նորին Ներսիսի Խրատ ոգեշահ. — Այրն Աստուծոյ զքեզ մերձակայ...։ էջ 246, դատարկ։ էջ 247 — Տեառն Ներսիսի յիշատակարան Առակացն Սողովմոնի, զոր իւր ձեռոքն գրեաց. — Աստուածեղէն հոգւովն ի սմայ...։ էջ 259 — Անդրադարձութիւն տառիս, Յիշատակի սորա. — Քաղցրագունիս այս մաղթանաւք...։ էջ 270 — Նորին Ժողովողի զանունն առեալ. — Սայ մարգարէ աստուածաբան...։ էջ 292–293, դատարկ։\nՅիշատակագրութիւն Գրչի. — էջ 294 — Սակաւ բանիս աշխատող Նիկողայոս վրիպակս աղաչեմ յիշեցէք։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "064.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1734-refine.json",
+    "pipeline_version": "v1"
+  }
+}

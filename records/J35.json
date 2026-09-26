@@ -1,0 +1,68 @@
+{
+  "id": "J35",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "35",
+  "notice": "35",
+  "volume": "Jerusalem_V1",
+  "title": null,
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "35",
+    "no_notice": null,
+    "titre": null,
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Այս թիւը կրող ձեռագիրը չկայ 1906էն ի վեր։ Նախապէս գոյութիւն ունեցող ձեռագիրը Սաւալանեանի Ցուցակին մէջ նկարագրուած է սապէս. «Մեկն. Հինգ Գրոցն Մովսեսի, ի Կուռնելիոսէ Ալափիտոսէ. թարգմանեալ անշուք և ստորին ոճով։ Բաժանեալ ի յերկուս առանձին հատորս՝ միածալ նոտրագիր։ Ի վախճան բ հատորին դնին ուրոյն՝ կարգք պատուիրանաց պարունակելոց ի Հնգամատենին։ Խօսք առանձինն և զչափոց և զկշռոց եբրայեցւոց, յունաց, հռոմայեցւոց և սպանեցւոց։ Անթուական և առանց յիշատակարանի։ Եղեալ է ի Ս. Աթոռ յիշատակ Ա. հատորն 1756 ամին, և Բ 1768» (էջ 41)։",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "168.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "35-refine.json",
+    "pipeline_version": "v1"
+  }
+}

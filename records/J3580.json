@@ -1,0 +1,68 @@
+{
+  "id": "J3580",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3580",
+  "notice": "3580",
+  "volume": "Jerusalem_V10",
+  "title": "ԲԱՌԱՐԱՆ ՀԱՅԵՐԷՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3580",
+    "no_notice": null,
+    "titre": "ԲԱՌԱՐԱՆ ՀԱՅԵՐԷՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "28x22x14",
+    "mise_en_page": "սեւորակ մելանով, միասիւն",
+    "details_ecriture": "բաւական յստակ։ Անկազմ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, գծաւոր, ոչ միատեսակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": "Հեղինակը",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Առաջին տետրակի կողքին ներսի կողմը.— Ս.— Ստորին հայերէն Գ.— Գաւառաբարբառ Ն.— Նորաբանութիւն XX.— Աշխարհաբառ եւ նոր նշանակութեամբ գործածուած հին բառ։\nԸնդարձակ բառարան, ընդհանրապէս իւրաքանչիւր տառ ուրոյն կողքի մէջ. Ա—Օ։ Վերջին տետրակին մէջ Օ գրին վերջաւորութեան ըսուած է. « Վերջ, 30 Դեկտեմբեր, 1900։\nՅաւելուած.— Աւելի քան տասնեակ մը այլազան տետրակներ, յատկացուած բառարանական եւ քերականական նիւթերու։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "639.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3580-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2982",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2982",
+  "notice": "2982",
+  "volume": "Jerusalem_V9",
+  "title": "ԵԿԵՂԵՑԱԿԱՆ ՊԱՏՄՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2982",
+    "no_notice": "2",
+    "titre": "ԵԿԵՂԵՑԱԿԱՆ ՊԱՏՄՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "428",
+    "dimensions": "19 X 14 X 2",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 20 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Յառաջաբան.— ։— Սահման եւ նպատակ եկեղեցական պատմութեան.— Այն ամեն մարդիկ որք կը հաւատան թէ՝ Յիսուս Նազովրեցին Քրիստոսն էր...։ Էջ 77.— Հալածանաց կամ Մարտիրոսաց դար։ Էջ 137.— Ցանկ Կայսերաց Հռովմայ։ Էջ 200.— 28.— Սահմանադրութիւն եկեղեցւոյ։ Էջ 311.— 45.— Դ. Պելագեան աղանդն։ Էջ 349.— 49.— Ը. Պատկերամարտից խըռովութիւն։ Էջ 354-420, դատարկ։ Էջ 421.— Ցանկ Նիւթոց։ Էջ 423-428, դատարկ։\nՅիշատակագրութիւն.— Սկիզբի դատարկ թերթին վրայ.— Յուսալով թէ ցկեանս իբրեւ համշիրակ եւ կաթագին եղբայր պիտի մնամք եւ ուր որ ալ երթանք զիրար չ'պիտի մոռնամք, կը նուիրեմ զայս գրքուկս քեզ, ազնիւ տիրացու Մարտիրոս Կարապետեան, սրտակից եղբայր. եւ դու քո սիրտ ինձ նուիրէ, ես եւս փոխադա[ր]ձաբար.— Մուրատ Խաչատ. Ռըշտունցի։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "189.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2982-refine.json",
+    "pipeline_version": "v1"
+  }
+}

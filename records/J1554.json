@@ -1,0 +1,68 @@
+{
+  "id": "J1554",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1554",
+  "notice": "1554",
+  "volume": "Jerusalem_V5",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՏՈՄԱՐԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1554",
+    "no_notice": "14",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՏՈՄԱՐԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "252",
+    "dimensions": "15.5x10.5x2",
+    "mise_en_page": "սկիզբը կարմիր խորագիր եւ գըլխագիրներ, մնացեալը սեւ մելանով, միասիւն, 18, 19 տող",
+    "details_ecriture": "յոյժ առատ։ Կարմիր գլխագիրներուն տեղերը կը մնան բաց, կարգ մը մասերու մէջ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ. առաջին կողքը կը պակսի",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": "Գաբրիէլ Վարդապետ Նիկոմիդացի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "ութանկիւն, փակագիր, աւրուած. «Ք. Ծ. Գաբրիէլ Վարդապետ, [1241]» .— Հմմտ. Գ. Հատոր, էջ 107 եւ 328",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1.— Մեկնութիւն Տոմարի, զոր խնդրեաց Թումայ րաբունապետի Մեծեփու եւ սիրով զհայցուածս նորա կատարեալ Յակոբ Վարդապետի Ղրիմեցոյ.— Զհայցըւածս գերերջանիկ րաբունապետի եւ երիցս երանելւոյ...։ էջ 85.— Նահանջ այսպէս արա։ էջ 250.— Ապա յայտնի եղեւ զի ուր ոչ է չափ եւ համար, անդ եւ ոչ գիտութիւն։ Վասնորոյ յամենայնի փառաւորեա զԱծ. որ չափ եւ համար եդ ամ. գոյից, զի դու գիտութեան գոյիցս հաղորդեսցիս, եւ վասն սոցա իմաստասիրել մարթասցիս, եւ համարոցն թեւօք զչափ գոյիցս գիտասցես, եւ զարարիչն սոցա փառաւորեսցես։ էջ 251-252, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "341.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1554-refine.json",
+    "pipeline_version": "v1"
+  }
+}

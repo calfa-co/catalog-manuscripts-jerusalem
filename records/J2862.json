@@ -1,0 +1,68 @@
+{
+  "id": "J2862",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2862",
+  "notice": "2862",
+  "volume": "Jerusalem_V9",
+  "title": "ԿՑՈՐԴ ԱՆՏԱՌԻ ԱՅԼԱԲԱՆՈՒԹԵԱՆՑ",
+  "date": {
+    "from": "1786",
+    "to": "1786",
+    "display": null
+  },
+  "fields": {
+    "numero": "2862",
+    "no_notice": null,
+    "titre": "ԿՑՈՐԴ ԱՆՏԱՌԻ ԱՅԼԱԲԱՆՈՒԹԵԱՆՑ",
+    "date_debut": "1786",
+    "date_fin": "1786",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "80",
+    "dimensions": "21.5X16.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն եւ երկսիւն, 31, 32 տող։ Նոտր շեղագիր անարուեստ",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "թղթեայ",
+    "etat_conservation": "անբաւարար. աջակողմեան վարի անկիւնը վնասուած եւ փճացած",
+    "copiste": "Մանուկ Սուքիասեանց, Կումուշխանեցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Կցորդ Անտառի Այլաբանութեանց, ըստ թուոց։ Ի մէջ ամենից, որք առ նկատումն եւ հայեցումն փիլիսոփայական եւ եւս աստուածաբանական պատկանին՝ ո՛չ զմիջակ տեղի կալնու բանն...։ Էջ 21.— Յաղագս Քառեակ թուոյ։ Էջ 32.— Եօթնեակ։ Էջ 40, դատարկ։ Էջ 41-71, երկսիւն։ Էջ 41ա.— Եօթն ամքն՝ յորս տառապեցան որդիքն Իսրայէլի ի Մադիանացւոց...։ Էջ 41բ.— Ութնեակ։ Էջ 67ա.— ԶՌ.— 6000։ Էջ 68բ.— ԼՌ.— 30000։ Էջ 69բ.— 57500։\nՅիշատակարան Գրչի.— 1786 Էջ 71բ.— Փառք անճառելի միոյ եւ անքննելի Երրորդութեանն Հօր եւ Որդւոյ եւ Հոգւոյն Սրբոյ, որպէս էրն ի սկզբանէ՝ նոյնպէս եւ է միշտ ելոց, որ ըստ իւրոյ անբաւ կարողութեանն նպաստ եւ ձեռընտու եղեւ ինձ անկարիս, որ ի կատարն հասեալ աւարտեցի զհոգելից մատեանս զայս, որ կոչի Անտառ Այլաբանութեանց։ Վասնորոյ խնդրի ի բարեսէր ընթերցողացդ՝ յիշման արժան առնել զանիմաստ գրիչս, անուամբ եւ եթ Կումուշխանեցի Սուքիասեանց Մանուկ անվարժս, որ մեծաւ տաժանմամբ հազիւ կարացի աւարտել զայս անհուն Անտառս Աստուածային Գրոց։ Ամի կենարարին մերոյ 1786, եւ Հայոց թուականիս 1235, յուլիսի 20, յաւուր Վարդավառին։ Էջ 72-80, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "088.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2862-refine.json",
+    "pipeline_version": "v1"
+  }
+}

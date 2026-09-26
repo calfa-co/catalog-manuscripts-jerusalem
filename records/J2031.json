@@ -1,0 +1,68 @@
+{
+  "id": "J2031",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2031",
+  "notice": "2031",
+  "volume": "Jerusalem_V7",
+  "title": "Ս Ա Ղ Մ Ո Ս",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2031",
+    "no_notice": "35",
+    "titre": "Ս Ա Ղ Մ Ո Ս",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "544",
+    "dimensions": "21 X 15 X 5.5",
+    "mise_en_page": "խորագիրները, սկըզբնատողերը եւ սկզբնատառերը կարմիր, մընացեալը սեւ մելանով, միասիւն, 17 տող",
+    "details_ecriture": "յստակ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական։ Վարդագոյն զարդագիր եւ լուսանցազարդ շատ մը գլուխներու սկիզբը, անարուեստ, Կանոնները հանդերձ գլխազարդով",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ. ցեցահարութիւն թեթեւ. առաջին պրակին առաջին թերթը պակաս",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մաղագաթեայ սկիզբը եւ վերջը մէկմէկ թերթ, անկիւնաւոր երկաթագիր, մասն Աւետարանի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "էջ 1",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 — Սաղմոս ի Դաւիթ.— Երանեալ է այր...։ Էջ 323 — Ղ — Աղօթք ի Մովսէս յայրըն Աստուծոյ.— Տէր ապաւէն եղեր մեր...։ Էջ 532, դատարկ։ Էջ 533 — Քարոզ Երանեալին եւ Իբրեւին...։ Էջ 544, դատարկ։\nՅիշատակագրութիւն.— 1671 Էջ 531, վարը, բոլորգիր տարբեր գրչէ Յիշատակ է Սաղմոսարանս ի Սուրբ Երուսաղէմ, ի դուռն Սբ. Յակոբա, ի թվին Հայոց ՌՃԻ։ Եթէ ոք յանդգնի եւ հանէ ըզՍաղմոսարանս ի դրանէ Սբ. Յակոբա՝ ըզպատիժն Կայենի առցէ, եւ զպատուհասն Կորխա ընկալցի, եւ ընդ Յուդայի դասեսցի եւ ընդ խաչահանուացքն դատապարտեսցի։ Բայց լաւ պահողքն եւ խնամք տանողքն եւ ի դրանէ Սբ. Յակոբա չհանողքն՝ աւրհնին յաստուածապետականէն եւ ի յՈրդոյն միածնէն եւ ի Սբ. Հոգոյն ճշմարտէն, ամէն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "108.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2031-refine.json",
+    "pipeline_version": "v1"
+  }
+}

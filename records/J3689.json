@@ -1,0 +1,68 @@
+{
+  "id": "J3689",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3689",
+  "notice": "3689",
+  "volume": "Jerusalem_V11",
+  "title": "ԺՈՂՈՎԱԾՈՅ (Քարոզգիրք)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3689",
+    "no_notice": null,
+    "titre": "ԺՈՂՈՎԱԾՈՅ (Քարոզգիրք)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "142",
+    "dimensions": "18x10x1.5",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 18–16 տող։ Նոտր շեղագիր, ոչ միատեսակ",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ",
+    "nb_lignes": null,
+    "reliure": "խաւարտեայ հնամաշ։ Սեբաստիոյ կնիքներ, էջ 8, 108։ Հմմտ.— Ցուցակ Ձեռ. Սեբաստիոյ, թիւ 252",
+    "etat_conservation": "համարեա բաւարար, ազդուած թացութենէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Քարոզ Ծննդեանն ի Հօրէ զԲանն Միածին։ Էջ 49.— Անխայեայ, եմ, ցի, ել. այսինքն խնայել, կամ դէպ ի տառապեալն հայել եւ գթալ։... Էջ 64.— Բեն.— Բազմազեղ...։ Էջ 72.— Գահամեծար...։ Էջ 78–142, թուղթ եւ գրչութիւն տարբեր։ Էջ 78–92.— Զանազան մանրուք, քերականական եւայլն։ Էջ 98–101, դատարկ։ Նոյնպէս 104։ Էջ 102.— Դարձեալ մանրուք։ Էջ 108, ստորոտը, շեղագիր.— Ով ոք հանցէ աստի բանադրեալ է յԱստուծոյ։ Էջ 105.— Որպէս հրամայէ սրբազան աւետարանիչն Ղուկաս ի դէմ անառակ որդոյն թէ, Առն միոջ էին Բ որդիք...։ Էջ 120–134, դատարկ։ Էջ 135–142.— Տոմարական աղիւսակներ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "140.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3689-refine.json",
+    "pipeline_version": "v1"
+  }
+}

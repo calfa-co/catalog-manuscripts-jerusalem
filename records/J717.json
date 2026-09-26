@@ -1,0 +1,68 @@
+{
+  "id": "J717",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "717",
+  "notice": "717",
+  "volume": "Jerusalem_V3",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՅՈՎՀԱՆՆՈՒ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "717",
+    "no_notice": "3",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՅՈՎՀԱՆՆՈՒ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "726",
+    "dimensions": "21.5x16.5x5",
+    "mise_en_page": "սկզբնատողերը եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 36 տող",
+    "details_ecriture": "կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ, դրոշմազարդ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "Ս. Յ. Ոսկեբերան, էջ 4",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը եւ վերջը, երկուական թերթ, երկաթագիր աւետարանի մասն",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր եւ լուսանցազարդ իւրաքանչիւր գլուխի սկիզբը. խորանազարդ, էջ 5",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 5.— Սրբոյն Յոհանու Ոսկեբերանի Կոստանդնուպօլսի Հայրապետի Մեկնութիւն Աւետար[ան]ին որ [ըստ] Յոհաննու.— Ի հանդիսի աստ արտաքին աշխարհականացք...։\nԷջ 695ա.— Փառատրութիւն Գրչի. Փառք անեղի եւ անմահի անսկիզբն եւ անվախճան, արարչի եւ համագործողի, միասնական եւ անբաժանելի Սբ. Երրորդութեանն Հօր եւ Որդւոյ եւ Հոգւոյն Սըրբոյ, այժմ եւ յաւիտեանս յաւիտենից ամէն։ Էջ 695բ-726, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "182.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "717-refine.json",
+    "pipeline_version": "v1"
+  }
+}

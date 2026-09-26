@@ -1,0 +1,72 @@
+{
+  "id": "J3106",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3106",
+  "notice": "3106",
+  "volume": "Jerusalem_V9",
+  "title": "Հ Ա Ւ Ա Ք Ա Ծ Ո Յ",
+  "date": {
+    "from": "1902",
+    "to": "1903",
+    "display": null
+  },
+  "fields": {
+    "numero": "3106",
+    "no_notice": null,
+    "titre": "Հ Ա Ւ Ա Ք Ա Ծ Ո Յ",
+    "date_debut": "1902",
+    "date_fin": "1903",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "212",
+    "dimensions": "21X16X1",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 18-24 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ՝ առաջինը կը պակսի",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը երկու թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Խաչվերացի օրը։ Էջ 7.— Մկրտութեան Քարոզի Համառօտութիւն։ Էջ 11.— Բովանդակութիւն։ 1-5 նիւթեր։ 1902, Յունվար, Փետրուար, Բեթղեհէմ։ Էջ 12.— Արաբական Առածներ։ Էջ 15.— Բեթլեհէմի բարքեր։ Էջ 19.— Դամբանական։ Էջ 22.— Հովիւներուն Երգը։ Էջ 28.— Մօրկան Ամուրին։ Էջ 35.— Անձնուէր Օրիորդը։ Էջ 43.— Սահակ եւ Մեսրոպ։\nէջ 48.— Ոսկեբերան։ էջ 58.— Ես եմ լոյս աշխարհի։ էջ 69.— Արդնի։ էջ 87.— 1903, Ի Տօնի Ս. Վարդանանց։ էջ 100.— Կրօնական Բանաստեղծութիւն .— Խաչին Ցաւը.— Բազկատարած խաչին առջեւ բեւեռուած...։— Բիւրակն.— Ակիւլինէ։ էջ 103.— Համառօտ Քարոզ մը Պսակի։ էջ 115.— Անկախ Կարծիք.— Արեւագալներու ինծի ներշնչած խորհրդածութեանց մէջ...։— Բիւզանդիոն, թ. 1990.— Հորոյ։\nէջ 125.— Մեկնութիւն «Հայր մեր»ի։ էջ 137.— Տրտունջներ.— Երբ ես տեսնում եմ մեր կրթուած դասի...։— Ս. Տաշիրեան։ էջ 139.— Ի՞նչ է Աղօթքը — (Մեծ Հեղինակներուն կարծիքը)։ էջ 141.— Նկարագիր։ էջ 148.— Սարգիս Շնորհալի։ էջ 155.— Աստուածաշունչը։ էջ 158.— Գիւտ Խաչ։ էջ 166.— Մի՛ բամբասեր։ էջ 184.— Մարդ եւ Բնութիւն։ էջ 193.— Մահուան հանդէպ։ էջ 204.— Արաբական Առածներ։ էջ 207.— Առանձնական խոկում։ էջ 208.— Ցանկ Նիւթոց։ էջ 212, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "340.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "341.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3106-refine.json",
+    "pipeline_version": "v1"
+  }
+}

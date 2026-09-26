@@ -1,0 +1,72 @@
+{
+  "id": "J1061",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1061",
+  "notice": "1061",
+  "volume": "Jerusalem_V4",
+  "title": "Թ Ա Փ Օ Ր Ա Տ Ե Տ Ր",
+  "date": {
+    "from": "1796",
+    "to": "1796",
+    "display": null
+  },
+  "fields": {
+    "numero": "1061",
+    "no_notice": "1",
+    "titre": "Թ Ա Փ Օ Ր Ա Տ Ե Տ Ր",
+    "date_debut": "1796",
+    "date_fin": "1796",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "32",
+    "dimensions": "20x15",
+    "mise_en_page": "խորագիրները եւ հրահանգները կարմիր, մնացեալը սեւ մելանով, միասիւն, 21 տող",
+    "details_ecriture": "կանոնաւոր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "կաշի",
+    "etat_conservation": "լաւ",
+    "copiste": "Սիմէոն Սրկ. Թիֆլիզեցի",
+    "possesseur": "Ստեփանոս Աբղ. Կիւմիւշխանեցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը եւ վերջը մէկ մէկ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–2, դատարկ։\nէջ 3.— Մշտնջենաւոր տետրակ թափորի, որ կատարի ի մէջ Սրբոյ Յարութեան Տաճարին յաւուրս Ուրբաթի, Շաբաթի եւ կիւրակէի. գրեալ շարականօք ըստ պատշաճի Սբ. Տեղեացն Քրիստոսի։ Ուրբաթի Աւուրն։ էջ 8.— Շաբաթի Աւուրն։ էջ 13.— Կիւրակէի Աւուրն։ էջ 19.— Վերջաբանութիւն.— Մշտնջենաւոր տետրակս թափօրական հանդիսի Սրբոյ Յարութեան Տաճարի, վերստին նորոգեցաւ պատշաճաւոր դրութեամբ Աւետարանաց եւ շարականաց ի մերում թուականիս ՌՄԽԵ [= 1796], յամսեանն սեպտեմբերի սկզբան, ի պատրիարքութեան Տեառն Պետրոսի շնորհափայլ րաբունապետի Եւդոկիացւոյ, եւ ի ռէյիզութեան Տեառն Ըստեփաննոս անարժան աբեղայի Կիւմիւշխանցւոյ, որ բազում փափագանօք ետ գըրել զայս տետրակս ի վայելումն միաբան եղբարց՝ եւ ի պատիւ Սրբոց Տեղեացն Քըրիստոսի Փրկչին մերոյ. որ եւ վայելողացըդ մաղթէ՝ յիշել ի մաքուր յաղօթս ձեր՝ զվերոգրեալ Ստեփաննոս Վարդապետն եւ զհոգեւոր եւ մարմնաւոր ծնօղս սորին, որ եւ յիշօղքդ՝ յիշեալ լիջիք ի Քրիստոսէ յուսոյն մերմէ ամէն։ Գրեցաւ ի ձեռն Սրբոյ Աթոռոյս ապարզիւն սպասաւոր եւ իբր գրագիր, Սարկաւագ Տիրացու Սիմէօնիս Թիֆլիզեցւոյ, որ եւ զիս համարեսջիք արժանի յիշման։ էջ 20–32, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "114.JPG"
+    },
+    {
+      "volume": "Jerusalem_V4",
+      "file": "115.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1061-refine.json",
+    "pipeline_version": "v1"
+  }
+}

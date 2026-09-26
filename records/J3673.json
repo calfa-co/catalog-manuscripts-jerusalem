@@ -1,0 +1,72 @@
+{
+  "id": "J3673",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3673",
+  "notice": "3673",
+  "volume": "Jerusalem_V11",
+  "title": "ՄԱՇՏՈՑ (Թերի)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3673",
+    "no_notice": "154",
+    "titre": "ՄԱՇՏՈՑ (Թերի)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "404",
+    "dimensions": null,
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մընացեալը սեւ մելանով. միասիւն, 15 տող",
+    "details_ecriture": "յստակ։ Կարմիր եւ սեւ զարդագիր եւ լուսանցազարդ քանի մը մեծ կանոններու սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բամպակեայ, գորշորակ",
+    "nb_lignes": null,
+    "reliure": "բոլորովին քայքայուած, կողքերը կորսուած",
+    "etat_conservation": "յոյժ ցաւալի, թերթերը փրթած եւ խառնիխուռն. վնասուած խոնաւութենէ. նորոգութիւն կրած՝ դարձեալ կարօտ նորոգութեան",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "ՆԿԱՐԱԳՐՈՒԹԻՒՆ.— Ծաւալ 14x11x4",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 8—9, ստ. լուսանցքին՝ Կնունք։ Էջ 18, մոռցուած։ Էջ 82.— Կանոն պսակ դնելոյ...։ Էջ 86—87 կը պակսի։ Էջ 89—40, ստ. լուսանցքին՝ Պսակէ ու շատ դրամ առ։ Էջ 56.— Կանոն Հաղորդ տալոյ։ Էջ 67.— Կանոն Աշ[խարհ]աթաղ.։ Էջ 110—119 պատռուած։ Էջ 122 կրկնուած։ Էջ 180.— Կանոն Տղա Թաղելոյ։ Էջ 188—184 կը պակսի։ Նոյնպէս 155— 156, 175—176, 887—888, 847—848։ Էջ 178.— Կանոն Ոգեհանգիստ առնելոյ։ Էջ 186.— Կանոն Տեառնակամի...։ Էջ 208.— Կանոն Խաչ Աւրհնելոյ։ Էջ 249էն յետոյ սխալմամբ գրած է 280։ Էջ 887—888 կը պակսի։ Էջ 848.— Կանոն Ոտնալուային...։ Էջ 892.— Կանոն զսերմն եւ զհնձան աւրհնել։ Էջ 402, բոլորգիր անհարթ.— Մեղայ ամենասուրբ Երրորդութեան...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "110.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "111.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3673-refine.json",
+    "pipeline_version": "v1"
+  }
+}

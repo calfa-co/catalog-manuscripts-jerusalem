@@ -1,0 +1,68 @@
+{
+  "id": "J2748",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2748",
+  "notice": "2748",
+  "volume": "Jerusalem_V8",
+  "title": "ԶՈՒԱՐՃԱՐԱՆ ԲԱՆԱՍԻՐԱՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2748",
+    "no_notice": "2",
+    "titre": "ԶՈՒԱՐՃԱՐԱՆ ԲԱՆԱՍԻՐԱՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "112",
+    "dimensions": "22x14x1",
+    "mise_en_page": "սկզբնաբառերը կապոյտ, մնացեալը սև մելանով, միասիւն, 15-22 տող",
+    "details_ecriture": "մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— (Գիրք Զուարճարան Բանասիրաց)։ Աղաթոկղէս արքայ զիւր արքայական սեղան զարդարէր միշտ խեցեղինօք ի պատիւ հօրն իւրոյ բրտի։ Յերես 262։ Էջ 17.— Բ.— Բազմաց պէտս ունի, որ բազում ինչ ստացեալ ունի։ 595։ Էջ 27.— Դից իսկ հաճոյ են զուարթարար զրոյցք։ 269։ Էջ 75.— Ոչ հաստարմատ աճին տունկք, որք ստէպ տեղափոխին։ 460։ Էջ 107.— Օրէնք էին Մակեդոնացւոց, զի զինուոր՝ որոյ չէր սպանեալ զոք ի թշնամեաց, փոխան զինուորական կամարի կրէր չուան կախաղանի։ 92։ Էջ 109-112, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "392.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2748-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3805",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3805",
+  "notice": "3805",
+  "volume": "Jerusalem_V11",
+  "title": "ԵԿԵՂԵՑԱԿԱՆ ԵՐԳԵՑՈՂՈՒԹԻՒՆՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3805",
+    "no_notice": null,
+    "titre": "ԵԿԵՂԵՑԱԿԱՆ ԵՐԳԵՑՈՂՈՒԹԻՒՆՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "518",
+    "dimensions": "20.5x16x8",
+    "mise_en_page": "սեւ մելանով, միասիւն, 10 տող, հինգը ձայնանիշ, հինգը բառեր, սեւ գիծերու միջեւ",
+    "details_ecriture": "մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "լաւորակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ. կաշիին վարի մասը մաշած",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը ութ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ի զգեստաւորելն քահանայի.— Խորհուրդ խորին...։ Էջ 9.— Երգ նախ քան զմեղեդին.— Ընտրեալդ...։ Էջ 17–148.— Քսան եւ մէկ մեղեդիներ։ Էջ 149.— Շարական խնկարկութեան, ԳԿ.— Յայս յարկ...։ Էջ 162–164, դատարկ։ Էջ 165–229.— Եօթը սրբասացութիւններ։ Էջ 230–314.— Քսան եւ չորս տաղեր։ Էջ 315.— Գանձք Ոտնլուայի (տիւկեահ)։ Էջ 326.— Օրհնեցէք Ծննդեան եւ Յարութեան։ Էջ 341.— Խորհուրդք պատարագի։ Էջ 383.— Հայր մեր որ յերկինս...։ Էջ 417.— Քրիստոս պատարագեալ...։ Էջ 427, աջակողմեան վարի անկիւնը, մանիշակագոյն թանաքով.— Տէր Անանիա Վրդ.։ Էջ 440.— Տէր ողորմեա...։ Էջ 441–502, դատարկ։ Էջ 503.— Ցանկ, էջ 1–368ի, մանիշակագոյն թանաքով։ Էջ 508–518, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "253.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3805-refine.json",
+    "pipeline_version": "v1"
+  }
+}

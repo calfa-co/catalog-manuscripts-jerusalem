@@ -1,0 +1,68 @@
+{
+  "id": "J1066",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1066",
+  "notice": "1066",
+  "volume": "Jerusalem_V4",
+  "title": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+  "date": {
+    "from": "1704",
+    "to": "1704",
+    "display": null
+  },
+  "fields": {
+    "numero": "1066",
+    "no_notice": "12",
+    "titre": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+    "date_debut": "1704",
+    "date_fin": "1704",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "52",
+    "dimensions": "20x15",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 25 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կաշի դրոշմազարդ",
+    "etat_conservation": "լաւ, լուսանցքը մասամբ ցեցակեր",
+    "copiste": "Եսայի երէց",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը եւ վերջը մէկմէկ թերթ անգիր",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4, դատարկ։ Էջ 5ա . — Աւրէնք արկանելոյ սպաս եկեղեցւոյն։ Յիշատակարան Գրչի . — 1704 Էջ 46ա . — Ով սուրբ պատարագօղ, յիշեա զԵսայի երէցս եւ զծնօղքս իմ։ Թվին ՌՃԾԳ, սեպտեմբերի իզ, օրն Գշ.ի կատարեցաւ։ Էջ 46բ - 52, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "120.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1066-refine.json",
+    "pipeline_version": "v1"
+  }
+}

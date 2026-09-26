@@ -1,0 +1,68 @@
+{
+  "id": "J3842",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3842",
+  "notice": "3842",
+  "volume": "Jerusalem_V11",
+  "title": "ԱՍՏՈՒԱԾԱՇՆՉԱԿԱՆ ՀԱՐՑՈՒՄՆԵՐ",
+  "date": {
+    "from": "1869",
+    "to": "1869",
+    "display": null
+  },
+  "fields": {
+    "numero": "3842",
+    "no_notice": null,
+    "titre": "ԱՍՏՈՒԱԾԱՇՆՉԱԿԱՆ ՀԱՐՑՈՒՄՆԵՐ",
+    "date_debut": "1869",
+    "date_fin": "1869",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "294",
+    "dimensions": "40x25x8",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 32 տող",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Յով. Տամկանեան Զմիւռնիացի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, վերը.— Սկսեալ ի 12/24 մարտի, 1869 Էջ 2.— Աշխատասիրութիւն Յով. Տամկանեան Զմիւռնիացւոյ Էջ 3.— Աստուածաշնչական Հարցումներ։ Գիրք Ա։ Աստուածաշնչի եւ իր Անգղիական զանազան թարգմանութեանցը վրայ տեսութիւն։ Հարց. 1.— Ինչո՞ւ Աստուածաշունչը գրոց մէջ ամենէ պատուականն եւ ամենէ պիտանին է։ Պատասխան.— Վասնզի աստուածային ներշնչութեամբ գրուած է...։ Էջ 7.— Ի լոյս ընծայուած Անգղիական Աստուածաշունչք։ Էջ 11.— Գլուխ Բ դ.— Մովսէսի Հնգամատեանը։ Էջ 51.— Գլուխ Գ.— Գիրք Յեսուայ, Դատաւորաց եւ Հռութայ։ Էջ 60.— Գլուխ Դ.— Ա. Բ. Գ. եւ Դ. Թագաւորութեանց Գիրքերը։ Էջ 95.— Գլուխ Ե դ.— Եզրի Գրքէն մինչեւ Դանիէլ։ Էջ 124.— Գլուխ Զ.— Երկոտասան փոքր Մարգարէները։ Էջ 182.— Վերջին Մարգարէից ժամանակին վրայ ծանօթութիւն։ Էջ 185.— Գլուխ Է.— Անկանոն Գրքերը։ Էջ 149.— Գլուխ Ը.— Ներածութիւն Նոր Կտակարանի։ Էջ 182.— Գլուխ Թ.— Չորս Աւետարանները։ Էջ 294.— Հ. 1101.— Ինչո՞ւ այն ատենուան սովորութեան համաձայն խաչին վրայ կախուած Յս.ի Քս.ի սրունգները չկոտրեցին։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "297.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3842-refine.json",
+    "pipeline_version": "v1"
+  }
+}

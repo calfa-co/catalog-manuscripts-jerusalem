@@ -1,0 +1,72 @@
+{
+  "id": "J2890",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2890",
+  "notice": "2890",
+  "volume": "Jerusalem_V9",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ՕՍՄԱՆԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2890",
+    "no_notice": null,
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ՕՍՄԱՆԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "444",
+    "dimensions": "21X15.5X4",
+    "mise_en_page": "խորագիրները կարմիր (ընդհանրապէս արաբերէն լեզուով), մնացեալը սեւ մելանով, միասին, 17 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ քայքայուած հնամաշ",
+    "etat_conservation": "համարեա բաւարար. լուսանցքի ցեցահարութիւն թեթեւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 4.— Քիթապ Ճիհաննիւմէ վէ թարիխ Օսման։ Էջ 9.— Թապագա էվվէլ էնսապի Օղուզ խան\nվէ էվլատը պէյանինտէտուր։ Վէ թապագա սէնի սէլէթին ալ Սէլճուգ էվի զիքր իտէր։ Թապագա սալիս սուլթան ալ Օսման ղազի պէյան իտէր։ Էջ 54.— Թապագա սալիս սէլէթին րում ալ Օսման ղազի պէյան իտէր։ Էջ 194.— Հէքեայէթի վէֆաթի Օսման Ղազի։ Էջ 225.— Հէքեայէթի Սիւլէյման փաշա ալի Օրխան Ղազի Րումէլի։ Էջ 240.— Հիքեայէթի ֆէթհի Քուքուր Հիսար։ Էջ 243.— Վէֆաթի Սիւլէյման պէկ վէ Օրխան Ղազի։ Էջ 276.— Հիքեայէթի ֆէթհի վիլայէթի Հէմիտ։ Էջ 299.— Հիքեայէթի Գարաման օղլի։ Էջ 319.— Ուրուս սուլթան Մուրատ վէ թէզվիճ Քոսթանթինիյէ։ Էջ 352.— Մէտհ սուլթան Մուրատ ղազի։ Էջ 421.— Մուրատ խան ղազի։ Էջ 423.— Ճէլուս սուլթան Պայազիտ խան պին Մուրատ խան պին Օրխան։ Էջ 429.— Մէսալիհի սուլթան Պայազիտ խան Ղազի մաա Ալա էտտին միր Գարաման։ Էջ 430.— Թաքսիմ տիյար Պայազիտ խան ղազի։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "112.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "113.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2890-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J125Բ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "125Բ",
+  "notice": "125Բ",
+  "volume": "Jerusalem_V1",
+  "title": "ԱՇԽԱՐՀԱԳՐՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "125Բ",
+    "no_notice": "1",
+    "titre": "ԱՇԽԱՐՀԱԳՐՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "448",
+    "dimensions": "30 x 23 x 7",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "ըստ նախընթացին",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 — Ճակատ — Քերականութիւն երկրագրութեան...։ Հատոր երկրորդ։ Ի Վէնէտիկ, 1760, ի տըպարանի Անտոնիոսի Զադդայի։ Հրամանաւ մեծաւորաց։ Էջ 3 — Թիւ տեղեացն, այսինքն, թագաւորութեանցն, որք պարունակին ի յերկրորդ Հատորն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "378.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "125Բ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

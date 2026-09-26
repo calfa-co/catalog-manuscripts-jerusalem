@@ -1,0 +1,68 @@
+{
+  "id": "J3072",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3072",
+  "notice": "3072",
+  "volume": "Jerusalem_V9",
+  "title": "ԳԼԽԱՒՈՐ ՆԻՒԹՔ ՔԱՐՈԶՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3072",
+    "no_notice": null,
+    "titre": "ԳԼԽԱՒՈՐ ՆԻՒԹՔ ՔԱՐՈԶՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "106",
+    "dimensions": "20X14.5X1",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 23 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ցանկ իմն նոր յաստուածաշունչ սուրբ գրոց քաղեալք իբր վկայութիւն պատրաստ ի վերայ գլխաւոր նիւթոց քարոզութեան։ Գլուխ 1.— Աբիսողոմ նախանձէր փառացն հօր իւրում Դաւթի...։ Էջ 2.— Վասն հպարտութեան մեղաց վընասուն։ Գլուխ 2։ Էջ 56.— Վասն շինութեան տաճարին օգնեաց Ած.։ Գլուխ 50։ Էջ 77.— Վասն որոյ Քս. գալոց է ի դատաստան։ Գլուխ 70։ Էջ 78-106, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "310.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3072-refine.json",
+    "pipeline_version": "v1"
+  }
+}

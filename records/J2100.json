@@ -1,0 +1,80 @@
+{
+  "id": "J2100",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2100",
+  "notice": "2100",
+  "volume": "Jerusalem_V7",
+  "title": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2100",
+    "no_notice": "13",
+    "titre": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "142",
+    "dimensions": "22x16.5x1.5",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով. միասիւն, 20-22 տող ; ԳՐՈՒԹԻՒՆ: ամբողջովին սեւորակ մելանով, միասիւն, 20—22 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ գծազարդ։",
+    "etat_conservation": "բաւարար. լուսանցքները ցեցակեր ; ՀԱՆԳԱՄԱՆՔ: բաւարար, լուսանցքները ցեցակեր",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "ՆԿԱՐԱԳՐՈՒԹԻՒՆ. — Ծաւալ 22 X 16.5 X 1.5 ; Ճակատ. — Համառոտ Ճարտասանութիւն, դիւրին ոճիւ եւ վայելուչ օրինակաւ, շարադրեցեալ աշխատասիրութեամբ տեառն Մխիթարայ վարդապետի Սեբաստացւոյ Աբբայ հայր կոչեցելոյ: Ի յօգուտ այնց ամենից, որք ունին զփափաք զասութիւնս իւրեանց զարդարել գեղեցկագունիւք բառիւք, եւ մանաւանդ հաճոյացուցանել զմիտս ունկնդրողաց անձանց, ի փառս մանկացելոյն Յիսուսի, եւ ի պատիւ մօր իւրոյ ամէնօրհնեցելոյ միշտ կուսին Մարիամու: Յամի ամենափրկչի 1730, ի Վէնէտիկ քաղաքի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1. — Յաղագս Արհեստի Ճարտասանութեան: էջ 126. — Յաղագս հինգերորդի մասին Ճարտասանութեան: էջ 132. — Ցուցակ Առաջնոյ Գրքոյն: էջ 136. — Յաղագս Տարացուցի ճոխաբանութեան: էջ 139. — Մայրդ մաքուր, շնորհաց աղբիւր...: — Մ 2 ա կ: էջ 140-142, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "183.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "184.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "185.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "186.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2100-refine.json",
+    "pipeline_version": "v1"
+  }
+}

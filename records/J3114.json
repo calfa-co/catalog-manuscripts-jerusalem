@@ -1,0 +1,68 @@
+{
+  "id": "J3114",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3114",
+  "notice": "3114",
+  "volume": "Jerusalem_V9",
+  "title": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3114",
+    "no_notice": "1",
+    "titre": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "334",
+    "dimensions": "22.5X16.5X2.5",
+    "mise_en_page": "սեւ մելանով, միասիւն, 24, 25 տող, սեւ գիծերու միջեւ։ Նոտր շեղագիր վարժ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ ոսկեդրուագ",
+    "etat_conservation": "լաւ ընդհանուր առմամբ. ազդուած խոնաւութենէ. լուսանցքները գրչախաղերով աղտոտուած. վերջը թերի",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ինճիլի շէրիֆ Սբ. Մատթէոս Աւետարանիչին նաքլի իւզրէ։ Պապ 1.— Յս. Քս.ուն տօղմասընըն քիթապը, օ քի Աբրահամըն օղլու Դաւիթին օղլու իտի։ Աբրահամտան տօղտու Իսահակ, Իսահակտան տօղտու Յակոբ, Յակոբտան տօղտու Յուդա, վէ օնուն գարտաշլարը...։ Էջ 94ին կը յաջորդէ 97։ Էջ 97.— Ինճիլի շէրիֆ Սբ. Մարկոսուն նաքլինէ կէօրէ։ Էջ 164, այլազան գրչախաղեր սեւ մատիտով։ Էջ 165.— Ինճիլի շէրիֆ Սբ. Ղուկաս Աւետարանիչին նաքլի միւն.։ Էջ 265-266, գծմծուած անվարժ ձեռքով։ Էջ 267.— Ինճիլի շէրիֆ Սբ. Յօհաննէս Աւետարանիչին նաքլի միւնիւպիննէ։ Էջ 334.— Պապ 20.— Վէ բազար կիւն սապահլայըն...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "346.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3114-refine.json",
+    "pipeline_version": "v1"
+  }
+}

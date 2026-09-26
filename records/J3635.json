@@ -1,0 +1,72 @@
+{
+  "id": "J3635",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3635",
+  "notice": "3635",
+  "volume": "Jerusalem_V11",
+  "title": "ԽՈՐՀՐԴԱՏԵՏՐ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3635",
+    "no_notice": "85",
+    "titre": "ԽՈՐՀՐԴԱՏԵՏՐ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "42",
+    "dimensions": "22x16",
+    "mise_en_page": "խըրատները, սկզբնատողերը կամ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 23 տող",
+    "details_ecriture": "կանոնաւոր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": "մագաղաթ երկաթագիր, մասն Աւետարանի",
+    "etat_conservation": "անբաւարար, սկիզբը թերի. թերթերը փըթած. թացութենէ ազդուած. նորոգութեան կարօտ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Ցնծասցէ անձն իմ ի Տէր...։ Էջ 3բ.— Աւրհնեալ Թագաւորութիւնն Հօր...։ Էջ 7բ.— Հաւատամք ի մի Աստուած...։ Էջ 21բ.— Հայր մեր որ յե.։ Էջ 27ա.— Գոհանամ եւ մեծացուց[ան]-եմ...։ Էջ 31ա.— Կատարումն օրինաց...։ Էջ 33բ.— Վասն հրաժարելոյ ի կամաց սատանայի.— Հրաժարիմք ի սատանայէ...։ Էջ 34ա.— Երիցս կրկնէ։ Եւ ապա դարձիր յարեւելս աստուածգիտութիւն.— Խոստովանիմք եւ հաւատամք...։ Էջ 36բ.— Յաղագս խոստովանութեան մեղաց...։— Մեղա ամենասուրբ Երրորդութեանն...։ Էջ 39բ.— Ողորմեսցի քեզ մարդասէրն Աստուած...։ Էջ 40բ, դատարկ։ Էջ 41–42, կէս թերթ, նոտրագիր, սեւորակ մելանով։ Յետնագոյն յիշատակագրութիւն.— 1715 Էջ 41ա.— Յիշատակ է Սբ. Խորհ[րդ]այ տերտս Սարգ[ս]ին եւ եղբօրն, տէր Լուսիկին։ Ահայ մեք առաք սայ ի հալալ ընչից մերոց եւ տվայք Սրբոյն Սարգսի Զօրավարին։ Ով ոք սայ չունի հանելոյ կամ ծախելոյ, կամ գրաւելոյ։ Եթէ անզըրենի եւ առցէ, կամ ծախելոյ, կամ գրաւելոյ, ըզմասն Ութայի առճէ, եւ պատիժն Կայէնի եւ խաչահանվացն Քի., եղիցի, եղիցի, ամէն։ Հայր մեր որ յերկինս ես...։ Թվին ՌՃԿԴ, ես Խաչայ[տ]ուրս գրեցի։ ամէն։ Էջ 42, դատարկ"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "071.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "072.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3635-refine.json",
+    "pipeline_version": "v1"
+  }
+}

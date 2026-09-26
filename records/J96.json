@@ -1,0 +1,68 @@
+{
+  "id": "J96",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "96",
+  "notice": "96",
+  "volume": "Jerusalem_V1",
+  "title": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+  "date": {
+    "from": "1770",
+    "to": "1770",
+    "display": null
+  },
+  "fields": {
+    "numero": "96",
+    "no_notice": "1",
+    "titre": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+    "date_debut": "1770",
+    "date_fin": "1770",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "862",
+    "dimensions": "32×21×7",
+    "mise_en_page": "սեւ մելանով, երկսիւն, 33 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Մատթէոս Գրագիր",
+    "possesseur": "Աւետիս Վարդապետ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք՝ սկիզբը երեք թերթ, առանց էջահամարի",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ճակատ.— Գիրքս որ կոչի Անտառ Նորագոյն Մըտածմանց, հիմնեալ ի հեղինակութեան Սուրբ Գրոց ի Սրբոց Հարց և յայլոց Վարդապետաց Եկեղեցւոյ, յարմարացուցանելի ամենայնից լուր աւուրցն Կիւրակէից ի մէջ տարւոյն և հասարակ տօնից, ի յարգելի տէր Աղեքսանդր Գալամաթօ կոչեցեալ մէսինացւոյ ի Պատուայ։ Թարգմանեցեալ յիտալական լեզուէ ի հայկական բարբառ ի Ղուկասու Վարդապետէ Խարբերթացւոյ, յամի Փրկչին 1741, ըստ խնդրոյ արհի և պանծալի Եպիսկոպոսին Տն. Յոհաննու Պատրիարգին Կոստանդնուպօլսոյ, ի Կոստանդնուպօլիս։ Եւ այժմ գրիլ և օրինակել սկսաւ ի վայելումն վերոյ յիշեցեալ Պատրիարգի հոգեւոր որդի տէր Աւետիս Աստուածաբան Վարդապետի, ի թուին Հայոց ՌՄԺԹ, նոյեմբ. 7, ձեռամբ Մատթէոս յետին և չընչին գրագրի, ի մանկատան Սրբոյ Խաչի, ահեղահրաշ մեծ նշանի։ Էջ 2-4, դատարկ։ Էջ 5.— Յաղագս մեծի սիրոյն Այ. զոր Տէր Ած. մեր միշտ ունեցաւ դէպ առ մարդն։ Գլուխ Ա։ Էջ 798բ.— Յաղագս փառացն արքայութեան և միջնորդի առ ի ստանալ զնա։ Գլուխ Հ։ Էջ 814ա.— Ցանկ.— Վասն Սիրոյն Աստուծոյ 1 Գլուխ։ Էջ 815-862, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "319.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "96-refine.json",
+    "pipeline_version": "v1"
+  }
+}

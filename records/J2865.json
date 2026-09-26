@@ -1,0 +1,72 @@
+{
+  "id": "J2865",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2865",
+  "notice": "2865",
+  "volume": "Jerusalem_V9",
+  "title": "ԺՈՂՈՎԱԾՈՅ (ԱՒԱԳ ՈՒՐԲԱԹ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2865",
+    "no_notice": null,
+    "titre": "ԺՈՂՈՎԱԾՈՅ (ԱՒԱԳ ՈՒՐԲԱԹ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "15.5X10X2: Էջք 163: Պրակք Ա-Ժ, վերջին երկուքը ոչ լման: Հանգամանք համարեա բաւարար. սկիզբը թերի: Թուղթ հասարակ: Գրութիւն՝ խորագիրները եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 27 տող, կարմիր գիծերու միջեւ: Նոտր շեղագիր վարժ: Համառօտագրութիւնք առատ: Կաշեկազմ խաւաքարտեայ, կը մնայ վերջին կողքը միայն",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— 54.— Վասն դատաւորի եւ թագաւորի, գրէ, եւ վերայ գլխոյն, կամ աջդ կապեա. նա Ած. պահէ ամ. չարէ: Էջ 5.— 125.— Վասն գազանի, թէ խածանէ զմարդ, ինձ, կամ առիւծ, կամ շուն, կամ այլ գազան, կարդայ ի վերայ պալասանի ձիթին, եւ օծանէ զտեղին, եւ կարդայ ի վերայ ջրին, եւ խմցու, Աստուծով ողջանայ: Էջ 6.— Ի Մարտիրոսէ Վարդապետէ վասն սիրոյ.— Սէրն սըրտէն նըման բովոյ...: Էջ 10-18, դատարկ:\nԷջ 19.— Աւագ Ուրբաթ աւուրն զայս կանոն կատարի.— ԴՁ.— Այսօր ի կատարումըն...: Էջ 23.— Այսօր անճառ լուսոյն ծագումն ...: Էջ 24.— Օրթի. Սբ. Աւետարանս Յոհաննու...:\nէջ 69.— Կանոնագլուխ.— Իշխանք հալածեցին...։ էջ 79.— Չարչարանաց Փրկչին Ուրբաթի աւուրն ցերեկին զայս կարգ կատարի։ Յարեան ի վերայ իմ վկայք չարեաց...։ էջ 131.— Գիրգ Իմաստութեան.— Խորհեցան յանձինս իւրեանց զանուղղայս եւ ասեն ...։ էջ 138.— Աւագ Շաբաթ աւուրն զայս կարգ կատարի։ էջ 142.— Խրատ եւ թիւ Հանգստեան Աւետարանացն. ձայնից վերայ ընթեռնալի։\nէջ 146.— Արդ՝ այսր ամենայնի ոչ էր տեղեակ Մարիամ, այլ նա աղօթէր ի տան, ուրեմն պարտ էր գնալ եւ պատմել նմա...։ էջ 157.— ...Սոյնպէս եւ հրեշտակքն, որք ծանօթք էին տնօրէնութեան Բանին, տրտմութեամբ լցեալ էին։ Նմանապէս եւ դասք առաքելոցն եւ գունդք աշակերտացն անմխիթար սգով սգաւորեալ էին վասն մահուան մերոյ Փրկչին։ էջ 158, դատարկ։ Նոյնպէս էջ 160–161։ էջ 159, 162, զանազան մանրուք։ էջ 163, կողքին փակած.— Ցորեան հացն հաստատէ զսիրտն, եւ առնէ զմարդն ուժեղ ...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "089.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "090.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2865-refine.json",
+    "pipeline_version": "v1"
+  }
+}

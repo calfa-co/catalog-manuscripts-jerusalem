@@ -1,0 +1,68 @@
+{
+  "id": "J3116",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3116",
+  "notice": "3116",
+  "volume": "Jerusalem_V9",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԱՒԵՏԱՐԱՆԱՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3116",
+    "no_notice": "1",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԱՒԵՏԱՐԱՆԱՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "284",
+    "dimensions": "24 X 16 X 1.5",
+    "mise_en_page": "տետրակ մելանով, միասիւն, 20 տող",
+    "details_ecriture": "վարժ։ Լաթակազմ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Այս երկին առաջին մասը կարելի է տեսնել 3118 թիւին ներքեւ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1.— ԼԱ.— Աւետարան Ղուկասու.— 324.— Աւետարաններէն երրորդը գրած է Ղուկաս, որ Նոր Կտակարանի մէջ ուրիշ գիրք մ'ալ ունի, որ է Գործք Առաքելոցը...։ էջ 2.— 325.— Ղուկասու բժիշկ կոչուելէն կ'իմանամք թէ, Ղուկաս ուսեալ անձ մ'էր...։ էջ 7.— ԼԲ.— Ծնունդ Յովհաննու եւ Քի.— 331.— (Ա. 5-25). Ղուկասու Աւետարանին կանխաբանութիւնը արդէն բացատրած եղանք...։ էջ 32.— ԼԳ.— Մկրտութիւն Քրիստոսի։ էջ 41.— ԼԴ.— Առաջին Մասն Քարոզութեանց։ էջ 108.— ԼԸ.— Քս. յԵրուսաղէմ։ էջ 135.— 454.— (ԻԴ. 46-48). Դարձեալ «եւ ասէ»ով զատուած խօսք մը կայ, ուր Քս. մարգարէութիւններու մեկնութիւնը եզրակացնելով կ'ըսէ թէ...։ էջ 137.— Վերջ Ներածութեան Աւետարանին որ ըստ Ղուկասու։ էջ 138.— Ա.— Աւետարան ըստ Յովհաննու.— 1.— Չորրորդ Աւետարանը Յովհաննու անունը կը կրէ հաստատապէս...։ էջ 143.— Աւետարան ըստ Յովհաննու.— Բ.— Սկզբնաւորութիւն Աւետարանին.— 6.— Յովհաննու Աւետարանը միւս երեքէն բոլորովին տարբեր կերպով կ'սկսի...։ էջ 184.— Դ.— Առաջին Զատիկ Քի.։ էջ 223.— Երկրորդ Զատիկ Քրիստոսի։ էջ 265.— Թ.— Իրք կնոջն շնացելոյ։ էջ 277.— ԺԱ.— Ի ծնէ կոյրն։ էջ 283.— 178.— Քս. կը զատէ երկու տեսակ տեսնողներ, եւ երկու տեսակ կոյրեր ...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "348.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3116-refine.json",
+    "pipeline_version": "v1"
+  }
+}

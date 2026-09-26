@@ -1,0 +1,68 @@
+{
+  "id": "J2853",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2853",
+  "notice": "2853",
+  "volume": "Jerusalem_V9",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԴԱՆԻԷԼԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2853",
+    "no_notice": "13",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԴԱՆԻԷԼԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "80",
+    "dimensions": "25 X 19.5",
+    "mise_en_page": "սեւ մելանով, միասիւն, 23 տող։ Բնաբանները բոլորգիր, մեկնութիւնները նոտր շեղագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, ծծող",
+    "nb_lignes": null,
+    "reliure": "թղթեայ",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, դատարկ։ Էջ 2. — Մեկնութիւն Մարգարէութեանն Դանիէլի։ Դանիէլ ի նոցանէ էր՝ զորս ո՛չ արժէ աշխարհ ըստ Պօղոսի ասիցն...։ Էջ 79. — Վերջ։ Էջ 80, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "083.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2853-refine.json",
+    "pipeline_version": "v1"
+  }
+}

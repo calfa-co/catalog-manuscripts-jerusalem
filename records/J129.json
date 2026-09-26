@@ -1,0 +1,68 @@
+{
+  "id": "J129",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "129",
+  "notice": "129",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՄԱՐԿՈՍԻ, Բ. ՀԱՏՈՐ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "129",
+    "no_notice": "2",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՄԱՐԿՈՍԻ, Բ. ՀԱՏՈՐ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "212",
+    "dimensions": "31 20 3",
+    "mise_en_page": "բնաբանները կարմիր՝ մեկնութիւնները սեւ մելանով, երկսիւն, 47–49 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը եւ վերջը երկուական թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Երկրորդ Հատոր։ Մեկնութիւն Սրբոյ Աւետարանիս Մարկոսի, ասացեալ Ճոն Բարսղի աստուածաբանութեան վարդապետի։ Գլուխ Թ, Հ. 10.— Հարցին ցնա եւ ասեն. Զի՞նչ է այն՝ զոր դպիրքն ասեն թէ նախ Եղիեա պարտ է գալ...։ Էջ 167ա.— Զ. 8.— Զի երկնչէին...։ Ասէն թէ մեկնիչս զայս Բարսեղ վարդապետ է արարեալ որ մականուամբ Ճոն ասի, որոյ հոգին ընդ հրեշտակացն դասի։ Ի՞ւ հասարակին, կամ ի՞ւ զանազանին պէս երկու կերպիւ հասարակին, եւ դիւք զանազանին...։ Էջ 168բ.— Քարոզ ողջոյն տալոյ ի բանն որ ասէ. Յոր տուն։— Վարդապետք եկեղեցւոյ ասեն թէ ողջոյնս այս զոր սամք, ոչ է անզօր եւ սոսկ բան որպէս տան հասարակ մարդիկք...։ Էջ 173բ.— Նարեկացոյ Գլուխ Զ.— Իսկ արդ զի՞նչ բարւոք գոյ, եւայլն։— Այսինքն, մինչեւ ցայս վայր զհառաչանս իմ, փոխանակ ձայնի...։ Էջ 175բ.— Նարեկացոյ Գլուխ ԼԱ.— Սկզբնահայրդ խոստովանութեան անյայտ ծածկութից Որդի Աստուծոյ...։ Էջ 197բ.— Նարեկացւոյ Գլուխ ԼԳ. Իսկ զհաւատոյ սահման բանի, ընտրութեան շնորհի...։ Էջ 199ա.— Հանգամանք Առաքելոցն։ Էջ 199բ.— Դաւանութիւն Սրբոյն Աթանասի, ի Սոկրատ պատմագրքոջ ԽԹ Գըլուխն։ Էջ 212բ.— Եղաւ ի շիրմի անորոշելի յաստուածութենէն։ Եղաւ ի շիրմի։ Ոչ ըստ բոլորի մարդկութեանս, այլ ըստ մարմնոյն, յորմէ անբաժանելի էր Աստուածութիւնն...։ եւ աղեղն անբաժանելի ունիցի [Շարունակութիւնը չկայ]։\nՅետնագոյն յիշատակագրութիւն. Էջ 66բ, շեղագիր.— Յիշատակ է Սրբոյ Աթոռոյս որ յԵէմ. եւ որք հանել կամին յԱթոռոյ՝ անկցի ընդ դատապարտութեամբ, իսկ հարազատ վերծանօղքն եղիցին օրհնեալ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "384.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "129-refine.json",
+    "pipeline_version": "v1"
+  }
+}

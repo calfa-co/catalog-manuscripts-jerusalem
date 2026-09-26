@@ -1,0 +1,68 @@
+{
+  "id": "J3819",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3819",
+  "notice": "3819",
+  "volume": "Jerusalem_V11",
+  "title": "ՊԱՏՐԻԱՐՔՈՒԹԻՒՆ ՀԱՅՈՑ ԵՐՈՒՍԱՂԷՄԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3819",
+    "no_notice": null,
+    "titre": "ՊԱՏՐԻԱՐՔՈՒԹԻՒՆ ՀԱՅՈՑ ԵՐՈՒՍԱՂԷՄԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "70",
+    "dimensions": "22x17",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 22 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "թանձր թուղթ, զարդարուն",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը մէկ թերթ, առաջին երեսին՝ մեծատառ. \" Պատրիարքութիւն Հայոց Երուսաղէմի\"",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Պատրիարքութիւն Հայոց Առաք. Աթոռոյ Ս. Յակովբեանց յԵրուսաղէմ Սկսեալ Տեառնեղբայր Յակոբոս Սրբազան Առաքեալէն մինչեւ մեր օրերը։ Նախաբան.— Երուսաղէմի Ս. Աթոռոյ Առաքելական յաջորդութիւնը Հայոց Պատրիարքներուն՝ եթէ չըսենք անկարելի, գէթ շատ դժուարին եղած է գտնել...։ Էջ 3.— Մասն Ա.— Ժամանակ իշխանութեան Հաւատացեալ Հրեայ Եպիսկոպոսաց։ Էջ 6.— Մասն Բ.— Ժամանակ իշխանութեան Եպիսկոպոսաց Հեթանոս Եկեղեցւոյն Քրիստոսի։ Էջ 25.— Մասն Գ.— Ժամանակ Իշխանութեան Պատրիարքաց Հայոց Երուսաղէմի. սկսեալ Աբրահամ Ա.էն մինչեւ Սարգիս Ա. այսինքն 637էն մինչեւ Փրկչի 1281 թուականը։ 68.— Աբրահամ Ա. ամ Տեառն 637—669, անմիջական յաջորդն Սօփրօնիոսի...։ 82.— Աբրահամ Գ., ամ Տեառն 1180— 1191։ Ասոր օրով Սալահէտտին տիրապետեց Երուսաղէմի (1187)։ Էջ 38.— Մասն Դ.— Ժամանակ իշխանութեան պատրիարքաց Հայոց, սկսեալ ի Սարգիս Ա. է մինչեւ մեր օրերը, այսինքն 1281—1901։ Էջ 56.— 142.— Եսայի Դ. Կարապետեան, ամ Տեառն 1864—1885։ Էջ 57.— Ամենապատիւ Տ.Տ. Յարութիւն Ս. Արքեպիսկոպոս Վեհապետեան 143դ Պատրիարք Առաք. Աթոռոյ Սրբոց Յակովբեանց։ Էջ 62.— Ղեւոնդ Եպիսկ. Շիշմանեան.— Վերջ։ Էջ 63.— Ընդհանուր ցանկ սրբազան Պատրիարքացն Հայոց Առաքելական Աթոռոյ Ս. Յակոբեանց Երուսաղէմի։ 1.— Յակովբոս Եղբայր Տեառն... 143.— Յարութիւն Ա. Վեհապետեան (էջ 69)։ Էջ 70, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "276.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3819-refine.json",
+    "pipeline_version": "v1"
+  }
+}

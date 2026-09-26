@@ -1,0 +1,68 @@
+{
+  "id": "J3050",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3050",
+  "notice": "3050",
+  "volume": "Jerusalem_V9",
+  "title": "Պ Ա Ր Զ Ա Տ Ո Մ Ա Ր",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3050",
+    "no_notice": "12",
+    "titre": "Պ Ա Ր Զ Ա Տ Ո Մ Ա Ր",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "90",
+    "dimensions": "13.5 X 10 X 2",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 19 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ, հնամաշ։ Կնիքներ. 1. ութանկիւն. «Քի. Ծռ. ...րացի Պաղտասար», էջ 16։ 2. Բոլորշի. «Սարգիսի որդի Թօվմաս, թվ. ՌՃԾ» [= 1701], էջ 4։ 3. հաւկթաձեւ, փակագիր. «Յոհանէս Եպիսկոպոս, ՌՄՀԷ» [= 1828], էջ 4",
+    "etat_conservation": "համարեա բաւարար. խոնաւութենէ եւ հնութենէ ազդուած. նորոգութիւն կըրած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 3, դատարկ։ Նոյնպէս էջ 5։ Էջ 6-15.— Տոմարական աղիւսակներ։ Էջ 16.— Դատարկ գրեթէ։ Էջ 17.— Պարզատոմար ընտիր եւ ըստոյգ աւրինակէ, անանց եւ յաւիտենական։ Էջ 20-21ի միջեւ թերթ ինկած։ Էջ 86.— Ք. Եւթներեակ Դ։ Էջ 88-90, դատարկ։ Յիշատակագրութիւն Գրչի.— Էջ 87, վերը.— ...եւ զմեղուցեալ անպիտան գծողս յիշեցէք ի Քրիստոս, եւ Ած. ողորմի ասացէք, որ Ած. զձեզ յիշէ ի միւսանգամ գալուստն. ամէն։\nՅետնագոյն յիշատակագրութիւնք. 1.— Տիրացու Պաղտասարի.— 1789 Էջ 1, անհարթ գրով.— Այս Պարզատոյմար, որ ցուցանէ զբոլոր ամէն տարին, մինչեւ ի հի[ն]գ հարիւր եւ ԼԲ տարի կու ցուցնէ։ Զայս Տօմար եւ Աղվսագիրք եւ Շարական մի գնեցաք հի[ն]գ զլթյ. Դ փարայ, ձեռամբ տէր Յարութենին, ի վայելումն տիրացու մեղապարտ եւ անարժան Պաղտասարին։ Ով [ոք] յանդիպի տացէ զողորմին Միրզին եւ իւր կողակցուն, եւ իւր որդի մեղաւոր եւ անպիտան տիրացու Պաղտասարին. յիշեցէք եւ Ած. ողորմի ասացէք։ Ած. ողորմի իւր միւսանգամ գալըստեան ամէն։ Թվին ՌՄԼԸ, ի օգոստոսի է։\n2.— Գասպարի.— 1789 Էջ 2, նախորդին ներքեւ, գունաթափ մելանով.— Թվին ՌՄԼԸին գրեցաւ ձեռամբ Գասպարին, ծառայ Փրկչին, աշակերտն տէր Հօվանէսին։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "270.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3050-refine.json",
+    "pipeline_version": "v1"
+  }
+}

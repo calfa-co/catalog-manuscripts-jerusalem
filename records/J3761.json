@@ -1,0 +1,68 @@
+{
+  "id": "J3761",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3761",
+  "notice": "3761",
+  "volume": "Jerusalem_V11",
+  "title": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3761",
+    "no_notice": "1",
+    "titre": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "298",
+    "dimensions": "20x15x1.5",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, տողք 18 կամ նուազ, սեւ գիծերու միջեւ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը երկու թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Պատմութիւն։ Հարցում, ի՞նչ է պատմութիւնը։ Պատասխան. Պատմութիւնը գործուած իրաց յայտարարութիւնն է. ասոնք կարգաւ եւ վայելուչ ընելու համար չորս հանգամանք կ'ուզէ, այսինքն պատմութիւնը պէտք է ըլլայ բացայայտ, հաւանական, քաղցր եւ համառօտ։ Էջ 8.— Գլուխ Ա։ Պէտք Ճարտասանութեան.— Հարց.— Ի՞նչ է ճարտասանութեան պէտքը։ Էջ 14.— Յաղագս Ճարտասանութեան։ Հարց.— Ի՞նչ է Ճարտասանութիւնը։ Պատ.— Ունկնդիրները համոզելու համար բարւոք խօսելուն ճարտասանութիւն կըսուի։ Էջ 16.— Մասն Ա։ Յաղագս ճոխաբանութեան։ Էջ 20.— Պարբերութիւն։ Էջ 24.— Գլուխ Բ։ Յաղագս փոխակերպութեան։ Էջ 88.— Մասն Բ։ Յաղագս Գիւտի։ Էջ 177.— Մասն Գ։ Տրամադրութիւն։ Էջ 203, 204, կրկնուած։ Էջ 255.— Ատենական Հանդէս։ Էջ 265.— Տաղաչափութիւն։ Էջ 289.— Որ ի կանանցն իւղաբերից արտասուեցար յառաւօտին...։ Էջ 291–294, դատարկ։ Էջ 295.— Ցանկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "219.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3761-refine.json",
+    "pipeline_version": "v1"
+  }
+}

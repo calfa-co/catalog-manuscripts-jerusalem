@@ -1,0 +1,72 @@
+{
+  "id": "J2137",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2137",
+  "notice": "2137",
+  "volume": "Jerusalem_V7",
+  "title": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1846",
+    "to": "1846",
+    "display": null
+  },
+  "fields": {
+    "numero": "2137",
+    "no_notice": "3",
+    "titre": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": "1846",
+    "date_fin": "1846",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "190",
+    "dimensions": "19x14x1",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 23 տող",
+    "details_ecriture": "պարզ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Թագւոր Դըպիր Թէքիրտաղցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ճակատ. Համառօտութիւն Ճարտասանութեան, յօրինեալ դիւրին ոճով ի հարց եւ ի պատասխանի, հօրն Ճենովեսայ, թարգմանեալ ի Մուրատայ վարժապետէ Աբրահամեան Բերիացւոյ, յամի 1831, ի Վանս Զարխափան Կուսին յԱրմաշ։ Նորոգ օրինակեալ ի Թագւոր Դպրէ Թէքիրտաղցւոյ, յաշակերտէ նորին, յուսումնարանի Սրբոց Յակոբեանց Երուսաղէմի, յամի 1846, ի Վանս Սրբոց Յակոբեանց, յԵրուսաղէմ։\nԷջ 3.— Առ ձեռն Ճարտասանութիւն դասատական։ Հրց.— Զի՞նչ է Ճարտասանութիւնն։ Պտխ.— Ճարտասանութիւնն է արուեստ\nբարւոք խօսելոյ, առ ի համոզել զունկնդիրն : էջ 181 — Զի՞նչ են շարժուածք մարմնոյ : էջ 183 — Ցանկ Գրոցս. — Աղբերք յառաջաբանութեան, էջ 61 : էջ 188–190, դատարկ :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "224.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "225.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2137-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J1731",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1731",
+  "notice": "1731",
+  "volume": "Jerusalem_V6",
+  "title": "Տ Օ Ն Ա Ց Ո Յ Ց",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1731",
+    "no_notice": "16",
+    "titre": "Տ Օ Ն Ա Ց Ո Յ Ց",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "316",
+    "dimensions": "10x7x3",
+    "mise_en_page": "խորագիրները եւ գըլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 15 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բամպակեայ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "բաւարար . նորոգութիւն կրած . լուսանցքները ցեցահար",
+    "copiste": "Թումայ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Քաղոց...։ — . . . Աւետիք է Աննայի եւ Յովակիմայ, յորմէ յղացան զՍբ. Կոյսն Մարիամ, զամէնաւրհնեալ Տիրամայրըն...։ Էջ 5.— Արեգի ի ԻԹ, եւ ապրէլի Զ, եւ Նիսան ի ԺԶ, նախատօնակ է Աւետեաց Աստուածածնին Մարիամու, զոր երկնային դասք հրեշտակացն տաւնեցին...։ Էջ 8.— Այլ եւ այս գիտելի է զի բազում հակառակութիւն կրէ մերս եկեղեցի վասն տօնի Աւետեաց Աստուածածնին. ոմանք Զ ապրիլի տօնեն եւ ոմանք Էն, եւ երկուքն ճշմարիտ են. Զ նախատաւնակ է զոր երկնայինքն տօնեցին, Գ դասք հրեշտակացն վերնոցն, զի նոցա յայտնեցաւ փրկութիւն մարդկան։ Եւ յԷ տօնէ մերս եկեղեցի, զի Կուսին Մարիամու յայտնեցաւ փրկութիւն մեր, եւ այս ուղղակի բերէ զԾնունդն Քըրիստոսի յունվարի Զ...։ Էջ 10.— Տունացոց եւ աւետարանացոց եւ կարգաւորութիւն եւ հրահանգք տէրունական տունից, զոր եդեալ եւ սահմանեալ Սրբոյն Սահակայ Հայրապետին, զոր առեալ ի նմանէ նախնիքն մեր հասուցին ի մեզ։ Էջ 128.— Սուրբ Զատկի գիշերն հսկումըն է որ է Յարութիւն։ Էջ 284.— Եւ ասի Ժամամուտ ըստ պատշաճի աւուրն։ Յիշատակագրութիւն Գրչի.— Էջ 313, ստորոտը.— Մի բերան ողորմի ասէք մեղապարտ Թումայիս ամէն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "061.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1731-refine.json",
+    "pipeline_version": "v1"
+  }
+}

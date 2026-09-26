@@ -1,0 +1,68 @@
+{
+  "id": "J2099",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2099",
+  "notice": "2099",
+  "volume": "Jerusalem_V7",
+  "title": "Տ Օ Ն Ա Ց Ո Յ Ց (ՄԱՍՆԱԿԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2099",
+    "no_notice": null,
+    "titre": "Տ Օ Ն Ա Ց Ո Յ Ց (ՄԱՍՆԱԿԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "40",
+    "dimensions": "24 X 16",
+    "mise_en_page": "կարմիր եւ սեւ մելաններով, միասիւն, տողեր անհաւասար",
+    "details_ecriture": "անարուեստ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "էլաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։ Էջ 3 — Յունվար 1, եւ Կաղանդ, այսինքն Հռօմայեցւոց Տօմարի Տարեմուտ...։ Էջ 6 — Փետրվար ամիս։ Էջ 14 — Մայիս Ամիս, Մարերի, 24, երաստեղ։ Էջ 28 — Դեկտեմբեր Ամիս։ Էջ 31 — Շեխ Վաֆայն այսպէս գրեալ է։ Տէրէնտէլին այսպէս գրեալ է։ Էջ 32 — Վասն Լատինացւոց։ Վասն Յունաց։ Էջ 33 — Մերում տումարի աւաղ լրումըն։ — Աղիւսակին ներքեւը՝ տարբեր գրչէ. «Ընդունելի չէ, սխալ է»։ Էջ 34 — Նոր աղիւսակ պատե քական ստուգադրեցեալ։ Էջ 37, տարբեր գրչէ — Ըստ մերում տումարի, աւաղ լրում դրածները սխալ են ...։ Էջ 38-40, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "183.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2099-refine.json",
+    "pipeline_version": "v1"
+  }
+}

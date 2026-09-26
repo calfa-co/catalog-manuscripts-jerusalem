@@ -1,0 +1,68 @@
+{
+  "id": "J3593",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3593",
+  "notice": "3593",
+  "volume": "Jerusalem_V10",
+  "title": "ԵՐԱԶԱՀԱՆ",
+  "date": {
+    "from": "1981",
+    "to": "1981",
+    "display": null
+  },
+  "fields": {
+    "numero": "3593",
+    "no_notice": null,
+    "titre": "ԵՐԱԶԱՀԱՆ",
+    "date_debut": "1981",
+    "date_fin": "1981",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ+288",
+    "dimensions": "19.5x12x2",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 17 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր, ճերմակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Յ. Վ. Պարոնեան",
+    "possesseur": "Յ. Վ. Պարոնեան",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Բ, Դ, Զ, դատարկ։ Էջ Գ.– Երազահան եւ տաղ Յովասափու։ Ի Կ. Պոլիս ՌՄԼԸ թուականին տպեալ Պարզատօմարէ քաղեց Յ. Վ. Պարոնեան, Առքլ. Ուխտէն Ս. Յակոբեանց, 1981, Երուսաղէմ։\nԷջ Ե.– Տաղ Յովասափու.– Ես Առաքել նըւաստ ոգի...։ Էջ 1.– Տաղ Յովասափու թագաւորի՝ որդւոյ թագաւորին Հնդկաց Աբեններայ.– Ա.– Յորժամ Հայրն երկնաւոր յերկիր հաճեցաւ...։ Էջ 98.– Ի թուականիս Հայոց՝ որ ութ հարիւրն է, ութսուն–երեք ի նոյն յարաբարդեալ է, ոտնաչափ շինեցաւ այս յԱռաքելէ, վարդապետ կոչեցեալ՝ Բաղիշեցիէ։\nԷջ 99.– Երազահան հարուստ եւ գեղեցիկ, զոր ասացեալ է Դանիէլ Մարգարէի վասն պէսպէս տեսակաց։ Էջ 162.– Լուսնի Երազացոյց։ Էջ 181.– Հարց եւ պատասխանի ուսումնական ի մէջ Հայկայ եւ Պօղայ, խորհած թուոյ իմանալոյ՝ այլ եւ այլ օրինակաւ։ Էջ 185.– Տղայական ճարտարութիւնք։ Էջ 189.– Յաղագս բարուց՝ ոմանց կենդանեաց։ Էջ 192.– Իգնատիոսի արարեալ մարմնախաղաց փորձիւ։ Էջ 254.– Գիտողին ամենայն գաղտնեաց եւ յայտնողին զպարագայս՝ Քրիստոսի Աստուծոյ մերոյ փառք յաւիտեանս Ամէն։ Էջ 285–288, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "655.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3593-refine.json",
+    "pipeline_version": "v1"
+  }
+}

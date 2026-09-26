@@ -1,0 +1,68 @@
+{
+  "id": "J879",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "879",
+  "notice": "879",
+  "volume": "Jerusalem_V3",
+  "title": "ՎԵՑՕՐԷԻՑ ԳԻՐՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "879",
+    "no_notice": "6",
+    "titre": "ՎԵՑՕՐԷԻՑ ԳԻՐՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ը+210",
+    "dimensions": "20.5x15x2",
+    "mise_en_page": "վերնագիրները, ըսկըզբնատողերը եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 33 տող",
+    "details_ecriture": "շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": "Սարգիս",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Դ, դատարկ, բացի էջ Գէն, որուն առաջին սիւնակին կէսը կը պարունակէ այբուբենական ցանկին սկզբնաւորութիւնը, որ կիսատ ձգուած է, եւ յետոյ դարձեալ սկսուած եւ շարունակուած էջ Ե1-Է1։ Էջ Է2-Ը կը մնան դատարկ։ Էջ 1. — Ի Բարդուղիմէ աստուածաբան վարդապետէ։ Գիր յաղագս Վեցօրեայ Արարչութեան առաջին աւուրն. — Սքանչելի եղեւ գիտութիւն քո ասէ սաղմոսերգուն Դաւիթ։ Ասեն վարդապետք թէ մարդն է բաղադրեալ ի հոգւոյ եւ ի մարմնոյ...։ Էջ 109. — Հինգերորդ աւուրն. — Բայց վասն գործոյ հինգերորդ աւուրն, առաջին հարցումն է այս, թէ գործ հինգերորդ աւուրն պատշաճաբար պատմի ի գիրս սուրբս։ Երեւի թէ ոչ...։ Էջ 147. — Յաղագս Է երորդ աւուրն. — Աստանօր սկիզբն արասցուք վասն հարցմանց Է րդ աւուրն...։ Էջ 201. — Երեսուն եւ Ե րդ հարցումն է թէ մեղքն Ադամայ ծանրագոյն է քան դեւային...։ Էջ 202. — Արդ կատարեցաւ գիրք վեցօրեայ գործոց արարչութեան հաւաքեալ ձեռամբ Բարդուղիմէոսի եպիսկոպոսի ի կարգէ քարոզողաց սրբոյն Դոմինիկոսի ազգաւ հռոմայեցի եպիսկոպոս քաղաքին Մարաղոյ եւ թարքմանեցաւ ի լատին բարբառոյ ի հայ լեզու, որոյ էր թարքմանն Յակոբ վարդապետն հայ ազգաւ. եւ Քի. փառք յաւիտեանս ամէն։\nՆաև զգծողս տետերս զանպիտան ամենեցունց ծառայ տրուպ Սարգիսըս յիշեք ի Քս. եւ դուք յիշեալ լիջիք ամէն։ Էջ 203-210, դատարկ, կամ մասամբ գրչափորձերով ծածկուած։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "398.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "879-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J2075",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2075",
+  "notice": "2075",
+  "volume": "Jerusalem_V7",
+  "title": "ՔԱՐՈԶԳԻՐՔ, Բ",
+  "date": {
+    "from": "1859",
+    "to": "1859",
+    "display": null
+  },
+  "fields": {
+    "numero": "2075",
+    "no_notice": "1",
+    "titre": "ՔԱՐՈԶԳԻՐՔ, Բ",
+    "date_debut": "1859",
+    "date_fin": "1859",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԶ + 738",
+    "dimensions": "20.5 x 14 x 4.5",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "եւայլն ըստ նախորդին, 21 տող",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "«Աստուածատուր Վարդապետ, 1857» էջ 1",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ Ա–Ը, դատարկ։ էջ Թ. — Ճակատ. Քարոզք քառասնորդական պահոց... Երկրորդ հատոր։ Յամի Տեառն 1859 եւ Հայոց ՌՅԸ, յուլիս 8։ ...։ Գրեալ ի Սբ. յԵրուսաղէմ ի հռչակաւոր վանս Սրբոց Յակոբեանց։\nէջ Ժ–ԺԶ, դատարկ։ էջ 1. — Քարոզ քսան եւ միերրորդ։ Յաւուր ուրբաթու երրորդ կիւրակէի բանն Աստուծոյ առանց Պաղոյ։ Զի որ սերմանեն, եւ որ հնձէ՝ հասարակ ցնծասցեն։ Յայսմ իսկ է բանն ճշմարիտ. Յօհ. 4.36. — Եթէ երբեմն սերմանեցաւ բանն Աստուծոյ հանդերձ լիապատար եւ առատ հնձմամբ...։ էջ 304. — Քարոզ երեսներրորդ։ Դիտ. — էջ 329էն ցատկած է 333ի սըխալմամբ։ էջ 586. — Քարոզ Քառասներրորդ։ Յաւուր երկու շաբաթի Զատկին։ էջ 612. — Քարոզ Քառասուն եւ միերրորդ։ Յաւուր երեքշաբաթի զկնի Զատկի։ Հաւատարութիւնն եւ համբերութիւնն, երկու միջոցք առ ի հետեւիլ խաղաղութեան։ էջ 648. — Վախճան բոլոր մատենիս։ էջ 649, դատարկ։ էջ 650. — Ցանկ եւ ցուցակ նշանաւոր իրաց սրբոյ մատենիս, հանդերձ թղթահամարօք նորին։ Դասակարգեալ այբուբենական ոճիւ։ էջ 709, դատարկ։ էջ 710. — Ցանկ բնաբանից եւ նիւթաւոր մտաց նոցին։ — ԻԱ–ԽԱ Գլուխներ։\nէջ 713-738, դատարկ ։ Յետնագոյն յիշատակագրութիւն.— էջ 1, վերը, մանիշակագոյն թանաքով . — Ի գրոց Աստուածատուր Եպիսկոպոսի Տէր Յովհաննիսեանց Խարբերդցւոյ, 1876 ։ 1876"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "162.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "163.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2075-refine.json",
+    "pipeline_version": "v1"
+  }
+}

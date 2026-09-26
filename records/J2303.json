@@ -1,0 +1,72 @@
+{
+  "id": "J2303",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2303",
+  "notice": "2303",
+  "volume": "Jerusalem_V7",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2303",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԲ + 182",
+    "dimensions": "18 X 11 X 1.5",
+    "mise_en_page": "խորագիրները եւ սկզբնատողերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 26-27 տող։ Նոտր շեղագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ որդնակեր",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-ԺԱ, դատարկ։ Էջ 1 — Ծնունդ Սրբոյ Կուսին Մարիամու ի յԱննայէ.— Զի արքունին ի մարգարէս Դաւիթ՝ տեսեալ հոգւոյ աչօք...։ Էջ 143 — Քարոզ ի վերայ Սրբոց Հրեշտակաց եւ Հրեշտակապետաց եւ ամ. երկնային զօրաց.— Շնորհիւ ամենակալ, ամենազօր Հոգւոյն Այ. եւ քրիստոսասէր հարցդ...։ Էջ 160-170, դատարկ։ Էջ 171 — Ցանկ Քարոզից եւ սկզբնաւորութեանցն ըստ իւրաքանչիւր թղթահամարիցն երե։— 1-19 Գլուխներ։ Էջ 173-182, դատարկ։\nՅիշատակագրութիւն.— Էջ ԺԲ, շեղագիր.— Արդ՝ ով ընթերցասէր եղբարք իմ ի Քս. յորժամ շահիք ինչ ի սմանէ, եւ շահեցուցանէք զօրհնեալ ժողովուրդս, յիշեսջիք զանարժանս ի բարին, եւ դուք արդեամբք առատօրէն վարձիւք յիշեալ լինիջիք ի Տէր մեր, որ եմ Սրբոյ Երուսաղէմի Սբ. Աթոռոյս յետին ծառայ՝ Տիգրանակերտցի Յակոբ Վարդապետ Կարնեցի Դաւիթ Եպիսկոպոսին... 1855, յԵրուսաղէմ, ի Սբ. Գահս Քրիստոսադիր:\nԶգրքոյկս ընծայեցի Աղէքսանդրապօլսեցի Ղազարեան Սրապիոն Վարդապետին ի վայելումն, 1860, յունիս 26:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "448.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "449.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2303-refine.json",
+    "pipeline_version": "v1"
+  }
+}

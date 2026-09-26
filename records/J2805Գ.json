@@ -1,0 +1,68 @@
+{
+  "id": "J2805Գ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2805Գ",
+  "notice": "2805Գ",
+  "volume": "Jerusalem_V9",
+  "title": "ՈՒՂԵԳՐՈՒԹԻՒՆ",
+  "date": {
+    "from": "1868",
+    "to": "1870",
+    "display": null
+  },
+  "fields": {
+    "numero": "2805Գ",
+    "no_notice": "1",
+    "titre": "ՈՒՂԵԳՐՈՒԹԻՒՆ",
+    "date_debut": "1868",
+    "date_fin": "1870",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ+413",
+    "dimensions": "20 X 14 X 2.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 24 տող կամ նուազ",
+    "details_ecriture": "մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Սարգիս Սրկ. Գէորգեան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Ե, դատարկ։ Էջ Զ.— Կը նուիրեմ Հինգ Հատոր ուղեւորական Նօթերս Սրբոց Յակոբեանց Վանուց Ձեռագրաց Թանգարանին, որք նուիրակութեանս երեքամեայ շրջանին գրած եմ.— Յովհաննէս Վրդ. Գ. Մեծիփէկեան, Պրուսացի, 1910, Մարտ 18, Երուսաղէմ։\nԷջ 1.— 1869, Տումար Երրորդ՝ Ճանապարհորդութեան Ներսէս Ծայրագոյն Վարդապետի Գէորգեան Թրակացւոյ եւ Աւագ Սարկաւագ Սարգսի Գէորգեան Պրուսացւոյ ի Հնդկաստան։\nՅուլիս 1, օր երեքշաբթի...։ Էջ 48.— Աղանդ Պրմաց։ Էջ 72էն ետք դրած է սխալմամբ 74։ Էջ 89.— Ծանօթութիւն Եկեղեցւոյն Ռանգունայ։ Էջ 165.— Քաղաքականութիւն Պրմաց։ Էջ 192.— Հոկտեմբեր 22, օր Չորեքշաբթի։ Այսօր ի Ռանգուն Մեծապատիւ Պարոն Կարապետ Գ. Առաքել եկեղեցպանի գիր գրեցաւ եւ առաքեցաւ, որ ի ներքոյ տեսանի։ Էջ 264.— Ի Մանզլէ Թագաւորական քաղաքի ունիմք սուրբ եկեղեցի անթուական եւ անյիշատակարան շինեալ յառաջ քան զութ ամ ծախիւք Հայ բնակչաց երկրիս...։ Էջ 320.— Դեկտեմբեր 1, օր Երկուշաբթի։ Այսօր սպաղեալ գոլով աստիճան ջերմութեան ոչ կարողացաք նշանակել։ Էջ 372.— Օդ Պինանկայ կղզւոյն։ Էջ 373.— Կրօնք Սինէացւոց ազգի, այսինքն Չինացւոց։ Էջ 396.— Տապանագիրք գտեալք ի Սինկափուռ կղզի ի հանգստարանն Հայոց։ Էջ 400.— Սինկափուռայ Սբ. Լուսաւորիչ Եկեղեցւոյ յատակագիծն։ Էջ 402.— Դեկտեմբեր 31, օր Չորեքշաբթի...։ Էջ 403, դատարկ։ Էջ 404.— Խրատք վասն գործածութեան Մանելու կուտին։ Էջ 407–413, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "025.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2805Գ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J818",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "818",
+  "notice": "818",
+  "volume": "Jerusalem_V3",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "818",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "110",
+    "dimensions": "21.5x14x2",
+    "mise_en_page": "գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 29, 24, տող։ Նոտր շեղագիր եւ նոտրագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ, քառանկիւն, փակագիր, էջ 3 եւ 5. «Ք. Ծ. Աբրահամ Վարդապետ, 1243»?",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 — 11, բոլորգիր։ Էջ 1.— Գանձ բուն Բարեկենդանին ի տէր Մխիթարայ.— երգս յաւէժական, երդեմք բանական, երիցըդ միական...։ — Ե ր . . . Ա ն ե ց ի ն։ Էջ 6.— Տաղ Զարմանալի.— Ճրագ ճշմարիտ հօր միածին, լուսաւորեա զխաւարս անձին...։ Էջ 6.— Գանձ Սրբոյն Թէոդորոսի քաջամարտիկ եւ արագահաս զինուորին.— Վայելչագեղ սուրբ կոյս տիրածին, ամէնօրհնեալ Սուրբ Աստուածածին...։ Նայ եւ Գրիգոր րաբունապետին, որ նախ խնդրող եղեւ այս գանձին, եւ զըստացող այս գանձարանին, զՏէր Մարտիրոս սուրբ հեզահոգին. ի գալըստեան աւուրն ահագին, արժան լինի անանց պըսակին,\nժողովրդեանս մեր ամենին, Առաքելին երգողի սորին, Ողորմեաց մեզ Տէր ։ — Վ ա ր դ ա պ ե տ ն ։ էջ 7.— Մեղեդի լաւ եւ անոյշ.— Քաջամարտիկ մեծ զինուորին Թէոդորոսի... ։ էջ 8.— Տաղ նորին.— Խաղաղարար նոր թագաւոր, քո զինւորացըն հոգեւոր... ։ էջ 9.— Գանձ.— Բարուն մարդասէր, որ շնորհաց ես Տէր, նոյն դու բարեսէր... ։ էջ 11, նոտրագիր տարբեր գրչէ, «Բաղեշեցի Յօհաննէս Վարդապետին է այս»։ էջ 12–106, «ծանուցմունք եւ քարոզք վասն նորեկ ուխտաւորաց ի սուրբ Երուսաղէմ եւ օրհնութիւնք քարոզից» ։ էջ 107.— Վասն երակ առնելոյ.— Առաջին օրն ոչ է բարի, բորոտութիւն բերէ . Բ Գ օրն մի' առներ, եոք բերէ, եւ հիւանդութիւն... ։ էջ 108.— Տաղ զբօսանաց.— Յաւուր միում որ էր մեզ նոր կիրակի, ելալ ի քաղաքէն ես առանձնակի... ։ Հաւիկ մի պայծառ տեսի աննման, ի յայն քառաթեւին վերայ աննման... ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "309.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "310.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "818-refine.json",
+    "pipeline_version": "v1"
+  }
+}

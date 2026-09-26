@@ -1,0 +1,72 @@
+{
+  "id": "J1907",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1907",
+  "notice": "1907",
+  "volume": "Jerusalem_V6",
+  "title": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1907",
+    "no_notice": "24",
+    "titre": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "626",
+    "dimensions": "14 x 10 x 5.5",
+    "mise_en_page": "խորագիրները եւ սկզբնատողերը կարմիր, գլխատառերը փոփոխոփո կարմիր եւ կապոյտ երկաթագիր, մնացեալը սեւ մելանով, երկսիւն, 21 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի։ Կարմիր կապոյտ զարդագիր եւ լուսանցազարդ հատուածներու սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ ընդհանուր առմամբ, սկիզբի թերթերը մասամբ վնասուած ու ծռած",
+    "copiste": null,
+    "possesseur": "Աբրահամ հացպան",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "Աւետարանչաց, Մատթէոս էջ 28, Մարկոս 204, Յովհաննէս 486",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "մանրանկարք լուսանցքի, Մատթէոս, 12, Մարկոս 7, Ղուկաս 12, Յովհաննէս 8 ; ԽՈՐԱՆԱԶԱՐԴ: իւր սարօք, էջ 29, 205, 321, 487",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1-20.— Թուղթ Եւսեբիոսի եւ խորանի տախտակներ, գրուած թերթի մէկ երեսին վրայ։ էջ 21.— Սկիզբն Գլխոց Մատթէոսի Աւետարանին։ էջ 29.— Գիրք Ծննդեան Յի Քի. ...։ էջ 68-69ի միջեւ կտրուած մէկ թերթ։ էջ 205.— Սկիզբն Աւետարանի Յի. Քի. ...։ էջ 321.— Քանզի բազումք յաժարեցին ...։ էջ 318-319ի միջեւ կը տեսնուի արմատը կտրուած թերթի մը, բայց պակաս չկայ ցանկին մէջ։ Նոյն ԺԳ պրակէն կը պակսի մէկ թերթ եւս, որ պիտի պարունակէր Ղուկաս Աւետարանչի նկարը։ էջ 330-331ի միջեւ կտրուած մէկ թերթ։ էջ 487.— Ի սկզբանէ էր Բանն...։ էջ 624բ.— Պրակ ԻԶ.— ...բայց է եւ այլ ինչ բազում զոր արար Յս. զոր եթէ գրեալ էր մի ըստ միոջէ, կարծեմ թէ եւ ոչ աշխարհս բաւական էր տանել զգիրսն, որ"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "357.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "358.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1907-refine.json",
+    "pipeline_version": "v1"
+  }
+}

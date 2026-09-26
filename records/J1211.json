@@ -1,0 +1,68 @@
+{
+  "id": "J1211",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1211",
+  "notice": "1211",
+  "volume": "Jerusalem_V4",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": "1656",
+    "to": "1656",
+    "display": null
+  },
+  "fields": {
+    "numero": "1211",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": "1656",
+    "date_fin": "1656",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "216։ Պրակաթիւք էջ 2ին ԻԳ, էջ 72ին ԻԴ, ապա կանոնաւոր ԻԵ-Լ",
+    "dimensions": "18x12x1.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ սկզբնատառերը կարմիր, մասամբ կապոյտ, մնացեալը սեւ մելանով, երկսիւն, 28 տող։ Վարժ բոլորգիր էջ 1-50, բոլորգիր եւ նոտրագիր խառն, էջ 51-215",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Ոսկան Վրդ. Երեւանցի",
+    "possesseur": "Ոսկան Վրդ. Երեւանցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը մէկ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր եւ լուսանցազարդ էջ 3, 19, 51",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Յիշատակարան՝ Գրիչ Ոսկան Վարդապետի.— 1656 էջ 1ա.— Պարագայութեամբ ամաց՝ ըստ շրջաբերութեան մեծագունոյ լուսաւորին...։— Տես Սիոն, 1966, էջ 548-549։ Ա.— էջ 3ա.— Նորին Սրբոյ Բասղի եպիսկոպոսի եւ Ապօղինարի հերձուածողի, տեսութիւն ի մարմնաւորութիւն Փրկչին։ Բասիղ ասէ.— Մարմին մարդկային ունէր Քրիստոս եթէ ոչ...։\nԱՇԽԱՐՀԱՑՈՅՑ — 4 Մ. Խորենացի Բ.— էջ 19ա.— [Ա]շխարհացոյց Մոսէսի Խորենացւոյ.— Յաղագս աշխարհագրութեան յաստուածային գիրս ոչ ուրեք գտանեմք ոճով ասացեալ...։— Կը տեսնուին բազմաթիւ լուսանցագրութիւններ նոտր գրով։ էջ 50բ.— Վերջ Աշխարհագրութեանն մեծին Մովսեսի Խորենացւոյ։\nԼՈՒԾՄՈՒՆՔ ՆԱՐԵԿԻ.— 4 Գ.— էջ 51ա.— ԶԱ.— Մաղթանք առ Սուրբ Հրեշտակսն։ Ծանօթ.— Ցանկին առաջին մասը կը պակսի. ըստ երեւոյթին թերթ ինկած է։ էջ 51բ.— Լուծմունք հոգելից բանից Սրբոյն Գրիգորի Նարեկացւոյ.— Զայն հառաչանաց։ Զայնն յերկուս բաժանի, յօդեալն եւ անյօդն...։ էջ 215բ.— Վերջ։ Գոհութիւն եւ փառք Տեառն իմոյ Յիսուսի Օծելոյ։ էջ 216, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "374.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1211-refine.json",
+    "pipeline_version": "v1"
+  }
+}

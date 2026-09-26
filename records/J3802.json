@@ -1,0 +1,68 @@
+{
+  "id": "J3802",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3802",
+  "notice": "3802",
+  "volume": "Jerusalem_V11",
+  "title": "ԵԿԵՂԵՑԱԿԱՆ ԵՐԳԵՑՈՂՈՒԹԻՒՆ.— Ժ.",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3802",
+    "no_notice": null,
+    "titre": "ԵԿԵՂԵՑԱԿԱՆ ԵՐԳԵՑՈՂՈՒԹԻՒՆ.— Ժ.",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Նման Զ. տետրին, էջք 140:",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Մանկունք Ապաշխարութեան, ԱՁ.— Զառաւօտու զօրհներգութիւնս...: Էջ 26.— Համբարձի Ապաշխարութեան, ԴԿ.— Մըտցեն աղօթք իմ, Տէր...: Էջ 28.— Աւագ Օրհնութիւնք: Էջ 45.— Մանկունք Մարտիրոսաց: Էջ 57.— Մանկունք եւ Համբարձի Անտոնի անապատականին: Էջ 64.— Մանկունք Նաւակատեաց Սրբոյ Խաչին, ԱԿ.— Սեղան քո Տէր զօրութեանց ...: Էջ 75.— Մանկունք Սրբոց Թարգմանչաց, ԳՁ.— Նըմանեալ Մովսեսի...: Էջ 88.— Կարգ Շբ. երեկոյից սովորական աւուրց: Էջ 104.— Երգեցողութիւնք Կիւրակէ աւուրց: Էջ 123.— Մանկունք ԳՁ, Հայրապետաց (Սբ. Ժողովոյ): Էջ 125.— Համբարձի ԴՁ, (Դարձուածք) Համբարձման.— Որք տընկակից...: Էջ 129.— Մանկունք ԴՁ, Ներսէսի Հայրապետին: Էջ 135.— Տ. Յերկնից ԱԿ, Յարութեան.— Սքանչելի հրեշտակըն...: Էջ 137.— Ցանկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "252.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3802-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J41",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "41",
+  "notice": "41",
+  "volume": "Jerusalem_V1",
+  "title": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+  "date": {
+    "from": "1773",
+    "to": "1773",
+    "display": null
+  },
+  "fields": {
+    "numero": "41",
+    "no_notice": "3",
+    "titre": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+    "date_debut": "1773",
+    "date_fin": "1773",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "168",
+    "dimensions": "34 x 22 x 2",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 46—50 տող։ Նոտր շեղագիր",
+    "details_ecriture": "շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "բաւարար, լուսանցքները ցեցակեր",
+    "copiste": "Գաբրիէլ Աբեղայ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Բանք Ոսկիականք ի վերայ Քառասնորդականաց։ Բան Առաջին յԱւուր Մոխրոց...։ Էջ 163. — Խնդիր Ցանկի, կամ տախտակն Քառասնորդական բանից և համայն ճառից մեծահռչակ վարդապետի Յակոբ կրօնաւորի ի կարգէ Քարոզողաց, Արհի-"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "174.jpg"
+    },
+    {
+      "volume": "Jerusalem_V1",
+      "file": "175.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "41-refine.json",
+    "pipeline_version": "v1"
+  }
+}

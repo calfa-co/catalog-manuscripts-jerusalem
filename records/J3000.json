@@ -1,0 +1,72 @@
+{
+  "id": "J3000",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3000",
+  "notice": "3000",
+  "volume": "Jerusalem_V9",
+  "title": "Թ Ո Ւ Ա Բ Ա Ն Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1883",
+    "to": "1883",
+    "display": null
+  },
+  "fields": {
+    "numero": "3000",
+    "no_notice": "2",
+    "titre": "Թ Ո Ւ Ա Բ Ա Ն Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": "1883",
+    "date_fin": "1883",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "20 X 12 X 1 : Էջք 284 : Հանգամանք լաւ : Թուղթ հասարակ : Գրիչ ՝ Գրիգոր Սրկ . Քեշիշեան : Գրութիւն մանրչակագոյն թանաքով , միասին , 20 տող , պակաս կամ աւելի : Շեղագիր : Կազմ կիսալաթ խաւաքարտեայ անարուեստ . առաջին կողքին վրայ գրուած է « Խորին յարգանօք շնորհակալութիւնս կը յայտնեմ եղբայր Գրիգոր . ահաւասիկ Թուաբանութեան տետրը կը դնեմ ձեր նստած տէրէկին , թերեւս ձեզի պէտք կ՚ըլլայ , չփնտռէք » : Կողքին ներսի կողմը ՝ Վահան Վրդ . Քէշիշեան",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 . — Յաւելման վրայ խնդիրներ : Էջ 3 . — Բարձման վրայ խնդիրներ Էջ 9 . — Բազմապատկութեան վրայ խընդիրներ : Էջ 15 . — Բաժանման վրայ խնդիրներ : Էջ 20 . — Չորս Գործողութեանց վրայ խառըն խնդիրներ : Էջ 58 . — Կոտորակաց բաժանման վրայ խնդիրներ : Էջ 73 . — Պարզ երից կանոնի վրայ խնդիրներ Էջ 99 . — Տոկոսեաց վրայ խնդիրներ : Էջ 108 . — Բաղադրեալ տոկոսի խնդիրներ : Էջ 122 . — Վճարաժամու վրայ խնդիրք : Էջ 156 . — Խնդիրք քառ . արմատոց : Էջ 174 . — Բաղադրեալ տոկոսեաց վրայ խնդիրներ : Էջ 181 . — Խառն խնդիրներ : Էջ 194-212 , դատարկ : Էջ 213 . — Շահու վերաբերեալ խնդրոց մէջ հինգ գլխաւոր թիւեր կան , որք են , դրամագլուխ . . . : Էջ 218 . — Բաղադրեալ շահ կամ բաղադըրեալ տոկոս : Էջ 224-228 , դատարկ : Էջ 229 . — Քառակուսի : Էջ 232 . — Խորանարդ :\nէջ 241.— Քառ. արմատի վերաբերեալ կարեւոր գիտելիք։ էջ 244.— Համառօտ Կանոն Քառակուսի արմատի։ էջ 245-248, դատարկ։ էջ 249.— Օրինակ Ա։ էջ 254.— Քառ. Արմատի վրայ կրթութիւններ։ էջ 262, դատարկ։ էջ 263.— Տետր Թուաբանութեան։ (Լուծեալ 1-100 սովորական կոտորակաց չորս գործողութիւնք), ի Վ. Վահան։ Յակովբեան Թուաբանութենէ։ 1883 օգոստոս 10, յԵրուսաղէմ, ի Վարժարանի ժառանգաւորաց Ս. Յակովբեանց Վանուց Հայոց։ Ս. Գրիգոր Մ. Քեշիշեան։ էջ 264, դատարկ։ էջ 265.— Սովորական կոտորակաց չորս գործողութեանց վրայ խնդիրներ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "202.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "203.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3000-refine.json",
+    "pipeline_version": "v1"
+  }
+}

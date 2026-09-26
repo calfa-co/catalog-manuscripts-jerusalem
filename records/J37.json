@@ -1,0 +1,68 @@
+{
+  "id": "J37",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "37",
+  "notice": "37",
+  "volume": "Jerusalem_V1",
+  "title": "ՔԱՐՈԶԳԻՐՔ",
+  "date": {
+    "from": "1826",
+    "to": "1826",
+    "display": null
+  },
+  "fields": {
+    "numero": "37",
+    "no_notice": "1",
+    "titre": "ՔԱՐՈԶԳԻՐՔ",
+    "date_debut": "1826",
+    "date_fin": "1826",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ի + 444",
+    "dimensions": "36 x 22 x 4",
+    "mise_en_page": "սեւ մելանով, միասիւն, 33 տող։ Նոտր շեղագիր",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Յովհաննէս դպիր Մարզուանցի",
+    "possesseur": "Եսայի Վրդ. Մարզուանցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Դ, դատարկ։ Էջ Ե.— Ճակատ. Քարոզ Գիրք.— Հաւաքեալ աստի և անտի աշխատասիրութեամբ Գէորգ եպիսկոպոսի Զմիւռնացւոյ, Դիտին Եւդոկիոյ, ի դիւրութիւն նորակիրթ քարոզչացն ուխտին Սրբոյն Աննայի։— Ի հայրապետութեան Տեառն և Տեառն Եփրեմի սրբազնակատար կաթողիկոսի ամենայն Հայոց.— օրինակեալ ի յԵւդոկիա, Յամի Տեառն 182 :— Էջ Զ-ԺԲ, դատարկ։ Էջ ԺԳ.— Ցուցակ Մատենիս։ Էջ ԺԷ.— Յառաջաբանութիւն։ Էջ ԺԸ-Ի, դատարկ։ Էջ 1.— Դիտաւորութիւն.— Յաղագս պահոց և աղօթից.— Բնաբան.— Վարդապետ՝ ածի զորդի իմ առ քեզ, եւլն։ Մատթէոս Թ. 16։ Սկսուած.— Պատմէ սրբազան աւետարանիչն Մարկոս թէ առաջի աշակերտացն Քս.ի բերին զդիւահար մի զի բժըշկեսցեն...։ Էջ 338-348, դատարկ։ Նոյնպէս էջ 436-444։\nՅիշատակարան Գրչի.— Էջ 435.— Օրինակեցաւ ի նախկին յընտիր ղաղափարէն ի ձեռն Մարզուանցի Եւդոկիոյ տիրացու Յարութիւն վարժապետի որդւոյ չնչին Յօհաննէս ապարղիւն դպրիս, ի խնդրոյ Եսայի վարդապետի ի Տէր հանգուցելոյ՝ եղբօր նոյն վարժապետի։ Որ յընթերցողացդ յիշել մաղթեմք զհոգի նոյն Սբ. Հօր, ընդ նմին և զամենանուաստ ծառայս չնչին Յօհաննէս գրիչս։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "170.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "37-refine.json",
+    "pipeline_version": "v1"
+  }
+}

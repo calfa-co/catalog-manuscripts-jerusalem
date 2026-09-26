@@ -1,0 +1,72 @@
+{
+  "id": "J1214",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1214",
+  "notice": "1214",
+  "volume": "Jerusalem_V4",
+  "title": "Ա.— ԱՍՏՂԱԲԱՇԽՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1214",
+    "no_notice": "3",
+    "titre": "Ա.— ԱՍՏՂԱԲԱՇԽՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "142",
+    "dimensions": "18x13x1",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 22-32 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "անարուեստ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։ Էջ 3.— Յաղագս դիտողութեան տիեզերիս՝ ըստ յանդիման լինելոյ աչաց։ Սահման Ա.— 1.— Աստղաբաշխութիւնն է գիտութիւն տիեզերիս եւ երեւութից նորա, ըստ որում այնպիսի.— Հմմտ. թիւ 817, Գ. Հատոր, էջ 289։ Էջ 33.— Երկրորդ Մասն Աստեղաբաշխութեան։ Յաղագս նկատողութեան տիեզերիս՝ ըստ որում մտօք ըմբռնի։\nէջ 86.— Եթէ ժամացոյցն վրիպեսցի, ուղղագրեսցի ի դիտեալ բարձրութենէ արեգական եւ կամ ի ձեռն միջօրական գծի։ էջ 87-96, դատարկ։\nՍահման Ա.— 1.— Ընդհայեցողութիւնն՝ որ եւ տեսաբանութիւն ասի, է գիտութիւն տեսանելի իրաց, ըստ որում ի ձեռն շառաւիղաց ուղղակի ձգելոց ի նոցունց յաչս՝ լինի տեսանելի։ էջ 106, դատարկ։\nԲ.— ԱՌԱԾՔ ԻՄԱՍՏԱՍԻՐԱՑ.— 1 Զաքարիա էջ 107.— Առած կռամոլ իմաստասիրաց բարոյական, ի Զաքարիայէ հաւաքեալ, 1810։ Կղէոբուղոս Լենդացի.— Գուն գործես խորհիլ եւ գիտել ինչ մեծ եւ պանծալի...։ էջ 109.— Պերիանդր Կորնթացի.— Ոչ ինչ պարտ է գործել ի շնորհս արծաթոյ...։ էջ 124.— Բիաս Պրիէնացի, առած.— Լայերտիոս.— Թշուառական է՝ որ չկարէ տանիլ թշուառութեան...։ էջ 128.— Վասն Ողջախոհութեան։ էջ 129-130, դատարկ։ էջ 131.— Յասելն Սոփոկլի, տես Պերիկղէ, քանի գեղավայելուչ է մանուկս...։ էջ 139.— Հայրենեաց առաւել լաւ է միտք բարի՝ քան բանք։ էջ 140-142, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "377.JPG"
+    },
+    {
+      "volume": "Jerusalem_V4",
+      "file": "378.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1214-refine.json",
+    "pipeline_version": "v1"
+  }
+}

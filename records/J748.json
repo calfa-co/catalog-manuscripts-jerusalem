@@ -1,0 +1,68 @@
+{
+  "id": "J748",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "748",
+  "notice": "748",
+  "volume": "Jerusalem_V3",
+  "title": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "748",
+    "no_notice": "4",
+    "titre": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ+356",
+    "dimensions": "21x16x2.5",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 28 տող։ Նոտր շեղագիր",
+    "details_ecriture": "շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "փայլուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդ, էջ 1",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա.— Առաջաբանութիւն, կամ ըսկիզբն Աստուածաբանութեան.— Հմմտ. Բ. Հատոր, էջ 260։ Էջ 1.— Աստուածաբանութիւն Սկոթոսին։ Մասն Առաջին։ Զմիութիւն Էյութեան աստուածայնոյ եւ զԵրրորդութիւն Անձանց մեկնելով...։ Էջ 345.— Վերջ Ած.աբանութեան նրբագունեղի Սկօթոսի Վարդապետին։ Էջ 346–356, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "214.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "748-refine.json",
+    "pipeline_version": "v1"
+  }
+}

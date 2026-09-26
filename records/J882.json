@@ -1,0 +1,72 @@
+{
+  "id": "J882",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "882",
+  "notice": "882",
+  "volume": "Jerusalem_V3",
+  "title": "ԺՈՂՈՎԱԾՈՅ ՄԵԿՆՈՒԹԵԱՆՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "882",
+    "no_notice": null,
+    "titre": "ԺՈՂՈՎԱԾՈՅ ՄԵԿՆՈՒԹԵԱՆՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "208",
+    "dimensions": "21×14.5×1.5",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 32 տող",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։\nԱ.— ՄԵԿՆՈՒԹԻՒՆ ՅԵՍՈՒԱՅ.— 2 Եփրեմ Խուրի Էջ 3.— Մեկնութիւն Յեսուայ որդւոյ\nնաւեայ զոր արարեալ է Տեառն Եփրեմի Խորին Ասորւոյ ։\nՅիշատակագրութիւն Գրչի . էջ 61 .— Քս . լոյս աշխարհի , լուսաւորեա անվախճան լուսով քո զհողի գծողի սորա ըՍպերցի ի գեղջէն Զկնաջրցի զԳրիգորի անարժան դպրի ։ էջ 62 , դատարկ ։\nԲ .— ՄԵԿՆ . ՅԵՍՈՒԱՅ ԵՒ ԴԱՏԱՒՈՐԱՑ — 2 Եղիշէ Վարդապետ էջ 63 .— Մեկնութիւն Յեսուայ եւ Դատաւորացն զոր արարեալ է ծայրա քաղ Եղիշէի Հայոց Վարդապետին ։\nՅիշատակագրութիւն Գրչի . էջ 108 .— Յիշել աղաչեմ զպարտապանս բիւրոց քանքարաց ։ էջ 109-119 , դատարկ գրեթէ ։\nԳ .— ՄԵԿՆՈՒԹԻՒՆ ԵԶԵԿԻԷԼԻ — 3 Կիւրեղ Եպս . էջ 111 .— Սրբոյն Կիւրղի Եպիսկոպոսի վերլուծութիւն կամ Մեկնութիւն մարգարէին Եզեկիէլի ։ էջ 194 .— Գլուխ 11 , համար 1 .— Եւ առ զիս ասէ ոգի եւ ած զիս ի դուռն տան Տեառն որ հայէր ընդ արեւելս . . . ։ էջ 207-208 , դատարկ գրեթէ ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "400.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "401.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "882-refine.json",
+    "pipeline_version": "v1"
+  }
+}

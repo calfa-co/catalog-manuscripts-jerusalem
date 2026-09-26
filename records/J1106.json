@@ -1,0 +1,68 @@
+{
+  "id": "J1106",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1106",
+  "notice": "1106",
+  "volume": "Jerusalem_V4",
+  "title": "ՎԻՃԱԲԱՆԱԿԱՆ ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1106",
+    "no_notice": "3",
+    "titre": "ՎԻՃԱԲԱՆԱԿԱՆ ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "240",
+    "dimensions": "20x15x1.5",
+    "mise_en_page": "սկզբնատողերը վարդագոյն, մնացեալը սեւ մելանով, միասիւն, 23-24 տող",
+    "details_ecriture": "մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բարակ փայլուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ գծադրոշմ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը և վերջը մէկմէկ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Յաղագս աստուածային բացարձակ կատարելութեանցն, այսինքն, աստուածային ստորոգելեացն, եւ յաղագս աստուածային գոյութեան եւ միութեան։ Առաջին խնդիր.— Առաջին եզրակացութիւն Գոյ Աստուած է հիմն մերոյ հաւատոյ եւ ցուցանի յԱրիստոտելէ բնական պատճառօք ...։— Հմմտ. թիւ 1095 Դ։ Էջ 223.— Ընդդէմ ոմանց առ երկրորդ տարակուսութեան որ եղեալ է ի խնդիրսն — Երկրորդ պատասխանի թէ հրշտակն ոչ մեղաւ ցանկանալով գործադրիչ կամեցողութեամբ զհաւասարութիւն ընդ Աստուծոյ...։ Էջ 235, դատարկ։ Նոյնպէս եւ էջ 238-240։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "187.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1106-refine.json",
+    "pipeline_version": "v1"
+  }
+}

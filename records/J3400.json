@@ -1,0 +1,68 @@
+{
+  "id": "J3400",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3400",
+  "notice": "3400",
+  "volume": "Jerusalem_V10",
+  "title": "ԺՈՂՈՎԱԾՈՒ (ԱՐԱԲԵՐԷՆ Եւ ԹՐՔԵՐԷՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3400",
+    "no_notice": null,
+    "titre": "ԺՈՂՈՎԱԾՈՒ (ԱՐԱԲԵՐԷՆ Եւ ԹՐՔԵՐԷՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "298",
+    "dimensions": "15.5X10X2",
+    "mise_en_page": "սեւ մելանով, կարգ մը բառեր եւ կէտեր նարնջագոյն, միասիւն, 9, 15 տող",
+    "details_ecriture": "մաքուր եւ կանոնաւոր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ դրոշմազարդ, մասամբ քայքայուած",
+    "etat_conservation": "համարեա բաւարար, ընդհանուր առմամբ. սկիզբը թերի. էջ 258–259ի միջեւ ԹԵՐԹՔ ինկած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "317.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3400-refine.json",
+    "pipeline_version": "v1"
+  }
+}

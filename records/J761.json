@@ -1,0 +1,72 @@
+{
+  "id": "J761",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "761",
+  "notice": "761",
+  "volume": "Jerusalem_V3",
+  "title": "ԴՈՒՌՆ ԱՍՏՈՒԱԾԱՅԻՆ",
+  "date": {
+    "from": "1864",
+    "to": "1864",
+    "display": null
+  },
+  "fields": {
+    "numero": "761",
+    "no_notice": "1",
+    "titre": "ԴՈՒՌՆ ԱՍՏՈՒԱԾԱՅԻՆ",
+    "date_debut": "1864",
+    "date_fin": "1864",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "71",
+    "dimensions": "21.5 x 7.5",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ։",
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Ճակատ.— Դուռն Աստուածային պէս-պէս շնորհաց բարեաց եւ փառաց։ Քաղեցաւ ի Սուրբ Գրոց։ Ի տեսութիւն բարեմիտ մանկանց Սբ. Եկեղեցւոյն Քս.ի։ 1864 ամի, ի 1 ապրիլի, ի Մայր Սբ. Աթոռն Էջմիածին",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Յառաջաբան.— Նախ պարտ է գիտել զի անթիւ են եւ բազմատեսակ...։\nէջ 7.— Գլուխ Ա.— Արդ՝ ամենացանկալի դուռն յաւիտենական կենաց երանութեան...։ էջ 61.— Վերջաբանութիւն.— Ի վերջոյ բանիցս խորհրդական դրանց...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "226.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "227.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "761-refine.json",
+    "pipeline_version": "v1"
+  }
+}

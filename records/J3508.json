@@ -1,0 +1,68 @@
+{
+  "id": "J3508",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3508",
+  "notice": "3508",
+  "volume": "Jerusalem_V10",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՅՈՎՀԱՆՆՈՒ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3508",
+    "no_notice": "7",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՅՈՎՀԱՆՆՈՒ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ+222",
+    "dimensions": "23x5x18x2",
+    "mise_en_page": "սկզբանները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 26 տող, կարմիր գիծերու միջեւ։ Նոտր շեղագիր",
+    "details_ecriture": "սովորականէն աւելի։ Լաթակազմ նոր։",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապոյտ, ծծող",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "անբաւարար. վերջը թերի",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Հմմտ.—Յ. Թօփճեան, Ցուցակ Ձեռ. Արմաշի Վանքին, Վենետիկ, 1962, թիւ 59, էջ 198—201",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ Ա-Զ, ճերմակ թուղթ, սկզբնապէս դատարկ։ էջ Ա.— No. 59—Նանա Ասորի—2-6— Արմաշ։ էջ 1ա.— Ոչինչ ըղձալի է քան զսիրելեացն լցուցանել զիղձս տենչանացն...։ էջ 7բ.— Սրբոյն Նանայի Ասորւոյ Վարդապետի Մեկնութիւն Սրբոյ Աւետարանին Յօհաննու։ էջ 82-99ի միջեւ կը պակսի ութ թերթ։ էջ 222բ.— ...եւ որ ոչն սիրէ զիս՝ զբանն իմ ոչ պահէ [ Այսչափ. շարունակութիւնը կորսուած] — Հմմտ. Տպ. Վենետիկ, էջ 326։\nՅետնագոյն յիշատակագրութիւն.— 1825 էջ Զ, մէջտեղը.— Յիշատակ է Արմաշու չարխափան Սբ. Աստուածածնի հրաշալի վանացն ի տեառնէ Պօղոսէ արհիապանծ եպիսկոպոսէ եւ ի բարեջան առաջնորդէ երկուց վիճակացն Պրուսայու եւ Նիկոմիդեայ՝ ի վայելումն ուսումնասէր միաբանից նոյն Սբ. Վանացն. եւ որ գողանայ կամ իւրացուցանէ՝ դատապարտեալ եղիցի յահաւոր ատենին Քի. եւ յանշէջ հուր գեհենին լուծցէ զպատիժն.— 1825։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "497.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3508-refine.json",
+    "pipeline_version": "v1"
+  }
+}

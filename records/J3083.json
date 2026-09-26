@@ -1,0 +1,72 @@
+{
+  "id": "J3083",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3083",
+  "notice": "3083",
+  "volume": "Jerusalem_V9",
+  "title": "ՅԱՂԱԳՍ ՍՈՒՐԲ ԵՐՐՈՐԴՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3083",
+    "no_notice": "1",
+    "titre": "ՅԱՂԱԳՍ ՍՈՒՐԲ ԵՐՐՈՐԴՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "496",
+    "dimensions": "19.5 X 14.5 X 4",
+    "mise_en_page": "սեւ մելանով, միասին, 30 տող։ Նոտր շեղագիր վարժ",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ ոսկեդրուագ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1.— Ճառ Յաղագս Խորհրդոյ Ամենասուրբ Երրորդութեան։ Սուրբն Թովմաս ի ԻԷ խնդրոյն մինչեւ ի ԽԳ։ էջ 3.— Վիճաբանութիւն Յառաջաբանական Յաղագս ճշմարտութեան եւ ճանաչելիութեան Խորհրդոյ Ամենասուրբ Երրորդութեան։ էջ 130.— Զարտուղութիւն Պատմական Առաջներրորդ, Յաղագս Ժողովոյն Նիկիոյ ի պատճառս Արիոսի։ էջ 150.— Զարտուղութիւն Պատմական Երկրորդ, Յաղագս սայթաքման Լիբերիոսի։ էջ 160.— Զարտուղութիւն Պատմական Երրորդ, Յաղագս Ժողովոյն Արիմենեայ։ էջ 163էն յետոյ դրուած է 165։ էջ 172.— Զարտուղութիւն Պատմական Չորրորդ, Յաղագս Առաջին Ժողովոյն Կոստանդնուպօլսոյ, որ Երկրորդ Տիեզերականն է, ի սակս Մակեդոնի։ էջ 177էն յետոյ կու գայ 179։ էջ 193.— Վիճաբանութիւն Երկրորդ, Յաղագս Ելմանց Աստուածային Անձանց։ էջ 251.— Վիճաբանութիւն Երրորդ, Յաղագս Աստուածային Առնչութեանց։ էջ 305.— Վիճաբանութիւն Չորրորդ, Յաղագս անձանց առհասարակ, յաղագս բազմաւորութեան նոցա, յաղագս եղանակի խօսելոյ զնոցանէ, եւ յաղագս ծանօթութեան նոցա։ Սուրբն Թովմաս, ԻԹ, Լ, ԼԱ, ԼԲ։ էջ 362էն յետոյ կու գայ 364. 369ին կը յաջորդէ 371։ էջ 378.— Վիճաբանութիւն Հինգերրորդ. Յաղագս աստուածային անձանց առանձինն։ էջ 465.— Զարտուղութիւն Պատմական։ Ե՞րբ արդեօք մասնիկս եւ յՈրդւոյ յաւելաւ ի Հանգանակն։ էջ 471.— Վիճաբանութիւն Վեցերրորդ. Յաղագս Բաղդատութեան անձանց առ էութիւնն, առ անձնական յատկութիւնսն, առ ծանօթական ներգործութիւնս առ միմեանս, եւ առ ստեղծուածս։ էջ 490.— Պրակ Գ։ Յաղագս Առաքման Աստուածային անձանց։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "317.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "318.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3083-refine.json",
+    "pipeline_version": "v1"
+  }
+}

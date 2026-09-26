@@ -1,0 +1,68 @@
+{
+  "id": "J211",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "211",
+  "notice": "211",
+  "volume": "Jerusalem_V1",
+  "title": "ՔԱՐՈԶԱԳԻՐՔ ԿԻՒՐԱԿԷԻՑ",
+  "date": {
+    "from": "1766",
+    "to": "1766",
+    "display": null
+  },
+  "fields": {
+    "numero": "211",
+    "no_notice": "11",
+    "titre": "ՔԱՐՈԶԱԳԻՐՔ ԿԻՒՐԱԿԷԻՑ",
+    "date_debut": "1766",
+    "date_fin": "1766",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "691 + 423",
+    "dimensions": "30 x 19 x 6",
+    "mise_en_page": "երկսիւն, 33 տող",
+    "details_ecriture": "վարժ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բարակ, ոչ լաւորակ",
+    "nb_lignes": null,
+    "reliure": "փայտեայ",
+    "etat_conservation": "քիչ վնասուած",
+    "copiste": "Նիկողայոս Դպիր",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "էջ. 689բ—691",
+    "colophon": "Գրչի.— էջ 689ա.— Գրեցաւ այս մարգարտաշար եւ գեղեցկայարմար Քարոզագիրքս հանգուցեալ Յակոբ Ածաբան Պատրիարք Վարդապետին՝ ի թուին հայոց ռմժե, եւ սեպտեմբերի ամսոյ եօթին, ձեռամբ տիրացու Նիկողայոս եւեթ դպրի, որ եմ նօտար ի պատրիարքարանս ամ. Հայոց՝ որ ի Կոստանդնուպօլիս. ի փառս միոյն Աստուծոյ եւ ամենայն սրբոց նորա, ամէն ; ՅԻՇԱՏԱԿԱԳՐՈՒԹԻՒՆ: յետին, էջ 1, վարի լուսանցքին, նոտր շեղագիր — «Եղիա եպիսկոպոս ետու Յակոբ Վարդապետ աշակերտին իմոյ»",
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "607.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "211-refine.json",
+    "pipeline_version": "v1"
+  }
+}

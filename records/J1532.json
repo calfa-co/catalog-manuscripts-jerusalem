@@ -1,0 +1,72 @@
+{
+  "id": "J1532",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1532",
+  "notice": "1532",
+  "volume": "Jerusalem_V5",
+  "title": "Տ Ա Ղ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1532",
+    "no_notice": "6",
+    "titre": "Տ Ա Ղ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "62+95",
+    "dimensions": "15.5x10x2",
+    "mise_en_page": "այլազան։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապոյտ, բայց ոչ միատեսակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ քայքայուած",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": "Գրիգոր Կարապետեան Պոլսով, գրուած կողքին երեսը",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Առ եղկութիւն անձին.— Անկեալ ի ձեռս աւազակաց...։ Էջ 5.— Հաւուն հաւուն արթընացեալ ...։ Էջ 17.— Ով դուք որդիք առիւծ առիք ...։ Էջ 19.— Երգ առ փրկութիւն Հայաստանի.— Երգեցէք մանկունք Սիովնի, աւետիս տուք Հայկեան տոհմի...։ Էջ 44.— Գովասանութիւն առ Նոր Նախիջեւան քաղաքն ի տէր Գաբրիէլ Սերոբէ Վարժապետեան Պատկանեանց.— Գեղեցիկ Նախիջեւան տուն Հայոց եւ կայարան. . .։\nԷջ 46 — Ի դէմս Սբ. Խաչ վանքին. — Յարութիւն Վարդապետ Ալամդարեանց. — Յառաջ քան բարերար արեւուն երեւել, երթիցուք ի Սբ. Խաչ մեր սուրբ ուխտն կատարել...: Էջ 49 — Կռունկ ուստի կու գաս, ծառայ եմ ձայնիդ...: Էջ 53 — Առ Նիկոլայ Պաւլովիչն. — Պսակեալ ի վերուստ վայելուչ թագաւոր...: Էջ 55 — Տաղ Ուրախութեան. — Արի իմ քաղցրիկ աղաւնի...: Էջ 56 — Տաղ Ուրախութեան. — Պաղատելով կարդամ առ քեզ...: Էջ 1 — Տաղ ի վերայ Սբ. Կարապետի . — Քեզ հաւատով խոստովանիմ...: Էջ 7 — Տաղ Աստուածածնայ. — Անճառին խորան...: Էջ 19 — Ողբ Խաչելութեան Քրիստոսի. — Ի Խաչ ելեալ բեւեռեցար...: Էջ 37 — Առ վերինն անդրանկութիւն . — Փառաց տեղի փափագելեաց հանգստեան...: Էջ 50 — Տաղ Ուրախութեան. — Պաշտելի տօնելի գահ Սուրբ Գրիգորի...: Էջ 58 — Տաղ Ուրախութեան. — Գարուն գարուն հասեալ եհաս...: Էջ 68 — Տաղ Ուրախութեան. — Բարի եկեր իմ պատուական սիրելի...: Էջ 70 — Տաղ Ուրախութեան. — Գարուն եկեալ անուշ հովերն հնչեցին...: Էջ 76 — Տաղ Ուրախութեան. — Հերիք ողբաս զոչես լաս եւ հառաչես...: Էջ 88 — Առ Երանուհի Կոյսն Մարիամ . — Մայր ցանկալի հիանալի յոյժ տենչալի աննման...: Էջ 92 — Տաղ Ուրախութեան. — Սըրահար եղեր չար իշխան...: — Ս ե ր օ բ է Խ ծ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "301.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "302.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1532-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J281",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "281",
+  "notice": "281",
+  "volume": "Jerusalem_V2",
+  "title": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "281",
+    "no_notice": "19",
+    "titre": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "15 + 619",
+    "dimensions": "28x20x6",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 38 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": "Յակոբ Աբեղայ, † 1765 օգստ. 12ին",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 5. — Ցանգ գրքոյս գլխաւոր իրաց. — Ադաւն ընդէր ո՛չ յագի։ Էջ 15. — Գիրք որ կոչի Բանք Ոսկիականք եւ գեղեցկագոյնք, զանազան սբ. գրոց վարդապետութեամբն արարեալ և ճոխացուցեալ եղբայր Յակոբէ Վօռաճիոյ...։ Էջ Ա. — Մեկնի Յառաջաբանութիւն։ Առաջին կիւրակէի Գալստեան Տեառն։ Էջ ՈԸ. — Որպէս ի յաշխարհի ոչինչ յագումն, ի դժոխս մշտնջենաւոր սով, եւ ի յերկինս լինի լի յագումն, ցուցանի։ Էջ 612. — Ցանգ սբ. մատենիս. — Ա. — Պատգամաւորացն զորս այսօր առաքէ եկեղեցին մեզ զՔսէ. գալստենէ Հոգունակապէս գուշակողաց։\nՅիշատակագրութիւն. — Էջ 618. — Յիշատակալիրքս որ կոչի Բանք Ոսկիական, Սբ. յԵմ. ի դուռն Սըրբոյն Յակոբայ անծախ եւ անել. մնացեալ ի տէր Յակոբ աբեղայէ որ առ Ած. հանգեաւ ի ՌՃԺԴ օգոստոսի ժբ, Ած. ողորմի հոգւոյն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "111.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "281-refine.json",
+    "pipeline_version": "v1"
+  }
+}

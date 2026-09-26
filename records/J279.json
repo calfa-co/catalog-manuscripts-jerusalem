@@ -1,0 +1,68 @@
+{
+  "id": "J279",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "279",
+  "notice": "279",
+  "volume": "Jerusalem_V2",
+  "title": "Ք Ե Ր Ա Կ Ա Ն Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1755",
+    "to": "1755",
+    "display": null
+  },
+  "fields": {
+    "numero": "279",
+    "no_notice": null,
+    "titre": "Ք Ե Ր Ա Կ Ա Ն Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": "1755",
+    "date_fin": "1755",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ + 202",
+    "dimensions": "28x18x2",
+    "mise_en_page": "ամբողջովին սեւ մելանով, երկսիւն, 33 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ։ Էջ Ե.— Ճակատ.— Քերականութիւն Գրաբառ Լեզուի Արամեան Ազգիս, առեալ ի լայնապատում Քերականութենէ Մեծին Աբբայի տն. Մխիթարայ Վարդապետի Սեբաստացւոյ, եւ աշխատասիրութեամբ միոյ ի ձեռնասուն աշակերտաց նորա յօրինեալ դիւրին ոճիւ յուսումն բանասէր համբակաց ի փառս Տն. եւ յօգուտ մերազնէից։ Ի Կոստանդինուպօլիս Մայրաքաղաքի, յամի Տն. 1755, իսկ ի թուին հայոց ՌՄԴին",
+    "etat_conservation": "ընդհանրապէս լաւ. տեղ տեղ ցեցակեր",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": "էջ Զ.— Այս քերականութիւնը Սարբ Սերքիսի թոռը Տիրացու Պետրոսին է, իւր ձեռաց գիրն է",
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "109.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "279-refine.json",
+    "pipeline_version": "v1"
+  }
+}

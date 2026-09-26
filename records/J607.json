@@ -1,0 +1,68 @@
+{
+  "id": "J607",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "607",
+  "notice": "607",
+  "volume": "Jerusalem_V3",
+  "title": "ԴԻՄԱՌՆՈՒԹԻՒՆ Ի ՉԱՐՉԱՐԱՆՍ ՔՐԻՍՏՈՍԻ (ԹԵՐԻ)",
+  "date": {
+    "from": "1820",
+    "to": "1820",
+    "display": null
+  },
+  "fields": {
+    "numero": "607",
+    "no_notice": "1",
+    "titre": "ԴԻՄԱՌՆՈՒԹԻՒՆ Ի ՉԱՐՉԱՐԱՆՍ ՔՐԻՍՏՈՍԻ (ԹԵՐԻ)",
+    "date_debut": "1820",
+    "date_fin": "1820",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "154",
+    "dimensions": "22x18x1",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 23 տող։ Նոտր շեղա– գիր",
+    "details_ecriture": "գրեթէ սովո– րական",
+    "types_cahiers": "Ա–Ը",
+    "matiere_principale_id": null,
+    "details_matiere": "յարդա– գոյն",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Սաւալանեան նկարագրած է սապէս. «Ճառ Տնօրէնութեան Տն. մերոյ Յսի. դիմառնական ստեղծաբանութեամբ տաղաչափեալ. եւ են բողոքք ամենասուրբ Կուսին, բաժանեալ յերկուս մասունս։ Իսկ յօրինակիս աստ շփոթութիւն նշմարի ի դա– սաւորութեան գլխոց կամ յօրինակողէն եւ կամ ի կազմութենէ գրոցն, եւ է թերի» (Ցուցակ, էջ 360)։ Տպուած է Կ. Պոլիս, 1845ին",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 5.— Գլուխ Ա.— Բողոք Սբ. Կու– սին առ Որդին միածին, մինչ էրն ի գե– րեզմանի անապական մարմնով։— Հմմտ. Տպ. էջ 120։ Էջ 14.— Գլուխ Բ.— Փրկիչն մեր բա– նական հոգւովն իջեալ ի դժոխս, քարոզէ հոգւոց զփրկութիւն։— Հմմտ. Տպ. էջ 127։ Էջ 43.— Գլուխ Զ.— Բողոք Սբ. Կու– սին առ Եղիսաբեթ։— Հմմտ. Տպ. էջ 28։ Էջ 88.— Գլուխ ԺԳ.— Բողոք Սբ. Կուսին առ զօրս հրեշտակաց։— Հմմտ. Տպ. էջ 66։ Էջ 103.— Մասն Երկրորդ.— Կոյսն երջանիկ Ամենօրհնեալ Սուրբ Ած.ածին կայր առ խաչին սիրելի Որդւոյն, եւ ցաւա– գինս կողկողէր ի վերայ եօթն բանիցն Քս.ի, զոր խօսեցաւ ի խաչին։— Հմմտ. Տպ. էջ 78։ Էջ 145.— Առ բանն եօթներորդ։ Բո– ղոք Սբ. Կուսին առ Որդին Միածին։— Գլուխ Է.— Հմմտ. Տպ. էջ 112։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "025.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "607-refine.json",
+    "pipeline_version": "v1"
+  }
+}

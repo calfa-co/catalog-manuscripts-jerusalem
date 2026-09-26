@@ -1,0 +1,72 @@
+{
+  "id": "J2899",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2899",
+  "notice": "2899",
+  "volume": "Jerusalem_V9",
+  "title": "ՈՒՍՈՒՄՆ ՔՐԻՍՏՈՆԷԱԿԱՆ ՀԱՒԱՏՈՅ",
+  "date": {
+    "from": "1895",
+    "to": "1897",
+    "display": null
+  },
+  "fields": {
+    "numero": "2899",
+    "no_notice": "1",
+    "titre": "ՈՒՍՈՒՄՆ ՔՐԻՍՏՈՆԷԱԿԱՆ ՀԱՒԱՏՈՅ",
+    "date_debut": "1895",
+    "date_fin": "1897",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "120",
+    "dimensions": "25.5×20.5",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 27 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ, գրեթէ քայքայուած",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, վերի լուսանցքին. Սկսանք 1895, հոկ. 9։ Համառօտութիւն Ուսման Քրիստոնէական Ուղղափառ Հաւատոյ Հայաստանեայց Առաքելական Սուրբ Եկեղեցւոյ։ Ա. — Հ. — Ի՞նչ է կրօնը։\nՊ.— Կրօնքն է պաշտօն առ Ած. որով կը միանայ մարդ Այ. հետ, որոյ ուսումը կըսուի կրօնագիտութիւն։ էջ 2.— Բ.— Հ.— Ի՞նչ է կրօնի հիմը։ Պ.— Կրօնի հիմն Ած. է...։ էջ 5.— Դ.— Հին եւ Նոր Կտակարան։ Հ.— Սբ. Գիրքը քանի մասի կը բաժնուի։ Պ.— Սբ. Գիրքը երկու մասի կը բաժնուի. Հին եւ Նոր Կտակարան...։ էջ 13.— Հաւատոյ վրայ առ հասարակ.— ԺԱ։ էջ 17.— Հանգանակ Հաւատոյ։ Խորհուրդք եկեղեցւոյ.— ԺԷ։ էջ 58.— ԾԲ.— Խորհուրդք Եկեղեցւոյ։ Հ.— Ի՞նչ են Խորհուրդք Եկեղեցւոյ։ էջ 59.— Ա. Մկրտութիւն.— ԾԳ։ էջ 86.— ՀԸ.— Է. Այցելութիւն հիւանդանոց, կամ վերջին օծում։ էջ 89.— ՁԱ.— Բարեպաշտական ծէսք Եկեղեցւոյ։ էջ 99.— Ղ.— Հ. Դատաստանէն յետոյ ի՞նչ կը լինի։ էջ 101-102, դատարկ։ էջ 103.— Աղօթք.— ՂԱ։ Հ.— Մարդ ինչպէս կը նմանի Այ. եւ կը միանայ նորա հետ։ էջ 118.— ՃԶ.— Հ. Ո՞րն է Վերջաբանը։ Պ.— Տէրունական աղօթքի վերջաբանն է. Զի քո է արքայութիւն...։ էջ 119, ստորոտը.— Վերջացաւ 1897, յունվար 22։ էջ 120, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "119.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "120.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2899-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J221",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "221",
+  "notice": "221",
+  "volume": "Jerusalem_V1",
+  "title": "ԿԵՐԱԿՈՒՐ ՔԱՀԱՆԱՅԻՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "221",
+    "no_notice": "1",
+    "titre": "ԿԵՐԱԿՈՒՐ ՔԱՀԱՆԱՅԻՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "42",
+    "dimensions": "30 X 18",
+    "mise_en_page": "սեւ մելանով, միասիւն, 44 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ. — Էջ 1. — Կերակուր Քահանայից, թարգմանեալ յառաջագոյն ի լատին լեզուէ ի հայ բարբառ ի ձեռն Վարդանայ ումեմն կրօնաւորի։ Եւ ապա հրամանաւ Տոն. Տոն.\nՍտեփաննոսի առաքելապսակ արքեպս.ի Զմիւռնոյո նոր շարադրեալ ըստ հայկաբանութեան կարգի, յաւելմամբ ի նոյն եւ այլեւս վկայութեանց եւ բացատրութեանց, ի ձեռն Միրզայեան Տէր Յօհան Վանանդեցի վրժպ. Քահանայի Զմիւռնիոյ Սբ. Ստեփաննոս եկեղեցւոյս, ի հոգեւորապէս ճաշակումն դասուց քահանայից։ Յամի Տռն. 1822, ի յունիսի 18։ ԾԱՆՕԹ.— Տպուած է ի Ս. Էջմիածին, 1841ին։ Հմմտ. Հայկ. Մատենագիտութիւն, Վենետիկ, 1883, էջ 299։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "623.jpg"
+    },
+    {
+      "volume": "Jerusalem_V1",
+      "file": "624.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "221-refine.json",
+    "pipeline_version": "v1"
+  }
+}

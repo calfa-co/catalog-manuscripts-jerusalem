@@ -1,0 +1,72 @@
+{
+  "id": "J2307",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2307",
+  "notice": "2307",
+  "volume": "Jerusalem_V7",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": "1875",
+    "to": "1875",
+    "display": null
+  },
+  "fields": {
+    "numero": "2307",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": "1875",
+    "date_fin": "1875",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ + 458",
+    "dimensions": "16.5 X 10 X 2.5",
+    "mise_en_page": "սեւորակ մելանով, բացի վերջին էջերէն, միասիւն, 17 տող",
+    "details_ecriture": "մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական ; ՈՒՂՂԱԳՐՈՒԹԻՒՆ: տկար",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Բ, դատարկ։ Էջ Գ.— Ի Հայրապետութեան Տ. Տ. Գէորգայ Դ. Սրբազան Կաթուղիկոսի, Ի պատրիարքութեան Տ. Եսայեայ Սրբազան Արքեպիսկոպոսի՝ Սրբոյ Առաքելական Աթոռոյն Երուսաղէմի։ Ի պատրիարքութեան Տ. Ներսէսի Սրբազան Արքեպիսկոպոսի Կոստանդնուպօլսոյ յԱրքայանիստ մայրաքաղաքի, 1875 Սեպտեմբեր 1, յԵրուսաղէմ։ Էջ Դ-Զ, դատարկ։ Էջ 1.— Յառաջաբանութիւն.— Յետ արտաքսելոյն մարդոյն դրախտի գեղեցիկ եւ լուսապայծառ փառքերէն...։ Էջ 12.— Նորին քարոզ ի վերայ կաղանդի նոր տարւոյ, բնաբան, Օրհնեսցի պսակ տարւոյ քաղցրութեան քո.— Արքունի մարգարէն Դաւիթ բազում նեղութիւն կրեց Սաւուղի ձեռքէն...։ Հմմտ. թ. 2071Ա։ Էջ 245.— Նորին քարոզ իվերայ փառաւոր համբարձման Քի. Այ. մերոյ։ Եւ եհան զնոսա մինչեւ ի Բեթանիա, եւ ամբարձեալ զձեռն իւր օրհնեաց զնոսա, եւ վերանայր յերկինս, Ղուկ.— ԻԴ, 50.— Քրիստոսի փառաւոր համբարձման օրինակը հին օրէնքին ժամանակը երեւեցաւ, այսինքն է՝ Եղիայ Մարգարէի երկինքը համբառնալը...։\nԷջ 416 — Ծանուցում ի վերայ Սրբոյ Գերեզմանին Քրիստոսի. — Ամենայն իրաց վախճանն է գովելի, ասէ իմաստունն...։ Էջ 431, մանիշակագոյն թանաքով. — Բնաբան։ Եւ որ համբերեսցէ իսպառ՝ նա կեցցէ։ Մատ. ԻԴ. 13. — Աշխարհի վրայ նեղութիւնք տեսակ տեսակ են...։ — Կը մնայ անաւարտ։ Էջ 438-458, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "450.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "451.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2307-refine.json",
+    "pipeline_version": "v1"
+  }
+}

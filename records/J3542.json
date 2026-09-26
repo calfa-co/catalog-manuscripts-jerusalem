@@ -1,0 +1,68 @@
+{
+  "id": "J3542",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3542",
+  "notice": "3542",
+  "volume": "Jerusalem_V10",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ՀՐԿԻԶՈՒԹԵԱՆ Ս. ՅԱՐՈՒԹԵԱՆ ՏԱՃԱՐԻ",
+  "date": {
+    "from": "1809",
+    "to": "1809",
+    "display": null
+  },
+  "fields": {
+    "numero": "3542",
+    "no_notice": null,
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ՀՐԿԻԶՈՒԹԵԱՆ Ս. ՅԱՐՈՒԹԵԱՆ ՏԱՃԱՐԻ",
+    "date_debut": "1809",
+    "date_fin": "1809",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "48",
+    "dimensions": "22x16",
+    "mise_en_page": "խորագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 22, 23 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "չունի",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Էջ 1, վարը, նոտր շեղագիր.— Կիպրոսցի Նէօֆիթոս Մօնախոսէ գրեալ յԵրուսաղէմ ոտանաւոր Պատմութիւն Հրկիզութեան Տաճարի Սբ. Յարութեան, յամի Տեառն 1808, ի գիշերի, 30 ումն սեպտեմբերի, ժամ 9 գիշերի, զոր ապա արձակ շարադրութեամբ թարգմանեաց ի հայ բարբառ, Կոստանդնուպօլսեցի Բարդուղիմէոս Վրդ. Սկէնտերեան, յամի Տեառն 1824։ Էջ 35–48, դատարկ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "541.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3542-refine.json",
+    "pipeline_version": "v1"
+  }
+}

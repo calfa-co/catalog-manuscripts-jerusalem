@@ -1,0 +1,72 @@
+{
+  "id": "J1815",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1815",
+  "notice": "1815",
+  "volume": "Jerusalem_V6",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+  "date": {
+    "from": "1824",
+    "to": "1824",
+    "display": null
+  },
+  "fields": {
+    "numero": "1815",
+    "no_notice": "16",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+    "date_debut": "1824",
+    "date_fin": "1824",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ժ+130",
+    "dimensions": "26x20x1.5",
+    "mise_en_page": "խորագիրները, բնաբանները եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 31 տող։ Նոտր շեղագիր",
+    "details_ecriture": "սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խասաքարտեայ, ոսկի երէզներով։",
+    "etat_conservation": "լաւ",
+    "copiste": "Պետրոս Սարկաւագ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Ճակատ.— Աղբիւր Բացեալ, որ է համառօտ եւ հոգելից Մեկնութիւն Առակաց Սրբոյ Աւետարանին, արարեալ ի մեծիմաստ խոհականէ Նախիջեւանցի Պետրոս Արքեպիսկոպոսէ Աղամալեան, ի փառս Աստուծոյ եւ յօգուտ ազգիս բանասէր Քարոզչաց, ըստ խնդրոյ Սրբոյ Էջմիածնի գրագիր, Օշականցի տէր Երեմիա աբեղայի, ըստ իւրում յիշելոյ ի յառաջաբանութեանն։ Ի հայրապետութեան Սրբոյ Էջմիածնի տեառն Սիմէոնի յոգնահանճար կաթողիկոսի ամ. Հայոց։\nԵւ այժմ գաղափարեալ, զգուշութեամբ ձեռամբ ուրումն Պետրոսի ապարդիւն սարկաւագի, եւ յետին սպասաւորի տեառն տեառն Կարապետի սրբազան պատրիարգի Կոստանդնուպօլսոյ, 1824, ի պատրիարգարանն ամ. Հայոց, որ ի Կոստանդնուպօլիս, ՌՄՀԳ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա.— Բան առ բարեմիտ ընթերցողս, յաղագս առաջիկայ Առակացս։ Էջ Է.— Ոտանաւոր գրքոյս շինողի, ի վերայ անուան իւրոյ...։ Էջ Թ-Ժ, դատարկ։ Էջ 1.— Յաղագս Տեսականութեայ Հաւատոյ։ Էջ 112.— Երգ առ անհուն բարի Աստուած։ Էջ 114.— Ցանկ գլխոց գրքոյս ըստ կարգի։ Էջ 115.— Յետ մեկնութեան առակացն Աւետարանի...։ Էջ 118.— Համեմատեցաք ընդ այլում\nօրինակի, եւ գտաք զոմանս տարբերութիւնըս, զորս ի ներքոյ թղթահամարիւ էջիւ եւ տողիւ յայտ արարաք.— Բայց այդպէս չէ եղած, էջը կը մնայ պարապ նման յաջորդներուն, 119–130, թէեւ գծուած եւ պատրաստ բոլորն ալ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "199.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "200.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1815-refine.json",
+    "pipeline_version": "v1"
+  }
+}

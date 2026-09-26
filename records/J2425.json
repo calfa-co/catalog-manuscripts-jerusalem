@@ -1,0 +1,68 @@
+{
+  "id": "J2425",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2425",
+  "notice": "2425",
+  "volume": "Jerusalem_V8",
+  "title": "Ա.— Ժ Ա Մ Ա Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2425",
+    "no_notice": "45",
+    "titre": "Ա.— Ժ Ա Մ Ա Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "174",
+    "dimensions": "10.5x7.5x2.5",
+    "mise_en_page": "խորագիրները, գլխատառերը և երբեմն սկզբնատողերը կարմիր, մնացեալը սև մելանով, միասիւն, 19 տող",
+    "details_ecriture": "մանր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ։ Գըրիչ՝ Մուրատ Սարկաւագ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "անբաւարար. սկիզբը թերի. լուսանցքները անմաքուր",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 2.— ...Զքէն գոհանամք Տէր Ած. մեր...։ Էջ 5.— Կարգաւորութիւն հասարակաց Աղաւթից Առաւաւտու Ժամուն...։ Էջ 16—17ի միջև ինկած երկու թերթ։ Էջ 32.— Կարգաւորութիւն Հասարակաց Աղօթից Արևագալի Ժամուն...։ Էջ 39.— Կարգաւորութիւն Հասարակաց Աղօթից Երրորդ Ժամուն...։\nԲ.— ԽՈՐՀՐԴԱՏԵՏՐ.— 71\nԷջ 57.— Աւրհնք արկանելոյ սպաս եկեղեցւո...։ Էջ 78.— Հաւատամք ի մի Ած. ...։ Էջ 118.— Որ աւրհնես զայնոսիկ...։ Էջ 120.— Այլ Աղօթք, որ ասի նախ քան զճաշակելն ի խորհրդոյն, ի բանից Թումայի Առաքելոյն։ Էջ 122.— Տեառն Ներսեսի Լամբրանացւո խրատք սահման վերագրեալ գործոյս։ Էջ 127.— Եռամեծի...Մխիթարա Գուշի...ասացեալ զԱղօթս Սբ. Պատարագին։ Էջ 132—133ի միջև ինկած մէկ թերթ։\nԷջ 136, ստորոտը.— Կարգաւորութիւն Հասարակ.— Ես առ Ած. կարդացի...։ Էջ 153.— Կարգաւորութիւն Հասարակաց Աղօթից Խաղաղական Ժամուն...։ Էջ 154—155ի միջև ինկած մէկ թերթ։ Էջ 159.— Աղօթից Հանգստեան Ժամուն...։ Էջ 166.— Աղօթք իւրաքանչիւր անձին ...— Հաւատով խոստովանիմ...։ Էջ 173.— Փառաւորեալ Տէր...։ Էջ 174, անմաքուր, անհարթ գրեր։\nՄանր յիշատակագրութիւն Գրչի.— Էջ 136, վարը.— Ով սուրբ պատարագողք և հաճոյական աղաւթողք, զբազմամեղ գծաւղս, զսուտանուն Մուրատ Սարկաւագս յիշեցէք ի Քրիստոս։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "087.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2425-refine.json",
+    "pipeline_version": "v1"
+  }
+}

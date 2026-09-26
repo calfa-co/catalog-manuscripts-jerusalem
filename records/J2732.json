@@ -1,0 +1,68 @@
+{
+  "id": "J2732",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2732",
+  "notice": "2732",
+  "volume": "Jerusalem_V8",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+  "date": {
+    "from": "1844",
+    "to": "1844",
+    "display": null
+  },
+  "fields": {
+    "numero": "2732",
+    "no_notice": "22",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+    "date_debut": "1844",
+    "date_fin": "1844",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "319",
+    "dimensions": "22×15.5×2",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 17-24 տող, ոչ միեւնոյն գրչէ",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Պետրոս Վրդ. Տէր Յովհաննէսեան, Կաճեթցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ. — Էջ 1 Աղբիւր բացեալ, որ է համառօտ և հոգելից Մեկնութիւն Առակաց Սբ. Աւետարանին, արարեալ ի մեծիմաստ խոհականէ Նախիջևանցի Աղամալեան Պետրոս Վարդապետէ, երբեմն Բերթումեան կոչեցելոյ։ Ըստ խնդրոյ Սբ. Էջմիածնի գրագիր Օշականցի տէր Երեմիայ աբեղայի, ըստ իւրումն յիշելոյ ի յառաջաբանութեանն։\nԻ վայելումն Միքայէլ Վարդապետի Խաչատուրեան, օրինակեցաւ ի ձեռն Յակոբ Վարդապետի Ասլանեան, Մարզուանցւոյ։\nԳաղափարեալ ի Պետրոս Վարդապետէ Կաճեթցւոյ Տէր Յովհաննէսեան, ի գերահըրաշ առաքելական Աթոռն Սրբոց Յակոբեանց, որ յԵրուսաղէմ, ի պատրիարքութեան տեառն Զաքարիա արքեպիսկոպոսին, յամի Տեառն 1844։\nԷջ 17. — Գլուխ Բ. — Յորդորակ առ առակաւոր բանսն Քրիստոսի։ Էջ 59էն անցած է 70ի։ Էջ 110էն անցած է 112ի։ Էջ 254. — Գլուխ ԼԱ. — Արք երկու ելին ի տաճարն...։ Էջ 292. — Ցանկ գլխոց գրքոյս ըստ կարգի։ Էջ 294-319, դատարկ, թէև գծուած ու պատրաստ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "376.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2732-refine.json",
+    "pipeline_version": "v1"
+  }
+}

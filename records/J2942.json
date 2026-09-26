@@ -1,0 +1,68 @@
+{
+  "id": "J2942",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2942",
+  "notice": "2942",
+  "volume": "Jerusalem_V9",
+  "title": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2942",
+    "no_notice": null,
+    "titre": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "36",
+    "dimensions": "19×14",
+    "mise_en_page": "սեւ մելանով, միասիւն, 26 տող։ Նոտր շեղագիր",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "թղթեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ճակատ.— Աստուածաբանութիւն այն է Տեսիլ կենաց. յորում կերպարանին երեւոյթք գերբնական ճշմարտութեանց յաւիտենական կենաց, զոր ուսեալ հաւատացելոց հաւաստի ընդունելութեամբ սրբազան ներգործութեամբ հաւատոյ՝ լինին մարդիկ կատարեալք ի հաւատս ստուգագէտ ճանաչմամբ աստուածութեանն Աստուծոյ, եւ յետ վախճանի լրման ամաց կենաց նոցա՝ լինին երանեալք յերկինս տեսութեամբ աստուածային փառացն, եւ հասեալք ի վերջին վախճանս իւրեանց փառօքն յաւիտենից։ Ի Ֆիզիգայէ առ արարիչն ֆիզիգականութեան, ի Կոստանդնուպօլիս, 1827։\nԷջ 3.— Յառաջաբանութիւն։ Էջ 4.— Խնդիր Ա։ Զի՞նչ իցէ ըստ ձայնին։ Էջ 10.— Խնդիր Դ։ Ո՞յք իցեն ենթակայք նորա։ Էջ 11.— Ի վերայ Առաջին ենթակայի։ Էջ 24.— Ի վերայ Եօթներորդ ենթակայի։ Էջ 25–36, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "160.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2942-refine.json",
+    "pipeline_version": "v1"
+  }
+}

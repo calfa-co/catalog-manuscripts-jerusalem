@@ -1,0 +1,68 @@
+{
+  "id": "J2259",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2259",
+  "notice": "2259",
+  "volume": "Jerusalem_V7",
+  "title": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+  "date": {
+    "from": "1727",
+    "to": "1727",
+    "display": null
+  },
+  "fields": {
+    "numero": "2259",
+    "no_notice": "36",
+    "titre": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+    "date_debut": "1727",
+    "date_fin": "1727",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "40",
+    "dimensions": "30×20×1.5",
+    "mise_en_page": "ըսկզբնատողերը եւ մասամբ՝ խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 22 տող",
+    "details_ecriture": "սովորական գրեթէ։ Կարմիր կապոյտ զարդագիր կարեւոր կտորներու սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ դըրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": "Յակոբ Վրդ. Պալատցի։ Էջ 29, ստորին լուսանցքին, նոտրագիր — Յիշեա հայր սուրբ զՅակոբ վարդապետս եւ զծնօղս իմ ի Քս.",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը եւ վերջը մէկ մէկ թերթ",
+    "colophon": null,
+    "informations_diverses": "Յակոբ Վրդ. Պալատցի։ Էջ 29, ստորին լուսանցքին, նոտրագիր — Յիշեա հայր սուրբ զՅակոբ վարդապետս եւ զծնօղս իմ ի Քս.",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդ իւր սարօք, էջ 3",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։ Էջ 3 — Որ զգեցեալ ես զլոյս...։ Էջ 17ա — Հաւատամք ի մի Աստուած ...։ Էջ 39բ — Որ աւրհնես զայնոսիկ...։ Յիշատակագրութիւն Նուիրողի — 1727 Էջ 40բ, վարը, նոտրագիր — Տէր Յս. Քս. Ած. ողորմեա, Յիշատակ եղողիս Պալատցի մահտեսի Մելքոնի որդի Յակոբ վարդապետիս, որ եղի յիշատակ յԵրուսաղէմ, ի դուռն Սրբոյն Յակոբայ, ի ՌՃՀԶ թուին, յիշեցէք ի Քս. եւ Ած. ողորմի ասացէք եւ Տէր ողորմեսցի ձեզ. ամէն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "393.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2259-refine.json",
+    "pipeline_version": "v1"
+  }
+}

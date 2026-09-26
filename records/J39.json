@@ -1,0 +1,76 @@
+{
+  "id": "J39",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "39",
+  "notice": "39",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՅԱՅՏՆՈՒԹԵԱՆ",
+  "date": {
+    "from": "1773",
+    "to": "1773",
+    "display": null
+  },
+  "fields": {
+    "numero": "39",
+    "no_notice": "1",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՅԱՅՏՆՈՒԹԵԱՆ",
+    "date_debut": "1773",
+    "date_fin": "1773",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ + 29–904",
+    "dimensions": "35 x 23 x 5",
+    "mise_en_page": "սեւ մելանով, երկսիւն, 39 տող",
+    "details_ecriture": "կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: գրեթէ սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ ոսկեզօծ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Նիկողայոս նոտար",
+    "possesseur": "Պօղոս Արքեպս.",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "էջ Դ",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "լուսանցազարդ և խորան, էջ 29",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Գ, դատարկ։ Էջ Դ. — Գունաւոր նկար, Քրիստոս և եօթը աշտանակներ եւլն։ Էջ 29. — Գլուխ Առաջին։ Շար Գըլխոց. — Յառաջադրի մակագիրն գրքոյն և դրուատական ներբողեանն մինչեւ առ չորս համարն, ապա ստորակցի ընթերցուածըն...։ Էջ 897ա. — Պատմութիւն և կարգ յայտնութեան։ Էջ 901–904, դատարկ։\nՅիշատակարան Գրչի, 1773. — Էջ 895բ. — Փառք անճառելի միոյ և անքննելի երրորդութեանն, Հօր և Որդւոյ և Հոգւոյն Սրբոյ. որպէս էրն ի սկզբանէ նոյնպէս և է, և միշտ ելոց, որ ըստ իւրոյ անբաւ կարողութեանն գրեցաւ և օրինակեցաւ զայս պտղաւէտ և նրբիմաց Սրբոյն Յօհաննու Առաքելոյն զՏեսլեան Մեկնութիւնն Կուռնելիոսի, յամի կենարարին մերոյ 1773, և ըստ թուականութեան Հայոց ՌՄԻԲ, և փետրվարի ամսոյ ԻԳին. ի փառս ամենազօրին Այ. և ի պատիւ ամեներան-13.— Յայտնութիւն Յովհաննու, Թ. 39, Էջ Դ.\nեալ կուսին Մարիամու, ի վայելումն արժանաժառանգ այցելուին և առաքելապատիւ պատրիարքին գերապայծառ Աթոռոյն Սրբոց Յակոբեանց ի Սաղիմ, և ըղձակաթի Աստուածային սբ. դրեանց՝ զՏէր Պօղոս արհիական պետին, որ զբազում գրեանս ի ժամանակի իւրում յօրինակեցուցեալ եդ յիշատակ ի սուրբն Յակոբ, ի գերապայծառ գահն Հայոց. զի ուսումնասէրքն ընթեռնլով զբօսնուցուն և անկիրթքն կըրթիլով կարողանայցեն բարեպէս քարոզել ժողովրդեանն: Եւ այս ասացեալս պաշտօնի"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "171.jpg"
+    },
+    {
+      "volume": "Jerusalem_V1",
+      "file": "172.jpg"
+    },
+    {
+      "volume": "Jerusalem_V1",
+      "file": "173.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "39-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J3687",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3687",
+  "notice": "3687",
+  "volume": "Jerusalem_V11",
+  "title": "ԱՒԵՏԱՐԱՆ (Եթովպերէն)",
+  "date": {
+    "from": "1984",
+    "to": "1985",
+    "display": null
+  },
+  "fields": {
+    "numero": "3687",
+    "no_notice": "Զ",
+    "titre": "ԱՒԵՏԱՐԱՆ (Եթովպերէն)",
+    "date_debut": "1984",
+    "date_fin": "1985",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "356",
+    "dimensions": "30x22x6.5",
+    "mise_en_page": "սեւ եւ կարմիր թանաքներով, երկսիւն, 24 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "դեղնորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ խաչադրոշմ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": "եւ կնիքներ .– 1985 1– Fol. 176 b. A colophone that the Ms. is orderd to be written by Emperor Hayla Sellase in 1927 (Eth. Cal.)... and asking blessings for him and his wife Etege Manan. It is written in the time of Abuna Gerlos, and Abunas Sawiros, Abraham, Petros, Mikael, and Yeshaq. 2.– Fol. 177. Another colophone that the manuscript is donated by Emperor Hayla Sellase to Aykola Geddus Mikael as a memorial. ; ՅԻՇԱՏԱԿԱԳՐՈՒԹԻՒՆ: նուիրատուի.– 1987 Էջ 7, շեղագիր.– Մագաղաթեայ երկսիւն ձեռագիր Աւետարանս, գրուած հապէշերէն գրով, կը նուիրեմ Սրբոց Յակոբեանց Ձեռագրաց Մատենադարանին ի վայելումն Ազգիս Հայոց եւ ի յիշատակ հանգուցեալ ծնողացս, Յովհաննէս Ա. Տէմիրճիպաշեան 1987, հոկտեմբեր 15: (Եթովպահայ) Ատիս Ապապա",
+    "informations_diverses": "Յովհաննէս Ա. Տէմիրճիպաշեան, Եթովպահայ ; Fols. 137a and 176 b. Two stamps: one of Emperor Hayla Sellase, the other of Hayle Walda Rufael.– Հմմտ. Ephraim Isaac, Le Museon, 1976, p. 185–6",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "138.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "139.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3687-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3100",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3100",
+  "notice": "3100",
+  "volume": "Jerusalem_V9",
+  "title": "ԵԿԵՂԵՑԱԿԱՆ ՊԱՏՄՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3100",
+    "no_notice": "3",
+    "titre": "ԵԿԵՂԵՑԱԿԱՆ ՊԱՏՄՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "448",
+    "dimensions": "20X13.5X2",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 18 տող",
+    "details_ecriture": "մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը չորս թերթ",
+    "colophon": null,
+    "informations_diverses": "կանաչադրոշմ, «Սամուէլ Վրդ. Կիրակոսեան», էջ 1, 159",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Եկեղեցական Պատմութիւն։ Յառաջաբան.— 1.— Սահման եւ Նպատակ Եկեղեցական Պատմութեան.— Այն ամեն մարդիկ որք կը հաւատան թէ Յս. Նազովրեցին Քրիստոսն էր...։ Էջ 8.— Նախապատմութիւն։ Էջ 29.— Առաքելական Դար։ Էջ 80.— Հալածանաց կամ Մարտիրոսաց Դար։ Էջ 150.— Ցանկ Կայսերաց Հռովմայ։ Էջ 159.— Հալածումն Քրիստոնէութեան ի Հայս։ Էջ 228.— 28.— Սահմանադրութիւն Եկեղեցւոյ։ Էջ 250.— Կոստանդիանոսէն մինչեւ Մեծն Կարոլոս։ Էջ 371.— 45.— Ի Պիլագնեան Աղանդն։ Էջ 418.— 49.— Ը. Պատկերամարտից խըռովութիւնն։ Էջ 424, դատարկ։ Էջ 425.— Ցանկ։ Էջ 429-448, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "334.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3100-refine.json",
+    "pipeline_version": "v1"
+  }
+}

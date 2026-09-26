@@ -1,0 +1,72 @@
+{
+  "id": "J2170",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2170",
+  "notice": "2170",
+  "volume": "Jerusalem_V7",
+  "title": "Ա. — ԺԱՄԱՆԱԿԱԳՐՈՒԹԻՒՆ",
+  "date": {
+    "from": "1840",
+    "to": "1840",
+    "display": null
+  },
+  "fields": {
+    "numero": "2170",
+    "no_notice": "11",
+    "titre": "Ա. — ԺԱՄԱՆԱԿԱԳՐՈՒԹԻՒՆ",
+    "date_debut": "1840",
+    "date_fin": "1840",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ + 144",
+    "dimensions": "24 X 19 X 1.5",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն կամ աղիւսակաձեւ, 31 տող. Բառգիրքը երկսիւն, 32 տող",
+    "details_ecriture": "մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ ; ՈՒՂՂԱԳՐՈՒԹԻՒՆ: տկար",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Եղիազար Քահանայ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա. — ԺԱՄԱՆԱԿԱԳՐՈՒԹԻՒՆ\nԷջ Ա-Դ, դատարկ, բացի երկրորդ էջէն։ Էջ 1. — Սամուէլի քահանայի հաւաքմունք ի գրոց պատմագրաց յաղագս գիւտի ժամանակաց անցելոց մինչեւ ի ներկայս ծայրաբաղ արարեալ։ Օգնեա իսկ եւ բան եւ է. — Յերիս որոշմունս բաժանեալ սահմանեցան թիւք ժամանակաց, յանցեալն՝ ի ներկայն եւ յապառնին...։ Էջ 21. — Եւ զի Թորգոմ ասէ ծնանի ըզՀայկ, ի նմանէ աստանօր սկսայց պատմաբանել։ Ա. — Այս Հայկ ի մէջ սկայիցն մի յայնցանէ էր՝ որ յղացան զամբարտաւանութիւն...։ Հմմտ. Տպ. Վաղարշապատ, էջ 41 եւ լուսանցք, Բ, Դ.։ Էջ 37. — Յայսմ ամի շինեցաւ Սբ. Կարապետն, մակ անուն Գլ(խ)ակափանք կոչեցեալ, զոր շինեաց Սուրբն Գրիգոր, ի կալն Կեսարու Հայրապետ գոլով, բերելով զնշխարըս Կարապետին, եւ հաստատեալ ի տեղին յայն, եւ ի Մատրավանան զկուռսն խորտա-"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "272.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "273.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2170-refine.json",
+    "pipeline_version": "v1"
+  }
+}

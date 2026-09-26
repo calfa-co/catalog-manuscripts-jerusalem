@@ -1,0 +1,72 @@
+{
+  "id": "J2755",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2755",
+  "notice": "2755",
+  "volume": "Jerusalem_V8",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": "1845",
+    "to": "1845",
+    "display": null
+  },
+  "fields": {
+    "numero": "2755",
+    "no_notice": "2",
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": "1845",
+    "date_fin": "1845",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "204",
+    "dimensions": "19x14x1.5",
+    "mise_en_page": "սեւրակ մելանով, միասիւն, 20-23 տող",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Ղուկաս Աբղ. Բալուեցի, Մ . Ս . Յ .",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4, դատարկ։ Էջ 5 . — Քարոզք Կիրակոս Պատրիարքի, զոր խօսեցաւ ի վերատեսչութեան իւրում յազգային Ճեմարանին Իւսկիւտարու, ի ներկայութեան աշակերտաց ի մատրան նոյն Ճեմարանի, յամս 1836-1837։ Էջ 6, դատարկ։ Նոյնպէս էջ 8։ Էջ 9 . — Ա . — Ի վերայ քրիստոնէական սուրբ հաւատոյ և կրօնի ձեզի սովրելու գիտնալու պէտք եղած բաները այս տեղս խօսիմք . . . ։ — Հմմտ . թիւ 2064, Է . Հատոր, էջ 112։ Էջ 36 . — Գ . — Անցեալ երկու Կիրակին մեր ատենաբանութեան նիւթը այս էր՝ որ մեզի ինչո՞ւ հաւատացեալ քրիստոնեայ կըսվի . . . ։ Էջ 180 . — (ԺԱ) — [ԺԲ] . — Ժամանակը եկաւ մերձեցաւ Քի . Այ . մարդեղութեամբ ծննդեամբ ի Սրբոյ Կուսէն Մարիամայ յաշխարհ գալոյն . . . ։ Էջ 195 . — Ցանկ . — Ա-ԺԲ Գլուխներ։ Էջ 196-204, դատարկ։\nՅիշատակարան Գրչի. — 1845 էջ 7, ստորոտը. — Ի թիւ Փրկչին մերոյ 1845, օրինակեցաւ իմով ձեռամբ գրքոյկս այս յերկնանման տաճարն Սրբոյ Յարութեան, ի վայելումն ինձ Ղուկաս աբեղայիս Բալուեցւոյ՝ որ գոլով միաբան Սրբոյն Սաղիմայ։\nՅետնագոյն յիշատակագրութիւն. — 1880 էջ 194, ստ. լուսանցքին, մանիշակագոյն թանաքով. — Այսօր կիւրակէ սեպտեմբեր 21, 1880 թուականի ետու սոյն գրքոյկս Արժ. Սրապիոն Վարդապետին, որ մեկնեցաւ աստի ի Դամասկոս տեսչական պաշտօնիւ. Ղ. Վ.։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "397.jpg"
+    },
+    {
+      "volume": "Jerusalem_V8",
+      "file": "398.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2755-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2020",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2020",
+  "notice": "2020",
+  "volume": "Jerusalem_V7",
+  "title": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1846",
+    "to": "1846",
+    "display": null
+  },
+  "fields": {
+    "numero": "2020",
+    "no_notice": "1",
+    "titre": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": "1846",
+    "date_fin": "1846",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "22 x 17 x 1: Էջք 100: Հանգամանք շատ լաւ: Թուղթ հասարակ: Գրիչ՝ Յովհաննէս Դպիր: Գրութիւն ամբողջովին սեւ մելանով, միասիւն, 29 տող: Շեղագիր մաքուր: Համառօտագրութիւնք բաւական առատ: Կազմ կիսակաշի խաւաքարտեայ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ. — Էջ 1 — Ճարտասանութիւն Բարձրագոյն դաս, յօրինեալ հօրն Ճենովեսի յոյժ դասատուական հարց եւ պատասխանի ի դիւրութիւն աշակերտելոց: Թարգմանեալ յիտալական լեզուէ ի Հայ բարբառ ի Մուրատայ պատուելի վարժապետէ Բերիացւոյ վասն աշակերտացն իւրոց եւ ազգի: Օրինակեցաւ ի բնագրէն ի յարգոյ Յոհաննու դպրէ, յաշակերտացն նորին վարժապետի, յԵրուսաղէմ, յամի Տեառն 1846:\nԷջ 2—4, դատարկ: Էջ 5. — Հրց. — Զի՞նչ է Ճարտասանութիւն: Պտսխ. — Ճարտասանութիւնն է արուեստ բարւոք խօսելոյ առ ի համոզել զունկնդիրն: Էջ 95. — Զի՞նչ են շարժուածք մարմնոյ: Էջ 97. — Ցանկ Գրոցս: Աղբիւրք յառաջաբանութեան, էջ 34:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "090.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2020-refine.json",
+    "pipeline_version": "v1"
+  }
+}

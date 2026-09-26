@@ -1,0 +1,72 @@
+{
+  "id": "J3284",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3284",
+  "notice": "3284",
+  "volume": "Jerusalem_V10",
+  "title": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3284",
+    "no_notice": "242",
+    "titre": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "436",
+    "dimensions": "26.5 X 18 X 5",
+    "mise_en_page": "սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 23 տող",
+    "details_ecriture": "կանոնաւոր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ, դրոշմազարդ, քայքայուած, վերջին կողքին տախտակը ինկած կորսուած",
+    "etat_conservation": "անբաւարար. սկիզբը եւ վերջը թերի. վնասուած հնութենէ եւ քիչ մըն ալ ցեցերէ. կարօտ նորոգութեան",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր եւ լուսանցազարդ հատուածներու սկիզբը, լուսանցանկար, հրեշտակ էջ 204, Ս. Կոյս 206",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— ...եւ զեղբարս նորա առ գերութեամբն Բաբելացւոց.— Մտթ. Ա. 11։ Էջ 8ա–9ի միջեւ թերթ ինկած։ Նոյնպէս 80–81ի, եւ 100–101ի միջեւ։ Էջ 113.— Սկիզբ Գլխոց Աւետարանին որ ըստ Մարկոսի։ Էջ 116.— Նախադրութիւն Մարկոսի Աւետարանին։ Էջ 116–117ի միջեւ թերթ ինկած։ Էջ 117ա.— Ձայն եղեւ յերկնից եւ ասէ.— Մրկ. Ա. 11։ Էջ 188–189ի միջեւ կը պակսի մէկ թերթ։ Էջ 197ա.— Աւետարան ըստ Մարկոսի.— Յարուցեալ Սա. առաւաւտուն...։ Էջ 199.— Սկիզբն Գլխոց Աւետարանին Ղուկայ։ Էջ 202–203ի միջեւ կորսուած երկու թերթ։ Էջ 203ա.— ...եւ անկաւ ահ ի վերայ նորա.— Ղուկ. Ա. 12։ Էջ 342.— Գլուխք Յովհաննու Աւետարանիս։ Էջ 344–345ի միջեւ փրցուած երկու թերթ։\nԷջ 845ա.— Զի ի լրութենէ անտի նորա ...։— Յվհ. Ա. 16։ Էջ 396—397ի միջեւ թերթ ինկած։ Էջ 486բ.— ...այլ թէ կամիմ ես թէ կացցէ։ [Շարունակութիւնը կորսուած]։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "111.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "112.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3284-refine.json",
+    "pipeline_version": "v1"
+  }
+}

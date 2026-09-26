@@ -1,0 +1,68 @@
+{
+  "id": "J3745",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3745",
+  "notice": "3745",
+  "volume": "Jerusalem_V11",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3745",
+    "no_notice": null,
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Նման է նախորդ հատորին. սկիզբը թերի, էջ 121–862։",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 121, պրակ 9.– 104.– Բայց ասոր այս հրամանը շատ երկար չի քշեց...։ էջ 186–195ի միջեւ կը պակսին թիւ 10–12 պրակները, որոնց տեղ դրուած է մէկ թերթ ճերմակ թուղթ։ էջ 325.– Քննութիւնք Բ. Գրոց։— Քննութիւն Ա.– Բաղաամու մարգարէութեան վըրայ։ էջ 356.– Գիրք Գ։ Իսրայէլի թագաւորութեան վերնալէն մինչեւ Բաբելոնի գերութիւնը. 4485 թուէն մինչեւ 4615. միջոց 130 տարուան.– Հմմտ. թիւ 3717, էջ 299։ էջ 417.– Քննութիւնք Գ գրոց։ Քըննութիւն Ա։ Յուդիթայ ժամանակին վրայ։ էջ 468.– Քննութիւն Բ։ Տուբիթայ, եւ Հին Կտակարանի քանի մը գրքերուն կանոնականութիւնը վրայ։ էջ 488.– Քննութիւն Գ։ Արեւուն ընթացքը փոփոխուելուն վրայ։ էջ 499.– Գիրք Դ։ Բաբելոնի գերութենէն մինչեւ զդարձը. 4615 թուականէն մինչեւ 4668։ Միջոց 53 տարուան.– Հմմտ. նոյն, էջ 420։ էջ 688.– Քննութիւն Դ գրոց։ էջ 691.– Քննութիւն Բ։ Նաբուգոդոնոսորայ պատահած փոփոխութեանը վրայ։ էջ 694.– Քննութիւն Գ։ Մեսիայի գալու ժամանակին համար՝ Դանիէլ մարգարէին ըրած գուշակութեանը վրայ։ էջ 791.– Քննութիւն Ե։ Եզեկիէլ մարգարէին նշանակած թուականներուն վըրայ։ էջ 884.– Քննութիւն Ը։ Զաքարիայի մարգարէութեանց հարազատութեանը վրայ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "197.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3745-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J571Բ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "571Բ",
+  "notice": "571Բ",
+  "volume": "Jerusalem_V2",
+  "title": null,
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "571Բ",
+    "no_notice": null,
+    "titre": null,
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "672",
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Նախորդին երկրորդ Հատորն է։ Նկարագրութիւն ըստ նախընթացին",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Գլուխ Երրորդ։ Յաղագս Բաւարարութեան թէ զի՞նչ իցէ։ Էջ 667. — Յիշատակարան Հեղինակի — Փառք քեզ Ած. յաղագս ամենայնի . . . ։ — Հմմտ. Ա. Հատոր, թ. 159։ Էջ 668. — Ոտանաւոր ի վերայ Եօթանց խորհրդոց, Շարադրեցեալ ծրագրողէ գրքոյս, որոյ անունն հեգակազմեն գլուխ տանցն ոտանաւորաց։ Տաճար կազմեալ եկեղեցի, տուն ու տեղի վեհ արքայի Տեառն Աստուծոյ մերոյ Փրկչի, տիպ եւ քատակ Սաղօմօնի։ Զափեալ ամօք ասքանազեան, Ռայ ընդ Մէնի համաթըւման, Ինի Այրիւ աւարտական, տուք զողորմին յաւէտական։ — Տ է ր Ե ս ա յ ի Գ ր ի չ ։ Էջ 669. — Ոտանաւոր անկիւնաւոր, Մաթէմաթիգական ոճիւ, ի վերայ Հրեշտա-"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "617.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "618.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "571Բ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

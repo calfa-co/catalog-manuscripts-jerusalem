@@ -1,0 +1,68 @@
+{
+  "id": "J926",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "926",
+  "notice": "926",
+  "volume": "Jerusalem_V3",
+  "title": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "926",
+    "no_notice": "1",
+    "titre": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "286",
+    "dimensions": "20x15x2.5",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 20 տող",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք, ըսկիզբը ութ թերթ, վերջը երկու",
+    "colophon": null,
+    "informations_diverses": "Գրիգոր Տէյիրմէնճեան ; ԾԱՆՕԹ: «Աստուածաբանութիւն թարգմանեալ որպէս երեւի ի Մխիթարեանց՝ հարց պատասխանեալ՝ բաժանեալ ի Ե պրակս առաջին մասնն յորում խօսի յաղագս Աստուծոյ։ Նօտրագիր նոր՝ անթուական» (Սաւալանեան, Ցուցակ, էջ 494)",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Խնդիր նախընթաց։ Յաղագս Աստուածաբանութեան։ Գլուխ Ա։ Յաղագս Առարկայի Աստուածաբանութեան.— Առարկայ իւրաքանչիւր մակացութեան է այն ինչ որ առարկի նմա ի քննութիւն, կամ զորով պատաղի։ Եւ բաժանի ի նիւթական եւ ի տեսական...։ Էջ 21.— Գլուխ Բ։— Յաղագս բնութեան եւ յատկութեանց Աստուածաբանութեան.— Արդեօք Աստուածաբանութիւնն իցէ՞ գիտութիւն...։ Էջ 35.— Գլուխ Գ։— Յաղագս Աստուածաբանական Տեղեաց.— Հրց.— Զի՞նչ են Աստուածաբանական Տեղիք...։ Էջ 37.— Առաջին Մասն Աստուածաբանութեան։ Յաղագս Աստուծոյ։ Վիճաբանութիւն Առաջին։ Յաղագս այնց որք վերաբերին առ էութիւնն Աստուծոյ։ Խնդիր Առաջներորդ։ Յաղագս գոյութեան եւ էութեանն Աստուծոյ։ Պրակ Ա։ Արդեօք իցե Աստուած։ Էջ 188.— Յօդ. Գ.։ Յաղագս Աստուածային Անձանց։ Էջ 199.— Պրակ Ե.։ Յաղագս գիտութեանն Աստուծոյ։ Էջ 225.— Յօդ. Ա.։ Յաղագս միջնորդի գիտութեանն Աստուծոյ։ Էջ 268.— Լուծմունք Առարկութեանց. — Առարկիցես նախ ի Սբ. Գրոց...։\nՅիշատակագրութիւն.— 1860 Էջ 285, շեղագիր.— Նուիրեցի ի յիշատակ Թանգարանի վերծանութեան Սըրբոյ Երուսաղէմի, յորդորմամբ վերատեսչի նորա Եսայի Վարդապետի։ 1860 յամին, յուլիսի 9։ Մահտեսի Գրիգոր Տէյիրմէնճեան։ Էջ 286, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "482.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "926-refine.json",
+    "pipeline_version": "v1"
+  }
+}

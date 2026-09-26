@@ -1,0 +1,68 @@
+{
+  "id": "J3579",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3579",
+  "notice": "3579",
+  "volume": "Jerusalem_V10",
+  "title": "ԺՈՂՈՎԱԾՈՅ (Թղթածրար)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3579",
+    "no_notice": null,
+    "titre": "ԺՈՂՈՎԱԾՈՅ (Թղթածրար)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "30X20X5",
+    "mise_en_page": null,
+    "details_ecriture": "Երեք թղթածրարներ՝ զետեղուած մէկ մեծ պահարանի մէջ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": "Ստեփանոս վրդ. Թովմաճանեան, Տիգրանակերտցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա. Թղթածրար, ճառեր, ոտանաւորներ եւ այլազան գրութիւններ։ Քարոզ յառաջին շաբաթի մեծի պահոց, նորոգ շարադրեալ յԵրուսաղէմ։ 1845, Մարտի 4. ի Սբ. Աթոռս Սրբոց Յակոբեանց։ Ճառ, ի շնորհաւորութիւն բարձր աստիճանի եպիսկոպոսութեան տեառն Իսահակայ, տեառն Կարապետի, եւ տեառն Յակովբայ արժանընտիր ժառանգակալաց երջանիկ սրբազան հարց, յօրինեալ Սրբոյ Աթոռոյս յետին միաբան Ստեփաննոս վարդապետի մահտեսի Թովմաճանեան Տիգրանակերտցւոյ... յամի Տեառն 1863, 31 Մայիսի, ՌՄԺԲ.— Էջք 1-60։ Ոտանաւորներ, չորս թերթ վարդագոյն թուղթ, մէկ թերթ դեղին թուղթ։\nԲ. Թղթածրար, \"Տօմարական եւ թուաբանական իրեր որ ինքս աշխատած եւ գրած եմ\".— Բազմաթիւ ընդարձակ աղիւսակներ՝ եւրոպական եւ արաբական թուանշաններով գրուած։\nԳ. Թղթածրար, \" Զանազան իմաստալից խօսքեր\"։ Այս ծրարին մէջ կան մեծ ու փոքր բազմազան գրութիւններ, կը նշանակենք մէկ քանին։ Ի վերայ պատուական գալստեան բարեհամբաւ Մինասեան ազնուաշուք Յօհաննէս էֆէնտւոյ՝ յամենացանկալի Սբ. քաղաքս յԵրուսաղէմ, ճառ ոտանաւոր.— Մեծն պայազատ՝ որ է քաջազգի...։— Գրեցաւ ի ձեռն Սրբոյ Աթոռոյս Երուսաղէմի միաբան՝ ծերունի Ստեփաննոս վարդապետիս Տիգրանակերտցւոյ, եւ 1872, յունվար 22, ի Վանս Սրբոց Յակոբեանց, յԵրուսաղէմ։\nՀէք Ստեփաննոս զայս գիր օրինեալ, զեղջական ոճովս, վարդապետ ճանեալ, մահտեսի Թոմաճանեան, նաեւ Զիզմաճեան, նախ Կարապետ էր այն, իմա եղբայր ճան։ Որոյ հայրենիս զոր Տիգրան կերտեալ, զհոյակապ պարիսպ ունի շուրջ պատեալ...։ Շուրջ 116 մեծադիր էջ, զանազան նախադասութիւններ՝ կրկնուած, բառերու տարբեր դասաւորումներով։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "638.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3579-refine.json",
+    "pipeline_version": "v1"
+  }
+}

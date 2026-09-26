@@ -1,0 +1,72 @@
+{
+  "id": "J1716",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1716",
+  "notice": "1716",
+  "volume": "Jerusalem_V6",
+  "title": "Ա Ղ Օ Թ Ա Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1716",
+    "no_notice": "16",
+    "titre": "Ա Ղ Օ Թ Ա Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "176",
+    "dimensions": "11.5x8x1.5",
+    "mise_en_page": null,
+    "details_ecriture": "սովորական գրեթէ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ, ԳՐՈՒԹԻՒՆ՝ խորագիրները եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 16 տող ընդհանրապէս",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ դրոշմազարդ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-6, տարբեր թուղթ եւ գրչութիւն։ Էջ 1. — Եւ արդ ի վերայ այսքանեաց յուսահատութեանց։ Ա. — Էջ 5. — Աղօթք Եփրեմի Խորին Աս[որ]ոյ ասացեալ. — Տես Տէր տառապանս իմ...։ Էջ 7. — Բ. — Ով խորք մեծութեան...։ Էջ 109. — ՃԼԸ. — Արդ Տէր բարերար ...։ Էջ 114. — Ով սուրբ ընթերցօղք, յորժամ զայս յաղօթս մտադիւրութեամբ և արտասուաթոր աչօք երգէք, յիշման արժանի առնէք զտարտամս եւ զտարամերժեալս ի գնտէ եւ ի հօտէ գառանցդ։ Բ. — Էջ 115. — Աղաւթք Անաստասայ քահանայի յոյժ գեղեցիկ. — Տէր մի սըրտմտութեամբ յանդիմաներ զիս. . . — Տես հետագայ թ. 1723։ Էջ 144. — Դու ես իմ յոյսն Աստուածածին...։ Էջ 147. — Յորժամ սաստիկ փողն հնչէ, զազգս մարդկան յարուցանէ, յորժամ յաթոռ Տէրն բազմի, եւ զօրք երկնից անդ ժողովին...։ Էջ 153. — Նորին Աղօթք միջնորդութեամբ երկնային զօրացն. — Սուրբք եւ սիրեցեալք յամենասուրբ Երրորդութենէն...։\nԷջ 157.— Նորին Աղօթք առ Տէր վասն գիշերոյ.— Աղաչեմ զքեզ Տէր Ած. ամենակալ...։ Էջ 160.— Նորին Աղօթք առ Տէր Յս. Քս.։— Ի քեզ յուսամ Յս. Քս. ...։ Էջ 165.— Աղաւթք Վարդան Վարդապետի, Սբ. Աստուածածնին.— Աստուածածին մայր Քի. եւ ծնօղ միածնին Հօր...։ Էջ 170, նոտրագիր.— Այս են աւուրք պահպանութեան...։ Էջ 171-176, տարբեր թուղթ եւ գրչութիւն։ Էջ 171.— Արդ այսքանեաց անբաւից հրաշից հանդերձիչ...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "042.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "043.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1716-refine.json",
+    "pipeline_version": "v1"
+  }
+}

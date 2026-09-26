@@ -1,0 +1,68 @@
+{
+  "id": "J2974",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2974",
+  "notice": "2974",
+  "volume": "Jerusalem_V9",
+  "title": "Զ Ղ Ջ Ո Ւ Մ Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2974",
+    "no_notice": null,
+    "titre": "Զ Ղ Ջ Ո Ւ Մ Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "18",
+    "dimensions": "18X12",
+    "mise_en_page": null,
+    "details_ecriture": "նոր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը երկու թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Զղջումն.— Մեղայ ամենասուրբ երրորդութեան...։ Էջ 6.— Թէօվպէ։ Էջ 12.— Իֆատէ։ Էջ 14.— Ծանուցում.— Նախ եւ յառաջ առանձին ըլլալիք խոստովանութիւնը անկեղծօրէն խօսելու է...։ Էջ 16–18, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "183.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2974-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2848",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2848",
+  "notice": "2848",
+  "volume": "Jerusalem_V9",
+  "title": "Բ Ա Ն Ք Պ Ի Տ Ա Ն Ի Ք",
+  "date": {
+    "from": "1803",
+    "to": "1803",
+    "display": null
+  },
+  "fields": {
+    "numero": "2848",
+    "no_notice": null,
+    "titre": "Բ Ա Ն Ք Պ Ի Տ Ա Ն Ի Ք",
+    "date_debut": "1803",
+    "date_fin": "1803",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ժ+54",
+    "dimensions": "19X13",
+    "mise_en_page": "սեւ մելանով, միասիւն, անհաւասար տողերով։ Նոտր շեղագիր մանր անարուեստ",
+    "details_ecriture": "չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ։ Գըրիչ եւ Ստացող՝ Ստեփանոս Պետրոսեան Ակնցի",
+    "nb_lignes": null,
+    "reliure": "թղթեայ",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Զ, դատարկ։ Էջ Է.— Յառաջաբանութիւն.— Վարժապետն մանկանցս Սրբոյ Եկեղեցւոյ՝ երանելի Առաքեալն Քի. Այ. մերոյ Պօղոս՝ դաստիարակէ զմեզ...։ Մանաւանդ վասն հիքոյս յԱկնայ Պետրոսեան յՍտեփաննոսէ, ի թւին Հայոց ՌՄԾԲ [=1803], ի Կոս. ... Էջ Ժ, դատարկ։ Էջ 1.— Ի Սաղմոսէն Սրբոյ հանեալք ոմանք բնաբանք իբրու քաղւած...։ Էջ 12.— ՅԱռակացն Իմաստնոյն Սողոմոնի։ Էջ 26.— Ի Ժողովողի Գրոցն։ Էջ 28.— ՅԻմաստութեան Գրոց։ Էջ 30.— Ի Սիրաքայ Գրոցն։ Էջ 39.— Աւարտումն ի Սիրաքայ։ Էջ 40-54, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "081.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2848-refine.json",
+    "pipeline_version": "v1"
+  }
+}

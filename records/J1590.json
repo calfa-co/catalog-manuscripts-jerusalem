@@ -1,0 +1,72 @@
+{
+  "id": "J1590",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1590",
+  "notice": "1590",
+  "volume": "Jerusalem_V5",
+  "title": "Ա.— ՄԵԿՆՈՒԹԻՒՆ ՔԵՐԱԿԱՆԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1590",
+    "no_notice": "Յ",
+    "titre": "Ա.— ՄԵԿՆՈՒԹԻՒՆ ՔԵՐԱԿԱՆԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "368",
+    "dimensions": "14.5x10x3.5",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը նարնջագոյն, մնացեալը սեւ մելանով, միասիւն, 19 տող",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը",
+    "colophon": null,
+    "informations_diverses": "եօթ թերթ, վերջը վեց ; Բ . — ՔԵՐԱԿԱՆՈՒԹԻՒՆ . — 7 Սիմէոն Վրդ . Ջուղայեցի էջ 141 . — Յաղագս Քերականութեան — Քերականութիւն է գիտութիւն տառից եւ ասութեանց եւ կիրառութեանց սոցին ըստ շարագրութեան քերթողացն, եւ բաժանի յերկուս, ի կիր առնելիս, եւ ի կիրառութիւնս . . . ։ էջ 238 . — Յաղագս Կիրառութեան, որ է Հատոր երկրորդ ։ էջ 313 . — Յաղագս կիտի . — Կէտ է տրոհօղ խառնակման տրամախոհութեան . . . ։ էջ 317–323, դատարկ ։\nԳ . — էջ 324 . — Ամիսք Հայոց Մեծաց ։ էջ 325 . — Պատճէն Հայոց Մեծ Տումարին ։ էջ 344 . — Ամսամուտ կենդանակերպիցըն այսպէս արա . . . ։ էջ 357 . — Թվական ամ . ազգաց այսպէս արա ։ էջ 361 . — Լրումն ամ . ազգաց այսպէս արա ։ էջ 364 . — Վասն Դարուց . — Առաջին Դարն Ենովք փոխեցաւ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "395.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "396.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1590-refine.json",
+    "pipeline_version": "v1"
+  }
+}

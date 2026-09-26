@@ -1,0 +1,72 @@
+{
+  "id": "J1389",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1389",
+  "notice": "1389",
+  "volume": "Jerusalem_V5",
+  "title": "Ա.— ՅԱՂԱԳՍ ԵՕԹՆ ԽՈՐՀՐԴՈՑ",
+  "date": {
+    "from": "1740",
+    "to": "1740",
+    "display": null
+  },
+  "fields": {
+    "numero": "1389",
+    "no_notice": "4",
+    "titre": "Ա.— ՅԱՂԱԳՍ ԵՕԹՆ ԽՈՐՀՐԴՈՑ",
+    "date_debut": "1740",
+    "date_fin": "1740",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "314+70",
+    "dimensions": "16X10.5X3",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 25 տող։ Նոտր շեղագիր",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ. լուսանցքները ցեցակեր փոքր չափով",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "ՅԱՂԱԳՍ Է․ ԽՈՐՀՐԴՈՑ էջ 1.— Յաղագս իւրաքանչիւր Սբ․ Խորհրդոյ Եկեղեցւոյ։ Վիճաբանութիւն Առաջին վասն Մկրտութեան։ Գլուխ Ա․։ Թէ որպիսի ինչ իցէ էութիւն Մկրտութեան։ Առաջին խնդիրք․— Հմմտ․ թիւ 789, Գ․ Հատոր, էջ 240։ էջ 293․— Վախճան, Եօթանց Խորհրդոց Սրբոյ Եկեղեցւոյն Քրիստոսի Աստուծոյ մերոյ․ ի փառս նոյնոյ, եւ ի պատիւ մօրն իւրոյ ամենօրհնեցելոյ կուսին Մարիամու։— Յամի Տեառն 1740։ էջ 294—314, դատարկ։\nԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ (Մասնակի) էջ 1․— Ճակատ Գիրքս այս որ կոչի Նախասահմանութեան, շարադրեալ ի սրբոյն Թօմայէ Ագուուինացւոյ հրեշտակական վարդապետէ, թարգմանեցեալ ի յումեմնէ բանասիրէ եւ աստուածաբանէ զորոյ անունն աստ ոչ եդաք։ Ընդ խնդրոյ եւ օժանդակութեան ոմանց բարեմտաց, եւ խոհեմազարդ վարդապետաց ի լատինական լեզուէ առ հայկական բարբառ, ի փառս ամենամեծին Աստուծոյ եւ ի պատիւ ամենասրբուհւոյ կուսին Մարիամու, եւ օգուտ հայկազեան տղին։— Յամի Տեառն (ՌՃԼԸ) ՌՁԼԸ, 1738։\nէջ 2․— Սրբոյն Թօմայէ Ագուինացւոյն հրեշտակականի վարդապետին, զնախագիտութենէ եւ զնախասահմանութենէ, ընձեռուած յառաջաբանութեան․— Ըստ խնդրոյ եւ աղաչանաց ձերոց, սիրելի եղբարք, զի ձեզ զհամառօտ ընձեռուած ինչ դիւրագոյն ոճիւ, զնախագիտութենէ եւ զնախասահմանութենէ աստուածայնոյ․ ․ ․։ — Հմմտ․ թիւ 1332։ էջ 66—70, դատարկ։\nՅետնագոյն յիշատակագրութիւն․— 1813 Սկիզբի դատարկ թերթին վրայ, շեղագիր․— Ստացայ զայս ի Տիրացու Գէորգէն, ի վայելումն անձին իմոյ։ Յամի Տեառըն 1813, յունիսի 23, ի Սբ․ Երուսաղէմ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "053.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "054.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1389-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J864",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "864",
+  "notice": "864",
+  "volume": "Jerusalem_V3",
+  "title": "Ս Ա Ղ Մ Ո Ս",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "864",
+    "no_notice": "1",
+    "titre": "Ս Ա Ղ Մ Ո Ս",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "192",
+    "dimensions": "21×15×1",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 26 տող։ Նոտր շեղագիր",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Թէհելիմ։ Սաղմոս Մարգարէին Դաւթի, եւ արքային Իսրայէլի, ըստ բաժանման հնգից գրոց Սաղմոսին եբրայեցւոց, եւ ըստ գլխակարգութեան եւ տնատութեան բնագրի նոցա, եւ ըստ այլոց ինչ ինչ զանազանութեանց։ Սաղմոսաց Գիրք Առաջին։ Սաղմոս Ա. — Երանեալ է այրն՝ որ ոչ գնաց ի խորհուրդ ամպարշտաց, եւ ի ճանապարհի մեղաւորաց ոչ եկաց, եւ ի բազմականի կատակողաց ոչ նստաւ։\nԾանօթ.— «Հմտ. Հ. Մ. Չամչեան, Մեկ. Սաղմոսաց, Հատոր 10դ. 1823» (Խապայեան, Ցուցակ, Տետր 14, էջ 1439)։ էջ 119.— Դաւթի Սաղմոս ՃԱ.— Զբարերթութիւն եւ զիրաւունս երգեցից, քեզ Տէր սաղմոսեցից։ էջ 185–192, դատարկ։\nՅիշատակագրութիւն.— էջ 184, տարբեր գրչով.— Յիշատակ է Երուսաղէմի միաբան ... Զօրլուցի Տէր Կարապետեան նուիրակ հանգուցեալ Երեմիա շնորհազարդ վարդապետին...։ Թվին 1838, Սեպտ. 6։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "382.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "383.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "864-refine.json",
+    "pipeline_version": "v1"
+  }
+}

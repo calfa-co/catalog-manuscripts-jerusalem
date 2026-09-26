@@ -1,0 +1,72 @@
+{
+  "id": "J270",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "270",
+  "notice": "270",
+  "volume": "Jerusalem_V2",
+  "title": "Ա.— ՅԱՂԱԳՍ ԵՐԿՆԱՅՆՈՑ ՔԱՀԱՆԱՅԱՊԵՏՈՒԹԵԱՆՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "270",
+    "no_notice": null,
+    "titre": "Ա.— ՅԱՂԱԳՍ ԵՐԿՆԱՅՆՈՑ ՔԱՀԱՆԱՅԱՊԵՏՈՒԹԵԱՆՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "208",
+    "dimensions": "27×21×3",
+    "mise_en_page": "խորագիրները, գլխագիրները, բնաբան եւ մեկնիչ բառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 49 տող",
+    "details_ecriture": "վարժ։ Մեծ սկզբնատառերուն տեղերը բաց մնացած",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "վատ. խոնաւութենէն եւ ցեցէն բաւական վնասուած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "Խորանազարդ մը թղ. 2ա։ Իւրաքանչիւր հատուածի սկիզբը տերեւանման զարդ մը՝ կարմրագիծ",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, վերէն կտրուած, մնացեալը դատարկ։ Էջ 3.— Պատճառ Դ(եո)նոէսիոսի։ [Դ]իոնէսիոս Աթենացի էր, որդի Սոկրատայ. յորովայնէ մաւրն նուիրեալ իշխանին դիւաց...։ Եւ Ստեփանոս Սիւնեաց Եպս.ն թարգմանեաց ի Կոստանդինուպաւլիս եւ երեր զմեզ։\nէջ 4ա — ... Յաղագս Երկնայնոցն Քահանայապետութեան։ Գլուխ Ա. — Այ տուրք բարիք եւ ամենայն պարգեւ կատարեալ ի վերուստ է իջեալ...։ էջ 119-120ա. — Տարբեր թուղթ, տըղեղ նոտրագրով։ էջ 120բ. — Դատարկ։ էջ 121ա. — Լուծմունք Դիոնէսիոսի ի Դաւթէ եւ Յակոբա յիմաստուն վարդապետաց. — Ամենայն տուրք բարի։ ԼԾ. Սկիզբն զառաքելական դնէ իւրոց բանիցն, թէպէտ լին էր իմաստութեամբ հնոցն եւ հոգոյն, որպէս եւ բազումք ի վարդապետաց...։ Հմմտ. Ա. Հատոր, էջ 504։ էջ 134բ. — Վասն Եկեղեցական Քահանայութեանց։ Ճառ Ա. — Ի գերազարդից։ ԼԾ. ցուցանէ զպատշաճ համարիմ զմեր քահանայապետական սրբազան խորհրդաղղածութեան զգիտումն...։ էջ 202բ-208. — Դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "092.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "093.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "270-refine-v2.json",
+    "pipeline_version": "v2.0.2.4"
+  }
+}

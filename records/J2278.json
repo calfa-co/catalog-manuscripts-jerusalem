@@ -1,0 +1,68 @@
+{
+  "id": "J2278",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2278",
+  "notice": "2278",
+  "volume": "Jerusalem_V7",
+  "title": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2278",
+    "no_notice": "54",
+    "titre": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "21.5 X 15.5 X 1.5 : Էջք 72 : Հանգամանք լաւ : Թուղթ բաւական հաստ : ԳՐՈՒԹԻՒՆ՝ խորագիրները, սկզբնատողերը եւ գլխատառերը ընդհանրապէս կարմիր, մնացեալը սեւ մելանով, երկսիւն, 23 տող, գունաւոր գիծերու միջեւ : Բոլորգիր վարժ : Համառօտագրութիւնք սովորական գրեթէ : Կարմրադիծ եւ աւելի յաճախ գունաւոր զարդագիր ի լուսանցազարդ գլխաւոր հատուածներու սկիզբը : Գունաւոր խորանազարդ իւր սարօք, էջ 5 : Նկար՝ պատարագիչ եպիսկոպոս և սարկաւագունք, էջ 4 : Կաշեկազմ խաչաքարակայ, դրոշմազարդ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2. դատարկ : Էջ 3ա. — Օրէնք արկելոյ սպաս եկեղեցւոյ : Էջ 5. — Որ զգեցեալ ես զլոյս . . . : Էջ 11բ. — Ամենակալ Ած . բարերար . . . : Էջ 24ա. — Եւ սարկաւագն ասէ բարձրագոյն զնիկիական դաւանութիւնն . — Հաւատամք ի մի Ած . . . . : Էջ 30բ-31ա. — Պատարագամատոյց զոր արարեալ է Սրբոյն Աթանասի Աղեքսանդրու Հայրապետին . — Տէր Ած . զօրութեանց . . . : Էջ 54բ. — Որ աւրհնես զայնոսիկ . . . : Էջ 56ա. — Աղօթք որ ասի նախ քան ըզճաշակել խորհրդոյն, ի բանից Թումայի Առաքելոյն : Էջ 57բ. — Եռամեծի և քաջ վարդապետի Մխիթարայ Գոշի խստակրօն ճգնաւորի, եւ բանիրուն հռետորի ասացեալ զԱղօթս ի ժամ Սբ . Պատարագին : Էջ 68բ-72, դատարկ : Էջ 79-88, դատարկ :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "413.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2278-refine.json",
+    "pipeline_version": "v1"
+  }
+}

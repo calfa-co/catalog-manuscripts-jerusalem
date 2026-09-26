@@ -1,0 +1,68 @@
+{
+  "id": "J203",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "203",
+  "notice": "203",
+  "volume": "Jerusalem_V1",
+  "title": "ԲԱՑԱՏՐՈՒԹԻՒՆ ՇԱՐԱԿԱՆԱՑ (Թերի)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "203",
+    "no_notice": "1",
+    "titre": "ԲԱՑԱՏՐՈՒԹԻՒՆ ՇԱՐԱԿԱՆԱՑ (Թերի)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "704",
+    "dimensions": "30 x 18 x 8",
+    "mise_en_page": "նոր սեւորակ մելանով, միասիւն, 22 տող։ Շեղ անկանոն նոտրագիր",
+    "details_ecriture": "շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "հաստ տախտակ լաթապատ անարուեստ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 3. — Լուծմունք Մեկնականք Շարականի երգարանին։ Օգնեա Հոգի Սբ. Ած։ Գլուխ Առաջին։ Վասն ծննդեան երանուհի Կուսին ի Յովակիմայ եւ յԱննայէ. — Բն. «Երգեցէք որդիք Սիօնի երգ նոր ի Ծնընդեան մօր Տեառն»։ ԼԾ. Երգն է առակ ինչ ձայնաւոր կամ պատմութիւն եղանակաւ որ յաղագս անցեալ իրաց կամ ներկայից եւ կամ ապագայից հանդերձ բանաստեղծական պաւութեամբ կամ ապագովութեամբ յարմարական բանիւք ծանուցանելով զբարիս եւ զչարսն...։ էջ 692. — Բն. «Անճառելի բնութիւն եւ բան Հօր, առաքեցար ի հայրական ծոցոյ եւ առեր զմարմին ի սրբոյ Կուսէն. սբ. Ած. հարցն մերոց»։ Գկ։ — ԼԾ. Բանն Ած. ի յանմարմնութեան գոլով ի միոյ բնութեան Հօր եւ Հոգւոյն Սրբոյ՝ ոչ էր կարելի ցուցանիլ զգայութեանց եւ ոչ իմացման...։ էջ 693–704, դատարկ։ ԾԱՆՕԹ. — Առաջին էջին վրայ բնագրէն բոլորովին տարբեր նոտր գրով եւ սեւ մելանով շեղակի գրուած կան սա երկու տողերը, լուսանցքի կողմէն մի քիչ կտրըւած. — «Հասցէ գիրս ի յԱծ.ապահ մեծն Պօլիս, ի Սբ. Ե[ջմայ?] վէքիլ՝ Տն. Պօղոս րանագետ վրդպ.»։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "590.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "203-refine.json",
+    "pipeline_version": "v1"
+  }
+}

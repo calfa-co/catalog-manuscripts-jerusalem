@@ -1,0 +1,68 @@
+{
+  "id": "J1194",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1194",
+  "notice": "1194",
+  "volume": "Jerusalem_V4",
+  "title": "ԿԵՐԱԿՈՒՐ ՀՈԳԵՒՈՐ",
+  "date": {
+    "from": "1839",
+    "to": "1839",
+    "display": null
+  },
+  "fields": {
+    "numero": "1194",
+    "no_notice": "1",
+    "titre": "ԿԵՐԱԿՈՒՐ ՀՈԳԵՒՈՐ",
+    "date_debut": "1839",
+    "date_fin": "1839",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Բ+148",
+    "dimensions": "19x14x1",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 19 տող",
+    "details_ecriture": "գրեթէ սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Սրապիոն Վրդ. Ասլանեան Կ. Պոլսեցի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա, դատարկ։ Էջ Բ. — Սոյն համառօտեալ ժողովածու գրքոյկս կոչի Կերակուր Հոգեւոր Քաղցելոց մանաւանդ եւ զսպպ հոգւոյն շիջուցիչ, զորս աստ համբարեալ դեդերեալ շրջեցայ ի գիրս յոգունս, յորոց ըստ օրինի մեղուաց զծաղկունս անուշունս առեալ մուծի ի բեթակ այսր գրքոյս եւ զատեալսն յանուանէ նշանակեցաք, զի մի եպերիցիմ անհեղինակ գոլով։ Այլ միայն յընթերցողացդ արժանահայց աղօթից մասն ընկալայց եւ ես տրուպս, Պոլսեցի Ասլանեան Սրապիոն Վարդապետս, վասնզի աղօթիւք և ամ. ինչ հաստատի հիմնի կարգի օրհնութեամբն։ Յամի Տեառն 1839, Սեպտմբ. 28, ի Սբ. Երուսաղէմ ի Սբ. Յակոբ գերահռչակ դահին։ Էջ 1. — Բանք վկայութեան ի գրոյն որ կոչի Կրթութիւն Ապաշխարողի։ Էջ 18. — Բանք Խրատականք եւ օրինակք պիտանաւորք յօգուտ հոգեսիրացն գրեալք ի գիրն Կշիռ Ժամանակի։ Էջ 87. — Բանք ընտիրք իբր ծաղիկք բազմերանգ եւ անուշահոտք ի քիմս հոգւոյն եւ ի յուղղութիւն վարուց, աստանօր ըշտեմարանեալ իբր պրակս կապեցեալ մատուցաւ հոգեսէր ընթերցողաց։ Էջ 125. — Բանք Խրատականք ասացեալք ի Սբ. Հարանց։ Էջ 146. — Վասն սքանչելագործութեան Սբ. Հարանցն։ Էջ 148. — Աւարտեցաւ սոյն գրեալս շնորհիւ Տեառն մերոյ Յիսուսի։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "342.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1194-refine.json",
+    "pipeline_version": "v1"
+  }
+}

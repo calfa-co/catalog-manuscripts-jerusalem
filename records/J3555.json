@@ -1,0 +1,68 @@
+{
+  "id": "J3555",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3555",
+  "notice": "3555",
+  "volume": "Jerusalem_V10",
+  "title": "ՀԱՒԱՔԱԾՈՅ ԸՆՏԻՐ ԱՍԱՑՈՒԱԾՈՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3555",
+    "no_notice": null,
+    "titre": "ՀԱՒԱՔԱԾՈՅ ԸՆՏԻՐ ԱՍԱՑՈՒԱԾՈՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "186",
+    "dimensions": "21x15x1",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 26-31 տող",
+    "details_ecriture": "անհարթ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "անարուեստ, կողք խաւաքարտեայ. առաջին երեսին շեղագիր. \"Հաւաքածոյ Ընտիր Ասացուածոց։ Պողոս Պատրիարքի ձեռագիրն լինել կը թուի\"",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.-1.- Բազում անգամ հասանի ոք երջանկութեան, բայց ոչ գիտելով վայելել զնա, կորուսանէ։ Էջ 16.-61.- Երկիր ոչ դադարի երբեք ի բաշխելոյ զբարիս իւր այնոցիկ, որ գործեն զնա։ Էջ 69.- Արժան է ամ. ումեք գիտել թէ առ ինչ վախճան կարգեալ է կեանք մարդոյ։ Էջ 76.- Առաւել արժան է մարդոյ զգուշանալ ի հաւատալոյ ինքեան, զի մի ինքն զինքն խաբեսցէ։ Էջ 77, տարբեր գրով.- 1841, յուլիսի 25, սկսաք գրել զյետագայս։ Էջ 77.- Մասամբ գծուած եւ եղծուած։ Նոյնպէս էջ 85-87, 89-91։ Էջ 81.- Երկպառակութիւն գլխաւորաց Ազգին ընդ միմեանս՝ չար է բովանդակ Ազգին։ Էջ 82.- Յաղագս Աղօթից։ Էջ 89.- Սօլօն Սալամինացի.- Կրեսոս հարցեալ Սօլօնի, թէ ո՞վ իցէ երջանիկ...։ Էջ 96, դատարկ։ Էջ 101.- Որ անձին չէ ձեռնհաս, զիա՞րդ կարող իցէ օգնել ընկերին։ Էջ 102.- Ոչ բժշկի, որ ոչ դնէ զդեղն, ուր ախտն է։ Էջ 108.- Որ զիւր մեղս այլոց վերայ արկանէ, կրկին մեղանչէ։ Էջ 104.- Որ սիրէ ոչ կարէ դանդաղիլ։ Էջ 112.- Ոչ է պարտ ումեք չար առնել, բայց պարտ է յամենից չարիս յուսալ։ Էջ 120, տարբեր գրով.- 1855, հոկ, 17, յաւուր երկուշաբթի, յոր տօնեցաք զարդարն Յովսէփ, եւ զՅարիմաթացին, եւ զՂազարոս բարեկամն, եւ զքորս նորա՝ զՄարիամ եւ զՄարթայ, եւ զՂունկիանոս Ճ ապետն։ Էջ 121.- Առանց հրոյ խունկ ոչ բուրէ, առանց սիրոյ աղօթք ոչ հաճոյանայ։ Էջ 124.- Յարգ պարգեւաց նուազի, յորժամ սնափառութեամբ պարգեւի։ 127-186, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "552.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3555-refine.json",
+    "pipeline_version": "v1"
+  }
+}

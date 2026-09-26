@@ -1,0 +1,72 @@
+{
+  "id": "J1563",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1563",
+  "notice": "1563",
+  "volume": "Jerusalem_V5",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": "1817",
+    "to": "1817",
+    "display": null
+  },
+  "fields": {
+    "numero": "1563",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": "1817",
+    "date_fin": "1817",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Բ+170",
+    "dimensions": "15X9X1.5",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 26 տող",
+    "details_ecriture": "մանր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Հ. Գէորգ Սրապեանց Անկիւրիացի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Գր. Տէյիրմէնճեան",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— էջ Ա. Կանոնագիրք Յովհաննու Օձնեցւոյ։ Յոր յաւելաւ եւ Ողբ Եդեսիոյ, արարեալ ի Ներսիսէ Շնորհալւոյ։ Զգուշութեամբ օրինակեալ ի հայր Գէորգեայ Սրապեանց Անկիւրիացւոյ ի կանոնական կրօնաւորէ որ ի միաբանութենէ հարց Լիբանանեանց։ Յամի 1817, ՌՄԿԶ, ի Կոստանդնուպօլիս։\nէջ 1.— Պատմութիւն վասն իւր ըստ առաջնումն կենցաղին...։— Շատ մը բառերու տեղերը բաց ձգուած են, անշուշտ ատոնց անընթեռնլի դարձած ըլլալուն պատճառաւ.— Հմմտ. Մատենագրութիւնք Յ. Օձնեցւոյ, 1833, Վենետիկ, էջ 7։ էջ 5.— Համբերողացն նախատիպ մեծն Յովբ ասէր...։ էջ 44.— Յաղագս երեկորին պաշտամանն։\nէջ 51.— Նորին Կանոնք։ էջ 62.— Նորին Ընդդէմ Պաւղիկեանց։ էջ 88, դատարկ։\nՈՂԲ ԵԴԵՍԻՈՅ — 6 Ն. Շնորհալի\nէջ 89.— Տեառն Ներսեսի սրբազան եպիսկոպոսի, եղբօր տեառն Գրիգորիսի Հայոց կաթողիկոսի բան բարառնական, տողիս չափեալ հոմերական...։ Ողբացէք եկեղեցիք, հարսունք վերին առագաստի...։\nՅիշատակագրութիւն.— 1860 էջ Բ, շեղագիր.— Նուիրեցի ի յիշատակ Բանդարանէ վերծանութեան Սրբոյ Երուսաղէմի, յորդորմամբ վերատեսչի նորա Եսայե Վարդապետի։ 1860 յամին, յուլիսի 9։ Մահտեսի Գրիգոր Տէյիրմէնճեան։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "351.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "352.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1563-refine.json",
+    "pipeline_version": "v1"
+  }
+}

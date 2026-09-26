@@ -1,0 +1,68 @@
+{
+  "id": "J166",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "166",
+  "notice": "166",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԵՍԱՅԵԱՅ (թերի)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "166",
+    "no_notice": "1",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԵՍԱՅԵԱՅ (թերի)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ժը + 111",
+    "dimensions": "30 x 21 x 1",
+    "mise_en_page": "բնաբանները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 37 տող",
+    "details_ecriture": "մանըր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "կիսակաշի անարուեստ",
+    "etat_conservation": "լաւ, ստորին լուսանցքները ցեցակեր",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "էջ 1. փակագիր, «Յիշատակ է սբ. Յակոբայ»",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Գ. ա.— Առաջաբանութիւն Եսայեայ Մարգարէին.— Մինչ Եղեկիէլ ետես զչորս քերօբէք...։ Էջ Գ. բ.— Մեկնութիւն Եսայեայ կայծակնամաքուր Մարգարէին, Գլուխ առաջներորդ.— Եսայի նախ զմեղս ժողովրդեան բազմացուցանէ...։ Էջ Է. բ.— Գլուխ երկրորդ.— Թռչի առ Քս. եւ նախ ասէ ղեկեղեցւոյ...։ Էջ Ժ. ա.— Գլուխ երրորդ։ Միայն կէս սիւնակ։ Յաջորդ էջերը, Ժ. բ.—ԺԸ., կը մնան դատարկ։ Էջ 1.— Համառօտ ժողովումն Մեկնութեանն Սբ. Մարգարէին Եսայեայ, ի լուսաւոր մեկնչաց սրբոյ հօրն Եփրեմի, Յոհաննու Ոսկեբերանի, եւ Կիւրղի Աղեքսանդրացւոյ, հրամանաւ տիեառն Հայոց Հեթմոյ։ Գէորգեա վարդապետի արարեալ.— Ծածուկ միշտ եւ անյայտ են բանք օրինացն եւ մարգարէից...։ Էջ 106ա.— Գլուխ ԻԲ, Պատգամ Ձորոյն Սիօնի.— Երկու սիւնակ միայն։ Յաջորդ էջերը — 107ա–111 կը մնան դատարկ։\nՅիշատակագրութիւնք.— Դատարկ թղթերու վրայ բնագրի դրուածքէն տարբեր գրչով կը տեսնուին հետեւեալները. 1.— Էջ 111.— Ի 1837 յունիս 15 չափեցաւ անբան մարգարէի հորի լայնութիւն եւ երկայնութիւն տիւրկէրի արշընով երեք եւ կէս, բարձրութիւն չորս ղուլաճ մեծ մարդոյ։ 2.— Էջ ժա.— Ի 1840 ապրիլ 25, օր հինգշաբթի ժամ 5, վախճանեցաւ Գաբրիէլ սրբազան Պատրիարքն Երուսաղէմի, կացեալ յաթոռ պատրիարքութեան ամս"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "504.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "166-refine.json",
+    "pipeline_version": "v1"
+  }
+}

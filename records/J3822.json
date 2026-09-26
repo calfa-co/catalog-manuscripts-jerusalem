@@ -1,0 +1,68 @@
+{
+  "id": "J3822",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3822",
+  "notice": "3822",
+  "volume": "Jerusalem_V11",
+  "title": "ՇԱՐԱԿԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3822",
+    "no_notice": null,
+    "titre": "ՇԱՐԱԿԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "15—842",
+    "dimensions": "22x14.5x4",
+    "mise_en_page": "սեւ մելանով, միասիւն, 6 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "փայլուն, դեղնորակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ. քակուած, կարօտ նորոգութեան",
+    "etat_conservation": "բաւարար. սկիզբը թերի",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սկիզբի դատարկ թերթի առաջին երեսին. \" Յիշատակ Թանգարանի Սրբոց Յակովբեանց, 1867\"։ Նոյն թերթի երկրորդ երեսին.\" Ս. Յ. Ձեռագրատուն, 7—9—71\"",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 15.— րոց թագաւոր յաւիտենից Քըրիստոս...։ Էջ 30.— Յարութեան ԱՁ։ Էջ 47.— Դարձեալ կնիք. նոյնպէս էջ 447։ Էջ 49.— Կանոն Նոր Կիւրակէի, ԴԿ։ Էջ 60.— Հարցք Յարութեան, ԱԿ։ Էջ 117.— Աշխարհամատրան Կիւրակէի Հարց, ԳՁ։ Էջ 242.— Յարութեան Հարց. ԳՁ, Չորրորդ։ Էջ 275, կրկնուած։ Էջ 306.— Յարութեան Հարց, ԴՁ, Չորրորդ։ Էջ 325.— Կանոն Համբարձման Յի., Օրհ. ԴՁ։ Էջ 326, կրկնուած։ Էջ 424.— Կանոն Պենտեկոստէի Ա. աւուր. Հմբ. ԲԿ։ Էջ 435.— Կանոն Վարդավառին Առաջին աւուրն, Օրհ. ԱՁ։ Էջ 494.— Կանոն Վերացման Սրբոյ Խաչին, Օրհ. ԱՁ։ Էջ 539.— Կանոն Վարագայ Խաչի, Օրհ. ԱԿ։ Էջ 543.— Կանոն Սրբոյն Յակովբայ Մծբնայ Հայրապետին։ Էջ 554.— Կանոն Գիւտ Խաչի, Օրհ. ԱՁ։ Էջ 597, կրկնուած։ Էջ 601.— Սրբոց Վարդանանց, Մնկ. ԴԿ։ Էջ 632, կրկնուած։ Էջ 635.— Բարսեղի Հայրապետի, Մնկ. ԴԿ։ Էջ 641—820, դատարկ։ Էջ 821.— Ցանկ։ Էջ 827—842, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "278.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3822-refine.json",
+    "pipeline_version": "v1"
+  }
+}

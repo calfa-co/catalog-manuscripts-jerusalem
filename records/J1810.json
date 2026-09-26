@@ -1,0 +1,72 @@
+{
+  "id": "J1810",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1810",
+  "notice": "1810",
+  "volume": "Jerusalem_V6",
+  "title": "Մ Ա Տ Ե Ն Ա Գ Ր Ո Ւ Թ Ի Ւ Ն Ք",
+  "date": {
+    "from": "1788",
+    "to": "1788",
+    "display": null
+  },
+  "fields": {
+    "numero": "1810",
+    "no_notice": "5",
+    "titre": "Մ Ա Տ Ե Ն Ա Գ Ր Ո Ւ Թ Ի Ւ Ն Ք",
+    "date_debut": "1788",
+    "date_fin": "1788",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "228",
+    "dimensions": "28.5x20x3",
+    "mise_en_page": "խորագիրները եւ սկզբնատողերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 33 տող։ Նոտր շեղագիր մաքուր",
+    "details_ecriture": "սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ տոկուն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ անարուեստ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Յարութիւն Միքայէլեան",
+    "possesseur": "Տիր. Համբարձում",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր, լուսանցազարդ եւ գլխազարդ, էջ 3, 101",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա. — ՅԱՂԱԳՍ ԲՆՈՒԹԵԱՆ ՄԱՐԴՈՅ . — 7 էջ 1–2, դատարկ։ էջ 3 . — Գրիգորի Եպիսկոպոսի Նիւսացւոյ Յաղագս Բնութեան Մարդոյ . — Զմարդն ի հոգւոյ իմանալւոյ եւ ի մարմնոյ գեղեցիկ կազմեալ . . . ։ էջ 98–100, դատարկ։ Բ. — ՏԵՍՈՒԹԻՒՆ Ի ՄԱՐԴՈՅՆ ԿԱԶՄՈՒԹԻՒՆ . — 5 էջ 101 . — Գրիգորի Եպիսկոպոսի՝ եղբօր Բարսղի, Տեսութիւն ի Մարդոյն կազմութիւն . Գլուխ յորում է իմն մարմնաւորական . Յաղագըս աշխարհիս բնախօսութեան, եւ գեղեցիկ իմն եւ պայծառ պատմութիւն . — Զի թէ ընդ այնոսիկ որ ի ձեռն ստացուածոցն պարտ է պատուել զայնոսիկ, որ ի ձեռն առաքինութեանն զանազանեալ են . . . ։\nԳ.— ՅՂ. ԿՈՒՍՈՒԹԵԱՆ.— 4 էջ 175.— Յորդորումն Մանկանց ի կուսութիւն. Նորին Գրիգորի Նիւսացոյ, Յաղագս Կուսութեան, թէ սեփական է աստուածայնոյ եւ անմարմին բնութեանն կուսութիւն.— Բազմաց կանխաւ եղեւ կուսութիւն...։\nՅիշատակարան Գրչի.— 1788 էջ 226.— Արդ աւարտեալ լրացուցաք զգրեցումն սրբոյ գրքոյս Նիւսացւոյն, ի խնդրոյ գերազնիւ եղբօրն մերոյ սրբասիրի, տիրացու Համբարձումին, ձեռամբ չնչին քարտուղար Յարութիւնիս Միքայէլեան Վասպուրականեցւոյ։\nԻ թուականութեանս մերում ՌՄԼԷ, ապրիլ ամսոյ մէկն, ի մայրաքաղաքն Կոստանդնուպօլիս։\nէջ 227-228, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "194.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "195.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1810-refine.json",
+    "pipeline_version": "v1"
+  }
+}

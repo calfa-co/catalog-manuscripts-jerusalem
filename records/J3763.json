@@ -1,0 +1,68 @@
+{
+  "id": "J3763",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3763",
+  "notice": "3763",
+  "volume": "Jerusalem_V11",
+  "title": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3763",
+    "no_notice": "Յ",
+    "titre": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "20x14x1.5: Էջք 310.— Հանգամանք շատ լաւ: Թուղթ հասարակ: Գրութիւն մանիշակագոյն թանաքով, միասիւն, 19 տող, սեւ գիծերու միջեւ: Շեղագիր մաքուր: Կազմ կիսակաշի խաւաքարտեայ: Կնիք մանիշակագոյն, \"Մեսրոպ եպսկպս. Նշանեան\" էջ 7",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–6 դատարկ: Էջ 7.— Ի՞նչ է վիպասանութիւնը: Վիպասանութիւնն է գործուած կամ իբր գործուած իրաց յայտարարութիւնը...: Էջ 19.— Յաղագս Ճարտասանութեան: Էջ 79.— Յաղագս Գիւտի: Էջ 158.— Տրամադրութիւն: Էջ 240.— Հ.— Ի՞նչ է ատենական հանդէսը: Էջ 249–250 դատարկ: Էջ 251.— [Ի՞]նչ է տաղաչափութիւնը: Էջ 277.— Որ ի կանանցն իւղաբերից արտասուեցար յառաւօտին...: Էջ 278–280, դատարկ: Էջ 281.— Հաւաքաբանութիւն: Էջ 288–310, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "220.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3763-refine.json",
+    "pipeline_version": "v1"
+  }
+}

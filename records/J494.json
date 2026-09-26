@@ -1,0 +1,68 @@
+{
+  "id": "J494",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "494",
+  "notice": "494",
+  "volume": "Jerusalem_V2",
+  "title": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+  "date": {
+    "from": "1824",
+    "to": "1824",
+    "display": null
+  },
+  "fields": {
+    "numero": "494",
+    "no_notice": "4",
+    "titre": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+    "date_debut": "1824",
+    "date_fin": "1824",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԶ + 438",
+    "dimensions": "23 X 17 X 3",
+    "mise_en_page": "սեւ մելանով ընդհանրապէս, միասիւն, 24 տող։ Նոտր շեղագիր",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ, խոնաւութենէ վնասուած",
+    "etat_conservation": "գրեթէ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա. — Վասն ողջունի ի բան որ ասէ. Որ տուն մտանիցէք կամ ի գեօղ ասասջիք՝ ողջոյն տանս այսմիկ։ — Բազմագութ եւ մարդասէր է Ած. ...։ Էջ Բ-ԺԴ, դատարկ։ Էջ ԺԵ. — Ճակատ. — Գիրք որ կոչի Անտառ Նորագոյն Մըտածմանց հիմնեալ ի հեղինակութեան Սբ. Գրոց ի Սրբոց Հարց եւ այլոց Վարդապետաց Եկեղեցւոյ։ Յարմարեցուցանելի ամենից լուր աւուրց կիւրակէից ի մէջ տարւոյն եւ հասարակ տօնից, ի Տէր Աղէկսանդր Գալամօքոյ կոչեցեալ պատուոյ։ Թարգմանեցեալ ի յիտալական լեզուէ ի հայկական բարբառ, ի Ղուկասու Վարդապետէ Խարբերդացւոյ, յամի Փրկչին 1741ին։ Յորմէ համառօտեցաւ առանց այլայլելոյ զմիտ բնագրին, ձեռամբ Անդրիանուպօլսեցի Տեառն Պօղոս գերիմաստ Վարդապետի. ի Միաբանութենէն Գերագահ Աթոռոյն Երուսաղէմի, ի յարքայանիստ քաղաքն ի Կոստանդնուպօլիս, ի վէքիլարանն Սրբոյն Սաղիմայ։ Եւ այժմ գծագրեցաւ աշխատութեամբ Սրբոյ Գահիս Երուսաղէմի բնիկ միաբան եւ Սրբոյն Ծննդեան բռիկ Հաննցի Սարգիս վարդապետիս։ Թվին ՌՄՀԳ [= 1824]ին, եւ օգոս. ԺԳ ին, ի պատրիարգութեան Տեառն Գաբրիէլի երջանիկ վեհի, ի գերահրաշ Գահս Սրբոյ Յակոբեանց, որ ի յԵրուսաղէմ։ Էջ ԺԶ. դատարկ։ Էջ 1. — Նախ քան զստեղծանելն Այ. զաշխարհ, անհուն իմաստութեամբ իւրով նախատեսեալ զանկումն՝ մարդոյ՝ յառաջադրեաց առաքել զիւր Միածինն յաշխարհ...։ Էջ 13. — Գլուխ երկրորդ։ Յաղագս սիրոյ զոր պարտ է ունել մարդոյ առ Ած. — Առ ի համոզել զմեզ սիրել զծայրագոյն բարին Ած...։ Էջ 435. — Ցանկ Գրքոյս, միայն գըլխոց։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "505.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "494-refine.json",
+    "pipeline_version": "v1"
+  }
+}

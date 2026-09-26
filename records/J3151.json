@@ -1,0 +1,68 @@
+{
+  "id": "J3151",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3151",
+  "notice": "3151",
+  "volume": "Jerusalem_V9",
+  "title": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3151",
+    "no_notice": "211",
+    "titre": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "218",
+    "dimensions": "11.5X9X3",
+    "mise_en_page": "սկզբնատողերը կարմիր, մնացեալը սրճագոյն մելանով, երկսիւն, 20 տող",
+    "details_ecriture": "մանր։ Սրճագոյն խորանազարդ իւր սարօք, էջ 5, 139",
+    "types_cahiers": "Ա–ԺԱ",
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ, վերջին կողքը բացուած",
+    "etat_conservation": "համարեա բաւարար. վերջը թերի",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, դատարկ, վարի մասը պատռուած։ Էջ 2, բոլորգիր, տարբեր գրչութիւն.— Փառք ամենայսուրբ Երրորդութիւն Հօր եւ Որդոյ եւ Սրբոյ Հոգոյն այժմ եւ բնաւ աիտեանս յաւիտենից. որ ետ կարողութիւն նուաստոգի Արութիւն գրչի սկիզբն առնել ծաղկելոյ եւ ոսկով սրբով զարդարելոյ զսուրբ մատեան, եւ հասանել յաւարտ ըստ յաջողելոյ ամենայսուրբ Հոգոյն։ Դիտ.— Ձեռագիրս ծաղկուած եւ ոսկով սրբով զարդարուած չէ։ Էջ 3–4, դատարկ մեծագոյն մասամբ։ Էջ 5.— Աւետարան ըստ Մաթէոսի.— Գիրք ծնընդեան Յի. Քի. ...։ Էջ 138, համարեա դատարկ։ Էջ 139.— Աւետարան ըստ Մարկոսի.— Սկիզբն աւետարանի Յի. Քի. ...։ Էջ 218բ.— ...եւ որք անցանէինն, հայհոյէին զնա, շարժեալ զգլուխս իւրեանց եւ ասէին. Վա՛հ, որ քակ [Այսչափ. շարունակութիւնը կորած].— Մրկ. ԺԵ. 29։\nՅետնագոյն յիշատակագրութիւնք.— 1.— Էջ 136բ, ստորոտը, շեղագիր. Յիշատակ է Սբ. Աստուածածնայ եկեղեցւոյն Այնթապու Հայոց։ 1.— Էջ 137, վերը, շեղագիր.— 1780 Յիշատակ է Աւետարանս այս Այնթապու Սբ. Աստուածածնայ եկեղեցւոյն Հայոց Լուսաւորչականաց արդեամբք համայն ժողովրդոց գնեալ 1780, յունիս 1։\nՅիշատակարանիկ 1923ի փակցուած առաջին կողքին, թիւ 19։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "403.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3151-refine.json",
+    "pipeline_version": "v1"
+  }
+}

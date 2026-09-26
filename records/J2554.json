@@ -1,0 +1,68 @@
+{
+  "id": "J2554",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2554",
+  "notice": "2554",
+  "volume": "Jerusalem_V8",
+  "title": "Մ Ա Ն Ր Ո Ւ Ս Մ Ո Ւ Ն Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2554",
+    "no_notice": "12",
+    "titre": "Մ Ա Ն Ր Ո Ւ Ս Մ Ո Ւ Ն Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "132",
+    "dimensions": "10.5x7.5x1.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը և գլխատառերը կարմիր, մնացեալը սև մելանով, միասիւն, 12 տող",
+    "details_ecriture": "Մեղեդիներու խազագըրրութիւնը ճոխ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ դրոշմազարդ, մասամբ քայքայուած",
+    "etat_conservation": "համարեա բաւարար. վնասուած որդերէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-6, զանազան մանրուք, անհարթ գրերով։ Էջ 7. — Գանձի գունեբ, Գ վանկէն։ Երգս յաւէժական, երգեմք բանական, երիցդ միական...։ — Ե ր ե ւ ա մ ե ց ի ն ի ռ ս տ ա ս ։ Էջ 18. — Գանձ երկվանկի։ Խորհուրդն անճառ, անհաս անքննին ...։ — Խ ա չ ա տ ո ւ ր ։ Էջ 24. — Մեծ և հզօր, անմահ թագաւոր...։ — Մ կ ր տ ի չ ո ։ Էջ 29. — Գանձի գոյն, Գ վանկի։ Գոյակն էական, Հօր սահման և բան, աստուածապետական...։ — Գ ր ի գ ո ր ։ Էջ 32. — Դ վանկէն։ Մեծ և հզօր անուն հրաշալի, հայր համայնից՝ Աստուած կենդանի. . .։ — Մ ա նվ ի լ ի ե ։ Էջ 37-38. — Մեղեդիք կարգաւ և անոյշ — Ծն. — Կոյս անապական...։ Էջ 73. — Անէս կիրիէ, քէքրաքսայ...։ Էջ 74. — Թանատոյի թիւթէ կրանտօ...։ Էջ 75. — Ֆարապուլ, ֆարապուլ, ֆարապուլի փէրշէմէ...։ — Էսէն ծիւ էսէն...։ Էջ 76. — Էտօ սօֆօ թանատօ...։ Էջ 77. — Դաքսիս անկէլօն...։ Էջ 78. — Քարոզ և Տաղ Ծննդեան. — Յամենայն ժամ օրհնեմք...։ Էջ 79. — Այսօր ձայնըն հայրական...։ Էջ 98. — Ած. անեղ, անպարագիծ...։ Էջ 99-101, մանր հատուածներ։ Էջ 102-104, դատարկ։ Էջ 105. — Տաղ զարմանալի. — Այսօր մանկունք Սիոնի...։ Էջ 106-132, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "262.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2554-refine.json",
+    "pipeline_version": "v1"
+  }
+}

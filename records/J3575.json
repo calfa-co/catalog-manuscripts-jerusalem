@@ -1,0 +1,68 @@
+{
+  "id": "J3575",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3575",
+  "notice": "3575",
+  "volume": "Jerusalem_V10",
+  "title": "ԲԱՆ ԳՈՎԵՍՏԻ Ս. ԿՈՒՍԻՆ ՄԱՐԻԱՄՈՒ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3575",
+    "no_notice": null,
+    "titre": "ԲԱՆ ԳՈՎԵՍՏԻ Ս. ԿՈՒՍԻՆ ՄԱՐԻԱՄՈՒ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "76",
+    "dimensions": "22x14.5x1",
+    "mise_en_page": "խորագիրները եւ տեղտեղ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 25–27 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ։ Լաթակազմ խաւաքարտեայ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "համարեա բաւարար յետ նորոգութեան. վնասուած թացութենէ",
+    "copiste": "Վահան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Բան Գովեստի պատմագրաբար, Յաղագս ծննդեան, սննդեան, քաղաքավարութեան եւ վերափոխման ամենասրբուհի, եւ միշտ Կուսին Մարիամու Աստուածածնին, ասացեալ ի նորին ծառայէ, եւ մաղթանաց հայցողէ, յոգնամեղ մենաւորէ Գրիգորէ.— Ըստ բարուցն բուսոյ բնաւորեալ...։ Էջ 15.— Վասն Աւետեաց Կուսին Մարիամու։ Էջ 26.— Ծնունդ Քրիստոսի։ Էջ 27.— Կատարումն Չարչարանացն Քի.։ Էջ 28.— Յարութիւն Տեառն։ Էջ 30.— Վասն Համբարձման Տեառն։ Էջ 32.— Վերափոխումն Կուսին։ Էջ 75.— Զի խաղաղութեամբ եւ հանդարտութեամբ վարեսցուք զկեանս մեր ամ. աստուածապաշտութեամբ եւ հանդերձելոյ բարութեանցն հասցուք շնորհօք եւ մարդասիրութեամբ Տեառն մերոյ Յի. Քի. ընդ որում Հօր միայնգամայն եւ Հոգոյն Սրբոյ փառք պատիւ եւ երկրպագութիւն ամ. եղականաց, յիմանալեացն եւ զգալեացս այժմ եւ միշտ եւ յաւիտեանս յաւիտենից ամէն։\nՅիշատակարան Գրչի.— Էջ 75.— Զմեծ վարդապետն Գրիգոր միայնացեալ, որ է երգօղ սրբոյ Ճառիս, յիշեսջիք ի սուրբ յաղօթս ձեր, ով տօնօղք աստուածասէրք. ընդ նմին եւ զողորմելի գրիչս Վահան, որ յոյս առեալ դարձի՝ զդէմս ի յերկիր եդեալ պաղատիմ մօրն Յի., բարեխօսել եւ մաղթել զքաւութիւն տօնողացս, եւ ամ. միահաղոյն հաւատացելոց զփրկութիւն եւ զմեծ զողորմութիւն ամէն։\nՆերքեւը անհարթ գրերով. Ի վայելումն Սարգիս Վարդապետի Եւդոկիացւոյ։ Յիշատակ է Սրբոյն Յակոբայ։ Էջ 76, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "575.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3575-refine.json",
+    "pipeline_version": "v1"
+  }
+}

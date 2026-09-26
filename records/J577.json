@@ -1,0 +1,68 @@
+{
+  "id": "J577",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "577",
+  "notice": "577",
+  "volume": "Jerusalem_V2",
+  "title": "ՄԵԿՆ. ՍԱՀՄԱՆԱՑՆ ԴԱՒԹԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "577",
+    "no_notice": "2",
+    "titre": "ՄԵԿՆ. ՍԱՀՄԱՆԱՑՆ ԴԱՒԹԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ + 262",
+    "dimensions": "22 X 16 X 2",
+    "mise_en_page": "խորագիրները, բնաբանները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 32 տող",
+    "details_ecriture": "հասարակ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: չափազանց առատ։ Մեծ զարդագիրք իւրաքանչիւր գլուխի սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բարակ յղկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ, փակագիր, էջ 1, ստորին լուսանցքին. կը կարդացուի թուականը, ՌՃՂԸ [= 1749]",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդ եւ լուսանցազարդ, էջ 1",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Դ.— Նիւթերու այբուբենական ցանկ։ Էջ 1.— Տէր Առաքելի եռամեծի եւ քաջ հռետորի եւ անախթ փիլիսոփայի...։ — Սահման թէ քանի նշանակութիւն ցուցանէ. ԼԾ. Այսինքն ժ յատկութեամբ զանազանի ...։ — Հմմտ. աստ, թ. 550։ Էջ 240.— Նորին Տէր Առաքելի Սիւնեաց Եպս.ի, ի տեսութիւն բանին որ ասէ. Ամենայն չար տանջելի է։ Էջ 261–2, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "623.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "577-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J3664",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3664",
+  "notice": "3664",
+  "volume": "Jerusalem_V11",
+  "title": "ԱՐԱՐՈՂՈՒԹԻՒՆՔ ՊԱՏՐԻԱՐՔԱՐԱՆԻ",
+  "date": {
+    "from": "1812",
+    "to": "1812",
+    "display": null
+  },
+  "fields": {
+    "numero": "3664",
+    "no_notice": null,
+    "titre": "ԱՐԱՐՈՂՈՒԹԻՒՆՔ ՊԱՏՐԻԱՐՔԱՐԱՆԻ",
+    "date_debut": "1812",
+    "date_fin": "1812",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "16",
+    "dimensions": "19x14",
+    "mise_en_page": "խորագիրը, սկզբնատողը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 21 տող",
+    "details_ecriture": "յստակ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: չափաւոր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": "թղթեայ։ Տարբեր դատարկ թուղթք սկիզբը եւ վերջը մէկմէկ թերթ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Գէորգ Դըպիր Յակոբեան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Յաղագս Սրբազան Վեհին գնալոյն ի Սբ. Եկեղեցին եւ գալոյն, եւ պատուաւոր երեւելի վարդապետաց խարէ փիլոն առնելոյն.— Ի Սբ. Զատկի Կիրակի երեկոյին եպիսկոպոսունքն, նուիրակունքն, եւ ծայրագոյնք առցեն խարէ փիլոն, եւ զսրբազանն հանդիսիւ իջուսցեն ի Սբ. Եկեղեցին...։\nՅիշատակագրութիւն Գրչի.— Էջ 9, ստորոտը.— Ի խնդրոյ մահտեսի Աբրահամ Պապայի, զայս Արարողութիւնս Պատրիարքարանի գրեցաւ եւ յարմարեցաւ անարժան սափրիչ Գէորգ դպրէ Յակոբեան։ Էջ 10–15, դատարկ։\nԾանօթ.— 1812 Էջ 16, վերը, տարբեր մելանով, նոտր շեղագիր.— Ի Պատրիարքութեան տեառն Բէոդորոսի արքեպիսկոպոսի, եւ ի թուին Հայոց ՌՄԿԱ ին, սոյն կարավառութեան տետրակս սահմանեցաւ իբրեւ քիւթիւք Պատրիարքարանին մերոյ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "102.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "103.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3664-refine.json",
+    "pipeline_version": "v1"
+  }
+}

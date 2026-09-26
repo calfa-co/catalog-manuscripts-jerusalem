@@ -1,0 +1,68 @@
+{
+  "id": "J2385",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2385",
+  "notice": "2385",
+  "volume": "Jerusalem_V8",
+  "title": "Ս Ա Ղ Մ Ո Ս",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2385",
+    "no_notice": "64",
+    "titre": "Ս Ա Ղ Մ Ո Ս",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "332",
+    "dimensions": "11x7.5x3",
+    "mise_en_page": "խորագիրները և սկզբնատողերը կարմիր, սկզբնատառերը փոփոխիփոխ կարմիր և սև, մնացեալը սև մելանով, միասիւն, 18 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական։ Մութ կարմիր զարդագիր և լուսանցազարդ դուրղաներու սկիզբը, կանոնները հանդերձ գլխազարդով և երկաթագիր սկզբնատողերով",
+    "types_cahiers": "Ե-Ճ",
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "բաւարար ընդհանուր առմամբ. նորոգութիւն կրած. սկիզբը և վերջը թերի",
+    "copiste": "Յոհաննէս Քահանայ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 2.— Մի՛ նախանձիր ընդ չարս...։ Էջ 65-68, դատարկ ճերմակ թուղթ։ Էջ 104.— Իբրև զի բարի է...։ Էջ 160.— Աւրհնութիւն Մովսիսի յայրն Աստուծոյ.— Տէր ապաւէն եղեր մեր...։ Էջ 210.— Ալէլուիա.— ՃԶ.— Խոստովան եղերուք Տեառն զի քաղցր է...։ Էջ 268.— Ի նեղութեան իմում ես առ Տէր կարդացի...։ Էջ 319.— ...Տէր ամենակալ...։ Էջ 320-321ի միջև ինկած մէկ թերթ։ Էջ 323-324 դատարկ ճերմակ թուղթ։ Էջ 331.— ...Աւրհնեցէն յԱնանիա, Ազարիայ և Միսայէլ, զՏէր աւրհնեցէք և բարձր արարէք զնա յաւիտեան։ Էջ 332, անմաքուր։\nՄանր յիշատակագրութիւն Գրչի.— Էջ 103, ստորոտ.— Զմեղապարտ և զանիմաստ գրիչս, զՅոհաննէս մեղաւք լցեալ քահանայս, աղաչեմ յիշել ի Տէր և Ած. զմեծերն ոչ յիշէ, ամէն ամէն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "037.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2385-refine.json",
+    "pipeline_version": "v1"
+  }
+}

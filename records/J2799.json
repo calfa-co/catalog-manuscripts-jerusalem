@@ -1,0 +1,68 @@
+{
+  "id": "J2799",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2799",
+  "notice": "2799",
+  "volume": "Jerusalem_V8",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ԿՐՕՆԱԿԱՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2799",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ԿՐՕՆԱԿԱՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "212",
+    "dimensions": "14×10×1.5",
+    "mise_en_page": "սևորակ մելանով, միասիւն, 18 տող։ Մանր շեղագիր մաքուր",
+    "details_ecriture": "առատ։ Լաթակազմ խաւաքարտեայ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Մինաս Վրդ. Ամրիկեան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը և վերջը երկուական թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ժողովածոյք հոգևոր խորհրդածութեանց Հայաստանեայց Սբ. Եկեղեցւոյ գլխաւոր աւուրց.— Գլուխ Առաջին.— Ի՞նչ է Կաղանդը։ Կաղանդ յունական բառ մի է, և ի մեզ՝ կաղութիւն և ձախորդութիւն անցած և յետ մնացած, որ կթարգմանի ամսագլուխ և տարեգլուխ. . .։ Էջ 5.— Ի՞նչ է Ճրագալոյցը։ Էջ 7.— Ի՞նչ է Ծնունդ, Աստուածայայտնութիւն և Մկրտութիւն։ Էջ 9.— Ի՞նչ է Անուանակոչութիւն Տեառնըն։ Էջ 11.— Գլուխ Երկրորդ։ Ի՞նչ է Տեառնընդառաջը։ Էջ 22.— Գլուխ Երրորդ։ Ի վերայ Մեծի Պահոց, և շաբաթապահոց։ Էջ 48.— Գլուխ Չորրորդ։ Ի՞նչ է Սբ. Զատիկը։ Էջ 81.— Գլուխ Հինգերրորդ։ Ի՞նչ է Հոգեգալուստը։ Էջ 97.— Ցանկ Գլխոց սոցին։ Էջ 99.— Ցուցակ երևելի աւուրց, և գըլխաւոր տօնից տէրունականացն Հայաստանեայց Սբ. Եկեղեցւոյ։ Կանոն Ճրագալուցի Ծննդեան.— Իսկ ի յԱստուածայայտնութեան Ճրագալուցի գիշերին՝ զգենուցուն քահանայքն միաբան, և յատեանն ելանիցեն խնկօք և մոմեղինօք և ամ. զարդուք. . .։ Էջ 155.— Կանոն Յարութեան Տեառն մերոյ Յիսուսի Քրիստոսի.— Զատկի Կիւրակէ. ի գիշերին հսկումն է...։ Էջ 173.— Կանոն Հոգւոյն Սրբոյ Գալստեան։ Էջ 209.— Իսկ Տօն Յղացման Սրբոյ Կուսին Մարիամու ի յԱննայէ՝ աստ եդաւ, որ կատարի ի դեկտեմբերի Թ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "452.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2799-refine.json",
+    "pipeline_version": "v1"
+  }
+}

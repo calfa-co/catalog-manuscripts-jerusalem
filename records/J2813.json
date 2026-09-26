@@ -1,0 +1,68 @@
+{
+  "id": "J2813",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2813",
+  "notice": "2813",
+  "volume": "Jerusalem_V9",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": "1890",
+    "to": "1890",
+    "display": null
+  },
+  "fields": {
+    "numero": "2813",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": "1890",
+    "date_fin": "1890",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "22X14X4: Էջք ԺԸ+732: Հանգամանք շատ լաւ: Թուղթ հասարակ: Գրիչ եւ Ստացող՝ Աւետիս Վրդ. Յովհաննիսեան: Գրութիւն՝ բնաբանները կարմիր, մնացեալը սեւորակ մելանով, միասիւն, 20 տող: Շեղագիր մաքուր, ոչ միակերպ: Համառօտագրութիւնք բաւական առատ: Կազմ կիսակաշի խաւաքարտեայ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Ը, դատարկ: Էջ Թ.— Ճակատ.— Քարոզգիրք, 1890, Յորում պարունակին Քարոզք յիսուն եւ երեք: Գրեաց Աւետիս Վարդապետ Յովհաննիսեան, Տարօնեցի, նախկին միաբան Կտուց Անապատի, եւ այժմ միաբան Առաքելական Սբ. Աթոռոյն Երուսաղէմի: Ի վանս Սրբոց Յակովբեանց գրեցաւ, ՌՅԼԸ, յԵրուսաղէմ: Էջ Ժ.— Աւետիս Վարդապետի անձնական գիրքերէն, նուիրուած Ս. Աթոռոյս Թանգարանի, 1913:\nԷջ ԺԱ.— Ի Հայրապետութեան Մայր Աթոռոյն Սուրբ Էջմիածնի Տ. Տ. Մակարայ սրբազնագոյն Կաթուղիկոսի ամենայն Հայոց: Ի Պատրիարքութեան Սրբոյ Առաքելական Աթոռոյն Երուսաղէմի Տ. Յարութիւն սրբազան Արքեպիսկոպոսի: Եւ ի Պատրիարքութեան Կոստանդնուպոլսոյ Տ. Խորենայ սրբազան Արքեպիսկոպոսի: Էջ ԺԲ, դատարկ: Էջ ԺԲ–ԺԳ միջեւ փակցուած է գրչին վերարաւոր լուսանկարը, պաշտօնական խաւաքարտով: Էջ ԺԳ.— Կանխաբանութիւն.— Մարդ ինչպէս իւր մարմին հացով կերակրելու կարեւոր պէտքն ունի...: Էջ ԺԶ.— Գրքիս նիւթերուն աղբիւրները. Ա.— Ձեռագիրները. Գէորգ Եպիսկոպոսի Քարոզգիրքը, Կարապետ պատրիարքի Քարոզգիրքը: Բ.— Տպագրեալները. Եօթնկարգեան Քարոզագիրքը, Գր. Տաթեւացւոյ երկու հատորները, Պատկեր Տօնից գիրքը, Տ. Իսրայէլեան Այսմաւուրքը: Էջ ԺԷ–ԺԸ, դատարկ:\nԷջ 1.— Քարոզ Ա.— Հպարտութեան վրայ: Էջ 709.— Քարոզ ԾԳ.— Կաղանդին կամ Տարեմտին վրայ: Էջ 719.— Ցանկ Գլխոց: Էջ 722–732, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "050.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2813-refine.json",
+    "pipeline_version": "v1"
+  }
+}

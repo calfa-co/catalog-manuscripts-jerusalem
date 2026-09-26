@@ -1,0 +1,68 @@
+{
+  "id": "J1790",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1790",
+  "notice": "1790",
+  "volume": "Jerusalem_V6",
+  "title": "ԽՈՐՀՐԴԱՏԵՏՐ ՅՈՒՆԱԿԱՆ ԵԿԵՂԵՑՒՈՅ",
+  "date": {
+    "from": "1869",
+    "to": "1869",
+    "display": null
+  },
+  "fields": {
+    "numero": "1790",
+    "no_notice": "2",
+    "titre": "ԽՈՐՀՐԴԱՏԵՏՐ ՅՈՒՆԱԿԱՆ ԵԿԵՂԵՑՒՈՅ",
+    "date_debut": "1869",
+    "date_fin": "1869",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "62",
+    "dimensions": "36×24.5",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 35 տող։ Նոտր շեղագիր",
+    "details_ecriture": "սովորական գրեթէ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ. — Խորհրդատետր Յունական Եկեղեցւոյ, 1869, սեպտ. 16, յԱտաբազար, յԱզգային Ուսումնարանն։ Էջ 1. — Կարգաւորութիւն Աստուածային եւ Սուրբ պատարագին Սրբոյ Հօրն մերոյ Յօհաննու Ոսկեբերանին։ Քահանայն՝ որ պարտէ զաստուածայինն կատարել զխորհրդածութիւն, պարտի յառաջագոյն խոստովանիլ...։ — Հմմտ. թ. 1021, Դ. Հատոր, էջ 35։ Էջ 33. — Աստուածային պատարագ սրբոյ հօրն մերոյ Վասիլիոսի մեծի։ Օրհնեալ թագաւորութիւնն Հօր և Որդւոյ եւ Սբ. Հոգւոյն, այժմ եւ միշտ եւ յաւիտեանս յաւիտենից ամէն։ Էջ 51. — Աստուածային պատարագ սրբոյ հօրն մերոյ Գրիգորի Աստուածաբանի նախասրբեցելոյ։ Այս աստուածային պատարագս ասի միայն յաւուր պահոց քառասնորդաց, որպէս ի մէջ գրբեկաց գրեալ է։ Յիշատակագրութիւն. — 1869 Էջ 62, շեղագիր. — Ըստ խնդրոյ եւ հըրամանի ամենապատիւ պատրիարքին Ս. Երուսաղէմի Տ. Տ. Եսայեայ սրբազան արքեպիսկոպոսի, ընդօրինակեցաւ Խորհրդատետրըս յունական եկեղեցւոյ ի ձեռագիր օրինակէ Գալուստ Դպրի Տէր Պօղոսեան, յանձնարարութեամբ Յօհաննու պատուելոյ Մաւեան Արմաշացւոյ, ի ձեռն Յակոբայ Կոստոկեան եւ Ռուբէնի Շահբասեան աշակերտաց ազգային ուսումնարանին Ատաբազարու, ի նուէր Թանգարանի Ս. Յակոբայ Վանացն ի Ս. Երուսաղէմ։ 1869, սեպտ. 16. յԱտաբազար, յազգային ուսումնարանն։ Հայկաբան դասատու՝ Ներսէս Գ. Մաւեան։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "155.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1790-refine.json",
+    "pipeline_version": "v1"
+  }
+}

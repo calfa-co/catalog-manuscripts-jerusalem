@@ -1,0 +1,68 @@
+{
+  "id": "J1431",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1431",
+  "notice": "1431",
+  "volume": "Jerusalem_V5",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (ԿՏԱԿՔ ՉԱՐՉԱՐԱՆԱՑ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1431",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (ԿՏԱԿՔ ՉԱՐՉԱՐԱՆԱՑ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "184",
+    "dimensions": "16x11x2",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 18 տող",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խատաքարտեայ, մասամբ քակուած. առաջին կողքին ներսը նկար Գր. Նարեկացիի՝ տպուած. վերջին կողքին ներսը տիտղոսաթերթ Նարեկի՝ Գր. Դպրի Մարսըւանեցւոյ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— Էջ 1.— Ով օր դառնութեան եւ սգոյ, ով գիշեր կսկծալի եւ ողբալի. . . ։ Բայց այնու ոչ շատացան անօրէն զինուորքըն, այլ հանեալ ի բանտէն կապեցին ի ձիթենոյ ծառն, սկսան անողորմաբար այնքան ճաղել եւ գանել, մինչ զի անզգայ ծառըն չհանդուրժեալ անտանելի չարչարանաց ստեղծողին իւրոյ, ինքեան ճղատեալ ի բունոյն յարմատոյն մինչ ի վեր առ ինքն էառ զՏէրն մեր, եւ թագոյց ի ծոց իւր ինքեան տեսանելով զճաղսն եւ զչարչարանս Փրկչին, որ այնուհետեւ ճաղօղքն կուրացեալք զձիթենոյ ծառն կու ճաղկէին եւ ոչ զարարող եւ զՏէրն ծառին, որպէս եւ երբեմն փոխանակ Երեմիայի զվէմն հարկանէին, եւ մարգարէն ազատ մնացեալ ի հարւածոց հիացեալ զարմանայր ընդ կուրութիւն նոցա։ Եւ այժմ կայ օրհնեալ ծառն այն այնպէս ծուատեալ եւ ճղքատեալ մինչեւ ցայսօր ի պարծանս Հայոց ազգիս ի մէջ այն օրհնեալ Սբ. Հրեշտակապետ Վանիցն. . .։— Հմմտ. թիւ 1345, Գ։ Բ.— Էջ 107, տարբեր գրով.— Ի մէջ ամ. շարժառիթ պատճառաց ոչ գոյ այնպիսի մեծագոյն պատճառ շարժելոյ զսիրտս առ բարիս. . .։ Էջ 111.— Կտակ չարչարանաց Տեառն մերոյ Յիսուսի Քրիստոսի, ի բան Դաւթի որ ասէ. Ահ եւ դողումն եկն ի վերայ իմ, եւ ծածկեաց զիս խաւար. . .։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "120.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1431-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J1713",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1713",
+  "notice": "1713",
+  "volume": "Jerusalem_V6",
+  "title": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1713",
+    "no_notice": "13",
+    "titre": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "486",
+    "dimensions": "11.5x8x3.5",
+    "mise_en_page": "սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 21 տող",
+    "details_ecriture": "կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ, բազմաթիւ ծակերով՝ հանուած գամերուն մընացորդ հետքերը. շատ մը պրակներ քակուած փրթած են՝ կարօտ նորոգման",
+    "etat_conservation": "բաւական լաւ",
+    "copiste": "Մարգար",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "Աւետարանչաց ոչ բոլորովին յաջող. Մատթէոս էջ 2, Մարկոս 154, Ղուկաս 256",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը չորս թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր եւ լուսանցազարդ հատուածներու սկիզբը ; ԽՈՐԱՆԱԶԱՐԴ: իւր սարօք էջ 3, 155, 257",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, դատարկ։ Էջ 3.— Գիրք ծննդեան Յի. Քի. ...։ Էջ 155.— Սկիզբն Աւետարանիս Յի. Քի. ...։ Էջ 251բ - 255, դատարկ։ Էջ 257.— Քանզի բազումք յօժարեցին ...։ Էջ 409ա.— Յովհաննու Աւետարանին սկիզբը կը պակսի.— Պատասխանի ետ նոցա եւ ասէ. Որ բժշկեացն զիս նա ասաց ցիս՝ Առ մահիճս քո եւ [գ]նայ...։— Տես, Յովհ. Ե, 11։ Էջ 484-485ի միջեւ կ'երեւին կտրուած թերթերու արմատներ։\nՅիշատակագրութիւնք.— 1.— Գրչի.— Էջ 152ա, ստորոտը.— Մեղապարտ Մարգարի։ 2.— Հետագայ ստացողի, սկիզբը կը պակսի, էջ 485ա, բոլորգիր.— [Յո]վանէսն, Մաթէոսն։ Դարձեալ յիշեցէք զԳասպարն եւ զկողակիցն Եթարն և զորդիքն Զաքարիէն եւ զդստերքն Եպրիսիէն, Մարիամն։ Դարձեալ յիշեցէք զԼուլիջանն եւ եղբայրն Մարդարէն։ Էջ 485բ - 486, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "039.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1713-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J930",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "930",
+  "notice": "930",
+  "volume": "Jerusalem_V3",
+  "title": "ՄԱՏԵՆԱԳՐՈՒԹԻՒՆՔ (ՄԱՍՆԱԿԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "930",
+    "no_notice": "4",
+    "titre": "ՄԱՏԵՆԱԳՐՈՒԹԻՒՆՔ (ՄԱՍՆԱԿԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "94",
+    "dimensions": "21×15×1",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 27 տող։ Նոտր շեղագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4, դատարկ։ Էջ 5.— Նորին սրբոյ Ներսեսի։— Արդ այս բանք եւ աստուածային օրինադրութիւնք սպասաւորութեամբ մտաց եւ ի ձեռին իմոյ թշուառ Ներսիսի ասացաւ ի հոգւոյն Աստուծոյ, ի նախակարգեալ թուականդ ի ՈԻԶին, եւ ի ժամանակ կենաց մերոց մինչ էի ԻԴ ամաց...։ Էջ 7.— Տեառն Ներսեսի Եպիսկոպոսի Կիւլիկեցւոյ Տարսօնի Խորհրդածութիւն վասն ուղղափառ հաւատոյ Եկեղեցւոյ, որ ի Սբ. Երրորդութիւնն եւ ի Տնօրէնութիւնն Քրիստոսի։ Էջ 29.— Ի խնդրոյ հարցման երիցագոյն եղբարց, Քննութիւն կարգաց Եկեղեցւոյ եւ բացատրապէս որոշումն արտաքուստ մտեալ ի սա նորաձեւութեանց։ Էջ 62.— Քննութիւն օրինակաց հաստատութեան հարցն աւանդութեանց...։ Էջ 87-94, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "487.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "930-refine.json",
+    "pipeline_version": "v1"
+  }
+}

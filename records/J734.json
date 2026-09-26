@@ -1,0 +1,68 @@
+{
+  "id": "J734",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "734",
+  "notice": "734",
+  "volume": "Jerusalem_V3",
+  "title": "Ա.— ՄԵԿՆՈՒԹԻՒՆ ԾՆՆԴՈՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "734",
+    "no_notice": "2",
+    "titre": "Ա.— ՄԵԿՆՈՒԹԻՒՆ ԾՆՆԴՈՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "472",
+    "dimensions": "21x16x3.5",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 28, 22 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: գրեթէ սովորական",
+    "types_cahiers": "ԺԵ+2",
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ ըսկիզբը չորս թերթ",
+    "colophon": null,
+    "informations_diverses": "Լուսանցքներու վրայ յաջորդաբար նշանակուած են. Բրս., Եղիշ., այլ, Եբր., Պիս., Գրիգ., Յոհ., Լուսաւորիչ, Եփր., Նիւս., Դաւիթ Փիլիսո., Փիլոն, այլուստ, Ածաբա. Գրի., Աշխարացոյց, Վդ., Առաքեալ, Վրդ., Վանական, Եպիփ., Մովսէս, Միխայէլ, Կղեմ., Կիւղ., Պողոս",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "գլխազարդ՝ էջ 9, 337, 386",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— ՄԵԿՆ. ԾՆՆԴՈՑ\nէջ 1.— Նախադրութիւն Ծննդոցն տեսութեան սրբոյ հօրն Վարդանա. Առ խընդրող մատենիս.— Բարք է բնաւորեալ առ մարդի ի բնութեանս մերում երեւեալ...։ էջ 2.— Աշխարհալուր եւ տիեզերալուր վարդապետին Վարդանայ ասացեալ Մեկնութիւն Արարածոցս.— Հաւատարիմ գանձուցն Այ. ...։ էջ 9.— Ի սկզբանէ արար Ած. զերկինս եւ զերկիր...։ էջ 335.— ... Եւ այսու հաւատով կատարի եւ տապանաւ դնի յԵգիպտոս։ Եւ Այ. իմոյ փառք յաւիտեանս, Ամէն։ էջ 36, դատարկ։\nԲ.— ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ\nէջ 337.— Գիրք Առաջին. նախ յաղագըս թէ է Ած.— Արդ եթէ է՛ Ած. բազում կերպիւ ցուցանի...։ էջ 386.— Յաղագս Հրեշտակ[ակ]ան յոգջունի.— Առաքեցաւ Գաբրիէլ ի կարգէ հրեշտակապետացն առ երանուհի Կոյսն...։ էջ 460.— Յաղագս Նստելոյն Քս.ի ընդ աջմէ Հօր։ էջ 463-472, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "199.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "734-refine.json",
+    "pipeline_version": "v1"
+  }
+}

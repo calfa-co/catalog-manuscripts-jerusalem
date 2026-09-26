@@ -1,0 +1,68 @@
+{
+  "id": "J872",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "872",
+  "notice": "872",
+  "volume": "Jerusalem_V3",
+  "title": "ԼՈՒՍԱՇԱՒԻՂ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "872",
+    "no_notice": "2",
+    "titre": "ԼՈՒՍԱՇԱՒԻՂ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "264",
+    "dimensions": "21x15x2",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 23 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "անարուեստ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1. — Լուսաշաւիղ։ էջ 3. — [Ը]ստ կարգաւորեալ նախախնամութեանն Աստուծոյ, ոչ ոք կարէ ինքեամբ ճանաչել զխորհուրդս հաւատոյ...։ — Հմմտ. Ա. Հատոր, թ. 165։ էջ 248. — Զիա՞րդ հունաւոր միտք երանելեաց կարեն հայեցողապէս տեսանել զանհուն էութիւնն Աստուծոյ։ էջ 250-264, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "390.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "872-refine.json",
+    "pipeline_version": "v1"
+  }
+}

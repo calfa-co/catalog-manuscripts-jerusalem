@@ -1,0 +1,68 @@
+{
+  "id": "J2812",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2812",
+  "notice": "2812",
+  "volume": "Jerusalem_V9",
+  "title": "Մ Ա Շ Տ Ո Ց (ՏԵՏՐԱԿ ԹԱՂՄԱՆ)",
+  "date": {
+    "from": "1857",
+    "to": "1857",
+    "display": null
+  },
+  "fields": {
+    "numero": "2812",
+    "no_notice": "109",
+    "titre": "Մ Ա Շ Տ Ո Ց (ՏԵՏՐԱԿ ԹԱՂՄԱՆ)",
+    "date_debut": "1857",
+    "date_fin": "1857",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "20X13: Էջք Ժ+66: Հանգամանք լաւ: Թուղթ հասարակ: Գրութիւն՝ խորագիրները եւ սկզբնատողերը կարմիր կամ կանաչ, մնացեալը սեւ մելանով, միասիւն, 24 տող: Նոտր շեղագիր: Համառօտագրութիւնք սովորականէն աւելի: Կազմ կիսակաշի խաւաքարտեայ:",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "էջ Դ-Զ, դատարկ: էջ Է. — Տետրակ Թաղման Կարգաւորաց, Աշխարհականաց եւ Տղայոց, ըստ արարողութեան Սրբոյ Աթոռոյն Երուսաղէմի: Ծանօթութիւն. — Կարգաւորացն՝ միայն ի կանոնագլխէ մինչ ի հանգիստն գերեզմանատան աստ գրեալ տեսանի...: — Սարկ. Տիմօ. Պօլ. Սափրիչ Գրիգորեան: էջ Թ-Ժ, դատարկ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ Ա-Բ, դատարկ: էջ Գ. — Ճակատ. — Տետրակ Թաղման Կարգաւորաց, Աշխարհականաց եւ Տղայոց, յօրինեալ ըստ արարողութեան Սրբոյ Աթոռոյն Երուսաղէմի, ի պատրիարքութեան Սրբոյ Գահին Երուսաղէմի Տ. Տ. Յովհաննու Սրբազան Արքեպիսկոպոսի, ի թուին Փրկչին 1857, յուն. 25, ի Սբ. Երուսաղէմ, յԱթոռն Ս. Յակովբեանց: էջ 1. — Կարգ Թաղման Կարգաւորաց: էջ 8բ. — Յաղագս Ննջեցելոց Աշխարհականաց: էջ 9դ. — Կարգ Աշխարհականաց Թաղման ի Տէրունի աւուր: էջ 33. — Կարգ Աշխարհաթաղի ի հասարակ աւուրն: էջ 39-40, դատարկ: էջ 41. — Կանոն Տղայաթաղի: էջ 63 եւ 66, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "049.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2812-refine.json",
+    "pipeline_version": "v1"
+  }
+}

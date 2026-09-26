@@ -1,0 +1,68 @@
+{
+  "id": "J3781",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3781",
+  "notice": "3781",
+  "volume": "Jerusalem_V11",
+  "title": "ՀՆԴԿԱՀԱՅՈՑ ՏԱՊԱՆԱԳՐԵՐ",
+  "date": {
+    "from": "1917",
+    "to": "1917",
+    "display": null
+  },
+  "fields": {
+    "numero": "3781",
+    "no_notice": "Դ",
+    "titre": "ՀՆԴԿԱՀԱՅՈՑ ՏԱՊԱՆԱԳՐԵՐ",
+    "date_debut": "1917",
+    "date_fin": "1917",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "188",
+    "dimensions": "20x16x1",
+    "mise_en_page": "մատիտով, միասիւն, 21 տող, կամ նուազ",
+    "details_ecriture": "հայերէն եւ անգլերէն",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "գունաւոր թուղթ",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": "Մինաս Յակովբեան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Հայոց եկեղեցին. Մատրաս 10 Ջանէր, 1917 Առ Գերապատիւ Տէր Թորգոմ Սրբազան Եպիսկոպոս Գուշակեան, ի Կալկաթա Սրբազան Տէր, Կ’խնդրեմ ընդունեցէք սա փոքրիկ տետրակս որ է ցուցակ գերեզմանաքարերի Հնդկաստանի Մատրաս քաղաքի Հայոց Սբ. Եկեղեցւոյ, Մայլափար կոչուած գիւղի եկեղեցւոյ, (որ այժմ Հռովմայեցւոց իրաւունքի ներքոյ է) եւ Սբ. Թովմասի լեռան եկեղեցւոյ (որ այժմ Փօրտուգալեցւոց իրաւունքի ներքոյ է,) որպէս խոստացայ ուղարկել Ձեզ։ Ընդ համբուրիւ Ս. Աջոյդ մնամ Սիրելի Սրբազնութեանդ խոնարհ ծառայ Դպիր՝ Մինաս Յակովբեան\nԴատարկ էջեր, 2, 4, 6, 8, 12, 14, 16, 22, 54, 56, 97, 122։ Մատրասի Հայոց տապանագրեր, 1–252.— Տես թիւ 3778։ Էջ 146.— Արտագրեալ ձեռամբ ամենախոնարհ ծառայէ Ազգիս, Դպիր՝ Մինաս Յակովբեան, Մադրաս, 10 Ջանէր 1917։ Էջ 149.— Մադրասի Սբ. Թոմասի լեռան վերայ կայ մի հայ եկեղեցի...։ Էջ 154–188 դատարկ։ Էջ 184–188, երեք էջ գրուած հակառակ կողմէն, ապա գծուած ջնջուած. միւս երեսները դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "239.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3781-refine.json",
+    "pipeline_version": "v1"
+  }
+}

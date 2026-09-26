@@ -1,0 +1,68 @@
+{
+  "id": "J1570",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1570",
+  "notice": "1570",
+  "volume": "Jerusalem_V5",
+  "title": "Ա Ղ Օ Թ Ա Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1570",
+    "no_notice": "13",
+    "titre": "Ա Ղ Օ Թ Ա Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "236",
+    "dimensions": "14.5x10x2.5",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մընացեալը սեւ մելանով, միասիւն, 18 տող։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "անբաւարար. վնասուած ջուրէ եւ ցեցերէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "տպագիր",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–2, դատարկ։ Էջ 3–14. — Ցանկ։ — Ա–ՂԹ Գլուխներ։ Ա. — Էջ 15. — Հաւատով խոստովանիմ՝ . . . . Բ. — Էջ 23. — Նորին [Յովհաննու Գառնեցւոյ] Աղօթք, ասացեալ ի վերայ գրոյ անունն իւր։ Աղօթք Կիւրակէին. — Յաւիտենից Ած. եւ արարիչ բոլորից . . . ։ ԻԳ. — Էջ 64. — Աղաւթք Ոսկեբերանի . . . . ԻԵ. — Էջ 73. — Վերստին յաւելուած . . . . — Արդ զյարմարութիւն պաշտաման բանիս . . . ։ ԻԷ. — Էջ 83. — Եռամեծի եւ քաջ վարդապետի Մխիթարայ Գոշի, խստակրօն ճըգնութեամբ եւ բանիբուն հեռետորի ասացեալ զԱղօթս ի ժամ Սբ. Պատարագի, ուղիղ սրտիւ։ ԻԸ. — Էջ 93. — Աղօթք Պատարագի դիմաց . . . ։ ԼԱ. — Էջ 99. — Աղօթք Թումայի Առաքելոյ ասացեալ։ ԼԳ. — Էջ 102. — Աղօթք Յոհաննու. — Զոր աւրհնութիւն, կամ զոր պատարագ . . . ։ ԼԴ. — Էջ 110. — Նորին Եփրեմի ասացեալ Աղօթք. — Տէր մեր Յիսուս Քրիստոս . . . ։ ԽԱ. — Էջ 146. — Մեսրովբ Վարդապետի ասացեալ Աղօթք . . . ։ ԽԲ. — Էջ 149. — Բանք մախթանաց Յովհաննու քահանայի, որ եւ Սարկաւագն, առ Սբ. Կոյսն Մարիամ Աստուածածինն։ ԽԳ. — Էջ 162. — Վերստին յաւելուած . . . ։ — Արքայ երկնաւոր . . . ։ ԽԴ. — Էջ 165. — Քրիստոսի Տնօրինականացն ի խորհուրդ Նազարէթի։ ՁԹ. — Էջ 195. — Աղօթք սուրբ վարդապետին Յովհաննու Սարկաւագի . . . ։ ՂԲ. — Էջ 210. — Վերստին յաւելուած . . . ։ — Տէր Ած. գթութեանց . . . ։ ՂԶ. — Էջ 223. — Այս են անուանք երկոտասան հրեշտակացն որ յամ. ժամ. կան մեզ պահապան։ ՂԸ. — Էջ 230. — Աղաւթք եւ Աւրհնութիւնք ամ. աշխարհի։ Էջ 235–236, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "365.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1570-refine.json",
+    "pipeline_version": "v1"
+  }
+}

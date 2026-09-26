@@ -1,0 +1,72 @@
+{
+  "id": "J839",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "839",
+  "notice": "839",
+  "volume": "Jerusalem_V3",
+  "title": "ԱՆԱԼՈՃԻԱ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "839",
+    "no_notice": "5",
+    "titre": "ԱՆԱԼՈՃԻԱ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "214",
+    "dimensions": "21x16x2",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 26 տող։ Նոտր շեղագիր",
+    "details_ecriture": "շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Առաջաբանութիւն Հեղինակին.— Այնպէս տարբերի Հին Կտակն ի Նորոյս, որպէս տարբերի պատկերն Քի. նոյն յինքէնէ Քրիստոսէ...։ Էջ 2.— Առաջդեցութիւնք ի թարգմանչէ.— Ծանիր, ով ընթերցող...։ Էջ 3.— Անալոճիայ Հնոյ եւ Նորոյ Կտակի։ Էջ 111.— ԾԴ.— Միթէ պսակն հրամայեալ իցէ յԱյ. ընճեռում կտակի։ Էջ 113.— Բանասէր եղբարցդ յայտ լիցի զի գիրքս այս, որ գոչի Համեմատութեան Հնոյ Կտակին ընդ Նորոյս, թէպէտ\nանդր էր քան զգրեցեալ տետրակքս, սակայն վասն կարճոգի գոլոյս ոչ կարելով իմս տանել զսակաւ աշխատութեանս, զի եւ բընութիւնս ոչ ետ ինձ ձեռն սակս նիհար գոլոյն. վասնորոյ զանձ արարեալ իմոյս յաւելաբանութենէ, քանի մի ծաղկունք պիտանիք քաղելով ներ պարտիզէն, աստ զաղափարեցի անյարմար գծիւ: Թարց եպերանաց լինել աղաչեմ: Էջ 114.— Ցանգ սակաւիկ ժողովեալ բանիցս որք աստ են: Էջ 116ա.— Ցանկ բանից...:— Կը վերաբերի յաջորդ գրութեան: Էջ 117-8, դատարկ: Էջ 119.— Յոհաննու աստուածաբան վարդապետի, ի կարգեն քարոզչաց, յորմէ ընձերի զօրինակաց եւ զնմանութեանց իրաց: Էջ 120.— Ա.— Իւրաքանչիւր տարերաց, երկնային եւս մարմնոց բնութեանց, ցուցանի բազում պատճառօք մարդկան խոհեմ ժուժկալութիւնն ի կերակրոց: Էջ 192.— Քս. կոչի առիւծ ի տեսլեանըն Յոհաննու...: Էջ 193-213, դատարկ: Էջ 214.— Տեսեալ առիւծուն զղնալ գայլուն, սաստիւ իմն հրամայեալ մերձենալ առ ինքն...:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "340.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "341.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "839-refine.json",
+    "pipeline_version": "v1"
+  }
+}

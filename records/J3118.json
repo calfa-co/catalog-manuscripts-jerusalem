@@ -1,0 +1,68 @@
+{
+  "id": "J3118",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3118",
+  "notice": "3118",
+  "volume": "Jerusalem_V9",
+  "title": "ՆԵՐԱԾՈՒԹԻՒՆ Ս. ԳՐՈՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3118",
+    "no_notice": "1",
+    "titre": "ՆԵՐԱԾՈՒԹԻՒՆ Ս. ԳՐՈՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "276",
+    "dimensions": "24X16.5X1.5",
+    "mise_en_page": "յար եւ նըման թիւ 3116 հատորին",
+    "details_ecriture": "յար եւ նըման թիւ 3116 հատորին",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "յար եւ նըման թիւ 3116 հատորին",
+    "nb_lignes": null,
+    "reliure": "յար եւ նըման թիւ 3116 հատորին",
+    "etat_conservation": "լաւ. վերջէն քանի մը թերթ կորած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ա.— Ներածութիւն Ս. Գրոց։ 1.— Ս. Գրոց Ներածութիւն կոչուած ուսումը Աստուածաշունչի բոլոր գրքերու վրայ է ընդհանրապէս...։ Էջ 3.— Բ.— Աւետարան Մատթէոսի։ 5.— Նոր Կտակարանի գրքերուն մէջ առաջինն է Մատթէոսի Աւետարանը...։ Էջ 5.— Գ.— Բաղդատութիւն Աւետարանաց։ Էջ 6.— Դ.— Ծնունդ Քրիստոսի։ Էջ 18.— Ե.— Մկրտութիւն Քրիստոսի։ Էջ 25.— Զ.— Առաջին Քարոզութիւնք։ Էջ 177.— Ի.— Զատիկ եւ Ընթրիք։ Էջ 225.— ԻԳ.— Յարութիւն։ 266.— (ԻԸ. 1-10). Քրիստոսի Յարութեան պարագայները երկու մասի կարող են բաժնուիլ...։ Էջ 231.— ԻԴ.— Աւետարան Մարկոսի։ 271.— Չորս Աւետարաններէն երկրորդը Մարկոսի անուամբ մակագրուած է...։ Էջ 268.— Լ.— Վերջին Տնօրինութիւնք։ 312.— Այդ գլխոյն ներքեւ կը միացընեմք ինչ որ չորս զանազան գլուխներով աւանդեցինք Մատթէոսի մէջ...։ Էջ 276.— 323.— Երեք տեսլեանց յիշատակութենէն յետոյ կը պատմուի Քի. հրահանգը եւ հրամանը առաքելութեան...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "349.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3118-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J28",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "28",
+  "notice": "28",
+  "volume": "Jerusalem_V1",
+  "title": "ՔԱՐՈԶՔ ԿԻՐԱԿԷԻՑ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "28",
+    "no_notice": "3",
+    "titre": "ՔԱՐՈԶՔ ԿԻՐԱԿԷԻՑ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "220",
+    "dimensions": "35 x 24 x 2",
+    "mise_en_page": "սեւ մելանով, երկսիւն, 47 տող։ Նոտր շեղագիր",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք՝ սկիզբը երեք թերթ, նոյնպէս և վերջը",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1ա.— Առաջին քարոզ պենտեկոստէի հոգւոյն սրբոյ գալստեանն...։ էջ 216ա.— Քարոզ երեսուն.— Հինգերորդ կիւրակէին զկնի Վերացման Խաչին ի վերայ Մարկոսի ԺԲ. լԵ...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "157.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "28-refine.json",
+    "pipeline_version": "v1"
+  }
+}

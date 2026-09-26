@@ -1,0 +1,68 @@
+{
+  "id": "J3514",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3514",
+  "notice": "3514",
+  "volume": "Jerusalem_V10",
+  "title": "Տ Ե Տ Ր   Օ Ժ Ա Ն Դ Ա Կ",
+  "date": {
+    "from": "1889",
+    "to": "1905",
+    "display": null
+  },
+  "fields": {
+    "numero": "3514",
+    "no_notice": null,
+    "titre": "Տ Ե Տ Ր   Օ Ժ Ա Ն Դ Ա Կ",
+    "date_debut": "1889",
+    "date_fin": "1905",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "68",
+    "dimensions": "33x21x1",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 34 տող, յա- ձախ շատ աւելի",
+    "details_ecriture": "մանր եւ խիտ։ Լաթակազմ խաւաքարտեայ. պիտակ առա- ջին կողքին՝ Տետր Օժանդակ, 1889, Նոյեմբեր 1",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": "Աշխատասիրողը",
+    "possesseur": "Աշխատասիրողը",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Թօփ-Գաբու։ Էջ 4-5ի միջեւ շատ թերթեր կտրուած։ Էջ 5.— Սամաթիոյ Եէնի-Մահալլէ։ Էջ 6.— Գում-Գաբուի դուրսը։ Էջ 8.— Երուսաղէմայ Վանքին Այգին։ Էջ 9.— Պէշիկթաշու Հետազօտութիւնք։ Էջ 12.— Քարոզիչ Պօղոս Վրդ. Պօղոս- եան։ Էջ 16.— Կալաթա։ Էջ 20.— Պալաթ։ Էջ 22.— Գասըմ Փաշա։ Էջ 23.— Զանազանք։ Էջ 32.— Միջագիւղի Ս. Աստուածածնայ Եկեղեցւոյ Հետազօտութիւնք։ Էջ 34.— Կալաթա։ Էջ 35.— Պեզճեանի Կտակը։ Էջ 36.— Տրապիզոնի Առաջնորդները.— 1342, Ստեփաննոս Եպիսկոպոս, որ այս թուականին Սիս կ'երթայ...։ 1904, Արիս- տակէս Վրդ. Խաչերեան տեղապահ Վանեցի եւ Երուսաղէմի միաբան, 1905ին Երուսա- ղէմ կը մեկնի։ Էջ 38.— Մայր Եկ. Թաղ. Խորհրդոյ օ- ժանդակներ, կազմուած 1858-1864։ Էջ 39.— Պատր. Խառն Ժողովոյ տետրակ- ներէն քաղուած։ Էջ 61.— Բողոքականաց դարձ եւ զղջման գիր.— Գրուածքին վրայ գիծեր քաշուած։ Էջ 68, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "504.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3514-refine.json",
+    "pipeline_version": "v1"
+  }
+}

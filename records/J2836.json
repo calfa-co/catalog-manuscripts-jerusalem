@@ -1,0 +1,68 @@
+{
+  "id": "J2836",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2836",
+  "notice": "2836",
+  "volume": "Jerusalem_V9",
+  "title": "ՎԱՐԴԱՊԵՏՈՒԹԻՒՆ ՃՇՄԱՐՏՈՒԹԵԱՆ",
+  "date": {
+    "from": "1760",
+    "to": "1760",
+    "display": null
+  },
+  "fields": {
+    "numero": "2836",
+    "no_notice": "17",
+    "titre": "ՎԱՐԴԱՊԵՏՈՒԹԻՒՆ ՃՇՄԱՐՏՈՒԹԵԱՆ",
+    "date_debut": "1760",
+    "date_fin": "1760",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "180",
+    "dimensions": "20 X 15 X 1.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 23 տող։ Նոտր շեղագիր անարուեստ",
+    "details_ecriture": "չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ հնամաշ",
+    "etat_conservation": "բաւարար. լուսանցքի ցեցահարութիւն թեթեւ",
+    "copiste": "Յովակիմ Աբղ. Ծովածին",
+    "possesseur": "Յովակիմ Աբղ. Ծովածին",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը երկու թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Գիրք որ կոչի Վարդապետութիւն Ճշմարտութեան, որով իմաստնա[նա]լով մարդ ճանաչէ զմոլորութիւն իւր, եւ եղանի իմաստուն եւ զգաստ։ Շարադրեցեալ ի Պետրոսէ Վարդապետէ Թիֆլիզեցւոյ։ Յամի Տեառն 1722, ի Վէնէտիկ։ Էջ 95.— Ցանկ գրոցս Վարդապետութիւն Ճշմարտութեան.— Ա-Ժ Գլուխներ։ Էջ 96.— Գրեմ աստէն զբանս զայնոսիկ զարհուրելի, զորս ընդդէմ քահանայիցն այնոցիկ, որք ի մեղս գոլով մահացու, համարձակին մատուցանել զսրբազնասուրբ պատարագն. որք են արտահանեցեալք ի յայտնութեանց երանուհւոյն Պրինիթեայ, առաջնոց, ի չորրորդէ, եւ ի վեցերորդէ գրոց նորին։ Խօսակցութիւն Քի. ընդ երանուհւոյն Պըրինիթեայ։ Էջ 137.— Սրբոցն Աստուծոյ Գ կերպիւ չարչարակից լինի ոք։ Էջ 142.— Պատմութիւն Ողջոյն քեզի.— Զինուոր ոմն աւազակապետ...։ Էջ 144.— Պատմութիւն Սբ. Աստուածածնին.— Տէվլէթլիին պիրի՝ պիր սէրայ պինա իթտի...։ Էջ 148.— Բան առ Սբ. Աստուածածինն. Սիմէօն.— Ցաւ առաւել դառնագին, նեղութիւն առաւել սաստկագին...։ Էջ 161.— Ցանկ Տետրակիս...։ Էջ 165–180, դատարկ։\nՅիշատակագրութիւն Գրչի.— 1760 Էջ 96, մէջտեղը.— Գրեցի ես մեղապարտ Յովակիմ ծովածին աբեղայս, ՌՃՁ ինն ամին, դեկտեմբերի Իին, օր Կիրակի։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "070.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2836-refine.json",
+    "pipeline_version": "v1"
+  }
+}

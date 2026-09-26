@@ -1,0 +1,68 @@
+{
+  "id": "J2676",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2676",
+  "notice": "2676",
+  "volume": "Jerusalem_V8",
+  "title": "Լ Ո Ւ Ս Ա Շ Ա Ւ Ի Ղ",
+  "date": {
+    "from": "1825",
+    "to": "1825",
+    "display": null
+  },
+  "fields": {
+    "numero": "2676",
+    "no_notice": "3",
+    "titre": "Լ Ո Ւ Ս Ա Շ Ա Ւ Ի Ղ",
+    "date_debut": "1825",
+    "date_fin": "1825",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ+240",
+    "dimensions": "28 x 20 x 2",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 25 տող",
+    "details_ecriture": "մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ ոսկեդըրուագ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը և վերջը մէկ մէկ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա. — Ճակատ. — Լուսաշաւիղ, յորում բացատրին գլխաւոր մասունք հանգանակին հաւատոյ ըստ ընթերցուածոց Հայաստանեայց Սբ. Եկեղեցւոյ։ Աշխատասիրութեամբ Գրիգոր Դպրի Փէշտիմալճեան ըստ հարկադիր հրամանի տեառն Պօղոսի արքեպիսկոպոսի ի ժամանակի պատրիարգութեան իւրոյ ի թագաւորեալ մայրաքաղաքն Կոստանդնուպօլիս, յամի Տեառն 1825, յՕրթագիւղ։ Էջ Բ, դատարկ։ Էջ Գ, շեղագիր, տարբեր գրչութիւն։ Առ ազնուամեծար յարգութիւն մեծահաւատ Միքայէլ ազգասէր ամիրայդ Փիշմիշեան, ուղերձ սիրալրական. — Ո՜վ, զիա՞րդ դէպ բարեպատեհ ի պսակ ձերումդ նախանձելի փափագանաց՝ առ յանմահն մշտնջենաւորութիւն անուան բարեյիշատակ ամուսնոյդ՝ այս ձիրք յարմարաւոր. . .։ — Ձերդ մեծապատուութեան բարեմաղթու Կոստանդնուպօլսոյ պատրիարք Մատթէոս արքեպիսկոպոս, 1848, յուլիս 30։ Էջ Դ-2, դատարկ մեծագոյն մասամբ։ Էջ 3. — Յառաջաբանութիւն. — Ըստ կարգաւորեալ նախախնամութեանն Աստուծոյ, ոչ ոք կարէ ինքեամբ ճանաչել զխորհուրդս հաւատոյ. . .։ Էջ 231. — Զիա՞րդ հունաւոր միտք երանելոց կարեն հայեցողապէս տեսանել զանհուն էութիւնն Աստուծոյ։ Էջ 233-240, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "315.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2676-refine.json",
+    "pipeline_version": "v1"
+  }
+}

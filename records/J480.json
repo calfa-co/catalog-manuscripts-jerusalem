@@ -1,0 +1,68 @@
+{
+  "id": "J480",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "480",
+  "notice": "480",
+  "volume": "Jerusalem_V2",
+  "title": "Ա.— ՄԵԿՆՈՒԹԻՒՆ ԻՄԱՍՏՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "480",
+    "no_notice": "Յ",
+    "titre": "Ա.— ՄԵԿՆՈՒԹԻՒՆ ԻՄԱՍՏՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "146+ 150",
+    "dimensions": "23 X 17 X 2",
+    "mise_en_page": "սեւ մելանով, միասիւն, 27–31 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— ՄԵԿՆ. ԻՄԱՍՏՈՒԹԵԱՆ ՍՈՂՈՄՈՆԻ Ն. Լամբրոնացի\nէջ 1.— Յառաջաբանութիւն Իմաստութեան Սողոմոնի։ Ի լոյս ածեցեալ Մեկնութեամբ Սրբոյ Ներսեսի Լամբրոնացւոյ, արքեպիսկոպոսի Տարսօնի Կիլիկեցւոջ, եւ լուսաւոր Ածաբան Վարդապետէ Սբ. Եկեղեցւոյ։ Իմաստութիւն Սողոմոնի վերնագրես առի ուսանեմք եւ զայս իմաստութիւն Սողոմոնի, որպէս եւ նախակարգեալսդ սորին զԱռական, եւ զԺողովողն, եւ զերգ Երգոցն ...։ — Հմմտ. աստ, էջ 316։\nԲ.— ՄԵԿՆ. ԺՈՂՈՎՈՂԻ էջ 1.— Բանք Ժողովողի Որդւոյ Դաւթի Թագաւորի Իէլ. ի յԵմ. Եկլեսիաստէս։ Առակացն Գիրք խրատէ մարդկան յանհարթ եւ յանհաւասար կենցաղոյս ընթացքն...։ — Հմմտ. աստ, էջ 316։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "491.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "480-refine.json",
+    "pipeline_version": "v1"
+  }
+}

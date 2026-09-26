@@ -1,0 +1,72 @@
+{
+  "id": "J1765",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1765",
+  "notice": "1765",
+  "volume": "Jerusalem_V6",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": "1851",
+    "to": "1851",
+    "display": null
+  },
+  "fields": {
+    "numero": "1765",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": "1851",
+    "date_fin": "1851",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "132",
+    "dimensions": "24x18x1",
+    "mise_en_page": null,
+    "details_ecriture": "այլազան",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "այլազան",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": "Յակոբ Վրդ. Տիգրանակերտցի",
+    "possesseur": "Յակոբ Վրդ. Տիգրանակերտցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ, հաւկթաձեւ, փակագիր, «Ք. Ծ. Յակոբ Վարդապետ, 1843», էջ 1, 128",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, նոտրագիր, խորագիրը բոլորգիր, կարմրադեղով. — (1843) — Քարոզք\nեւ բանք պիտանիք, գրեալք ի Յակոբ Վարդապետէ Տիգրանակերտցւոյ, եւ աշակերտէ Դաւիթ վսեմափայլ Վարդապետին Կարնեցւոյ։ Դատարկ էջեր․ 14, 52, 56, 72, 84, 89, 122-124։ Էջ 51, ստորոտը, շեղագիր․ — Այլ եւ հանգեաւ ի Քս․ Յս․ ի Տէր մեր՝ խնամածու հայրն իմ Կարնեցի Դաւիթ սրբազան արքեպիսկոպոսն քաղցկեղ ցաւօք, եւ թաղեցաւ ի բակն Սբ․ Փրկչայ Վանուց, որում ծառայելս իբրեւ 24 ամ, ի 1858, հոկ․ 6, որ եմ Սըրբոյ Երուսաղէմի մայր Աթոռոյս յետին ծառայ աւագ թարգման Յակոբ Վարդապետ Տիգրանակերտցի Մ․ Յօհաննէսեան։ Էջ 53․ — Գովութիւն վերին Սբ․ Երուսաղէմի եւ պարգեւաց սրբոց արդարոց։ Էջ 57․ — Երանելոյն Անանիայի Հայոց Վարդապետի ի խորհուրդ Յունանու Մարգարէի։ Էջ 73․ — Գրեցաւ սա ձեռամբ Լիմ Անապատցի Կարապետ Վրդ․ եղբօր։ Էջ 90․ — Քարոզ Գալստեան Հոգւոյն Սրբոյ։ Էջ 93․ — Ողբ եւ Կտակ Աւագ Ուրբաթու Խաչելութեան Տեառն մերոյ Յի․ Քի․ ի Յակոբ պատրիարգէ շարադրեալ, եւ վերստին համառօտեալ յումեմնէ։ Էջ 110․ — Նախերգանք Քարոզից, ըստ վայելչութեան յարմարել խօսիլ։ Էջ 113․ — Քարոզ Ողջունի․ — Որպէս կեանք մարմնոյ հոգի է, նոյնպէս կեանք հոգւոյն՝ շնորհք․․․։ Էջ 118․ — Քարոզ վասն Ծաղկազարդի աւուր դրան բացման։ Էջ 121, թկ․ — 1851։ Էջ 125, նոտր շեղագիր․ — Ցանկ Քարոզից եւ Բնաբանից եւ մտաց նոցա, ըստ երեսադ թղթահամարիցն։ Էջ 129-132, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "125.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "126.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1765-refine.json",
+    "pipeline_version": "v1"
+  }
+}

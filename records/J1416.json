@@ -1,0 +1,68 @@
+{
+  "id": "J1416",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1416",
+  "notice": "1416",
+  "volume": "Jerusalem_V5",
+  "title": "Ք Ե Ր Ա Կ Ա Ն Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1718",
+    "to": "1718",
+    "display": null
+  },
+  "fields": {
+    "numero": "1416",
+    "no_notice": "5",
+    "titre": "Ք Ե Ր Ա Կ Ա Ն Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": "1718",
+    "date_fin": "1718",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "212",
+    "dimensions": "16x10.5x2",
+    "mise_en_page": "խորագիրները եւ գլխագիրները նարնջագոյն, մնացեալը սեւ մելանով, միասին, 19 տող",
+    "details_ecriture": "սովորական գրեթէ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ հնամաշ",
+    "etat_conservation": "անբաւարար. վնասուած թացութենէ",
+    "copiste": "Յակոբ Դպիր",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Սիմէոնի վարդապետի արարեալ Քերականութիւն ըստ հայկազանց լեզուի մերում. — Քերականութիւն տառից եւ ասութեանց եւ կիրառութեանց սոցին ըստ շարադրութեան քերթողացն...։ Էջ 50. — Յաղագս անւան բայի. — Բայ է բառ հոլովական որ զգոլ ինչ կամ առնել կամ կրել նշանակէ, հանդերձ ժամանակաւ եւ դիմօք...։\nՅիշատակարան Գրչի. — 1718 Էջ 210. — Գրեցաւ վայելչատիպ գրքուկս ձեռամբ չնչին անուամբ Յակոբ դպրի, անհմա գրչի, ի թվականիս Հայոց ՌՃԿԷ, նոյեմբերի Ժ, օրն Բշթի.։ Էջ 211-212, դատարկ, բացի հետեւեալ տողէն. «Յիշատակ է ի դուռն Սբ. Յակոբայ որ յԵրուսաղէմ»։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "092.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1416-refine.json",
+    "pipeline_version": "v1"
+  }
+}

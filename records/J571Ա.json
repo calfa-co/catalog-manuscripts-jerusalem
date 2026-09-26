@@ -1,0 +1,68 @@
+{
+  "id": "J571Ա",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "571Ա",
+  "notice": "571Ա",
+  "volume": "Jerusalem_V2",
+  "title": "ՅԱՂԱԳՍ ԵՕԹՆ ԽՈՐՀՐԴՈՑ",
+  "date": {
+    "from": "1772",
+    "to": "1772",
+    "display": null
+  },
+  "fields": {
+    "numero": "571Ա",
+    "no_notice": "5",
+    "titre": "ՅԱՂԱԳՍ ԵՕԹՆ ԽՈՐՀՐԴՈՑ",
+    "date_debut": "1772",
+    "date_fin": "1772",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "745",
+    "dimensions": "22 x 17 x 4",
+    "mise_en_page": "խորագիրները եւ յաճախ սկզբնաւորութիւններն ու գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 27 տող",
+    "details_ecriture": "կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Տէր Եսայի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— Գիրք Մեկնութիւն Եօթն Խորհրդոց Սրբոյ Եկեղեցւոյ, Շարադրեցեալ եւ մեկնեալ ի Յակոբայ Արհիապանծ Եպիսկոպոսէ, եւ Ածաբան Պատրիարքէ Կոստանդնուպօլսոյ, յամի կենարարին 1754, ի թուականիս Հայոց ՌՄԳ, Յունիսի Ժ, ի Կոստանդնուպօլիս քաղաքի, յերկրորդ պատրիարքութեան իւրում։ Էջ 1.— Կրթութիւն Ածաբանական ըզխորհրդոցն Եկեղեցւոյ։ Էջ 743.— Պրակ Եօթներորդ, Թէ ո՞յք պարտաւանդին պահելոյ զկնիքն խոստովանութեան։\nՅիշատակագրութիւն.— Էջ 1.— Յիշատակ է Եօթն Խորհրդոց Սրբոյ Եկեղեցւոյ, Սրբոյ Աթոռոյս Վէքիլ Ղարսեցի Գաբրիէլ Եպկս. Ած. իմաստ Վարդապետին. չունի ոք հրաման հանել ի Սբ. Աթոռոյս։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "617.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "571Ա-refine.json",
+    "pipeline_version": "v1"
+  }
+}

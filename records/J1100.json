@@ -1,0 +1,72 @@
+{
+  "id": "J1100",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1100",
+  "notice": "1100",
+  "volume": "Jerusalem_V4",
+  "title": "ԱՆԱԼՈՃԻԱ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1100",
+    "no_notice": "8",
+    "titre": "ԱՆԱԼՈՃԻԱ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "142",
+    "dimensions": "20x15x1",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 26 տող։ Նոտր շեղագիր",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": "Յովսէփ Վարդապետ ըստ կնիքին",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ փակագիր, «Ք. Ծ. Յովսէփ Վարդապետ, 1227» [= 1778], էջ 1",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "ՃԱԿԱՏ . — Էջ 1, Անալօճիայ, այսինքն, Համեմատութիւն Հնոյ եւ Նորոյս Կտակի, Յորում նախ կացութիւն Հնոյ Կտակին, յետոյ համակամութիւն եւ միաբանութիւն ընդ Նորոյս Կտակի մեկնաբանի։ Շարագրեալ նախ ի Մարտինոսէ Պեբանեան աստուածաբան Վարդապետէ ի Յիսուսեան կարգէ, լեզուաւ լաթինականաւ, և անտի թարգմանեցեալ ի հայկական լեզու ի Պետրոսէ Վարդապետէ Թիֆլիզեցւոյ։\nէջ 2ա.— Առաջաբանութիւն Հեղինակին։ էջ 4ա.— Ցանկ Գլխոց եւ Խնդրանաց։ էջ 13ա.— Առազդեցութիւնքս ի Թարքմանչէ։ էջ 16ա.— Առաջին Խնդիր. թէ որք իցեն գրեանք կանոնականք Հնոյ Կտակին։ էջ 134բ.— Երրորդ Խնդիր։ Յաղագս թէ որով արարողութեամբ ձեռնադրեցեալք իցեն ղեւտականքն քահանայք եւ քահանայապետք։ էջ 140–142, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "175.JPG"
+    },
+    {
+      "volume": "Jerusalem_V4",
+      "file": "176.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1100-refine.json",
+    "pipeline_version": "v1"
+  }
+}

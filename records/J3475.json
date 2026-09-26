@@ -1,0 +1,68 @@
+{
+  "id": "J3475",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3475",
+  "notice": "3475",
+  "volume": "Jerusalem_V10",
+  "title": "ՀԱՐՑ ԵՒ ՊԱՏԱՍԽԱՆԻ ՎԱՍՆ",
+  "date": {
+    "from": "1677",
+    "to": "1677",
+    "display": null
+  },
+  "fields": {
+    "numero": "3475",
+    "no_notice": null,
+    "titre": "ՀԱՐՑ ԵՒ ՊԱՏԱՍԽԱՆԻ ՎԱՍՆ",
+    "date_debut": "1677",
+    "date_fin": "1677",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "420",
+    "dimensions": "21 X 15 X 4.5",
+    "mise_en_page": "խորագիրներ, սկզբնատողեր ց մասամբ կէտերը, եւ կարգ մը բառեր կարմիր, մնացեալը սեւ մելանով, միասիւն, 24 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ, դրոշմազարդ՝ հայկական ոճով",
+    "etat_conservation": "լաւ ընդհանուր առմամբ. լուսանցքի ցեցահարութիւն թեթեւ. ազդուած թացութենէ",
+    "copiste": "Ռըզգալլահ Քահանայ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը չորս թերթ",
+    "colophon": "Գրչի, ասորատառ արաբերէն, թարգմանող՝ S. P. Cowe.— 1677 Էջ 415.— The lining and copying of this [manuscript] was completed by the insignificant creature of God, whose name could not be written in the Holy Books by reason of the great number of his sins and guilt. His name is Riskallah, pupil of Bishop Gebrayil, who [in copying] hopes for a good report from him who looks at these disordered letters, because of his learning. I copied it from Arabic. Glory to God for ever. It was executed in the city of Aleppo. 1677.",
+    "informations_diverses": "1.— Էջ 1, վերը, նոտր շեղագիր անհարթ. — Ասորերէն Հարց եւ Պատասխանի, Վասն Է Խորհրդոց Եկեղեցւոյ։ 2.— Էջ 416, վարը, արաբերէն.— Ստեփանոս Վարդապետ Հալէպցի, Հայ եպիսկոպոս Դամասկոսի, բնակեալ ի Սբ. Յակոբ, ի Ս. Երուսաղէմ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "465.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3475-refine.json",
+    "pipeline_version": "v1"
+  }
+}

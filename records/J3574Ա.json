@@ -1,0 +1,68 @@
+{
+  "id": "J3574Ա",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3574Ա",
+  "notice": "3574Ա",
+  "volume": "Jerusalem_V10",
+  "title": "Ի ՎԵՐԱՅ ՀԱՂՈՐԴՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3574Ա",
+    "no_notice": null,
+    "titre": "Ի ՎԵՐԱՅ ՀԱՂՈՐԴՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "1—204",
+    "dimensions": "25x17.5x2",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 27—30 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": "անհարթ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "սրճագոյն թուղթ, առաջին երեսին շեղագիր. \"Տետր Ա. երես 1—204, Տէր Գրիգորի գրուած ի վերա հաղորդութեան ի հաստատութիւն գոյափոխութեան\"",
+    "etat_conservation": "անբաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Սկիզբի դատարկ թուղթին երկրորդ երեսին. \"Տէր Գրիգորի գրուած ի վերայ հաղորդութեան ի հաստատութիւն գոյափոխութեան, ՁՁՁ թուղթ\"։ Էջ 1.— Յղութիւնն Քի. անձնաւորութեամբն ի սիրտ կուսին անբաժանելի միացեալ, եւ աստուածութեամբն ընդ Հօր եւ ընդ Հոգւոյն անբաժանելի ի նոյն յաթոռ փառազարդեալ...։ Էջ 12—18ի միջեւ մէջ թերթ դատարկ առանց իջաթիւի։ Էջ 204.— ... Կտակարանն՝ անգիր, արիւնն՝ հրաշահոս...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "573.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3574Ա-refine.json",
+    "pipeline_version": "v1"
+  }
+}

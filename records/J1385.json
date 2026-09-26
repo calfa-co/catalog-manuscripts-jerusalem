@@ -1,0 +1,68 @@
+{
+  "id": "J1385",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1385",
+  "notice": "1385",
+  "volume": "Jerusalem_V5",
+  "title": "ՎԱՐԴԱՊԵՏՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅՆ ԳԱՂՂԻՈՅ",
+  "date": {
+    "from": "1818",
+    "to": "1818",
+    "display": null
+  },
+  "fields": {
+    "numero": "1385",
+    "no_notice": "5",
+    "titre": "ՎԱՐԴԱՊԵՏՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅՆ ԳԱՂՂԻՈՅ",
+    "date_debut": "1818",
+    "date_fin": "1818",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "36",
+    "dimensions": "16.5x14",
+    "mise_en_page": "խորագիրները եւ սկզբնաւորութիւնները կարմիր, մնացեալը սեւ մելանով, միասիւն, 17 տող։ Նոտր շեղագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "թղթեայ",
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ — Էջ 3 Վարդապետութիւն Եկեղեցւոյն Գաղղիոյ։ Թարգմանեալ նախ ի գաղղիական լեզուէ յիտալական, եւ յիտալականէ ի յունական, իսկ ի յունականէն եւ ի լոյս ածեալ ի հայկական յատկութիւն։ Ի թուին Հայոց ՌՄԺԶ, ի Նաւասարդի ԺԷ։ Իսկ այժմ նորոգ ընդօրինակեալ ի ձեռըն. ես յոգնամեղ տէր Յօհան մեղսամած ապարդիւն քահանայս, որ եմ անարժան սպասաւոր եւ աւելածու Սբ. Ըստեփաննոս եկեղեցւոյ յԻզմիւռին, ի վայելս անձին իմոյ եւ իմայնոցն։ Յամի Տեառն 1818, ի սկիզբն սեպտեմբերի։ Էջ 5 — Վարդապետութիւն Եկեղեցւոյն Գաղղիոյ։ Մասն Առաջին։ Յաղագս Եկեղեցւոյ, յաղագս պապին, եւ յաղագս եպիսկոպոսաց։ Էջ 33 — Աղանդն Լութերի եւ Կալվինեանց ըստ ամենայնի ընդդէմ է պապին...։ Էջ 36, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "051.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1385-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J1476",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1476",
+  "notice": "1476",
+  "volume": "Jerusalem_V5",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ՔԵՐԹՈՂԱԿԱՆ)",
+  "date": {
+    "from": "1592",
+    "to": "1592",
+    "display": null
+  },
+  "fields": {
+    "numero": "1476",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ՔԵՐԹՈՂԱԿԱՆ)",
+    "date_debut": "1592",
+    "date_fin": "1592",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "376",
+    "dimensions": "16x10x4",
+    "mise_en_page": "խորագիրները եւ սկզբնատողերը կարմիր, սկզբնատառերը փոփոխփոխ կարմիր եւ կապոյտ",
+    "details_ecriture": "յստակ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": "եւ ընդօրինակող՝ Մորաճ, որդի Միրաքի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը չորս թերթ, վերջը երկու",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— Էջ 1.— Վասն. Ներսեսի ասացեալ է.— Խոստովանիմ Աստուած զՀայր, անծին անեղ եւ անսկիզբն...։\nՅԻՍՈՒՍ ՈՐԴԻ.— 8\nԲ.— Էջ 94–95.— Տերն Ներսեսի ասացեալ, Հայոց Կաթուղիկոսի, բան չափաւոր շահաբերական ի Հին եւ Նոր Կտակարանք.— Յիսուս Որդի Հաւր Միածին...։ Գ.— Էջ 330.— Տեառն Ներսեսի խրատ ուսումնականաց մանկանց, ի դիմաց այբուբենից, իտայլաւոր տաղիւ չափոյ.— Այբն առաջին ըզքեզ տըղայ, հանէ յիմաստըն դերակայ...։ Դ.— Էջ 340.— Բան Հաւատոյ վասն անեղին եւ եղելոց, բարբառաբար, ի դիմաց հայկական տառից չափաբերմամբ ոգեալ ի Ներսիսէ.— Այբն անսկիզբն ասէ զԱստուած...։ Ե.— Էջ 351.— Տեառն Ներսիսի ասացեալ Մաղթանք առ Հրեշտակապետն Գաբրիէլ եւ Միքայէլ, եւ ամ. զօրս երկնաւորացն, Ճ տուն, ըստ թուոյ ոչխարին.— Այլ պաղատիմ առ հողեղինոդ...։ Զ.— Էջ 364.— Յոհանու Ոսկեբերանի ասացեալ. Յաղագս Աղաւթից, զգաստութեան, եւ ի խորհուրդ կիւրակէիցն.— Լըսարուք ինձ դրանն Տեառն...։ Էջ 374–376, դատարկ։\nՅիշատակարան Գրչի.— 1592 Էջ 361.— Փառք Սբ. Երրորդութեանն եւ մի Աստուածութեանն Հաւր եւ Որդւոյ եւ Սբ. Հոգւոյն, Ամէն։ Գրեցաւ իմաստայեղձ աղաւթական Բանս Հաւատոյ ի թվայբերութունս Հայոց ի հազ[ար] եւ ի քառասուն եւ ի մէկ ամին, դրեցաւ ի Թոզաթ, ի մահալան Պաղարճուխըն, ի տաճարի Սբ. Սարգիսի Զաւրավա-"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "211.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "212.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1476-refine.json",
+    "pipeline_version": "v1"
+  }
+}

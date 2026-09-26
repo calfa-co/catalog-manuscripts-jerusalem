@@ -1,0 +1,68 @@
+{
+  "id": "J2575",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2575",
+  "notice": "2575",
+  "volume": "Jerusalem_V8",
+  "title": "ԱՒԵՏԱՐԱՆ, ոսկեպատ, մագաղաթ, և ակունքներով.",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2575",
+    "no_notice": "20",
+    "titre": "ԱՒԵՏԱՐԱՆ, ոսկեպատ, մագաղաթ, և ակունքներով.",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "285.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2575-refine.json",
+    "pipeline_version": "v1"
+  }
+}

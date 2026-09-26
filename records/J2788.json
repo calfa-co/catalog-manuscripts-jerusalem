@@ -1,0 +1,68 @@
+{
+  "id": "J2788",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2788",
+  "notice": "2788",
+  "volume": "Jerusalem_V8",
+  "title": "Հ Ա Ւ Ա Ք Ա Ծ Ո Յ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2788",
+    "no_notice": null,
+    "titre": "Հ Ա Ւ Ա Ք Ա Ծ Ո Յ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "702",
+    "dimensions": "20x12x2.5",
+    "mise_en_page": "սևորակ մելանով, միասիւն, 39 տող, կամ նուազ",
+    "details_ecriture": "մանր։ Համառօտագըրութիւնք առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր, թեթև",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը երկու թերթ, վերջը՝ մէկ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Հրէայք սովորութիւն ունէին ոտքերնին և գլուխնին իւղով օծելու...։ Էջ 99.— Թուղթ Աստուածատրոյ պատրիարքի ի Լեհս վասն ծռազատկին և վասն լուսոյն Երուսաղէմի, 1589։ Էջ 351.— Քրիստոսի Ծնունդէն մինչև ի վերջ առաջին դարու։ Դէպք կամ պատմութիւնք։ Էջ 352.— Մեծն Նաբոլէոն Պօնաբարթէ թարիխի տիր։ Էջ 500.— Պիր ազ թիւրքճէ մէսէլի մէհշիւր զաֆիյալար։ Ա.— Ազ ագչէ՝ ղարա կիւն իւչիւն տիւր։ Գ.— Գազան գազանա տէմիշ՝ տիպին նիչին ղարա տըր։ Է.— Էլէ գույու գազան՝ քէնտի տիւշէր իչինէ։ Թ.— Թաթլը տիլ՝ եըլանը տէլիկտէն չըգարըր։ Լ.— Լաֆ պէօյիւկէ, սու քիւչիւկէ։ Կ.— Կէճ օլսուն՝ կիւճ օլմասուն։ Շ.— Շամտան տիպինէ ըշըգ վէրմէզ։ Ս.— Սագլա սամանը՝ կէլիր զամանը։ Փ.— Փարայի վէրէն տիւտիւկի չալար։ Ք.— Քէլ պաշա չիմշիր թարագ։ Էջ 507.— Ներօն իմքերաթորուն թէատտիսի։ Էջ 546.— Պատմութիւն Օսմանեան, Հ. Գաբրիէլ Վ. Այվազովսքի, Մխիթարեանց, Հատոր Ա., ի Վենետիկ, ի Սուրբն Ղազար, 1841։ Էջ 673.— Խրիմեան Հայրիկ։ Էջ 679.— Պետրոս Դուրեան։ Էջ 681.— Մկրտիչ Պէշիկթաշլեան։ Էջ 683.— Ցանկ աստի և անտի ժողովեալ հաւաքածոյ գրոցս.— Ա-Օ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "437.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2788-refine.json",
+    "pipeline_version": "v1"
+  }
+}

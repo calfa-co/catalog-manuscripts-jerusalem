@@ -1,0 +1,68 @@
+{
+  "id": "J3792",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3792",
+  "notice": "3792",
+  "volume": "Jerusalem_V11",
+  "title": "ԹԱՓՈՐԱՏԵՏՐ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3792",
+    "no_notice": null,
+    "titre": "ԹԱՓՈՐԱՏԵՏՐ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "86",
+    "dimensions": "27x18x1",
+    "mise_en_page": "գլխագիրները եւ սկզբնատողերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 21 տող, կամ նուազ, կարմիր գիծերու միջեւ",
+    "details_ecriture": "խոշոր, նոտրախառն ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սակաւ։ Լաթակազմ խաւաքարտեայ անարուեստ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, դատարկ անմաքուր։ Էջ 2.— Խնդրեսցուք հաւատով միաբանութեամբ...։— Զում ամենազօր եւ հրաշալի տէրութեանդ...։ Էջ 3.— Սբ. ճգնաւորօքն աղաչեսցուք զՏէր...։— Որ ընտրեցեր եւ ընկալար...։ Էջ 5.— Ուրբաթի Աւուր։ Նախ գնան ի Բանտ։ Էջ 14.— Շաբաթի Աւուր։ Նախ գնան ի Բանտ։ Էջ 24.— Կիւրակի Աւուր։ Նախ գնան ի Բանտ։ Էջ 85—86, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "248.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3792-refine.json",
+    "pipeline_version": "v1"
+  }
+}

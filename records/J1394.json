@@ -1,0 +1,72 @@
+{
+  "id": "J1394",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1394",
+  "notice": "1394",
+  "volume": "Jerusalem_V5",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ԿՐՕՆԱԿԱՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1394",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ԿՐՕՆԱԿԱՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "364։ Պրակըք Ժ+Զ",
+    "dimensions": "16x10.5x3.5",
+    "mise_en_page": "խորագիրները, բնաբանները եւ գլխագիրները կարմիր, մընացեալը սեւ մելանով, էջ 3–228 երկսիւն, 22 տող. էջ 229–360 միասիւն, 22, 19 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հին հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ, բացի վերջին մասէն, որ վնասուած է խոնաւութենէ",
+    "copiste": "վերջին մասին Ըստ[տակէս?]",
+    "possesseur": "Յովհաննէս Առաջնորդ Երուսաղէմի (+1697)",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— ԼՈՒԾ. ՄԵԿՆ. ՅՈԲԱՅ.— 11 Գր. Տաթեւացի\nէջ 1-2, դատարկ։ էջ 3ա.— Այս ինչ է ի Լուծմունս Գըրոց Մեկնութեանն Յոբայ։ էջ 13բ.— Նորին Գրիգորի անյաղթ փիլիսոփայի եւ քաջ հռետորի, աշակերտին Եռայմեծի Յովհաննու Որոտնեցոյ, համառօտ Լուծմունք դժուարիմաց բանից ի Մեկնութիւն Գրոցն Յովբայ եւ ի բանս Մեկնչաց։\nԲ.— էջ 229.— Պատմութիւն վասն է ժողովոյն.— Զկնի ՅԻԲ ամի Ծննդեանն Քրիստոսի եղեւ առաջին ժողովն ի Նիկիայ, ՅԺԸ հայրապետացն...։\nէջ 235-236, դատարկ։\nԳ.— էջ 237.— Նորին առ նոյն, Քարոզ Ծննդեան Տեառն ի կուսէ...։ Դ.— էջ 272.— Նորին առ նոյն. Քարոզ Ծննդեան Տեառն ի կուսէ...։ Ե.— էջ 325.— Նոր.։ Քարոզ Ծնընդեան Տեառն ի կուսէն, ի բանն Յեսայեայ մարգարէին...։\nէջ 360.— Զմեղապարտ գրիչս յիշեայ [Արստակէս?] ի Քս. որում փառք յօիտեանս ամէն։\nէջ 361-364, դատարկ։\nՅետնագոյն յիշատակագրութիւն.— 1697 էջ 234, նոտրագիր տարբեր.— Յիշատակ է Քարոզագիրքս Յոհաննէս առաջնորդին, ի դուռն Սբ. Յակոբա, որ վաղջանեցաւ Հայոց թուոց ՌՃԽԶին։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "058.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "059.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1394-refine.json",
+    "pipeline_version": "v1"
+  }
+}

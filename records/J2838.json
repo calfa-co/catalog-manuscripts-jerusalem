@@ -1,0 +1,72 @@
+{
+  "id": "J2838",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2838",
+  "notice": "2838",
+  "volume": "Jerusalem_V9",
+  "title": "Հ Է Ք Ի Մ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2838",
+    "no_notice": null,
+    "titre": "Հ Է Ք Ի Մ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "288",
+    "dimensions": "19X13X2",
+    "mise_en_page": "սկզբնաբառերը եւ գլխատառերը կարմիր, մնացեալը սեւորակ մելանով, միասիւն, 23 տող։ Նոտր շեղագիր անարուեստ",
+    "details_ecriture": "սակաւ ; ՈՒՂՂԱԳՐՈՒԹԻՒՆ: ոչ միօրինակ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "հնամաշ, քայքայւած",
+    "etat_conservation": "անբաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը ութ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Պու քիթապ տէմիլիր Հէգիմարան, Ալնմշտըր Ֆռէնկճէ վէ հայճա Հէգիմարան-[լ]արտան, վէ թէրճումէ օլունմուշ տուր, ինկիլըոպլու հաճի Գրիգորուն էլի վէ մարիֆէթի իլէ։ Էջ 12.— Նուզլա պաշ աղրըսնա։ Էջ 23.— Սօյլէյիմ սաֆրայ։ Էջ 27.— Կենդանակերպ իլէ 7 մոլորակլարը։ Էջ 41.— ...ինկիլիզլի հէգիմ Գրիգոր տէր քի...։ Էջ 47.— Հումայ։ Էջ 57.— Տուզլու պալղամ։ Էջ 87.— Նէվազիլ իչին։ Էջ 88.— Ղուլաղ աղրըսը։ Էջ 91.— Տիշ աղրըսնա։ Էջ 93.— Տամլա իչին։ Էջ 101.— Սաթլիճան իլաճը։ Էջ 109.— Սըռաճա իլաճը։ Էջ 123.— Ինկիլիզ տուզու։ Էջ 172.— Հապ տի Ֆռանչիսկօ, քէսկին։ Էջ 176.— Սուվուֆլար, թօզլար։ Էջ 191.— Պաշլայալըմ շէրպէթ։ Էջ 208.— Պաշլայալըմ իմսիր իւզէրինէ։ Էջ 213.— Պաշլայալըմ ռուհլար ուզէրինէ։ Էջ 215.— Նշատր ռուհու։ Էջ 220.— Պաշլաեալըմ եաղլար իւզէրինէ։ Էջ 221.— Պատէմ եաղը։ Էջ 225.— Հաոտալ եաղը։ Էջ 227.— Կիւլ եաղը թէրքիպի։ Էջ 229.— Պաշլաեալըմ սուլարա։ Էջ 232.— Պաշլայալըմ ղառղառաեա։ Էջ 233.— Պաշլայալըմ մէհլէմէ։ Էջ 235.— Պաշլաեալըմ եախըեա։ Էջ 237.— Պաշլայալըմ լաբայեա։ Էջ 248.— Այրածի դեղ կրակէն։ Էջ 254-260, դատարկ։ Էջ 261.— Վասն դիւրաւ գտանելոյ աղագաւ արարաք ցանկս զայս։ Էջ 275-287, դատարկ։ Էջ 288.— Գունաւոր մատիտներով ծանօթագրութիւններ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "071.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "072.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2838-refine.json",
+    "pipeline_version": "v1"
+  }
+}

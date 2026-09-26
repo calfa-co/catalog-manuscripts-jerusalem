@@ -1,0 +1,72 @@
+{
+  "id": "J1588",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1588",
+  "notice": "1588",
+  "volume": "Jerusalem_V5",
+  "title": "Շ Ա Ր Ա Կ Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1588",
+    "no_notice": "34",
+    "titre": "Շ Ա Ր Ա Կ Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "538",
+    "dimensions": "14x9x4.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 27 տող",
+    "details_ecriture": "մանր։ Կարմիր կապոյտ զարդագիր եւ լուսանցազարդ կանոններու սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը եւ վերջը մէկ մէկ թերթ լատիներէն",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "իւր սարօք, էջ 5, 194",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1-4, գրչափորձեր եւայլն։ էջ 5.— Երգեցէք որդիք Սիովնի երգ նոր...։ էջ 194.— Այսաւր յարեաւ ի մեռելոց ...։ էջ 476.— Աւրհնութեան Յերգ Յարութեան Տեառն մերոյ.— Երգեսցուք երգ նոր ...։ էջ 508.— Կանոնն Սրբոյն Ներսեսի, Աւրհնութիւն.— Որ ըզլոյս անճառ շնորհաց ...։ էջ 511.— Նիկոլայոսի.— Հիացան անմարմինքն...։ էջ 512.— Տարագոսեանց.— Տենչալի տաւնաւ որբոց...։ էջ 513.— Շարական Սրբոյն Կիւրղի Երուսաղիմայ Հայրապետի.— Մանկունք, նոր Սիովնի...։ — Շարական ԲԺ Առաքելոց. Աւրհնութիւն.— Ի յանսահման ծովէն...։ էջ 515.— Շարական Սրբոյն Սարգսի Զաւրավարին.— Ամենասուրբ Երրորդութեանն ընտրեալ ծառայ...։ էջ 516.— Ով գերահրաշ ծաղիկ...։ — Շարական Սրբոյն Մինասայ, երմռ.։— Ըզյիշատակ վըկայիցս Սըրբոյն մեծին Մինասայ...։ էջ 517.— Երգ Տեառն Ներսեսի Վասն նընջեցելոց.— Ած. անեղ անժամանակ...։ էջ 523.— Շարական Սբ. Լուսաւորչի. Աւրհ.։— Այսաւր զուարճացեալ...։ էջ 529.— Լերինք ամենայն...։ էջ 531.— Աւրհնութիւն Փոխման Աստուածածնին.— Արեւելք գերարփին...։\nՅիշատակագրութիւն.— էջ 537, անհարթ գրով, տարբեր մելանով.— Սայ յիշատակ է Խումարին, եւ որդոց նորայ՝ Մարիամին եւ Վարդանին։ էջ 538, գծմծուք եւայլն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "393.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "394.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1588-refine.json",
+    "pipeline_version": "v1"
+  }
+}

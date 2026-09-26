@@ -1,0 +1,68 @@
+{
+  "id": "J934",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "934",
+  "notice": "934",
+  "volume": "Jerusalem_V3",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՅԱՅՏՆՈՒԹԵԱՆ",
+  "date": {
+    "from": "1817",
+    "to": "1817",
+    "display": null
+  },
+  "fields": {
+    "numero": "934",
+    "no_notice": "7",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՅԱՅՏՆՈՒԹԵԱՆ",
+    "date_debut": "1817",
+    "date_fin": "1817",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "224",
+    "dimensions": "20x15x1.5",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 24 տող։ Բնաբանները բոլորգիր, մեկնաբանութիւնները նոտր շեղագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Յակոբ Սրկ. Սինանեան, Յարութիւն Սրկ. Պաղտասարեան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— Մեկնութիւն Յայտնութեան Աստուածաբան Աւետարանչին Յօհաննու։ Արարեալ Տեառն Անդրէի Արքեպիսկոպոսի Կեսարու։ Թարգմանեալ ի Հելլենացի լեզուէ ի Հայ բարբառ ի Կոստանդնայ Մետրապօլիտէ Յերապօլսէ։ Եւ սրբագրեալ Տեառն Ներսեսի Արքեպիսկոպոսի Տարսօնի Կիլիկեցւոյ։ Ի Հայրապետութեան Տեառն Տեառն Գրիգորիսի Հայոց Կաթուղիկոսի։ Ի թուին Հայոց ՈԼԸ [= 1179]։ Ի Հայրապետական Աթոռն Հռոմկլայ։ Էջ 18.— Գլուխ Առաջին։ Յայտնութիւն Սրբոյն Յովհաննու Աստուածաբանին։ Էջ 100.— Գլուխ Երեսուներորդ։ Վասն Ենովքայ եւ Եղիայի։ Էջ 205.— Գլուխ ԿԸ երորդ։ Վասն մաքուր գետոյն՝ որ յաթոռոյն արտաքս հոսեցաւ։ Էջ 217.— Յիշատակ տառիս գտողի՝ Տեառն Ներսիսի գերահռչակ վարդապետի. զոր գտեալ ի մեծն Անտիոք՝ գրեաց զսա ի լուսաւորութիւն հոգւոց։\nՅիշատակարան Գրչի.— 1817 Էջ 219.— Շնորհօք ամենասրբոյ եւ պաշտելի եռանձնեայ պետութեանն աստուածայնոյ՝ Հօր եւ Որդւոյ եւ Հոգւոյն Սրբոյ, եւ նորին օգնականութեամբն, աւարտեցաւ սուրբ գիրքս շնորհազեղ՝ անուանեալ Մեկնութիւն Տեսլեանն Յօհաննու. սկսեալ ձեռամբ Սինանեան տիրացու Յակոբ սարկաւագի՝ եւ փոքրաւորի տեառն Պօղ[ոսի] արթուն դիտի Պրուսայ քաղաքիս. եւ եղերեալ ձեռամբ Պաղտասարեան մահտեսի Յարութիւն սարկաւագի Եդոկիացւոյ՝ փոքր[աւորի] նոյն վեհապետին։ Յամի 1817, յուլ. 29, յառաջնորդարանն Պրուսայ։ Էջ 220–224, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "490.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "934-refine.json",
+    "pipeline_version": "v1"
+  }
+}

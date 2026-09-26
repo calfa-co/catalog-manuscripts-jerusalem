@@ -1,0 +1,68 @@
+{
+  "id": "J2933",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2933",
+  "notice": "2933",
+  "volume": "Jerusalem_V9",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ Ս. ԱՒԵՏԱՐԱՆԻ (ՄԱՍՆ Ա.)",
+  "date": {
+    "from": "1900",
+    "to": "1900",
+    "display": null
+  },
+  "fields": {
+    "numero": "2933",
+    "no_notice": null,
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ Ս. ԱՒԵՏԱՐԱՆԻ (ՄԱՍՆ Ա.)",
+    "date_debut": "1900",
+    "date_fin": "1900",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "20 X 14 X 3: Էջք 740: Հանգամանք շատ լաւ: Թուղթ գծաւոր: Գրիչ՝ Սահակ Գըլըճեան: Գրութիւն մանիշակագոյն թանաքով, միասիւն, 20 տող: Շեղագիր մաքուր: Համառօտագրութիւնք սովորական գրեթէ: Կազմ խաւաքարտեայ նորադրոշմ: Դատարկ թուղթք սկիզբը երեք թերթ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Դաս Ա.— Ամենաբարին Աստուած իւր բարութիւնն յայտնելու համար ստեղծեց տիեզերքը համակ բարի, գեղեցիկ եւ կարգաւորեալ...: Էջ 9.— Դաս Գ: Գլուխ Ա.— Ի սկզբանէ էր Բանն, եւ Բանն էր առ Աստուած...: Էջ 24.— Դաս Է: Գլուխ Բ.— Գիրք ծննդեան Յի. Քի, որդւոյ Դաւթի...: Էջ 60.— Գլուխ Գ: Դաս ԺԶ: Ծնունդ Որդւոյն Աստուծոյ: Էջ 85.— Դաս ԻԲ: Գլուխ Դ: Քարոզութիւն Յովհաննու եւ Մկրտութիւն Քրիստոսի: Էջ 113.— Գլուխ Ե: Դաս Լ: Սկիզբն նշանաց ի Հարսանիսն Կանայ: Էջ 146.— Գլուխ Է: Դաս Խ: Փրկչին Գալիլիա երթալը Թագաւորազնի որդւոյն բժշկուիլը: Էջ 176.— Դաս Ծ: Յայրոս եւ Տեռատես կնոջ Բժշկութիւնը: Էջ 261.— Դաս Զ.— «Զգոյշ լերուք ողորմութեան ձերում...»: Էջ 323.— Դաս Ճ: Յովհաննու Աշակերտներուն Հարցումը: Էջ 415.— Գլուխ ԺԷ: Դաս ՃԻԷ: Գլխատումըն Յովհաննու Մկրտչի: Էջ 502.— Գլուխ ԻԲ: Դաս ՃՄ: Խրատ Խոնարհութեան: Էջ 619.— Գլուխ ԻԴ: Դաս ՃՀԶ: Աղօթել եւ Աղօթքի Զօրութիւնը կը Սովրեցնէ: Էջ 702.— Գլուխ ԻԸ: Դաս ՃՂԳ: Առակ Անիրաւ Տնտեսին: Էջ 732.— Դաս ՃՂԹ: Առակ Աղքատ Ղազարոսի եւ Անողորմ Մեծատան:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "155.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2933-refine.json",
+    "pipeline_version": "v1"
+  }
+}

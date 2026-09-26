@@ -1,0 +1,68 @@
+{
+  "id": "J2964",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2964",
+  "notice": "2964",
+  "volume": "Jerusalem_V9",
+  "title": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2964",
+    "no_notice": "3",
+    "titre": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "286",
+    "dimensions": "20 X 14 X 1.5",
+    "mise_en_page": "մանիշակագոյն թանաքով նախ՝ ապա սըրճագոյն, միասիւն, 19–20 տող",
+    "details_ecriture": "վարժ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ հինցած",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": "Վրթանէս Վրդ. Գասապեան, Զէյթունցի (1906, Ապրիլ 18)",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը ութ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Վիպասանութիւն.— Հ.— Ի՞նչ է Վիպասանութիւնը։ Պ.— Վիպասանութիւնը գործուած կամ իբր գործուած իրաց յայտարարութիւնն է ...։ — Հմմտ. թ. 2077, Է. Հատոր, էջ 127։ Էջ 9.— Հ.— Ի՞նչ է Պէտքը։ Էջ 15–16.— Հ.— Ի՞նչ է Ճարտասանութիւնը։ Պ.— Ունկնդիրները համոզելու համար բարւոք խօսելու արուեստին Ճարտասանութիւն կ’ըսուի.— Հմմտ. թ. 2133, Է. Հատոր, էջ 181։ Էջ 18.— Հ.— Ի՞նչ է Ճոխաբանութիւնը։ Էջ 26.— Հ.— Ի՞նչ է Փոխակերպութիւնը։ Էջ 78.— Վաղճան Մասին Առաջնոյ։ Էջ 79.— Հ.— Ի՞նչ է Գիւտը։ Պ.— Գիւտը ըստ Ճարտասանութեան ընդհանրապէս կը սահմանուի, Գիւտն է հնարումն ձեռնարկութեանց, որ յարմար են ի համոզել։ Էջ 149.— Ի՞նչ է Տրամադրութիւնը։ Էջ 161.— Հ.— Վիպասանութիւնը քանի՞ կերպիւ կը գործածուի ճառին մէջ։ Էջ 187.— Հ.— Ի՞նչ է Հանդէսը։ Էջ 231.— Հ.— Ի՞նչ է Ատենական Հանդէսը։ Էջ 240–242, դատարկ։ Էջ 243.— Հ.— Ի՞նչ է Տաղաչափութիւնը։ Պ. Տաղաչափութիւնն է համարուած վանկերով ու չափերով շինուած խօսքը ...։ Էջ 265.— Սէր.— Կենաց մթագին ամպերուն մէջ միակ ծիածանը սէրն է ...։ Էջ 267–280, դատարկ։ Էջ 281–283.— Ցանկ նիւթոց։ Էջ 284.— Յորժամ լուսինն առ փոքր մի խաւարի ...։ Էջ 285–286, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "176.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2964-refine.json",
+    "pipeline_version": "v1"
+  }
+}

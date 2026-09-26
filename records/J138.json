@@ -1,0 +1,68 @@
+{
+  "id": "J138",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "138",
+  "notice": "138",
+  "volume": "Jerusalem_V1",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "138",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "22 + 90։ Պրակը Ա-Դ",
+    "dimensions": "30 x 20 x 1",
+    "mise_en_page": "խորագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 35 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Բան[ք] ոսկիականք եւ գեղեցկագոյնք, զանազան Սբ. Գրոց վարդապետութեամբ յարդարեալ եւ ճոխացուցեալ։ Էջ 4բ.— Բան երկրորդ, զմեկնմանէն Քի. որ Ե պատճառօք ընկալնուլ պարտիմք։ Էջ 17բ.— Քարոզ երրորդ, ի վերայ Սրբոյն Յովաննու Մկրտչին...։ Էջ 1ա.— Յաղագս Ծննդեան Սրբուհւոյ Կուսին, որպէս եղեւ տուն Այ.։ Բան 1։— Իմաստութիւն շինեաց իւր տուն, եւայլն։ Էջ 12բ.— Յաղագս Վերափոխման Ամենափառաւոր Կուսի։ Էջ 41բ.— Յաղագս Վերացման Խաչին Սրբոյ։ Էջ 51բ.— Յաղագս Սրբոյն Բարդուղիմէոսի Առաքելոյն մերոյ։ Բան Առաջին։ Վասն Արդեանց եւ Վարձու նորա.— Որ պատուեսցէ զիս՝ փառաւորեցից զնա...։ Էջ 62ա.— Վասն Երուսաղէմայ պատւոյն եւ իշխանութեանն, եւ գանձանակին, մահու եւ կենաց ողորմութեան հարկաւորութեանն.— Բարերարն Ած. զնախատինս ոմանց դուցէ թէ առ ինքն համարի...։ Էջ 69ա.— Ի վերայ չորից Աւագ Տօնից Եօթանց Սրբոցն Այ.։ Սրբազան Առաջեալն եւ Արծիւն Աւետարանչաց երանելին Յօհաննէս...։ Էջ 90բ, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "422.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "138-refine.json",
+    "pipeline_version": "v1"
+  }
+}

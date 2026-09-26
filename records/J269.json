@@ -1,0 +1,68 @@
+{
+  "id": "J269",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "269",
+  "notice": "269",
+  "volume": "Jerusalem_V2",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԴԱՆԻԷԼԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "269",
+    "no_notice": "4",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԴԱՆԻԷԼԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "430",
+    "dimensions": "27x20x3",
+    "mise_en_page": "ամբողջովին սեւ մելանով, երկսիւն, 41 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "բաւարար. վարի մասը խոնաւութենէն մի քիչ վնասուած",
+    "copiste": null,
+    "possesseur": "Սիմէոն եպս. Նզեցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Սիմէոն եպս. Նզեցի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Առաջաբանութիւն.— Դանիէլ ազնիւ մարգարէն երբեմն մարգարէանայր ի վերայ դատման չորից ինքնակալ թագաւորութեանց աշխարհի...։ Էջ 11.— Գլուխ Առաջին։ Համառօտութիւն գլխոյս.— Նախ եւ առաջ դեռ եւս տղայ գոլով, հանդերձ երեք ընկերօք, ի Բաբիլօն գերի վարեցաւ Դանիէլ մարգարէ...։ Էջ 371ա.— Արեթնագով զինչ նշանակէ, 24...։ Էջ 390բ.— Ֆռանչիսկոսի շնորհակալութիւն։ Էջ 391-430.— Դատարկ։\nՅիշատակագրութիւն.— Էջ 391բ.— Յիշատակ է գիրս, Սառընցի ի գիւղէն Նզեցի Սիմէոն եպս.ին Սբ. Յակոբայ դրքատունն, որ յԷմ., եւ ըստ իւրոյ կտակին մի ոք իշխեսցէ հանել զսա ի Սրբոյ Աթոռոյս. ընթերցօղքդ կամ օրինակողքդ ասացէք Ած. ողորմի. եղեւ ի ՌՄԺԷ թուին։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "092.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "269-refine.json",
+    "pipeline_version": "v1"
+  }
+}

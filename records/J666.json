@@ -1,0 +1,68 @@
+{
+  "id": "J666",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "666",
+  "notice": "666",
+  "volume": "Jerusalem_V3",
+  "title": "Ա.— ՅԱՂԱԳՍ ԵՕԹՆ ԽՈՐՀՐԴՈՑ ԵԿԵՂԵՑՒՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "666",
+    "no_notice": "Յ",
+    "titre": "Ա.— ՅԱՂԱԳՍ ԵՕԹՆ ԽՈՐՀՐԴՈՑ ԵԿԵՂԵՑՒՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "706",
+    "dimensions": "21x16x3.5",
+    "mise_en_page": "խորագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 26 տող",
+    "details_ecriture": "շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, բարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ, վերջաւորութիւն թերի",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սկիզբը եւ վերջը երկուական թերթ թուղթ, դատարկ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— ՅԱՂԱԳՍ Է. ԽՈՐՀՐԴՈՑ Էջ 1–2, դատարկ։ Էջ 3.— Նախասացեալ նախադրութիւնք, ի սրբոյն Թօմայէ վարդապետէ, ի կարգէ սրբոյն Դոմինիկոսի, Յաղագս Է խորհուրդ սրբոյ եկեղեցւոյ յԱքին քաղաքէ. — Օրէնք Տն. անբիծք են եւ դարձուցանեն զհոգիս...։ Էջ 18.— ... այլ համարեսցի ինձ նուաստ Բարթողիմէոսի ֆռանկ] եպիսկոպոսի եւս առաւել ի ձեռն թարգմանչացն լինել յեղաշրջումն բանին ի լատին լեզուէ ի հայ բարբառս...։\nՅիշատակարան Թարգմանողի.— Էջ 304.— Զաստուածային եւ զերկնաւոր իմացուածդ Ամենասուրբ Հոգւոյն...։ — Հմմտ. Բ. Հատոր, էջ 602–3։\nԲ.— ՅԱՂԱԳՍ Բ. ԲՆՈՒԹԵԱՆՑ Էջ 305.— Խնդրի թէ զի՞նչ է բնութիւն եւ քանի յեղանակաւ ասի.— Պխի.— [Ա]-սեմ, թէ անունս այս բնութիւն զբազումս նշանակէ, եւ բազում յեղանակաւ առեալ լինի...։ Էջ 422.— Կատարեցաւ գիրք Բ. բնութեանց, եւ մի անձնաւորութեան ի Քս. ի ձեռն Յոհաննու Քռնեցւոյ, եւ սբ. Բարդօի եպս.ի ի փառս Քս.ի, որ է օրհնեալ յաւիտեանս, ամէն։\nԷջ 422.— Յաղագս Պսակի։ Էջ 699–700.— Խնդրի թէ երդումն միացեալ ընդ յօժարութիւնն սպառնի բանիւ յայտնի սպակ առնէ...։ Էջ 706.— ... դարձեալ գիտելի է, զի թէ բաժինք հայրենի է, այսինքն՝ տուն, այգի, արտ, ընդ մեռանիլ կնոջն, վաղվաղակի դառնայ առ տուօղն իւր. բայց թէ այլ ինչ, այսինքն, ոսկի, հանդերձ [Շարունակութիւնը կը պակսի, թերթ կտրուած է]։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "121.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "666-refine.json",
+    "pipeline_version": "v1"
+  }
+}

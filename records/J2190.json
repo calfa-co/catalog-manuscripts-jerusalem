@@ -1,0 +1,68 @@
+{
+  "id": "J2190",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2190",
+  "notice": "2190",
+  "volume": "Jerusalem_V7",
+  "title": "ՎԱՐԴԱՊԵՏՈՒԹԻՒՆ ՃՇՄԱՐՏՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2190",
+    "no_notice": "15",
+    "titre": "ՎԱՐԴԱՊԵՏՈՒԹԻՒՆ ՃՇՄԱՐՏՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "25x18x1.5: Էջք Բ+168: Հանգամանք բաւարար: Ցեցակերութիւն թեթեւ: Թուղթ հասարակ: Գրութիւն՝ գունաթափ մելանով, միասիւն, 20-24 տող: Նոտր շեղագիր: Համառօտագրութիւնք սովորականէն քիչ մը աւելի: Թղթակազմ հնամաշ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա. — Ճակատ — Վարդապետութիւն Ճշմարտութեան, որով իմաստնանալով մարդ ճանաչէ զմոլորութիւն իւր, եւ եղանի իմաստուն եւ ըզգաստ: Շարադրեցեալ ի Պետրոսէ վարդապետէ Թիֆլիզեցւոյ, զպրի Կոստանդինուպօլսեցւոյ: Յամի Տեառն 1722, ի Վենետիկ: Էջ Բ. — Բան առ ընթերցողսն: Էջ 1. — Վարդապետութիւն Առաջներորդ. ընդդէմ նոցա, որ զինքեանս երջանիկ համարեն, վասն ունելոյ զյաջողութիւն յաշխարհիս այսմիկ: Էջ 150. — Վարդապետութիւն Ժերորդ ...: Էջ 166. — Ցանկ Գրոյս: Էջ 168, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "300.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2190-refine.json",
+    "pipeline_version": "v1"
+  }
+}

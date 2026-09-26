@@ -1,0 +1,68 @@
+{
+  "id": "J895",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "895",
+  "notice": "895",
+  "volume": "Jerusalem_V3",
+  "title": "ԼՈՒԾՄՈՒՆՔ ԳՐՈՑՆ ՊՈՐՓԻՒՐԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "895",
+    "no_notice": "2",
+    "titre": "ԼՈՒԾՄՈՒՆՔ ԳՐՈՑՆ ՊՈՐՓԻՒՐԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "118",
+    "dimensions": "21x17x1.5",
+    "mise_en_page": "խորագիրները եւ յաճախ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 29 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "տպագիր",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Բան առ համազգի սիրելի եղբարսդ իմ։ Էջ 7.— Համառօտ Լուծմունք գրոցն Պորփիւրի ծաղկաքաղ արարեալ ի բանից գերիմաստիցն սրբոց, Դաւթի Անյաղթ փիլիսոփային, եւ երիցս երանելւոյ Գրիգորի Տաթեւացւոյն, որումն Սիմէօնի ապիմաստ վարդապետի Երեւանցւոյ։ Ի ներածութիւնն Պորփիւրի։— Պորփիւր փիւնիկեցի էր եւ իմաստասէր, վասն սորա ասի թէ նախ քրիստոնեայ լեալ է...։— Հմմտ. աստ, թիւ 845։ Էջ 99.— ... Աւարտեցաւ Լուծմունքն Պորփիւրի Ներածութեան, եւ իւրոյ Մեկնութեանն, շնորհօքն Քրիստոսի, որում փառք յաւիտեանս, Ամէն։ Ա.— Աղքատաց եւ տնանկաց ծանուցումն.— Երանի որ խորհի զաղքատն եւ զտնանկն...։ Բ.— Ծանուցումն յատուկ վասն տըտնանկաց.— Ասէ սուրբ առաքեալն Պօղոս...։ Գ.— Յաղագս ոչ չփսելոյ զաղքատն. — Դաւիթ մարգարէն զԵրուսաղէմ ֆէթ անելն...։ Էջ 106–118, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "431.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "895-refine.json",
+    "pipeline_version": "v1"
+  }
+}

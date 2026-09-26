@@ -1,0 +1,72 @@
+{
+  "id": "J660",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "660",
+  "notice": "660",
+  "volume": "Jerusalem_V3",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "660",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "124",
+    "dimensions": "21.5×17×1",
+    "mise_en_page": "բնաբանները եւ գըլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, տարբեր լայնքով, 24 տող",
+    "details_ecriture": "տձեւ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, կըրկնատեսակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "էջեր 1, 9–12, 37 –40",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 3.— Սիրայքանչ սիրով ողջուն քեզ հասէ, առ իմ սիրելուդ ի բոլոր սրտէ, գրկայխառն համբուր ըստէպ ըստէպէ, պարանոցայփար միշտ և միշտ տացէ։... Ծանօթ.— Ոտանաւոր նամակ, որուն տնասկիզբի տառերը կը յօդեն՝ Սուքիաս ոմն ողջոյն մատուցանէ սիրելեաց իւրոց ի սըրտէ իւրմէ։\n13-36 — Բանք ... հաւաքեալ ի լատին գրոց : էջ 41-124, Քարոզք աննշանք :\nԾանօթ. — Վերջինը կը մնայ թերի . կան կտրուած թերթերու մնացուկներ եւ փրթած պրակներու թելեր :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "110.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "111.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "660-refine.json",
+    "pipeline_version": "v1"
+  }
+}

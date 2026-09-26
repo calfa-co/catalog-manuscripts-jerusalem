@@ -1,0 +1,68 @@
+{
+  "id": "J3041",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3041",
+  "notice": "3041",
+  "volume": "Jerusalem_V9",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3041",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "156",
+    "dimensions": "10.5X7X1.5",
+    "mise_en_page": null,
+    "details_ecriture": "ոչ միօրինակ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "ոչ միօրինակ",
+    "nb_lignes": null,
+    "reliure": "անարուեստ",
+    "etat_conservation": "անբաւարար. վնասուած որդերէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–5, դատարկ։ Էջ 6–75, գրութիւն սեւ մելանով, միասիւն, 10 տող, սեւ շրջագիծերու մէջ, նոտրագիր շեղակերպ։ Ուղղագրութիւն տկար։ Էջ 6.— Հարցմունք Սրբուն Գրիգորի Լուսաւորչին...։ Էջ 76–84, դատարկ։ Էջ 85–155, անհարթ գրչութիւն, 11–16 տող։ Էջ 85.— Տաղ Աւետեաց Սրբոյ Կուսին։ Էջ 87.— Տաղ Ծնընդեան։ Էջ 89.— Տաղ Ջրօրհնեացն։ Էջ 92.— Տեառնընդառաջին։ Էջ 94.— Տաղ Ծաղկազարդին։ Էջ 96.— Տաղ Յարութեան։ Էջ 98.— Տաղ Համբարձման։ Էջ 100.— Տաղ Վերափոխման։ Էջ 102.— Տաղ Սուրբ Խաչին։ Էջ 109.— Տաղ առ Քրիստոս։ Էջ 112.— Տաղ առ Սուրբ Հոգին։ Էջ 118.— Տաղ Խաչելութեան։ Էջ 122.— Տաղ Յարութեան։ Էջ 124.— Տաղ Աստուածածնայ։ Էջ 140.— Տաղ Էջմիած[ն]ի.— Էջմիածին ծնող մայր մեր ցանկալի...։ Էջ 141.— Տաղ Ուրախութեան։ Էջ 144.— Օրհնեալ է Ած. յամ. ժամ...։ Էջ 155.— ... եւ օրհնութիւնք ձերոց հանապազ ի վերայ ձեր եղիցի եւ շուրջ պատեսցի գծերով, որպէս նախապարիսպն Սըրբոյն Սաղիմայ։ Էջ 156, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "254.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3041-refine.json",
+    "pipeline_version": "v1"
+  }
+}

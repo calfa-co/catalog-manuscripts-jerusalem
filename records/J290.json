@@ -1,0 +1,68 @@
+{
+  "id": "J290",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "290",
+  "notice": "290",
+  "volume": "Jerusalem_V2",
+  "title": "ՊԱՏԱՐԱԳԱՄԱՏՈՅՑ",
+  "date": {
+    "from": "1839",
+    "to": "1839",
+    "display": null
+  },
+  "fields": {
+    "numero": "290",
+    "no_notice": "7",
+    "titre": "ՊԱՏԱՐԱԳԱՄԱՏՈՅՑ",
+    "date_debut": "1839",
+    "date_fin": "1839",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "27 x 21 x 1 : Էջք Զ + 46 : Հանգամանք շատ լաւ : Թուղթ տոկուն : Գրիչ՝ Բարդողիմէ Քահանայ : Գրութիւն՝ խորագիրները նարնջագոյն, գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 28 տող : Բոլորգիր կանոնաւոր : Նկար մը, զգեստաւորեալ հայրապետ, գծուած մութ գոյներով, էջ 6 : Խորանազարդ՝ դարձեալ մութ գոյներով, էջ 7 : Լաթակազմ տախտակեայ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Դ. — Օրէնք արկանելոյ սպաս եկեղեցւոյ : Էջ Զ եւ 1-5. — Դատարկ : Էջ 7. — Որ զգեցեալ ես զլոյս . . . :\nԾԱՆՕԹ. — Գր. Նարեկացւոյ զոյգ Աղօթքները փոխանակ «Ի յարկիս սրբութեան» աղօթքէն յետոյ դրուելու, փոխադրուած են «Զի ողորմած եւ մարդասէր ես»էն ետք, սա հրահանգին ներքեւ. « . . . Եւ ընթերձցին զգիրս մարգարէականս եւ զառաքելականս : Եւ մինչ նոքա ընթեռնուն քահանայն ասասցէ զաղօթս Գրիգորի Նարեկացոյն ի ծածուկ» :\nՅիշատակարան. — Էջ 43. Ով սբ. պատարագիչ յիշեա յաղօթս քո զհանգուցեալ ծնօղս իմ զտէր Ղուկաս քահանայն եւ զիսկուհին եւ զայլ համայն ննջեցեալս մեր, եւ զիս զանարժան տէր Բարդողիմէ քահանայս՝ եւ զորդիս զԽաչատուրն եւ զայլ համայն ազգային կենդանիսն յիշեա տէր ի սբ. պատարագին : Աւարտեցաւ սբ. Խորհրդատետրս ձեռամբս իմով անարժանիս ի գիւղն Կամարակապ, թիւ Փրկչին 1839ին, եւ հայոց ՌՄՁԸին, մայիսի 1ին :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "135.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "290-refine.json",
+    "pipeline_version": "v1"
+  }
+}

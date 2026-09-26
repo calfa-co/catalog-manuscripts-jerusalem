@@ -1,0 +1,68 @@
+{
+  "id": "J181",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "181",
+  "notice": "181",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԾՆՆԴՈՑ ԵՒ ԵԼԻՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "181",
+    "no_notice": "6",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԾՆՆԴՈՑ ԵՒ ԵԼԻՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "760 + 606",
+    "dimensions": "31 X 23 X 8",
+    "mise_en_page": null,
+    "details_ecriture": "պարզ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն։ Գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 37 տող",
+    "nb_lignes": null,
+    "reliure": "ոսկեզօծ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "երկու հատ, Ա. մաս, 553 էջ, ա սիւնակին վարի կողմը",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 .— Առաջաբանութիւն, եւ գովասանութիւն սբ. Գրոց։ Էջ 58 .— Մեկնութիւն հինգ գրեանցն Մովսիսի։ Էջ 73 .— Այսոքիկ են ժամանակագրութիւնք աշխարհի կամ բոլոր Կտակարանի յԱդամայ մինչեւ առ Քս.։ — Մանրատառ աղիւսակ մըն է։ Էջ 75-76 .— Մէկ թերթ, որ սկզբնաւորութիւնն է եղած Ծննդոց գրքի մեկնութեան, կտրուած հանուած է։ Էջ 77 .— Մեկնութիւն Ծննդոց, Գլուխ Ա.։ Էջ 752 .— Փառք Այ. ստեղծողին, յարարածոց ծննդոց։ Էջ 756 .— Վերջ Մեկնութեան Ծննդոց գրոցն. Արարեցեալ ծայրագոյն մեկնչին մեծին Կուռնելիոսի, որ է լայնատարածագունեղապար։ Էջ 757-760 .— Դատարկ։ Մէկ թերթ առանց իջաթիւի .— Առաջաբանութիւն. Մեկնութիւն Ելից, Գլուխ Առաջին։ Էջ 1 .— Գլուխ Ա, Համար 1։ Էջ 604 .— Փառաբանութիւն ամենափրկչին։ Սակս գործոյն եւ համառօտութեանցն Ելից։ ԾԱՆՕԹ .— Այս հատորը առաջին մասն է նախապէս ցուցակագրուած թ. 155 Ձեռագրին։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "552.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "181-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J1216",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1216",
+  "notice": "1216",
+  "volume": "Jerusalem_V4",
+  "title": "ՎԵՐԼՈՒԾՈՒԹԻՒՆ ՔԵՐԱԿԱՆՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1216",
+    "no_notice": "3",
+    "titre": "ՎԵՐԼՈՒԾՈՒԹԻՒՆ ՔԵՐԱԿԱՆՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "264",
+    "dimensions": "18X12.5X2",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 21 տող",
+    "details_ecriture": "կանոնաւոր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ. լուսանցքները ցեցակեր տեղտեղ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր, լուսանցազարդ եւ խորանազարդ, էջ 5, 43",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "ՔԵՐԱԿԱՆՈՒԹԻՒՆ.— 4 Դ. Թրակացի Էջ 1–4, համարեա դատարկ։ Ա.— էջ 5.— Յաղագս Քերականութեան.— Քերականութիւն է հմտութիւն որք ի քերդողացն եւ ի շարագրաց իբրու բազում անգամ ասացելոց, և մասունք են նորա վեց...։ ՎԵՐԼՈՒԾ. ՔԵՐԱԿԱՆՈՒԹԵԱՆ Բ.— էջ 43.— Քերականութեանն վերլուծութիւն բան առ բան, ձեռամբ Եսայեայ հաւաքեալ.— Ի ձեռնատուութենէ հոգւոյն հանդերձեալ եմք բուռն հարկանել առաջիկայ իրողութեանս. նախ՝ ուսանել արժան է, թէ զի՞նչ է Քերականութիւն...։— Հմմտ. Տպ. Երեւան, 1966, էջ 55։ Յիշատակագրութիւն.— Էջ 261, նոտր շեղագիր.— Յիշատակ է Քերականս ի դուռն Սրբոյն Յակոբայ վեհափառ Աթոռի ամենայն Հայոց ի Սուրբ Քաղաքս Երուսաղէմ։ Էջ 262–264, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "382.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1216-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J1466",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1466",
+  "notice": "1466",
+  "volume": "Jerusalem_V5",
+  "title": "Ա.— ՎԱՐԴԱՊԵՏՈՒԹԻՒՆ ՃՇՄԱՐՏՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1466",
+    "no_notice": "12",
+    "titre": "Ա.— ՎԱՐԴԱՊԵՏՈՒԹԻՒՆ ՃՇՄԱՐՏՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "396",
+    "dimensions": "15x18x3.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 18, 20 տող",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": "Թ+Դ+Դ",
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր իւրաքանչիւր գլուխի սկիզբը, առաջին մասին մէջ, ոչ նուրբ",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— Էջ 1.— Գիրք որ կոչի Վարդապետութիւն ճշմարտութեան, որով իմաստնալով մարդ ճանաչէ զմոլորութիւնն իւր եւ եղանի իմաստուն եւ զգաստ։ Շարադրեցեալ ի Պետրոսէ Վարդապետէ Թիֆլիզեցւոյ։ Յամի Տեառն 1722, ի Վենետիկ։ Էջ 21–22, մէկ թերթ ինկած։ Էջ 200.— Վախճան Գրքոյս յամի Տեառն 1744։ Էջ 201.— Ցանկ Գրքոյս Վարդապետութիւն ճշմարտութեան։\nԲ.— Էջ 203.— Վասն Ողջունի, որպէս ասէ Տէրն առ աշակերտսն իւր...։ — Եւ արդ գիտելի է...։ Էջ 214.— Այսքան առ այս վասն ողջունի, հաւաքեալ ի յումեմնէ լոկ անուն Պետրոս Աբեղայէ։ Էջ 215–216, դատարկ։\nԿԵՐԱԿՈՒՐ ՔԱՀԱՆԱՅԻՑ.— 4\nԳ.— Էջ 217.— Կերակուր Քահանայից, նախապատրաստան առ սեղան սրբազանի բեմին ածանեցեալ ի լաթինականէ լեզուէ, յամի Տեառն 1677, ի Լէօպօլիս, ի փառս մեծագոյնս Աստուծոյ, եւ երանուհւոյ Կուսին Մարիամայ։\nԴ.— Էջ 289.— Պատմութիւն վասն անկար Պատմուճանին Քրիստոսի, եթէ ուստի է, եւ կամ ով առաքեաց զնա Քրիստոսի .— Յոհաննու Ոսկեբերանի ասացեալ վասն պատմուճանին Տեառն...։ Էջ 299–306, դատարկ։\nԵ.— Էջ 307.— Ողբ եւ սուգ վասն մեծի աւուր խաչելութեան Տեառն մերոյ Յի. Քի. որ ասէ. Օգնեա Հոգիդ Սուրբ.— Ով ամենաչքնաղ եւ գեղեցիկ հարսդ երկնաւոր փեսային...։ Էջ 394–396, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "201.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1466-refine.json",
+    "pipeline_version": "v1"
+  }
+}

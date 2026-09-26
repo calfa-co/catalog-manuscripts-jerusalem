@@ -1,0 +1,72 @@
+{
+  "id": "J3754",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3754",
+  "notice": "3754",
+  "volume": "Jerusalem_V11",
+  "title": "ԱՂՕԹԱԳԻՐՔ (Թիւրքերէն)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3754",
+    "no_notice": null,
+    "titre": "ԱՂՕԹԱԳԻՐՔ (Թիւրքերէն)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "250",
+    "dimensions": "17x12.5x2.5",
+    "mise_en_page": "սեւ մելանով, միասիւն, 14–18 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": "անարուեստ, կազմ կիսակաշի խաւաքարտեայ անարուեստ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "համարեա բաւարար. նորոգութիւն կրած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Հաֆտանըն հէր կիւնլէրինտէ սլունաճաք թէֆէքքիւրլէր — պու թէֆէքքիւրլէրէ մուքատտէմէ։ Էջ 3.— Պազար կիւնիւն թէֆէքքիւրիւ — Ինսանըն նէթիճէսի։ Էջ 7.— Պազար էրթէսի կիւնիւնիւն թէֆէքքիւրիւ, նէթիճէմիզին աղըր մասլահաթ օլմասը։ Էջ 14.— Սալի կիւնիւն թէֆէքքիւրիւ — մահացու կիւնահ։ Էջ 19.— Չարշամպա կիւնիւն թէֆէքքիւրիւ — էճէլ։ Էջ 33.— Ճիւմահա կիւնիւն թէֆէքքիւրիւ — ճէհէննէմ։ Էջ 42.— Յիսուս Էֆէնտիմիզին սիյասէթլէրի իւզէրինէ — Պազար կիւնիւն թէֆէքքիւրլէրի — Յս. Էֆէնտիմիզ սիյասէթ չէքմէտէ պիզէ օլան մուհապպէթի։ Էջ 88.— Ճիւմա կիւնիւն թէֆէքքիւրիւ — Յիսուսուն էօլիւմիւ հիւքմ օլուպ, Քօղքօթայա կիթմէսի։ Էջ 93–94ի միջեւ սխալմամբ դատարկ մնացած է երկու էջ. թերոյթ չկայ։ Էջ 99.— Խոստովանանք օլուպ սրբութիւն ալմաղա թէտարիք վէ թէշէքքիւր տուվալար — Նասիհաթ։ Էջ 109.— Իմիտ Արզը։ Էջ 119.— Սրբութիւն ալտըքտան սօնրա թէշէքքիւր։ Էջ 130.— Տիլէք Արզը։ Էջ 148.— Կոյս Մարիամ վալիտէմիզին պիր պատկերինէ զիյարէթ էթմէքտէ։ Էջ 168.— Խաչ Եօլու։ Ներողութիւն\nիհսանինին թարիֆի։ Էջ 194.— Խաչ եօլու ջերմերանդութիւնունու լայըք օլտուղու իւզրէ էթմէք իչին նասիհաթ։ Էջ 196.— Փիւշմանլըք իքրարը։ Էջ 199.— Պիրինճի Մէնզիլ.— Յս. Էֆէնտիմիզ Խաչա կէրիլմէյէ հիւքմ օլունուր։ Էջ 221.— Օնուճունու Մէնզիլ.— Յս. Քողոթայա եէթիշտիքտէ արբասընտան րուպասընը սօյարլար։ Էջ 234.— Օնտէօրտիւնճիւ Մէնզիլ.— Յիսուսուն մուպարէք թէնինի մէզարա քօրլար.— Սանա սէճտէ էտէրիզ եա Հազրէթի Իսա...։ Էջ 250.— Եա մէրհամէթլի քուրթարըճըմ...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "207.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "208.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3754-refine.json",
+    "pipeline_version": "v1"
+  }
+}

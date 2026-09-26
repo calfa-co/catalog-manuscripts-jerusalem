@@ -1,0 +1,68 @@
+{
+  "id": "J3497",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3497",
+  "notice": "3497",
+  "volume": "Jerusalem_V10",
+  "title": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3497",
+    "no_notice": "292",
+    "titre": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "561",
+    "dimensions": "27x18x6",
+    "mise_en_page": "ըսկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 21 տող",
+    "details_ecriture": "կանոնաւոր։ Կարմրագիծ զարդագիր եւ կապուտախառն լուսանցազարդ հատուածներու սկիզբը։ Կարմիր կապոյտ խորանազարդ իւր սարօք, էջ 1, 158, 260, 438։ Կարմրագիծ լուսանցանկար էջ 446",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բամպակեայ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դըրոշմազարդ. առաջին կողքը կը պակսի. սկիզբի երկու պրակները քայքայուած եւ ԹԵՐԹՔ ինկած",
+    "etat_conservation": "անբաւարար. վնասուած խոնաւութենէ. նորոգութիւն կրած. դարձեալ կարօտ նորոգութեան",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "քառանկիւն, «Մատենադարան Ս. Նշան Վանուց Սեբաստիոյ, թիւ 115», էջ 3։ Հմմտ.— Ցուցակ Ձեռ. Սեբաստիոյ, թիւ 62",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "նկար, Սբ. Մարկոս, պատառըւած, էջ 157",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Գիրք Ծննդեան Յիսուսի Քրիստոսի...։ Էջ 18ի եւ 42ի միջեւ գտնուող թերթերը կը պակսին։ Դիտելի է որ իջադրութեան սըխալ ալ կայ, վասնզի աջակողմեան էջին թիւը անզոյգ պէտք էր ըլլար։ — Էջ 42, պրակ Գ.— Ոչ ապաքէն երկու ճնճղուկք դանկի միոջ վաճառին...։— Մտթ. Ժ. 29։ Էջ 155ա.— Նախադրութիւն Մարկոսի Աւետարանիս։ Էջ 158.— Սկիզբն Աւետարանի Յի. Քի. ...։ Էջ 257բ.— եւ ոչ ումեք ինչ ասացին զի երկնչէին։ Էջ 257-258ի միջեւ կը պակսի մէկ թերթ։ Էջ 258-259, դատարկ։ Էջ 260.— Քանզի բազումք յաւժարեցին ...։ Էջ 437, դատարկ։ Էջ 437-438ի միջեւ կը պակսի մէկ թերթ։ Էջ 438.— Ի սկզբանէ էր Բանն...։ Էջ 561ա.— Գնացին իւրաքանչիւր ոք ի տեղիս իւր...եւ ուսուցանէր զնոսա։ Ածին քահանայապետքն եւ փարիսեցիք կին մի... ասեն. Կինս այս ըմբռնեալ է ինքն յայտնապէս շնացեալ է։ Եւ յաւրէնսն Մովսէսի մեզ պատու[իր]եաց զայսպիսիս քարկոծել. արդ՝ դու զի՞ ասես վասն [Այսչափ. յաջորդ թերթերը [4] ինկած կորսուած են]։ Նկատ.— Այս կտորին տարբերակները աչքի կը զարնեն. համեմատել՝ Յվհ. Ը. 1-5։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "487.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3497-refine.json",
+    "pipeline_version": "v1"
+  }
+}

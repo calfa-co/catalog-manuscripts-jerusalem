@@ -1,0 +1,68 @@
+{
+  "id": "J444",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "444",
+  "notice": "444",
+  "volume": "Jerusalem_V2",
+  "title": "Մ Ա Շ Տ Ո Ց (ՄԱՍՆԱԿԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "444",
+    "no_notice": "8",
+    "titre": "Մ Ա Շ Տ Ո Ց (ՄԱՍՆԱԿԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "23.5 x 18 : Էջք 58 : Հանգամանք լաւ : Թուղթ կապտորակ : Գրութիւն՝ սեւ մելանով, միասիւն, 28 տող : Նոտր շեղագիր կանոնաւոր : Համառօտագրութիւնք առատ : Թղթակազմ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 . — Կանոն Եպիսկոպոսօրհնէք կարգ . — Յորժամ հանդերձեալ լինին Եպս . կացուցանել զոք, ամ . ժառանգաւորք Եկեղեցւոյն, բոլոր բնակիչք գաւառին, երիցամբք եւ տանուտէրօք, հարբք եւ վանականօք, ընտրեն զարժանաւոր ոք եւ զսուրբ . . . : — Հմմտ . Սիւրմէեան, Ցուցակ Ձեռ . Հալէպի, Բ . Հատոր, Հալէպ, 1936, էջ 16 : Էջ 27 . — Կարգաւորութիւն Օրհնութեան Թագաւորի ըստ մեծի Եկեղեցւոյն Հռոմայ . — Յորժամ ժառանգաւորքն եւ ժողովն ընտրեն զոք բարձրացուցանել թագաւոր, գան յարքունի ապարանսն . . . : — Հմմտ . նոյն, էջ 25 : Էջ 43 . — Նուաստ Կոստանդան Կաթուղիկոս գտայ զշարագրութիւնս Հայրապետացն Հայոց գրեալ ձեռամբ Սբ . Հօրն մերոյ Ներսէսի Արքեպս . ի Տարսոնի, եւ ետու գրել աստ, որ է այս : — Հմմտ . նոյն, էջ 31, Զ . : Ի մեծ թուիս Հայոց ՊԻԹ ամի, յօգոստոսի ամսոյ ԺԷ, ի չորեքշաբաթի օր հանգեաւ ի Քս . պատուական Հայրապետն Հայոց, Տէր Կոստանդին երկրորդ Լամբրոնացին, որոյ յիշատակն նորին օրհնութեամբ եղիցի : — Հմմտ . նոյն, էջ 32 : Էջ 44–58, դատարկ :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "425.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "444-refine.json",
+    "pipeline_version": "v1"
+  }
+}

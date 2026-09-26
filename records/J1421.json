@@ -1,0 +1,72 @@
+{
+  "id": "J1421",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1421",
+  "notice": "1421",
+  "volume": "Jerusalem_V5",
+  "title": "Ա.— ՎԱՐԴԱՊԵՏՈՒԹԻՒՆ ՃՇՄԱՐՏՈՒԹԵԱՆ",
+  "date": {
+    "from": "1744",
+    "to": "1744",
+    "display": null
+  },
+  "fields": {
+    "numero": "1421",
+    "no_notice": "10",
+    "titre": "Ա.— ՎԱՐԴԱՊԵՏՈՒԹԻՒՆ ՃՇՄԱՐՏՈՒԹԵԱՆ",
+    "date_debut": "1744",
+    "date_fin": "1744",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "312։ Պըրակք Ժ+Դ",
+    "dimensions": "15.5x9.5x2.5",
+    "mise_en_page": "խորագիրները, ըսկզբնատողերը եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 21 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ գծազարդ։",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Ա.— ՎԱՐԴ. ՃՇՄԱՐՏՈՒԹԵԱՆ\nէջ 1–2, դատարկ : էջ 3.— Գիրք որ կոչի Վարդապետութիւն Ճշմարտութեան, որով իմաստնանալով մարդ ճանաչէ զմոլորութիւն իւր եւ եղանի իմաստուն եւ զգաստ : Շարագրեցեալ ի Պետրոսէ Վարդապետէ Թիֆլիզեցւոյ, յԱմի Տեառն 1722, ի Վէնէտիկ : էջ 7.— Վարդապետութիւն Ճշմարտութեան Առաջներորդ : էջ 219.— Վախճան յամի Տեառն 1744 : էջ 220.— Ցանկ Գրքոյս Վարդապետութիւն Ճշմարտութեան : էջ 222–232, դատարկ :\nԲ.— ԿԵՐԱԿՈՒՐ ՔԱՀԱՆԱՅԻՑ\nէջ 233–234, դատարկ : էջ 235.— Ճակատ.— Կերակուր Քահանայից, նախապատրաստական առ սեղան սրբազանի բեմին ածանեցեալ ի լաթինականէ լեզուէ, յամի Տեառն 1677, ի Լէօպօլիս, ի փառս մեծագոյնս Այ. եւ երանուհւոյ Կուսին Մարիամու :\nէջ 236.— Սիրեցելոց Եղբարց ի Քս. պատուելեաց քահանայից ողջոյն.— Զհուրն զհրկեցեալն ի Քրիստոսէ յերկիր, ցանկամ բորբոքել յոգիս ձերո... : էջ 239.— Յաղագս արքայականի արժանապատուութեան քահանայից : Գլուխ Ա. :— Ի գրաւորականում եւ բնութենականում օրինի... : էջ 307–312, դատարկ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր իւրաքանչիւր գլուխի սկիզբը, առաջին մասին մէջ ; ԳՈՒՆԱՒՈՐ: զարդագիր, լուսանցազարդ եւ գլխազարդ էջ 7, 239",
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "101.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "102.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1421-refine.json",
+    "pipeline_version": "v1"
+  }
+}

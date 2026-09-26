@@ -1,0 +1,72 @@
+{
+  "id": "J2372",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2372",
+  "notice": "2372",
+  "volume": "Jerusalem_V8",
+  "title": "Ս Ա Ղ Մ Ո Ս",
+  "date": {
+    "from": "1662",
+    "to": "1662",
+    "display": null
+  },
+  "fields": {
+    "numero": "2372",
+    "no_notice": "51",
+    "titre": "Ս Ա Ղ Մ Ո Ս",
+    "date_debut": "1662",
+    "date_fin": "1662",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "474",
+    "dimensions": "14x9.5x5",
+    "mise_en_page": "ըսկզբնատողերը և սկզբնատառերը կարմիր, մընացեալը սև մելանով, միասիւն, 17 տող",
+    "details_ecriture": "սովորական գրեթէ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "բաւարար. նորոգութիւն կրած. գործածութենէ աղտոտուած",
+    "copiste": "տիրացու Կարապետ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր, լուսանցազարդ և գլխազարդ Կանոններու սկիզբը ; ԽՈՐԱՆԱԶԱՐԴ: իւր սարօք, էջ 1",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1 — Երանեալ է այր...։ էջ 17-20, տարբեր թուղթ և գրչութիւն։ էջ 49 — Ի կատարած Սաղմոս ի Դաւիթ — Երկինք պատմեն զփառս Աստուծոյ...։\nէջ 107. — Սաղմոս ի Դաւիթ. — Մի նախանձիր ընդ չարս . . . : էջ 335. — Ալէլուիայ. — Խոստովան եղերուք Տեառն զի քաղցր է . . . : էջ 442. — Աղօթք Մանասէի թագաւորին : էջ 457. — Աղօթք Սրբոյն Ներսեսի ասացեալ, զոր պարտին ամենայն ոք ուսանիլ և Աստուծոյ մատուցանել յաղօթս յաւուրն Գ. անգամ . առ Սբ. Երրորդութիւնն և մի Աստուածութիւնն. — Հաւատով խոստովանիմ . . . : էջ 467. — Որդի Աստուծոյ կենդանւոյ . . . : էջ 468. — Աստուածատունկս այս հոգեպարղբոջ բուրաստան . . . :\nՅիշատակարան Գրչի. — 1662 էջ 473. — Գ[ր]եցաւ Սաղմոսարանս ի թվին ՌՃԺԱ ամին, ձեռամբ Մելքիսէթ աբեղային աղբօրն տղան Կարապետ տիրացուին : Ած. ողորմի տէր Մելքիսէթ աբեղային հոգւոյն : Թվին ՌՃԺԱ, ի փետրվարի ԺԵ փոխեցաւ առ Ած., Ած. լուսաւորէ. : Ի դուռն Սբ. Թորոսին զինաւորին : Աղաչեմ զհանդիպողի սորին, անմեղադիր լինելով անարժանիս. ամէն :\nՅետնագոյն յիշատակագրութիւնք. — 1725, 1727 1. — Էջ 474, ստորոտը, գունաթափ մելանով, անհարթ գրով. — Այս է յիշատակ տէր Նազարէթին, թվ. ՌՃՀԴ է : 2. — Էջ 334, ստորոտը, անհարթ գրով. — Ես անարժան տէր Նազարէթ առի այս սուրբ Սաղմոս ի դուռն Սբ. Աստուածած-[ն]ին ի քաղաքն Տարսոն, թվ. ՌՃՀԶ :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "025.jpg"
+    },
+    {
+      "volume": "Jerusalem_V8",
+      "file": "026.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2372-refine.json",
+    "pipeline_version": "v1"
+  }
+}

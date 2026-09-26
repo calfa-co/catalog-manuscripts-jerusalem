@@ -1,0 +1,68 @@
+{
+  "id": "J1983",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1983",
+  "notice": "1983",
+  "volume": "Jerusalem_V6",
+  "title": "ՔԱՐՈԶԱԳԻՐՔ (ՁՄԵՐԱՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1983",
+    "no_notice": "8",
+    "titre": "ՔԱՐՈԶԱԳԻՐՔ (ՁՄԵՐԱՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "674",
+    "dimensions": "28x18x6",
+    "mise_en_page": "խորագիրները, սկզբնատողերը, բնաբանները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 45 տող",
+    "details_ecriture": "մանր անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բամպակեայ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ հինցած",
+    "etat_conservation": "ցաւալի. չարաչար վնասուած թացութենէ, քիչ մըն ալ ցեցերէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը եւ վերջը երկուական թերթ, մասն երկաթագիր Աւետարանի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդ իւր սարօք, էջ 19",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1—10, տարբեր գրչութիւն, կրօնական բովանդակութեամբ։ Էջ 11ա. — Այս ինչ է ի Գիրս Քարոզիս Առաջին Հատորին։ — Առաջին նախերգաբար վասն Տարեմտին։ — Ա-ՃԿ, Քարոզներ։ Էջ 19ա. — Գրիգորի Եռամեծի քաջ հըռետորի եւ անյաղթ փիլիսոփայի . . .։ — Վասըն տարեմտին Քարոզ, այլ եւ ի խորհուրդ ժամահարին . . .։ Էջ 137ա. — ԻԵ. — Յայսմէ դարձեալ վասըն պահոց, եւ փորձանաց սատանայի . . .։ Էջ 199բ. — ԽԱ. — Նորին վասն Երիտասարդաց քարոզ, որ եւ սրբոց Վարդանանցն պատշաճի . . .։ Էջ 331բ. — ՀԶ. — Նորին ի նոյն կիրակէն, Վասն Հիւրընկալութեան . . .։ — Ի մէջ ամ. կենդանեաց որ զաւտարն ատէ շունն է . . .։ Էջ 637բ. — ՃԽԷ. — Նորին դարձեալ Քարոզ, վասն Աւրհնութեան Եկեղեցոյ. — Պարտ է գիտել . . .։ Էջ 673ա. — ՃԾԴ. — Նորին Քարոզ, Սրբոյն Ստեփաննոսի . . .։ — Պայծառ եւ հըրաշալի տաւնիս խորհուրդ . . .։ Կը մնայ թերի. յաջորդ թերթերը կորսուած։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "587.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1983-refine.json",
+    "pipeline_version": "v1"
+  }
+}

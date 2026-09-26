@@ -1,0 +1,68 @@
+{
+  "id": "J2536",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2536",
+  "notice": "2536",
+  "volume": "Jerusalem_V8",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Ւ (ԿՐՕՆԱԿԱՆ)",
+  "date": {
+    "from": "1773",
+    "to": "1776",
+    "display": null
+  },
+  "fields": {
+    "numero": "2536",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Ւ (ԿՐՕՆԱԿԱՆ)",
+    "date_debut": "1773",
+    "date_fin": "1776",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "200",
+    "dimensions": "16x10.5x1.5",
+    "mise_en_page": "ըսկզբնաբառերը յաճախ կարմիր, մնացեալը սևորակ մելանով, միասիւն, 19 տող",
+    "details_ecriture": "նոտրակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ գծազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, տարբեր գրով.— Սաղմոսի զանազանութիւն արարեալ Դաւթի անյաղթ փիլիսոփայէ։ Երանեալի կանոն է բոլորն զոր բազում շահէ։— Ա-ԻԹ Գլուխներ։ Էջ 5-10, դատարկ։ Էջ 11.— Ի փառս քոյ Տէր ամենայնի եղիցի ամենայն.— Որդի հարազատ՝ զհօրն նըմանութիւն յինքեան ցուցանէ...։ Էջ 62.— Վերջաբանք և խօսք ինչ զաղօթից ի նոյնոյ շարամանողէ կարգեալ։ Էջ 71.— Ի նոյն ումեքէ երգ պաղատախառն առ տիրապետն տենչալի։ Էջ 74, դատարկ։ Էջ 75.— Յաղագս երից երևելի և գլխաւոր ախտից, այսինքն, հպարտութեան, ագահութեան, և հեշտասիրութեան։ Էջ 114, վարը.— 1774 թիւն Փրկչին, Յունվարի 18, Վախճան։ Էջ 116.— Առաքինի անձին յարակ, խոնարհելոյ ճար ու ճարակ։ Էջ 122.— Երեք գլխաւոր նիւթք խոկմանն, և տիպք զարգանալոյ յառաքինութեան։ Էջ 134, վարը.— 1773, սեպտեմբերի 13, վերջ։ Էջ 135.— Յայնժամ կարես զԱծ. սիրել, յորժամ ուսցիս ըզքեզ ատել...։ Էջ 153.— Նախաբանք։ Էջ 178.— Վերջաբանք։ Էջ 184, վարը.— 1776 ամի Տեառն, և 1225 թուականիս։ Վերջ։ Էջ 185, տարբեր գրով քանի մը տող.— Քարոզ վասն ողջոյնի։ Էջ 186-200, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "243.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2536-refine.json",
+    "pipeline_version": "v1"
+  }
+}

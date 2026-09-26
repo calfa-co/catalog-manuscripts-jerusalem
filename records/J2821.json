@@ -1,0 +1,68 @@
+{
+  "id": "J2821",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2821",
+  "notice": "2821",
+  "volume": "Jerusalem_V9",
+  "title": "Խ Ո Ս Տ Ո Վ Ա Ն Ա Ն Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2821",
+    "no_notice": null,
+    "titre": "Խ Ո Ս Տ Ո Վ Ա Ն Ա Ն Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "21X14: Էջք 32: Հանգամանք լաւ: Թուղթ հասարակ: Գրութիւն սեւ մելանով, միասիւն, 26 տող: Բոլորգիր նոր: Կազմ խաւաքարտեայ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–2, դատարկ: Էջ 3.— Խոստովանանք իչիւն օգունաճագ, Մեղայ ամենասուրբըն, Հայճա պիլմէյէնլէր իչիւն թիւրքճէյէ թէրճիւմէսի տիր: Էջ 7.— Խոստովանանք իչիւն մագսուս թալիմէթ վէ նասիհէթ տիր: Էջ 9.— Եկեալքս ի խոստովանութիւն: Էջ 10.— Աղօթք.— Եա րապպ...: Էջ 13.— Խոստովանանք իչիւն իֆատէ: Էջ 15.— Ծանուցում.— Նախ եւ առաջ՝ առանձին ըլլալիք խոստովանութիւնը...: Էջ 17.— Խոստովանանք իչիւն էվվէլա հազըրլանմագ տիւչիւնմէսի: Էջ 20.— Զղջումն.— Մեղայ ամենասուրբ Երրորդութեանն: Էջ 24–32, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "056.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2821-refine.json",
+    "pipeline_version": "v1"
+  }
+}

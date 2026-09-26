@@ -1,0 +1,72 @@
+{
+  "id": "J513",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "513",
+  "notice": "513",
+  "volume": "Jerusalem_V2",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ՀԱՅՈՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "513",
+    "no_notice": "2",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ՀԱՅՈՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ+196",
+    "dimensions": "23x17x1",
+    "mise_en_page": "սեւ մելանով, բայց լուսանցքներուն նշանակուած խորագիրները կարմիր են մասամբ, միասիւն, 29, 30 տող",
+    "details_ecriture": "հասարակ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական։ Լաթակազմ խաւաքարտեայ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "ողորկ եւ փայլուն",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ, հաւկթաձեւ. «Երեմիա Վրդպ. 1826», էջ Գ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ Գ.— Ճակատ Պատմութիւն Հայոց, Արարեալ Տն. Յօհաննիսի գերիմաստ եւ երջանիկ Կաթողիկոսի Ամ. Հայոց, աշակերտի եւ ազգականի երանելոյն Մաշտոցի Սբ. Հայրապետի Հայոց ազգի, որ եւ ըստ իւրում իսկ յօրինողի անուանն կոչի Յօհաննէս Պատմագիր։ Սկիզբն առնէ սա ի ծննդոցն Յաբեթի, եւ ի Հայկայ նախնոյն մերմէ, համառօտ եւ քաղցրաբան ոճիւ, եւ հասուցանէ յիւր ժամանակն եւ ի վախճան իսկ, ՅՁԹ թուականն մեր։ Իսկ ի բարձմանէ թագաւորութեան ազգիս մերոյ, եւ այս մանաւանդ ըզչարանալոյ ազգին Իսմայելեան, եւ զանցից եւ զաղետիցն, զորս անցուցին նոքա ընդ աշխարհս եւ ընդ ազգս Հայոց, սակաւ ինչ հետամտելով պատմէ մորմոքական բանիւք եւ կսկծելի ոճիւ, վիպասանեալ ընդ նոսին, նաեւ զոմանց բարեպատեհ դիպուածոց ազգիս մերոյ, զթագաւորութենէ ցեղին Բագրատունեաց եւ այլոց այսպիսեաց։ էջ 1.— Յօհաննու Հայոց Կարողիկոսի Յառաջաբան Պատմութեան.— Զզադարումն դարուց ժամուց եւ ժամանակաց...։ էջ 4 լս.— (Ազգաբանութիւն Յաբեթի).— Յետ երկնաստահանացն հեղեղաց...։\nՅիշատակագրութիւն.— էջ 190, ստորին լուսանցքին, տարբեր գրչով.— Յիշատակ է Եէմի միաբան Անդրիանուպօլսեցի նախկին պատրիարդ մեծին Պօլսոյ Պօղոս Սրբազան Արքեպիսկոպոսին ձեռնասուն աշակերտ Չօրլուցի Տէր Կարապետեան նուիրակ հանգուցեալ Երեմիա շնորհազարդ վարդապետին, ի դուռն Սրբոց Յակոբեանց Մայր Աթոռոյն Ամ. Հայոց։ Թվին 1838, Սեպտ. 6։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "530.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "531.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "513-refine.json",
+    "pipeline_version": "v1"
+  }
+}

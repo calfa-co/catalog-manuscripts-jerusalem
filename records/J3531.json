@@ -1,0 +1,68 @@
+{
+  "id": "J3531",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3531",
+  "notice": "3531",
+  "volume": "Jerusalem_V10",
+  "title": "ՊԱՏԱՐԱԳԱՄԱՏՈՅՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3531",
+    "no_notice": "88",
+    "titre": "ՊԱՏԱՐԱԳԱՄԱՏՈՅՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "48",
+    "dimensions": "28x21",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 26 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "վարժ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "չունի",
+    "etat_conservation": "անբաւարար. լուսանցքները ոչ մաքուր եւ թեթեւակի ցեցահար. քայքայուած եւ նորոգուած. դարձեալ կարօտ նորոգութեան",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "պատարագիչ Քհն. երկու սարկաւագով, էջ 6բ",
+    "table_canons_1": null,
+    "table_canons_2": "իւր սարօք, էջ 7ա",
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մահտեսի Յովսէփ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "եւ ոսկեխառն զարդագիր եւ լուսանցազարդ կարեւոր կտորներու սկիզբը",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–4, դատարկ։ Էջ 5, անհարթ գրով.— Յիշատակ է սուրբ տետրս ի Սբ. Յակոբայ տաճարն որ յԵրուսաղէմ։ Էջ 6ա, նոտրագիր.— Քահանայք քո ըզգեցցին զարդարութիւն...։ Էջ 7ա.— Որ զգեցեալ ես զլոյս որպէս հանդերձ...։ Էջ 20ա.— Հաւատամք ի մի Աստուած...։ Էջ 23ա.— Ոչ ոք արժանի է...։ Էջ 24բ.—...եւ ասէ զԱղօթս ի ծածուկ՝ Աթանասի.— Տէր Ած. զօրութեանց...։ Էջ 32, ստ. լուսանցքին, նոտրագիր.— Յիշեա հայր սուրբ զմահտեսի Յովսէփն...։ Էջ 36, ստ. լուսանցքին, նոտրագիր.— Ով սուրբ պատարագող յիշեա զմահտեսի Յովսէփն։ Էջ 41բ.— Որ աւրհնես զայնոսիկ...։\nՅիշատակարան.— Էջ 42ա, սկիզբը բոլորգիր, վերջը նոտրագիր.— Փառք ամենասուրբ Երրորդութեանն, Հօր եւ Որդոյ եւ Հոգոյն Սրբոյ, յաւիտեանս յաւիտենից ամէն։ Յիշատակ է Խորհրդատետրս մահտեսի Յովսէփին եւ իւր կողակցուն ի Սբ. Քաղաքն յԵրուսաղէմ, ի դուռն Սբ. Յակոբայ։ Էջ 43բ–48, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "527.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3531-refine.json",
+    "pipeline_version": "v1"
+  }
+}

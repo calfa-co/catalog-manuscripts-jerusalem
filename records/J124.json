@@ -1,0 +1,68 @@
+{
+  "id": "J124",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "124",
+  "notice": "124",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԳՈՐԾՈՑ ԱՌԱՔԵԼՈՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "124",
+    "no_notice": "2",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԳՈՐԾՈՑ ԱՌԱՔԵԼՈՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ + 526",
+    "dimensions": "31 x 22 x 4",
+    "mise_en_page": "ամբողջովին սեւ մելանով , միասիւն , 45 տող ։ Նոտր շեղագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ նուրբ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": "իւրաքանչիւր գլուխի սկիզբը՝ արեւ եւ լուսին",
+    "images": "մը , տարբեր թուղթի վրայ , տպեալ , Յս . մանուկ . Miracoloso Bambino d'Arace'i , էջ Դ",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "էջ 1 լս . , սեւադրոշմ , հաւկթաձեւ , փակագիր , « Տէր Գէորգեան տէր Մարգար , 1283 [= 1834] ։ Շրթունքներուն վրայ երկաթագիր . « Սիմէոն Վարդապետ Երևեցի » , որ Ստացողն է ապահովաբար",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "գլխազարդ , էջ 1",
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "377.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "124-refine.json",
+    "pipeline_version": "v1"
+  }
+}

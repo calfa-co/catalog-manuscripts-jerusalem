@@ -1,0 +1,68 @@
+{
+  "id": "J3882",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3882",
+  "notice": "3882",
+  "volume": "Jerusalem_V11",
+  "title": "ԺՈՂՈՎԱԾՈՒ (Ժամապաշտական)",
+  "date": {
+    "from": "1925",
+    "to": "1926",
+    "display": null
+  },
+  "fields": {
+    "numero": "3882",
+    "no_notice": null,
+    "titre": "ԺՈՂՈՎԱԾՈՒ (Ժամապաշտական)",
+    "date_debut": "1925",
+    "date_fin": "1926",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ +380",
+    "dimensions": "17x10x2",
+    "mise_en_page": "գլխատառերը կարմիր, մնացեալը սեւորակ մելանով, միասիւն, 20 տող",
+    "details_ecriture": "առանց խազերու ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սակաւ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ. առաջին կողքին փակցուած պիտակին վրայ գրըւած է. \" Եզնիկ Վ. Վրթանէսեան, Ժառանգաւորաց Վարժարան, 21/8/1925-1926, Երուսաղէմ\"",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Եզնիկ Վ. Վրթանէսեան",
+    "possesseur": "Եզնիկ Վ. Վրթանէսեան",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Բ, Դ, դատարկ։ Էջ Գ.— Եզնիկ Վ. Վրթանէսեան, Ժառանգաւորաց Վարժարան, 21/8/1925-1926, Երուսաղէմ։ Ներքեւը գիծերու մէջ Ե. Վ. Վ.։ Էջ 1.— Կանոնագլուխք կարգաւ ըստ ութ ձայնից։ Էջ 29.— Ի տերունի աւուրս եթէ ձայնն ԴԿ իցէ ասա զՍաղմոս զայս.— Ի խորոց կարդացի...։ Էջ 33.— Հանգստեան Շարականք Առաւօտու Ժամերգութեան։ Տէրունի։ Էջ 97.— Հանգստեան Շարականք Առաւօտու Ժամերգութեան։ Մարտիրոսաց։ Էջ 126.— Հանգստեան Շարականք Առաւօտու Ժամերգութեան։ Ապաշխարութեան։ Էջ 138.— Օրհնութիւնք Ապաշխարութեան։ Էջ 182.— Թագաւորք Ապաշխարութեան։ Էջ 198.— Երգ Երեկոյին, Ժամու Խաղաղականին.— Նայեաց սիրով...։ Էջ 208.— Երգ Արեւագալին։ Էջ 214.— Երգ — ԴԿ — Ճանապարհ եւ Ճըշմարտութիւն...։ Էջ 215-380, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "347.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3882-refine.json",
+    "pipeline_version": "v1"
+  }
+}

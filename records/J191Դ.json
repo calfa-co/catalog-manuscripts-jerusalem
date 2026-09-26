@@ -1,0 +1,68 @@
+{
+  "id": "J191Դ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "191Դ",
+  "notice": "191Դ",
+  "volume": "Jerusalem_V1",
+  "title": "Նախորդին երրորդ հատորը ։",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "191Դ",
+    "no_notice": null,
+    "titre": "Նախորդին երրորդ հատորը ։",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 4 . — Առնուլ զթագաւորութիւն է տիրելն հաւատով ի վերայ հեթանոսաց . իսկ քաղաքացիքն զնա ատեցօղքն եւ հըրեայք ։ Էջ 213 . — Քարոզ, երկրորդ կիրակէի զկնի Առաջաւորաց ։ Էջ 203բ . — Յիշատակարան Հեղինակի . — Ի պարգեւաց Հոգւոյն Սրբոյ աւարտեցաւ Քարոզագիրքս յամի Տն . 1758 եւ հայոց ՌՄԷ . . . ։ Էջ 204-212 . — Դատարկ ։ ԾԱՆՕԹ . — Հինգ հատորներու բաժնըւած Քարոզագրքին չորրորդ հատորը կը պակսի, որ պիտի պարունակէր ԼԵ-ԽԱ պըրակները ։ Յիշատակարան Գրչի . — Էջ 203ա, հեղինակի յիշատակարանէն անմիջապէս յետոյ . — Գրեցաւ որոյ եւ արդեամբք Թօխաթցի Յակոբ Ածաբան վարդապետի եւ միջնորդութեամբ Բարսեղ վարդապետի ։ Ի թուին հայոց ՌՄԸ եւ ամսեանն սեպտեմբերի ժԵ ։ Ձեռամբ անարժան հող եւ մոխիր նօտար Յակոբ դպրիս ի Կոստանդնուպօլիս, վերջ ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "578.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "191Դ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

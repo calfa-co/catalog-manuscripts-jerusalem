@@ -1,0 +1,72 @@
+{
+  "id": "J349",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "349",
+  "notice": "349",
+  "volume": "Jerusalem_V2",
+  "title": "ԳԻՐՔ ՕՐԻՆԱՑ ԵՒ ԿԱՆՈՆԱՑ ԼԱՏԻՆ ԵԿԵՂԵՑՒՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "349",
+    "no_notice": "1",
+    "titre": "ԳԻՐՔ ՕՐԻՆԱՑ ԵՒ ԿԱՆՈՆԱՑ ԼԱՏԻՆ ԵԿԵՂԵՑՒՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "729",
+    "dimensions": "25 X 19 X 4",
+    "mise_en_page": "ամբողջովին սեւ մելանով, երկսիւն, 36 տող. շատ տեղեր լուսանցքի վրայ յաւելումներով. երբեմն տարբեր գրչի դիտողութիւններով եւ սրբագրութիւններով",
+    "details_ecriture": "վարժ։ Խորագիրներուն եւ սկզբնատառերուն տեղը յաճախ բաց մնացած",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ. կան նաեւ թերթիկներ, յաւելուածական գրութեամբ, միասին կազմուած",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ, քիչ մը հինցած",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մահտեսի Գր. Տէյիրմէնճեան, 1860",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Յաղագս Օրինաց։ Գլուխ նախորդ.— Հրց. Զի՞նչ իցեն օրէնքն, եւ ի քանի՞ս բաժանին։ Պտխ. Օրէնք անտարբերաբար առեալ՝ նշանակեն զամենայն կանոնս, եւ զեղանակս գործոց...։ էջ 653.— Ի վճռոց Բենեդիկտոսի Պապին չորեքտասաներորդի, ի զգուշութիւն խոստովանահարց։ Բենեդիկտոս եպիսկոպոս.— Նախ վասն խորհրդոյ ապաշխարութեան...։ էջ 716.— Պրակ Ե։ Յաղագս անջատող եւ բաժանող արգելմանց։\nՅետնագոյն յիշատակագրութիւն, նըուիրատուի.— էջ 729բ, շեղագիր.— Նուիրեցի ի յիշատակ Թանգարանիս վերծանութեան Սըրբոյ Երուսաղէմի, յորդորմամբ վերատեսչի նորա Եսայի վարդապետի։ 1860 յամին. յուլիսի 9։ Մատեսի Գրիգոր Տէյիրմէնճեան։\nԾանօթ.— Օգտակար կը նկատենք արտագրել հետեւեալ տողերը Սաւալանեանցի Ցուցակէն. «Գիրք Օրինաց եւ Կանոնաց, յօրինեալ ի հռոմէական վարդապետաց եւ թարգմանեալ ի մերս լատինական ոճով. թուի բնագիր լինել զի ի բազում տեղիս ունի սրբագրեալ։ Խօսի նախ յղ. օրինաց խղճի մտաց, հաւանական կարծեաց, բանադրանաց, նզովից, կանոնական պատժոց, ներողութեան, յոբելինի, խորհրդոց եկեղեցւոյ եւայլն» (էջ 249)։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "262.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "263.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "349-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J1671",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1671",
+  "notice": "1671",
+  "volume": "Jerusalem_V5",
+  "title": "Շ Ա Ր Ա Կ Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1671",
+    "no_notice": "70",
+    "titre": "Շ Ա Ր Ա Կ Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "758",
+    "dimensions": "12.5x8x7",
+    "mise_en_page": "սկզբնատողերը եւ գլխատառերը մասամբ կարմիր, մնացեալը սեւ մելանով, միասիւն, 19, 23 տող",
+    "details_ecriture": "անարուեստ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "բաւարար. նորոգութիւն կրած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը երկու թերթ, վերջը մէկ",
+    "colophon": null,
+    "informations_diverses": "ՄԱԳԱՂԱԹԵԱՅ սկիզբը եւ վերջը մէկմէկ թերթ, երկաթագիր, մասն Աւետարանին Յովհաննու",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Կանոնն, Աւրհնութենք Յարութեան Տեառն.— Երգեսցուք երգ նոր... ։— Հմմտ. թ. 1567։ Էջ 68.— Երգեցէք Տեառն երգ նոր... ։ Էջ 131.— ԲՁ.— Աւրհնեսցուք զՏէր... ։ Էջ 179.— ԲԿ.— Փարաւոն հանդերձ կառաւք ընկղմեցաւ... ։ Էջ 227.— Աւգնական ընդունելի... ։ Էջ 315.— ԳԿ.— Երգեցէք Տեառն երգ նոր... ։ Էջ 369.— ԴՁ.— Աւրհնեսցուք ըզՏէր ... ։ Էջ 443.— ԴԿ.— Յաղթական քեզ աւրհնութիւնք... ։ Էջ 553.— ԱՁ.— Հ.— Տընաւրինեցաւ... ։ Էջ 572.— ԱԿ.— Հ.— Որ յառաջ քան զյաւիտեանս... ։ Էջ 698.— ԴԿ.— Հ.— Որ զնախադրեալսն ... ։ Էջ 736.— Շարական ննջեցելոց.— Արարիչ եւ մարդասէր... ։ Էջ 747.— Անձինք Փոխման Սբ. Աստուածածնին, ասացեալ ի Կիրակոս Վարդապետի.— Արեւելք գերարփին... ։ Էջ 757.— Սարսափելի որոտմամբ... ։ — Ս ա ր գ ի ս ։\nՄանր յիշատակագրութիւն Գրչի.— Էջ 67, ստորոտը.— Զանարժան գըրչակս յիշեցէք ի Տէր եւ մի հեղգութեամբ համարիք. եւ Ած. զձեզ յիշէ ամէն։\nՅետնագոյն յիշատակագրութիւն.— 1606. Էջ 746, վերը, տարբեր մելանով, նոտրագիր.— Գրեցաւ գիրս ձեռնամբ սէրացի Պօղոսին որդին Ասվատուր, թվին ՌԾԵ, հոկտեմբերի ԻԵ օրն, օրն Բ ժարդէ ... ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "544.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1671-refine.json",
+    "pipeline_version": "v1"
+  }
+}

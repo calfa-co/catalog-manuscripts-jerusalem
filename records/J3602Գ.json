@@ -1,0 +1,72 @@
+{
+  "id": "J3602Գ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3602Գ",
+  "notice": "3602Գ",
+  "volume": "Jerusalem_V11",
+  "title": "ՑՈՒՑԱԿ ՀԱՅ. ՁԵՌԱԳՐԱՑ Ս. ՅԱԿՈԲԵԱՆՑ",
+  "date": {
+    "from": "1898",
+    "to": "1899",
+    "display": null
+  },
+  "fields": {
+    "numero": "3602Գ",
+    "no_notice": null,
+    "titre": "ՑՈՒՑԱԿ ՀԱՅ. ՁԵՌԱԳՐԱՑ Ս. ՅԱԿՈԲԵԱՆՑ",
+    "date_debut": "1898",
+    "date_fin": "1899",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "20.5x15x8.5: Էջք 1594-2318: Հանգամանք, Թուղթ, Գրութիւն, եւայլն, նման նախորդին: Կը պարունակէ ԻԲ-Լ տետրակները: Թանաք՝ մանիշակագոյն",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1594.- Թիւ 1708, Շարակնոց, դար ԺԷ, Գրիչ՝ Ներսէս: Տետր ԻԳ, առաջին կողքին ներսի կողմը. \" 1898, Դեկ. 14\": Տետր ԻԴ, էջ 1754: Տետր ԻԵ, առաջին կողքին ներսի կողմը. \" 1899, Փետ. 7\": Էջ 1834-1861, փրցուած: Էջ 1862.- Թ. 185. Յիշատակագրութիւնք: Էջ 1865-1874ի միջեւ գտնուող թերթերը կը պակսին, անոնց տեղ դրուած է մէկ թերթ տարբեր թուղթ: Էջ 1877էն յետոյ դրած է 1879: Էջ 1905 կրկնուած: Տետր ԻԶ, առաջին կողքին ներսի կողմը. \" 1899, Մայիս 8\": Էջ 1914.- 889, Գանձգիրք, Դար ԺԶԺԷ.- Ներկայ թիւն է 2009:\nՏետր ԻԷ. առաջին կողքին ներսի կողմը. \" 99, յունիս 14\": Էջ 2005.— 989, Հաւաքածոյ, ՌՀ=1621, Դար ԺԷ: Էջ 2049—2052ի միջեւ կտրուած է մէկ թուղթ: Էջ 2052ի վերին լուսանցքին կայ սա ծանօթութիւնը. \" կտրուած թուղթը Թ. 198 էր\": Տետր ԻԸ, էջ 2074: Էջ 2108—2114ի միջեւ գտնուող թերթերը կտրուած են, եւ անոնց տեղ դրուած է մէկ թերթ տարբեր թուղթ: Տետր ԻԹ, էջ 2154: Տետր Լ, էջ 2284: Էջ 2278.— 75, Յայսմաւուրք, ՊՁԸ = 1489, Դար ԺԵ: Էջ 2313, վերջին էջ Լ տետրակի:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "023.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "024.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3602Գ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J1430",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1430",
+  "notice": "1430",
+  "volume": "Jerusalem_V5",
+  "title": "Ն Ա Ր Ե Կ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1430",
+    "no_notice": "16",
+    "titre": "Ն Ա Ր Ե Կ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "444",
+    "dimensions": "16x11x5",
+    "mise_en_page": "խորագիրները եւ սկզբնատողերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 25 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի։ Կարմրագիծ զարդագիր եւ լուսանցազարդ իւրաքանչիւր գլուխի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բամպակեայ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "անբաւարար. վնասուած խոնաւութենէ եւ ցեցերէ",
+    "copiste": "Յովանէս",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "Գր․ Նարեկացի, էջ 6, անարուեստ",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սկիզբը ; ՊԱՀՊԱՆԱԿ: մագաղաթեայ սկիզբը եւ վերջը մէկ մէկ թերթ, յունարէն գրչութեամբ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորան իւր սարօք, էջ 7",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1-5, համարեա դատարկ։ էջ 6, նկարին ներքեւ․ — Դրունք յոքնաթախանձ բանից օգտակարաց․․․։ էջ 7․ — Ա․ — Ձայն հառաչանաց հեծութեան ողբոց․․․։ էջ 380․ — ՂԲ․ — Ի փայտն երջանիկ բարեբաստութեան ժամահարին․․․։ էջ 393․ — ՂԳ․ — Աղօթք թարքմանօրէն վասն Սրբալոյս իւղոյն, Միւռոնի։ էջ 430․ — ՂԵ․ — Վերստին յաւելուած, խօսք ընդ Աստուծոյ․ — Արեգակն արդար ․․․։ էջ 431․ — Յիշատակարան Մատենիս Դրութեան։ էջ 433․ — Վարք Սրբոյ Առն Աստուծոյ Գրիգորի Նարեկացւոյ․ — Սուրբ հայրս մեր ․․․։ էջ 436-444, դատարկ, մասամբ փըտած։\nՄանր յիշատակագրութիւնք Գրչի․ — 1․ — էջ 145, ստորոտը․ — Զգծողս յիշեա, ով ընթերցասէր եղբայր, եւ Ած․ զձեզ յիշեսցէ ի գալստեանն, ամէն։ 2․ — էջ 222․ — Ով աղօթասէր եղբայրք, որք հանդիպիք այսմ արտասուահոս աղօթոյս, մեղաց թողութիւն խնդրեցէք գրողի սորա Յովանէս սուտանուն, եւ իւր ամ․ արեան մերձաւորացն․ եւ Ած․ զձեր մեղացն թողութիւն շնորհէ, ամէն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "119.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "120.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1430-refine.json",
+    "pipeline_version": "v1"
+  }
+}

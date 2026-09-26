@@ -1,0 +1,68 @@
+{
+  "id": "J3097",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3097",
+  "notice": "3097",
+  "volume": "Jerusalem_V9",
+  "title": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3097",
+    "no_notice": "6",
+    "titre": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "320",
+    "dimensions": "20X14X1.5",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 17 տող",
+    "details_ecriture": "մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը տաս թերթ",
+    "colophon": null,
+    "informations_diverses": "կանաչադրոշմ. «Սամուէլ Վրդ. Կիրակոսեան», էջ 1, 99",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Հարցում. Ի՞նչ է պատմութիւնը։ Պատասխան.— Պատմութիւնն է գործածուած իրաց յայտարարութիւնը...։ Էջ 7.— Ի՞նչ է պէտքը։ Էջ 13.— Հ.— Ի՞նչ է Ճարտասանութիւնը։ Պ.— Ունկնդիրները համոզելու համար բարւոք խօսելու արուեստին Ճարտասանութիւն կըսուի։ Էջ 78.— Հ.— Ի՞նչ է գիւտը։ Էջ 151.— Հ.— Ի՞նչ է Տրամադրութիւնը։ Էջ 245.— Հ.— Ի՞նչ է Ատենական Հանդէսը։ Էջ 255-256, դատարկ։ Էջ 257.— Հ.— Ի՞նչ է Տաղաչափութիւնը։ Էջ 283-284, դատարկ։ Էջ 285.— Ցանկ։ Էջ 289-320, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "328.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3097-refine.json",
+    "pipeline_version": "v1"
+  }
+}

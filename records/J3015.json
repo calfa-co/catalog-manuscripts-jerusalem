@@ -1,0 +1,72 @@
+{
+  "id": "J3015",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3015",
+  "notice": "3015",
+  "volume": "Jerusalem_V9",
+  "title": "Ս Ա Ղ Մ Ո Ս (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3015",
+    "no_notice": "66",
+    "titre": "Ս Ա Ղ Մ Ո Ս (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "374",
+    "dimensions": "16 X 10.5 X 4",
+    "mise_en_page": "խորագիրները եւ յաճախ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 19 տող",
+    "details_ecriture": "կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական։ Սեւագիծ կամ գունաւորեալ զարդագիր սաղմոսներու սկիզբը, Կանոնները հանդերձ գլխազարդով",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ, դեղնորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ գծազարդ, հնամաշ եւ քայքայուած",
+    "etat_conservation": "անբաւարար. սկիզբը եւ վերջը թերի. մէջէն ինկած բազմաթիւ ԹԵՐԹՔ. նորոգութիւն կրած. դարձեալ կարօտ նորոգութեան",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 — Սաղմոս Բ։ Մարգարէութիւնն վասըն Քի. եւ կոչումն հեթանոսաց։\nԸնդէ՞ր խռովեցան հեթանոսք...։ էջ 20.— Ի կատարած ի վերայ պատերազմող նահատակին... եւ ասէ զսաղմոսս զայս։ Գոհութիւն Դաւթի եւ մարգարէութիւն ի Քի. գալըստեանն եւ համբարձմանն։ Սաղմոս ԺԷ։ Սիրեցից զքեզ Տէր, զօրութիւն իմ...։ էջ 174.— Պակասեցին Օրհնութիւնք Դաւթէ յորդւոյ Յեսսեայ Սաղմոս Ասափայ. ՀԲ.— Իբրեւ զի բարի է Իսրայէլի Աստուած ...։ էջ 199.— Սաղմոս յԱսափ, Մարգարէութիւն վասն Ասորեստանեաց. Սաղմոս ՀԸ.— Ած. մտին հեթանոսք ի ժառանգութիւն քո ...։ էջ 216.— Սաղմոս ի Դաւիթ, Աղաւթք երեկոյի։ Քի. մարդանալն եւ հեթանոսաց կոչումըն։ Սաղմոս ՁԶ.— Խոնարհեցո Տէր զունկն քո...։ էջ 282.— Ալէլուիա, ալ. կոչումն հեթանոսաց. Սաղմոս ՃԶ.— Խոստովան եղերուք Տեառն զի քաղցր է...։ էջ 337.— Աղաւթ Յովնանու Մարգարէին — Ի նեղութեան իմում ես առ Տէր կարդացի...։ էջ 365.— Ի կատարած Սաղմոս ի Դաւիթ։ Սաղմոս ՃԼԹ.— Ապրեցո զիս Տէր ի մարդոյ չարէ...։ էջ 367.— Հայր երկնաւոր, Ած. ճշմարիտ ...։ էջ 374.— Դատաւոր արդար, յորժամ գաս փառօք Հօր...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "221.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "222.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3015-refine.json",
+    "pipeline_version": "v1"
+  }
+}

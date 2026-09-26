@@ -1,0 +1,68 @@
+{
+  "id": "J3165",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3165",
+  "notice": "3165",
+  "volume": "Jerusalem_V9",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3165",
+    "no_notice": "24",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "124",
+    "dimensions": "21X15X1.5",
+    "mise_en_page": "սեւ մելանով, միասիւն, 25 տող։ Նոտր շեղագիր",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "ծծող, կապտորակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ, անարուեստ, հնամաշ",
+    "etat_conservation": "անբաւարար. ստորին լուսանցքը վնասւած խոնաւութենէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։ Նոյնպէս 5-6։ Էջ 3.— Յորդորակ առ հարկաւոր բանսն Քի.։ Էջ 7.— Բան առ բարեմիտ ընթերցօղսդ յաղագս առաջիկայ Առակաց Աւետարանականաց։ Յառաջաբանութիւն։ Էջ 14.— Յաղագս թէ որքան հարկաւոր է հաշտութիւն եղբայրական...։ Էջ 18.— Յաղագս տեսակաւորեալ հաւատոյ։ Էջ 99.— Յաղագս յարատեւ աղօթից։ Էջ 113.— Անկիւնաւոր ոտանաւոր.— Աղբիւր բացեալ ի տան Դաւթի...։ Էջ 116, դատարկ։ Էջ 117.— Ցանկ Գրքոյս։ Էջ 119-124, դատարկ։\nՅիշատակարանիկ փակցուած առաջին կողքին, թիւ 36։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "454.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3165-refine.json",
+    "pipeline_version": "v1"
+  }
+}

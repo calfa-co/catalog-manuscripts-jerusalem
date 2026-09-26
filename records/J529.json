@@ -1,0 +1,72 @@
+{
+  "id": "J529",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "529",
+  "notice": "529",
+  "volume": "Jerusalem_V2",
+  "title": "ԵՕԹՆԱՓՈՂԵԱՆ ԳԻՐՔ",
+  "date": {
+    "from": "1766",
+    "to": "1766",
+    "display": null
+  },
+  "fields": {
+    "numero": "529",
+    "no_notice": "1",
+    "titre": "ԵՕԹՆԱՓՈՂԵԱՆ ԳԻՐՔ",
+    "date_debut": "1766",
+    "date_fin": "1766",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "134",
+    "dimensions": "23 X 17 X 1",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 31-33 տող։ Նոտր շեղագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ անարուեստ",
+    "etat_conservation": "լաւ",
+    "copiste": "Գաբրիէլ Սարկաւագ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Ըստ Սաւալանեանի «Թարգմանեալ անպիտան ոճով» (Ցուցակ, էջ 331)",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-6, դատարկ։ Էջ 7. — Գիրք Եօթնափողեան կոչեցեալ։ — Առ ի զարթուցանել զմեղաւորն ի յապաշխարութիւն, եւ հանգուցանել զսիրտ նորին ի զարհուրելի հնչմանց։ — Յոյժ շահաւէտ եւ օգտակար վասն փրկութեան հոգւոց մեղաւորաց։ — Շարադրեցեալ ի պատուելի հօրէ Բարդուղիմէոսի, այսինքն, Սալուցիոյ, եղբայր եւ միաբան փոքրագոյն, եւ խոնարհ կարգին կրօնաւորականի։ . . . Առաջաբանութիւն Հեղինակի եւ շինողի գրքոյս. — Եւ եօթն հրեշտակքն որք ունէին զեօթն փողս պատրաստեալ առ ի հնչեցուցանել իւրաքանչիւր ոք զփողն իւր, ասէ սուրբն Յոհաննէս ի գիրս Տեսլեան իւրում։ . . . Էջ 10. — Յաղագս բաժանման եօթն փողոց. — Գլուխ Առաջինորդ. — Եւ առաջին հրեշտակն հնչեցոյց ըզփողն իւր։ . . . Էջ 109. — Փող Եօթներորդ. — Յաղագս ընկերին, որ վարի ընդ մեղաւորին ի կեանս իւր։ . . . Էջ 119, ստորոտը. . . Սոյն շահաւէտ եւ յոյժ օգտակար փոքրիկ գրքուկս վերստին ղաղափարեցաւ ձեռամբ անպիտան եւ մեղսաներկ անուամբ եւեթ Գաբրիէլ Սարկաւագին. ՌՄԺԵ [= 1766] օգոստոսի ԻԲ։ Էջ 120. — Վերայհիշեցմունք կամ խրատք։ . . . Էջ 124, ստորոտը. — Եղերեցաւ փոքր գրքուկս այս կոչեցեալ Եօթնափողեան. ՌՄԺԵ եւ սեպտեմբերի մէկ։ Հնազանդ ամ. պատրաստութեամբ մօր"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "552.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "553.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "529-refine.json",
+    "pipeline_version": "v1"
+  }
+}

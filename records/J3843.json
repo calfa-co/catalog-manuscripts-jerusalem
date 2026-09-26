@@ -1,0 +1,68 @@
+{
+  "id": "J3843",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3843",
+  "notice": "3843",
+  "volume": "Jerusalem_V11",
+  "title": "ՔԻՄԻԱԿԱՆ ՊԱՏՄՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3843",
+    "no_notice": null,
+    "titre": "ՔԻՄԻԱԿԱՆ ՊԱՏՄՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "1072",
+    "dimensions": "32x20x6",
+    "mise_en_page": "սետրակ մելանով, միասիւն, 27 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": "մաքուր։ Նոր լաթակազմ խաւաքարտեայ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Քիմիական Պատմութիւն։ (1922 մյս. 19, Թանգարան գրուած թուականը)։ Էջ 2–4, դատարկ։ Էջ 5.— Քիմիական Պատմութիւն, յետ Լավուազիէի.— Շիմին՝ գաղղիական ուսումն մ'է, որոյ հիմնադիրն Լավուազիէ է, որ մթին եւ թիւր ռեչէթաները բոլորովին վերցուց եւ մաքրեց, զոր հին Ալքիմիագէտք կը գործածէին...։ Էջ 6.— Լավուազիէ.— Լավուազիէի դըրութիւնն կամ ոճն Անթիֆլոժիսթիք կոչուեցաւ ...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "297.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3843-refine.json",
+    "pipeline_version": "v1"
+  }
+}

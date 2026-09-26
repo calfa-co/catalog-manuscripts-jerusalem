@@ -1,0 +1,68 @@
+{
+  "id": "J3835",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3835",
+  "notice": "3835",
+  "volume": "Jerusalem_V11",
+  "title": "ՂՈՒՐԱՆ — ԱՂՕԹԱԳԻՐՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3835",
+    "no_notice": null,
+    "titre": "ՂՈՒՐԱՆ — ԱՂՕԹԱԳԻՐՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "216",
+    "dimensions": "15x10x2",
+    "mise_en_page": "սեւ մելանով, միասիւն, 11 տող, ոսկեգոյն շրջանակներու մէջ",
+    "details_ecriture": "յստակ եւ կանոնաւոր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ, Գրիչ՝ Մուստաֆա Էր–Րաշիտ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "գլխազարդ էջ 6",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Կը պարունակէ ընտրեալ հատուածներ Ղուրանէն, եւ աղօթքներ Ապտիւլ Գատիր Քէյլանիէն (էջ 118–128), Ապուլ Հասան Էլշատիլիէն (150–162, 174–182), Ապուլ Մավահիպ Մուհամմէտ իպն Ահմէտ Էթթունուսիէն (168–169), եւ քերթուած մը Ապտիւլ Գատիրէն (203)։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "291.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3835-refine.json",
+    "pipeline_version": "v1"
+  }
+}

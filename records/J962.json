@@ -1,0 +1,72 @@
+{
+  "id": "J962",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "962",
+  "notice": "962",
+  "volume": "Jerusalem_V3",
+  "title": "ՎԱՍՏԱԿ ՈՍԿԵՂԷՆ",
+  "date": {
+    "from": "1841",
+    "to": "1841",
+    "display": null
+  },
+  "fields": {
+    "numero": "962",
+    "no_notice": "3",
+    "titre": "ՎԱՍՏԱԿ ՈՍԿԵՂԷՆ",
+    "date_debut": "1841",
+    "date_fin": "1841",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "82",
+    "dimensions": "20×15",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 23–26 տող։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— Վաստակ Ոսկեղէն Սամուէլ Ռաբբի Հրէին, որ յանդիմանէ զՀրէից մոլորութիւն։\nՆախ ի յարապականէն ի լատինականն թարգմանեցեալ, եւ ի լատինականէն ի հասարակ բարբառն հելլենացւոց, եւ տպագրեալ ծախիւք պատուականագունի եւ պիտանացուի պարոն Նիքոլաոսի Ըսքուռոսի, ի Լիփսիայն Սաքսօնիայի, ի տպարանի Պռիիքքօբֆին, յամի 1769։ Եւ ներկայիս թարգմանեցեալ ի հելլենականէն ի Հայկական բարբառ, ի Մելքիսեդեկէ բանասիրէ յամի Տեառն 1774, յօգոստոսի է։\nԱրդեամբք եւ ծախիւք Զօպան անուն նորաբողբոջ բարեպաշտօն իշխանին, որ է որդի Հովուեան Մարտիրոս մեծ եւ բարեպաշտ իշխանին, որդւոյ հանգուցեալ երկըրպագու Յարութիւն երկիւղած եւ արդիւնաւոր իշխանին Ապըշէխցւոյ : Օրինակեցաւ շտապաւ ի Կոստանդնուպօլիս, ի միաբանէ Սրբոյ Երուսաղէմի, 1841, Ապրիլ 25 : Էջ 1 — Արժան է ունիլ ամենայն քըրիստոնէի զայնպիսի գրեանս ի յընթերցումն եւ ի խոկումն, որպէս է ոսկեղէնս այս գրքոյկս... : Էջ 3 — Առ Ընթերցողն — Զինչ է շահն ի տրամաբանելոյ մեր ընդ հրէիցն... : Էջ 80 — Վերջաբանութիւն. — Օրհնութիւն անզգրական, եւ փառք անլռելի... :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "550.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "551.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "962-refine.json",
+    "pipeline_version": "v1"
+  }
+}

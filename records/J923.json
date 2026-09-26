@@ -1,0 +1,72 @@
+{
+  "id": "J923",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "923",
+  "notice": "923",
+  "volume": "Jerusalem_V3",
+  "title": "Զ Գ Օ Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "923",
+    "no_notice": "5",
+    "titre": "Զ Գ Օ Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "248",
+    "dimensions": "20x15x2",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 26 տող",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ։",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": "է ի Դուռն Սրբոյն Յակոբայ",
+    "informations_diverses": "Ճակատ.— Գիրք որ կոչի Ըզգօն, Արարեալ Սրբոյն Յակոբայ Մծբնայ հայրապետին, ըստ խնդրոյ Սրբոյն Գրիգորի մերոյ Լուսաւորչին, ներթուում կենարարին ներմարմնութեան, ԳՃ եւ հնգին",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Յաջորդ էջին վրայ կայ Ցանկը։ Էջ 1.— Թուղթ Սրբոյն Գրիգորի մերոյ Լուսաւորչին առ Սբ. Յակոբ Մծբնայ Եպիսկոպոսն։ Էջ 153.— Ճառք Սրբոյն Յակոբայ Մծբնայ Հայրապետին...։ Հատոր երկրորդ։ Վասն Թլփատութեան, Ճառ Առաջին։ Էջ 229.— Ճառ Ութերորդ։\nՅիշատակարան Գրչի.— Էջ 242.— Փառք ամենասուրբ Երրորդութեան Հօր եւ Որդւոյ եւ Սբ. Հոգւոյն, որ արժանի արար զանարժանս առ ի գծագրել աթինարուխ հոգիաներկ զիրքս Սրբոյն Յակոբայ Մծբնայ Հայրապետին սքանչելի առն Այ. որոյ ճաշակողքն ի մատենէս միշտ աթինատաղարթ կանաչատերեւ յարաժամ ի յուղղափառութիւն բեղմնաւորեալ մնան. վասն զի էր գումարտակ սըրբոց հայրապետացն ի ժողովն Սուրբ Նիկիոյ հիասքանչ տեսլեամբ որպէս յայտ է ի պատմութենէն Յայսմաւուրաց ի դէմ սբ. թագաւորին Կոստանդիանոսի ի հրանիւթիցն ակներեւ սպասաւորեալ. ապա ուրեմն այսպիսի հոգելից եւ ի հոգեպատում յառնէ Այ. է ասացեալ հոգւով սրբով բանք հաւատոյ, եւ օրինաց, եւ հաստատութեան յուսոյ, հաճոյ Այ. որոյ հետեւողքն շաւղօք միշտ անթիւր ընթանան ի ճանապարհս Տեառն: էջ 243–248, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "476.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "477.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "923-refine.json",
+    "pipeline_version": "v1"
+  }
+}

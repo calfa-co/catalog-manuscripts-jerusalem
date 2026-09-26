@@ -1,0 +1,72 @@
+{
+  "id": "J3200",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3200",
+  "notice": "3200",
+  "volume": "Jerusalem_V9",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՄԱՐԿՈՍԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3200",
+    "no_notice": "14",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՄԱՐԿՈՍԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "444",
+    "dimensions": "23X15.5X3",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալները սեւ մելանով, միասիւն, 31 տող, կարմիր գիծերու միջեւ։ Նոտր շեղագիր վարժ",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ ոսկեդրուագ",
+    "etat_conservation": "լաւ բայց առաջին թերթը պատռուած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "Մարկոս Աւետարանիչ եւ առիւծ գրքին ըսկիզբը",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "էջեր սկիզբը 15",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր եւ լուսանցազարդ Գլուխներու սկիզբը",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 3. — Որպէս եւ ասէր իսկ թէ արարէք պտուղ արժանի ապաշխարութեան...։ Էջ 4. — ...Այլ ես ասեմ ձեզ, թէ Եղիայ եկն եւ արարին ընդ նմա զինչ եւ կամեցան, որպէս եւ գրէ վասն նորա. — Հմմտ. Մրկ. Թ. 12։ Էջ 50. — Գլուխ Տասներրորդ. — Եւ անտի յարուցեալ գայ ի սահմանս Հրէաստանի...։ Էջ 108. — Գլուխ Մետասաներրորդ. — Եւ յորժամ մերձ եղեն յԵրուսաղէմ...։ Էջ 159. — Գլուխ Երկոտասաներրորդ. — Եւ սկսաւ խօսիլ ընդ նոսա առակօք...։ Էջ 196. — Գլուխ Երեքտասաներրորդ. — Եւ յելանելն նորա ի տաճարէ անտի...։ Էջ 238. — Գլուխ Չորեքտասաներրորդ. — Եւ էր Զատիկ եւ բաղարջակերք յետ երկուց աւուրց...։ Էջ 320. — Գլուխ ԺԵերրորդ. — Եւ վաղվաղակի ընդ առաւօտն խորհուրդ արարեալ ...։ Էջ 395. — Գլուխ Տասնեւվեցերրորդ. — Եւ իբրեւ անց շաբաթն...։\nէջ 421.— Եւ իբրեւ լուան ելին եւ փախեան ի գերեզմանէն քանզի զահի հարեալ էին եւ ոչ ումեք ինչ ասացին զի երկնչէին ...:\nէջ 423, վարը.— Ասեն թէ Մեկնիչս զայս Բարսեղ Վարդապետ է արարեալ, որ մակ անուամբ Ճոն ասի, որոյ հոգին ընդ հրեշտակացն դասի. Ամէն: էջ 424, դատարկ: էջ 425.— Ցանկ գլխաւոր բանից պարունակեցելոյ Սբ. Աւետարանիս Մեկնութեանս յայսմիկ գրքոջս, այբուբենական կարգաւ շարակարգեալ, առ ի դիւրաւ գտանել ամ. ոք զխնդրեալ բանն: էջ 434-444, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "520.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "521.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3200-refine.json",
+    "pipeline_version": "v1"
+  }
+}

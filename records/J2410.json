@@ -1,0 +1,72 @@
+{
+  "id": "J2410",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2410",
+  "notice": "2410",
+  "volume": "Jerusalem_V8",
+  "title": "Ժ Ա Մ Ա Գ Ի Ր Ք",
+  "date": {
+    "from": "1651",
+    "to": "1651",
+    "display": null
+  },
+  "fields": {
+    "numero": "2410",
+    "no_notice": "31",
+    "titre": "Ժ Ա Մ Ա Գ Ի Ր Ք",
+    "date_debut": "1651",
+    "date_fin": "1651",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "672",
+    "dimensions": null,
+    "mise_en_page": "խորագիրները և մասամբ սկզբնատողերն ու գլխատառերը կարմիր, մնացեալը սև մելանով, միասիւն, 15 տող",
+    "details_ecriture": "սովորական գրեթէ",
+    "types_cahiers": "սանցքի ցեցահարութիւն չափաւոր",
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ․ ներսը նկարազարդ կտաւ։ Սկիզբը հինգ թերթ թուղթ, վարի անկիւնները կըտրուած, և դատարկ մեծագոյն մասամբ",
+    "etat_conservation": "լաւ ընդհանրապէս. լուԾաւալ 13.5x10x5.5",
+    "copiste": null,
+    "possesseur": "Նիկողոս",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Ա—Շ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագրեր, լուսանցազարդեր և գլխազարդեր անարուեստ",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1.— Հրաժարիմք ի սատանայէ...։ էջ 16.— Տէր եթէ զշրթունս իմ բանաս ...։ էջ 143.— Լցայք առաւօտոց ողորմութեամբ քո...։ էջ 217-224, դատարկ։ էջ 293.— Սաղմոս Ա. փոխ.— Եղեցի անուն Տեառն աւրհնեալ յաւիտեան...։ էջ 321.— Աւրհնեալ Հոգիդ Սբ. Ած. ճշմարիտ...։ էջ 405.— Ես առ Ած. կարդացի...։ էջ 441.— Տէր Ած. փրկութեան իմոյ...։ էջ 503.— Առաքեա Տէր ըլոյս քո...։ էջ 543.— Եւ հովիւք էին ի տեղւոջն յայնմիկ...։ էջ 546.— Խորհուրդ մեծ և սքանչելի...։ էջ 566—572, անհարթ գրով, Աւետարանի հատուած։ էջ 573-672, դատարկ։\nՅիշատակարան Գրչի.— 1651 էջ 565.— Փառք ամենասուրբ Երրորդութեան Հօր և Որդւոյ և Հոգւոյն, այժմ և անդրաւ յաւիտեանս, ամէն։ Արդ գրեցաւ սակաւ տառս որ կոչի ժամագիրք, ձեռամբ [blank space] ի թվականիս մերոյ Հայոց ՌՃ, ի յիշատակ Նիկողոսին և իւր կողակցացն Իփրուսինէ, Եղիսաբեթին և Ոսկիտատիկան, և իւր դստերն Աղատին. և ետ յիշատակ հոգոյ իւրոյ ի վայելումն Մամարին։ Ած. իւրեանց մեղքն թողու և վերին արքայութեան արժան առնէ ամէն։ Դարձեալ կրկին աղաչեմ, ով ընթերցող, յորժամ ընթեռնուն զսուրբ տառս և իւրեանց մեղաց թողութիւն խնդրես ի միւս անգամ գալստեան ամէն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "068.jpg"
+    },
+    {
+      "volume": "Jerusalem_V8",
+      "file": "069.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2410-refine.json",
+    "pipeline_version": "v1"
+  }
+}

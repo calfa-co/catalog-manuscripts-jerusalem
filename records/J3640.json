@@ -1,0 +1,72 @@
+{
+  "id": "J3640",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3640",
+  "notice": "3640",
+  "volume": "Jerusalem_V11",
+  "title": "ԱՒԵՏԱՐԱՆ (ԹԵՐԻ).— Զ95",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3640",
+    "no_notice": null,
+    "titre": "ԱՒԵՏԱՐԱՆ (ԹԵՐԻ).— Զ95",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Բ+844",
+    "dimensions": "31x26x6",
+    "mise_en_page": "սրճագոյն մելանով, երկսիւն, 19 տող։ Երկաթագիր կանոնաւոր։ Զարդ բնաւ չկայ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "անհաւասար թանձրութեամբ. տեղտեղ կարկտուած նախ քան գըրուիլը",
+    "nb_lignes": null,
+    "reliure": "քայքայուած. պրակաթիւերը դրուած են աջակողմեան լուսանցքին վերը, շատերը փճացած",
+    "etat_conservation": "խղճալի. վնասուած հնութենէ, կըրակէ, ջուրէ. կողքը անհետացած. շատ ԹԵՐԹՔ փըթած, պատռուած եւ ճմրթկուած. ըսկիզբը եւ վերջը թերի. յոյժ կարօտ նորոգութեան",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": "չունի",
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա 1.— Մի' այսուհետեւ երկնչիցիք ի նոցանէ...։— Մտթ. Ժ. 26։ Էջ 1ա.—... Եւ անցեալ եկին ի ցամաք ի Գեննեսարեթ...։— Մտթ. ԺԴ. 35։ Էջ 11բ.— Բեաւր քանքարոյ.— Լուսանցքին մանր երկաթագիր՝ բազում տաղանդոց.— Մտթ. ԺԸ. 24։ Էջ 78, վերի լուսանցքին.— Աւետարան ըստ Մարկոսի։ Էջ 78ա.— Սկիզբն Աւետարանի Յի. Քի., որպէս եւ գրեալ է Յեսայի մարգարէ. Ահաւասիկ...։ Էջ 118բ.— Զամբիւղ.— միջին լու-"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "075.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "076.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3640-refine.json",
+    "pipeline_version": "v1"
+  }
+}

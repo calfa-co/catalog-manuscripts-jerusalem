@@ -1,0 +1,72 @@
+{
+  "id": "J3480",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3480",
+  "notice": "3480",
+  "volume": "Jerusalem_V10",
+  "title": "Գիրք Վասն Եկեղեցւոյ (Tipicon)",
+  "date": {
+    "from": "1024",
+    "to": "1024",
+    "display": null
+  },
+  "fields": {
+    "numero": "3480",
+    "no_notice": "1",
+    "titre": "Գիրք Վասն Եկեղեցւոյ (Tipicon)",
+    "date_debut": "1024",
+    "date_fin": "1024",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "576",
+    "dimensions": "20.5X15X5",
+    "mise_en_page": "կարմիր եւ սեւ մելաններով, միասիւն, 18 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ, տոկուն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ, մասամբ քայքայուած",
+    "etat_conservation": "բաւարար, ազդուած թացութենէ, լուսանցքը թեթեւօրէն ցեցակեր",
+    "copiste": "Եուհաննէ շամմէս, պին էլ ղըս Եուսուֆ իպն Ավէյսէ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "նոտր շեղագիր.— Էջ 549, ստ. լուսանցքին.— Յիշատակ է Սբ.Յակոբայ։— Սկիզբը դատարկ թուղթի վրայ. \"Գիրք Հայր Սաբայի Վասն Եկեղեցւոյ\"",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդեր, էջ 1, 2, 49, 213, 229, 300, 475",
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "469.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "470.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3480-refine.json",
+    "pipeline_version": "v1"
+  }
+}

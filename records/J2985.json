@@ -1,0 +1,72 @@
+{
+  "id": "J2985",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2985",
+  "notice": "2985",
+  "volume": "Jerusalem_V9",
+  "title": "ԿՏԱԿ ԱՒԱԳ ՈՒՐԲԱԹՈՒ",
+  "date": {
+    "from": "1867",
+    "to": "1867",
+    "display": null
+  },
+  "fields": {
+    "numero": "2985",
+    "no_notice": null,
+    "titre": "ԿՏԱԿ ԱՒԱԳ ՈՒՐԲԱԹՈՒ",
+    "date_debut": "1867",
+    "date_fin": "1867",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Է+55",
+    "dimensions": "17X12",
+    "mise_en_page": "սեւ մելանով, միասիւն, 13 տող",
+    "details_ecriture": "մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ թաւշապատ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա. դատարկ։ Էջ Բ.— Քարոզ Աւագ Ուրբաթու։ Էջ Գ.— Տիտղոսաթերթ. ի Հայրապետութեան Տ. Տ. Գէորգայ սըրբազնագոյն կաթուղիկոս [ի] ամ. Հայոց։ Եւ\nի պատրիարքութեան Տ. Տ. Եսաեայ սրբազան արքեպիսկոպոսի Սրբոյ Երուսաղեմայ։ Եւ ի պատրիարքութեան Կ. Պոլսոյ Տ. Տ. Պօղոսի սրբազան արքեպիսկոպոսի։ Յառաջնորդութեան Թրակիոյ Տ. Տ. Թադէոսի առաքելապատիւ սրբազան արքեպիսկոպոսի. գրեցաւ այս Աւագ Ուրբաթու Կտակն 1867, Օգոստոս 20։ էջ Դ-Ե, դատարկ։ էջ Զ, տարբեր թուղթ. սեւատիպ նկար՝ Խաչելութիւն Տեառն. Գողգոթա։ էջ Է.— Կտակ Աւագ Ուրբաթու։ Ո՛վ հանդիսացեալ ժողովուրդք Աստուծոյ, ո՛վ գինք պատուական արեան կենարարին, ո՛վ բանաւոր գառինք երկնաւոր քաջ հովուապետին Յիսուսի...։ էջ 46.— Ո՜հ, ո՞ւր ես դու ցաւակից մարգարէդ Զաքարիա, քի այս աւուր սգալի տըխուր տեսիլը առաջուց ծանուցիր՝ ըսելով...։ էջ 48-55, դատարկ, թէեւ գծուած ու պատրաստ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "191.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "192.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2985-refine.json",
+    "pipeline_version": "v1"
+  }
+}

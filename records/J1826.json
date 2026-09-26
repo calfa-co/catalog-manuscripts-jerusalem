@@ -1,0 +1,68 @@
+{
+  "id": "J1826",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1826",
+  "notice": "1826",
+  "volume": "Jerusalem_V6",
+  "title": "Ո Ւ Ս Տ Ո Ւ Լ Ա Պ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1826",
+    "no_notice": "4",
+    "titre": "Ո Ւ Ս Տ Ո Ւ Լ Ա Պ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "100",
+    "dimensions": "22x17x1",
+    "mise_en_page": "խորագիրները եւ սկզբնաբառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 25 տող։ Նոտր շեղագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Այս երեւումն է ուստուռլապին օժանդակութեամբ Աստուծոյ։ Էջ 5. — Յիշեմք զխրատսն թէ Ած. առաջնորդէ. — Աստիճանքն որ բաժանեալ են ի վերայ կենդանակերպաց այն է ողորդ աստիճանքն...։ Երկրորդ դուռն վասն գիտութեան զարեգական երթիֆան որում ժամու եւ իցէ ի տուընջեան. . .։ — Հմմտ. թ. 457, Բ. Հատոր, էջ 434։ Թ. 1192, Դ. Հատոր, էջ 299։ Էջ 53. — Ճ. — Վասն գիտելոյ թէ որն ի աստեղացն որ չկան ի ստուռլապն մտանէ յառաջ քան զաստիճան իւր. . .։ — Հմմտ. Դ. Հատոր, էջ 299։ Էջ 86. — ՃԿԶ. — Վասն փորձելոյ զղաւս ծագման. ֆաճրին եւ զմտանելոյ շաֆաղին եւ զաստիճանսն կենդանակերպիցն...։ Էջ 87. — Այլ խրատ պիտանի եւ գեղեցիկ. — Ա. — Առաջինն նադրհայն աստղն է...։ Էջ 95ա. — Յանուն Այ. գթածին եւ ողորմածին, յանուն Հօր եւ Որդւոյ եւ Հոգւոյն Սրբոյ։ — Ցանկ, Ա-ԼԵ, Գլուխներ։ Էջ 97-100, դատարկ, թէեւ գծուած։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "217.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1826-refine.json",
+    "pipeline_version": "v1"
+  }
+}

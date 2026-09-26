@@ -1,0 +1,72 @@
+{
+  "id": "J3217",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3217",
+  "notice": "3217",
+  "volume": "Jerusalem_V9",
+  "title": "ՃԱՌ ԱՒԵՏՄԱՆ",
+  "date": {
+    "from": "1799",
+    "to": "1799",
+    "display": null
+  },
+  "fields": {
+    "numero": "3217",
+    "no_notice": null,
+    "titre": "ՃԱՌ ԱՒԵՏՄԱՆ",
+    "date_debut": "1799",
+    "date_fin": "1799",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "14",
+    "dimensions": "34X23",
+    "mise_en_page": "սկզբնատողերը եւ սկզբնատառերը կարմիր, մընացեալը սեւ մելանով, երկսիւն, 34 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ։ Կարմրաներկ զարդագիր եւ լուսանցազարդ, էջ 3, 6",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կաշի",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": "Ոհաննէս Տէրպապեան",
+    "possesseur": "Յարութիւն Տէրպապեան",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Արեգի Լ եւ ապրիլի Է, Տօն է Աւետեաց Սբ. Աստուածածնին Մարիամու. — Ամենասրբուհի Կոյսն Մարիամ, օրհնեալըն ի կանայս, ծնեալ եղեւ աւետեօք, Յովակիմայ եւ յԱննայէ...։ Էջ 6ա.— Յայսմ աւուր յիշատակ է սքանչելեացն որ եղեն յԵրուսաղէմ, ի ՉՃՀԲ թվին Հայոց...։\nԷջ 6բ.— Աստուածածին կոյս պատուական, Հօր Աստուծոյ խորհրդարան, զոր նախատեսքն խօսեցան, լրմամբ ի քեզ կատարեցան։ . . . . . . . . . . . . . . . . . . . . Աստուածածին հոգով փութամ, մինչ թողութեան արժանանամ, բարբառելով առ քեզ կարդամ, օրհնաբանեմ միշտ յաւիտեան։\nՕրհնեալ ես Աստուածածին դուստր լուսոյ, որ ընտրեցար յազգէ մարդկան մայր Աստուծոյ, մեք որ մեղօք եմք շաղախեալ յախտս մարմնոյ, սրբիչ դու լեր քոյին շնորհօքդ զօրացո։ . . . . . . . . . . . . . . . . . . . . Բարեբանեմք զԱստուած հոգին անքննական, որ գործակից եղեւ Բանին մարդեղութեան, Երրորդութեան փառս երգեմք միշտ անխափան, այժմ եւ յաւէտ եւ յապագայն անսպառական։\nԵրգողի ճառիս Առաքել Վարդապետի՝ բարեխօսութեամբ Սբ. Աստուածածնին, այցելութեամբ այց արասցես Քս. Ած. մեր յաւուրն ահեղին։ Մանաւանդ ըստացողի գըրոյս Տէրպապեան մահտեսի Յարութենին եւ ամենայն զարմից եւ զաւակաց սորին ընթերցողիս։\nԳրեցաւ տետրակս թվին Հայոց ՌՄԽԸին, ձեռամբ Տէրպապեան մահտեսի Ոհաննէս ընթերցողի։— Որ յայսմ ամի ի ...... փոխեցաւ։ Էջ 14, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "538.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "539.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3217-refine.json",
+    "pipeline_version": "v1"
+  }
+}

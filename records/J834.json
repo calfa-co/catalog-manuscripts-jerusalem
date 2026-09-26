@@ -1,0 +1,68 @@
+{
+  "id": "J834",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "834",
+  "notice": "834",
+  "volume": "Jerusalem_V3",
+  "title": "ՄԱՇՏՈՑ (ՏՂԱՅԱՆՈՒԷՐ ԵՒ ԽԱՉՎԵՐԱՑ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "834",
+    "no_notice": "14",
+    "titre": "ՄԱՇՏՈՑ (ՏՂԱՅԱՆՈՒԷՐ ԵՒ ԽԱՉՎԵՐԱՑ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "32",
+    "dimensions": "21×15",
+    "mise_en_page": "խրատները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 18 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "թռչնագրեր եւ լուսանցազարդեր կան տասնեակ մը։ Լաթակազմ խաւաքարտեայ, մաշած",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Առաջին կողքի ներքին երեսին.— Կանոն յորժամ նուիրեալ զաւակն ի Սրբոյ Գըլխադրեն իբրու զննսցեն ծնողքն։ էջ 3, դատարկ։ էջ 4.— Խրատք վերացման կենսատու Սուրբ Խաչափայտին Տեառն մերոյ Յիսուսի Քրիստոսի։ էջ 7.— Իսկ ի միաշաբաթի աւուրն, յետ աւարտման սրբոյ Պատարագին, երթիցէ հայրապետն՝ ունելով զբուրվառն ի ձեռին, հանդերձ համայն ուխտիւք, առ սուրբ խաչն, եւ կացեալ առաջի նորա ասասցեն զշարական՝ Որ ծագեցեր...։ էջ 25.— Կանոն Հնձան Օրհնելոյ Սուրբ Աթոռոյս։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "334.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "834-refine.json",
+    "pipeline_version": "v1"
+  }
+}

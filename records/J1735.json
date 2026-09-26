@@ -1,0 +1,72 @@
+{
+  "id": "J1735",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1735",
+  "notice": "1735",
+  "volume": "Jerusalem_V6",
+  "title": "Տ Օ Ն Ա Ց Ո Յ Ց",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1735",
+    "no_notice": "19",
+    "titre": "Տ Օ Ն Ա Ց Ո Յ Ց",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "162",
+    "dimensions": "10x7x1.5",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մնացեալը սև մելանով, միասիւն, 19 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՈՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ ընդհանուր առմամբ, բայց լուսանցքները զերծ չեն ցեցերու հպումէն",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սեւադըրոշմ հաւկթաձեւ, երկաթագիր, «Եւայ», էջ 22, 86, 103, 137, լուսանցքի վրայ ։ Հմմտ . — թ . 1268, Դ . Հատոր, էջ 444",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, գծծուած անհարթ գրերով ։ Էջ 2 . — Տաւնացոյց եւ աւետարանացոյց եւ հրահանգք տէրունական տաւնից . . . ։ Էջ 3 . — Աստուածայայտնութեան ճրագալուցին գիշերն զգենուն միաբան . . . ։ Էջ 42 . — Ծաղկազարդի գիշերն հսկումըն է . . . ։ Էջ 46 . — Ով տաւնասէր, յորժամ կամիցիս դռնաբաց առնել, այսպէս արայ ։ Էջ 72 . — Սբ . Յարութեան Սբ . Զատկի գիշերն հսկումն է . . . ։\nէջ 127.— Խաչվերացի գիշերն հսկումն է...։ էջ 155.— Մատթէոս աւետարանէ բըժշկութեան այսպէս գիտ։ էջ 160-162, դատարկ մեծագոյն մասամբ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "064.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "065.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1735-refine.json",
+    "pipeline_version": "v1"
+  }
+}

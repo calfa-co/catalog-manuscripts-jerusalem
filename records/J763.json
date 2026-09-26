@@ -1,0 +1,72 @@
+{
+  "id": "J763",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "763",
+  "notice": "763",
+  "volume": "Jerusalem_V3",
+  "title": "ՏԵՍԱՐԱՆ ՀԱՆԴԻՍԻՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "763",
+    "no_notice": "1",
+    "titre": "ՏԵՍԱՐԱՆ ՀԱՆԴԻՍԻՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "306",
+    "dimensions": "21x15x2",
+    "mise_en_page": "սեւ մելանով, միասիւն, 24 տող։ Նոտր շեղագիր մաքուր",
+    "details_ecriture": "սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "դեղնորակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ ոսկեզօծ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Կիրակոս Եպս. Երուսաղէմացի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ճակատ.— Տեսարան Հանդիսիցն Հայկայ Արամայ եւ Արայի, Ոտանաւորեալ Միրզայեան Յովհաննու Վանանդեցի Վրժպտ. Քահանայի Սբ. Ստեփաննոս Եկեղեցւոյն Զմիւռնիոյ, ի զբօսանս մանկանց Ազգիս Հայոց։ Վերստին օրինակեալ զգուշութեամբ յումեմնէ անգործ անձնէ ի մխիթարութիւն իւրումն առանձնութեան եւ դատարկութեան։ Յամի Տեառն 1837, Նոյեմբերի։ Ի Վէքիլարան Սրբոյ Աթոռոյն Երուսաղէմի, որ ի Կոստանդնուպօլիս։\nԷջ 3.— Յառաջաբան.— Որք զհայրենի քաջարութեանցն հանդիսից զվիպագրութիւնս...։ Էջ 7.— Ցանկ Գլխարկութեան Գործոյս.— Ա.— Նախաշաւիղ առ ի նոյն յորդորման...։ Էջ 9.— Հազներգ տաղաչափական ի պայծառ հանդէս դիւցազին մերոյ Հայկայ Թորգոմեան։ Էջ 134.— Գլուխ ԺԲ.— Միապետութիւն Արամայ եւ Հանդէսքն։ Էջ 158.— Գլուխ ԺԳ.— Միապետութիւն Արայի։\nէջ 238.— Գլուխ ԺԷ.— Յորդոր նմանիլ նախնեաց։ էջ 279.— Վերջ.— Ընդ ամենայն են ի հագներգութիւնս տունք 1685։ էջ 281.— Առ արժանապատիւ Պաւղոս վարդապետ, նուէր։— Փակէ վճիտ իղձն առատազեղ․․․։— Ի նուաստ ծառայ եւ եղբայր Պետրոսեան Սերովբէ։ էջ 283–306, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "227.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "228.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "763-refine.json",
+    "pipeline_version": "v1"
+  }
+}

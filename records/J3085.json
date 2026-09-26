@@ -1,0 +1,68 @@
+{
+  "id": "J3085",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3085",
+  "notice": "3085",
+  "volume": "Jerusalem_V9",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3085",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Երեք տարբեր տետրակներ մէկ կողքի մէջ ամփոփուած, միասնաբար 150 էջ։",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1–48, սպիտակ թուղթ, շեղագիր անհարթ։ էջ 1.— ՅԱղամալեան Պետրոս Վարդապետի Բանից քարոզութեան ծաղկաքաղ համառօտեալ...։ էջ 21.— Խօսեալ յատենի Սրբոյն Յակոբայ, յԵրեմիա Վարդապետէ՝ աշակերտէ նախկին Կոստա. պատրիարգի՝ Անդրիանուպոլսեցի տեառն Պօղոս Արքեպիսկոպոսի՝ առ բանն Եսայեայ որ ասէ...։\nէջ 49–72, կապոյտ թուղթ, շեղագիր։ էջ 49.— Քարոզք Աղամալեան Պետրոս Վարդապետի...։ էջ 57–72, դատարկ։\nէջ 73–150, կապտորակ թուղթ, շեղագիր, խիտ տողերով։ էջ 73.— Անցեալ Կիրակի, որ քննութեան հանդէս եղաւ...։ էջ 86, դատարկ։ էջ 87.— Անցեալ երկու Կիրակիին մեր ատենաբանութեան նիւթը այս էր...։ էջ 105.— Աստուծոյ ամենակալի ամենակարող զօրութիւնը թէպէտ չափ սահման չունի...։ էջ 125.— Ասացաք յանցեալ Կիրակէ...։ էջ 133.— Ի յաւիտենից՝ յառաջ քան զըստեղծանել զամ. արարածս...։ էջ 145.— Ժամանակը եկաւ մերձեցաւ...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "320.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3085-refine.json",
+    "pipeline_version": "v1"
+  }
+}

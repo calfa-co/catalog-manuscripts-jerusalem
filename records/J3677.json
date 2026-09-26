@@ -1,0 +1,72 @@
+{
+  "id": "J3677",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3677",
+  "notice": "3677",
+  "volume": "Jerusalem_V11",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՊԱՏԱՐԱԳԻ",
+  "date": {
+    "from": "1688",
+    "to": "1688",
+    "display": null
+  },
+  "fields": {
+    "numero": "3677",
+    "no_notice": "9",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՊԱՏԱՐԱԳԻ",
+    "date_debut": "1688",
+    "date_fin": "1688",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "276",
+    "dimensions": "15.5x11x2",
+    "mise_en_page": "խորագիրը եւ քանի մը գլխատառեր կարմիր. մնացեալը սեւ մելանով, միասիւն, 15 տող",
+    "details_ecriture": "սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "փըթած կորսուած. կարօտ նորոգութեան",
+    "etat_conservation": "համարեա բաւարար. սկիզբէն կը պակսի երկու թերթ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Տեառն Ներսեսի ասացեալ, զոր Յոհաննէս պլուզն Արճիշեցի վարդապետն\nհամառօտեց Մեկնութիւն Խորհրդական Բանից Սրբոյ Պատարագին։\nԺամ եւ ժամանակ է ամ. իրաց, զի հարքըն մեր առաջինքն եւ վարդապետքն յորժամ բանս ինչ խաւսէին աստուածային պատգամացն կամ գրելու.։— Հմմտ.— թիւ 519, Բ. Հատոր, էջ 522։\nԷջ 18, գլխատառին տեղը բաց մնացած է, եւ այդպէս կը շարունակուի ցվերջ։\nԷջ 81.— [Խ]որհուրդ զանազանութեան զգեստիցն։\nԷջ 106.— Յետ այսորիկ երկրպագէ սեղանոյն քհն. եւ գայ բազմի յաթոռն, եւ սրկգ. տայ ի ձեռս նորա զԱւետար. ...։\nԷջ 188–189ի միջեւ կը պակսի մէկ թերթ։\nԷջ 265.— [Ե]ւ արդ յաւարտումն բանիցս խորհրդեանս այս պարտ է մեզ զմտօ ածել...։\nՅիշատակարան Գրչի.— 1688\nԷջ 276, վարը.— Փառք անբաժանել[ի] եւ միասնական. փառք ամենասուրբ Երրորդութեանն Հօր եւ Որդոյ եւ Հոգոյն Սրբոյ այժմ եւ միշտ եւ յաւիտեանս յաւիտենից ամէն։\nԱրդ գրեցաւ գիրքս թվին ՌՁԲ, ի մայրաքաղաքն ի Մարսըլան։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "119.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "120.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3677-refine.json",
+    "pipeline_version": "v1"
+  }
+}

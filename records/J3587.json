@@ -1,0 +1,68 @@
+{
+  "id": "J3587",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3587",
+  "notice": "3587",
+  "volume": "Jerusalem_V10",
+  "title": "ՀԱՒԱՔԱԾՈՅ (Հայ Գիրը եւ Լեզուն)",
+  "date": {
+    "from": "1982",
+    "to": "1982",
+    "display": null
+  },
+  "fields": {
+    "numero": "3587",
+    "no_notice": null,
+    "titre": "ՀԱՒԱՔԱԾՈՅ (Հայ Գիրը եւ Լեզուն)",
+    "date_debut": "1982",
+    "date_fin": "1982",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "356",
+    "dimensions": "20.5x14.5x2.5",
+    "mise_en_page": "նման նախորդին",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "ճերմակ",
+    "nb_lignes": null,
+    "reliure": "նման նախորդին",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Յ. Վրդ. Պարոնեան",
+    "possesseur": "Յ. Վրդ. Պարոնեան",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Տիտղոսաթերթ. Հայ Գիրը եւ Լեզուն, Քաղեց Յ. Վրդ. Պարոնեան, Առաքել. Ուխտէն Ս. Յակոբեանց, Երուսաղէմ, 1982։ Էջ 1.— Հայ Գիրը եւ Լեզուն մինչեւ Մեսրոպ.— Գրեց՝ Խ. Ս. Գուրեան։ Էջ 81.— Ս. Սահակ Պարթեւ Հայրապետ։ Էջ 94.— Սահակ եւ Մեսրոպ։ Էջ 111.— Հայոց Գիրը.— Տօքթ. Յ. Թոփճեան, Կ. Պոլիս։ Էջ 128.— Թարգմանչաց Տօնին առթիւ։ Էջ 151.— Հայերէն Լեզուն։ Մեր Աշխարհաբարը։ Էջ 169.— Հայ Եկեղեցւոյ Առաքեալները.— Քաղուած 1905, Դեկ. 8, թիւ 49, \" Լոյս \" Շաբաթաթերթէ։ Էջ 210.— Հայ Եկեղեցւոյ Քարոզիչները։ Էջ 239.— Անցումն նախամեսրոպեան Շրջանէ Ոսկեդար։ Էջ 252.— Յաճախապատում.— Սահակ Վարդապետ, Ամասիա։ Էջ 266.— Զղջացող Կինը.— Վէրտի.— Հմմտ. Աստ, թիւ 3584, էջ 238։ Էջ 295.— Երաժիշտ միանձնուհին— Սահակդուխտ. (Հատուածի մը հոգեբանական վերլուծումը).— Վէրտի։ Էջ 307–356, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "650.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3587-refine.json",
+    "pipeline_version": "v1"
+  }
+}

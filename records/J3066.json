@@ -1,0 +1,68 @@
+{
+  "id": "J3066",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3066",
+  "notice": "3066",
+  "volume": "Jerusalem_V9",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԴԸՒՆԿԱՑԻ ՆԱՀԱՏԱԿԱՑՆ",
+  "date": {
+    "from": "1813",
+    "to": "1813",
+    "display": null
+  },
+  "fields": {
+    "numero": "3066",
+    "no_notice": null,
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԴԸՒՆԿԱՑԻ ՆԱՀԱՏԱԿԱՑՆ",
+    "date_debut": "1813",
+    "date_fin": "1813",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Փոքր տետրակ մըն է, կապոյտ թղթով, բաղկացած 16 էջերէ, որ կը պարունակէ Դվնկացի նահատակաց պատմութիւնը։",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1.— Տետրակ ոտանաւորեալ, յորում պարունակի Պատմութիւն Դվնկացի նահատակացն, որք կատարեցան ի քաղաքս Կարին, յամի Տեառն 1810, եւ ի մերս ՌՄԾԹ։ Եւ յետ անցման ինչ միջոցի ի յորդորմանէ յոմանց՝ յարմարեալ եղեւ տասնականկեայ ոտանաւոր ոճիւ լիակատար պատմութիւնն՝ յումեմնէ մանկավարժ նօտարէ մահտեսի Յօհաննիսէ Կարնեցւոյ, ի ՌՄԿ թւոջն։ Այժմ վերստին սոյն համառօտակիս եւս հոմերական չափմամբ հիւսեալ եղեւ ի նոյնոյ նօտարէ։ Աշխատասիրեալ հոգունակութեամբ հասու լինելով եղելոցն եւ հաւաստեալ թէ զառաջինն եւ թէ զայս ի լոյս ընծայեաց ի փառս Քի. Այ. Փրկչին մերոյ, եւ ի պատիւ՝ ի սէր նորա վառեալ երջանիկ նահատակացն, յաղագս Վառվառ անուն ումեմն արիասիրտ աղջկան՝ տեղոյ սննդեանն եւ ազգի նորին, եւ յաղագս դիպւածոցն, որ կրելով զբազում վիշտըս նահատակ եղեւ ի սէր Քի. Այ. մերոյ։ — Հմմտ. Հայոց Նոր Վկաները, Վաղարշապատ, 1903, էջ 673։ Հանդէպ Կարնոյս դաշտավայրի, Դվնիկ անուամբ կայր անդ գիւղ մի, Էր Զուրինկեանց տանն աղջիկ մի, Վառվառ անուն վարուք բարի։ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Էր գիտողաց հրաշք ձեր յայտնի, (մէծեռ թուջս) որ կատարի, ի նօտարէս երգս յարմարի, ձերդ օգնութեան եմ միշտ փափագ. աւաղ աւաղ հասցէ ինձ արագ։ Վերջ։ Ծանօթ.— Փակագծի մէջ տրուած (մէծեռ) բառին թուական արժէքն է 1262 + 551 = 1813, որ Պատմութեան այս նոր համառօտ խմբագրութեան տարին կը ցուցնէ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "306.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3066-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J329",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "329",
+  "notice": "329",
+  "volume": "Jerusalem_V2",
+  "title": "ՈՒՍՈՒՄՆ ԲԱՐՈՒՑ",
+  "date": {
+    "from": "1838",
+    "to": "1839",
+    "display": null
+  },
+  "fields": {
+    "numero": "329",
+    "no_notice": "1",
+    "titre": "ՈՒՍՈՒՄՆ ԲԱՐՈՒՑ",
+    "date_debut": "1838",
+    "date_fin": "1839",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "180",
+    "dimensions": "25X20X1",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 35 տող",
+    "details_ecriture": "վարժ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": "Կիրակոս եպս. Երուսաղէմացի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "էջ 1, փակագիր. «Ք. Ծ. Կիրակոս Եպիսկոպոս, 1817» ; ԾԱՆՕԹ: «Այս գիրք տպագրեցաւ ի Սբ. Աթոռս յեէմ ի պատրիարքութեան Տն. Յովհաննու բարձր Սրբազան Արքեպս.ի՝ արդեամբ ի Բաբելոն բնակեալ ազնուական Աղա Միքայէլի, ի յիշատակ հօր իւրոյ հանգուցեալ Աղա Մինասայ Միքայէլեան 1857»։ էջ 1.— Նուաստ Կիրակոս Եպսո. Սբյ. Եէմի. ձեռամբ իմով գրեցի զայս գիրք, ; յԻւսկիւտար, ի ճեմարանի Սբյ. Էջմի. լինել յիշատակ Սբյ. Աթոռոյն։ Վասնորոյ աղաչեմ զբարեմիտ ընթերցօղսդ յիշել զմեղապարտս ի սբ. աղօթս ձեր. ի 1838։ Ճակատ.— Էջ 1.— Ուսումն Բարուց. Գործ Փրանկիսկոսի Սոաւէի յիտալականն արձանագրեալ։ Յեղեալ ի մերս յաղագս իմաստասիրական հրահանգաց բարոյականին. ի Յովհաննէս Դպրէ Տէր Կարապետեան Պրուսացւոյ։ Էջ 180.— «Օրինակեալ աւարտեցաւ Ուսման Բարուց գրքոյկս, ի 7 Յունիսի, 1839, յԻւսկիւտար ի ճեմարանի Սբյ. Էջմի. յումեմնէ անգործ եւ անարդիւն անձնէ»",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "222.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "223.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "329-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J1180",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1180",
+  "notice": "1180",
+  "volume": "Jerusalem_V4",
+  "title": "ԾԱՌ ԿԵՆԱՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1180",
+    "no_notice": "1",
+    "titre": "ԾԱՌ ԿԵՆԱՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "100",
+    "dimensions": "19x12",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 17 տող։ Նոտր շեղագիր",
+    "details_ecriture": "գըրեթէ սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— Գիրք, որ կոչի, Ծառ Կենաց, որ պարունակէ զզօրութիւն եւ զգերազանցութիւն սրբազնագունեղ Սրբոյ Պատարագին։ Արտահանեցեալ ի գրեանց լատինացւոց եւ շարադրեցեալ ի հայկական բարբառ, ի Պետրոսէ Վարդապետէ Թիֆլիզեցւոյ։ Ի Վենէտիկ քաղաքի, յամի Տեառն 1727։\nԷջ 1.— Առաջաբանութիւն հեղինակի գրքոյս առ ընդերցողս.— Սրբազան Հարսն, Երգ Երգոցին ժամանեալ տենջման սրտի իւրոյ, սկսաւ ուրանալ եւ ասել...։\nԷջ 7.— Խոկումն առաջներրորդ վասն աւուր կիրակէի։ Յաղագս առաջնոյ գերազանցութեան Պատարագին։ Յաղագս հարկաւորութեանն Պատարագին միոյ Աստուածայնոյ.— Ամենայն ճշմարիտ կրօն պարտ է ունիլ զպատարագ իմն...։\nԷջ 71.— Խոկումն եօթներրորդ վասն շաբաթու աւուրն.— Յաղագս թէ Պատարագըն է նոյն Սրբազնագործութիւն որ մատուցաւ ի վերայ խաչին։\nԷջ 92.— Տաղ ասելի ի պատարագի ի վերայ մարմնոյ եւ արեանն Քրիստոսի փրկ-[չ]ին մերոյ.— Պանծա սիրտ իմ միշտ գովելով զխորհուրդ մարմնոյ յիսուսեան...։ Պետրոս։\nԷջ 96.— Ի վերա ամենասուրբ Հաղորդութեան եւ ամենասուրբ Երրորդութեան դիտելիք ներին։\nԷջ 99–100, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "305.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1180-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3488",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3488",
+  "notice": "3488",
+  "volume": "Jerusalem_V10",
+  "title": "ԱՒԵՏԱՐԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3488",
+    "no_notice": "289",
+    "titre": "ԱՒԵՏԱՐԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "612",
+    "dimensions": "11x8x5",
+    "mise_en_page": "սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 19 տող",
+    "details_ecriture": "մանր, վարժ գրչէ։ Կարմրաներկ զարդագիր եւ լուսանցազարդ հատուածներու սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ հնամաշ",
+    "etat_conservation": "համարեա բաւարար. վնասուած հնութենէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "ոչ նուրբ, Մատթէոս էջ 16, Մարկոս 186, Ղուկաս 300, Յովհաննէս եւ Պրոխորոն 484",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը եւ վերջը երկուական թերթ, մասն երկաթագիր աւետարանի ; ԿՆԻՔ: երկաթագիր՝ Ռուբէն Եպիսկոպոս Մանասեան, էջ 1, 299",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդ իւր սարօք, էջ 17, 187, 301, 485, մասամբ վնասուած են",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 2-3.— Թուղթ Եւսեբիոսի։ Էջ 4-10.— Կանոնի տախտակներ գունաւոր շրջանակներով։ Էջ 11-12.— Ցանկ թերի. ԻԱ - ԿԸ գլուխներ։ Էջ 13.— Համաձայնութիւն նախասացեալ գրոցս։ Էջ 14.— Նախադրութիւն Մատթէոսի Աւետարանին։ Էջ 17.— Աւետարան Ըստ Մատթէոսի.— Գիրք Ծընընդեան Յի. Քի. ...։ Էջ 187.— Աւետարան Ըստ Մարկոսի.— Սկիզբն Աւետարանի Յի. Քի. ...։ Էջ 291ա.— Յարուցեալ Յս. առաւաւտուն...։ Էջ 294.— Գլուխք Ղուկասու Աւետարանին։ Էջ 301.— Աւետարանս Ըստ Ղուկասու.— Քանզի բազումք յաւժարեցին...։ Էջ 342-343ի միջեւ ինկած մէկ թերթ Էջ 479.— Գլուխք Յովհաննու Աւետարանին։ Էջ 483, դատարկ։ Էջ 485.— Աւետարանս Ըստ Յովհաննու.— Ի սկզբանէ էր Բանն...։ Էջ 500-501ի միջեւ ինկած մէկ թերթ։ Էջ 610բ-611 դատարկ։ Էջ 612.— Գրչափորձ եւայլն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "476.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3488-refine.json",
+    "pipeline_version": "v1"
+  }
+}

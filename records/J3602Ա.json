@@ -1,0 +1,68 @@
+{
+  "id": "J3602Ա",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3602Ա",
+  "notice": "3602Ա",
+  "volume": "Jerusalem_V11",
+  "title": "ՑՈՒՑԱԿ ՀԱՅ. ՁԵՌԱԳՐԱՑ Ս. ՅԱԿՈԲԵԱՆՑ",
+  "date": {
+    "from": "1897",
+    "to": "1898",
+    "display": null
+  },
+  "fields": {
+    "numero": "3602Ա",
+    "no_notice": null,
+    "titre": "ՑՈՒՑԱԿ ՀԱՅ. ՁԵՌԱԳՐԱՑ Ս. ՅԱԿՈԲԵԱՆՑ",
+    "date_debut": "1897",
+    "date_fin": "1898",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "1-785",
+    "dimensions": "20.5x15x4",
+    "mise_en_page": "առ հասարակ սեւորակ մելանով, միասիւն, 21 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "վարժ։ Լաթակազմ խաւաքարտեայ, կը պարունակէ Ա-Ժ տետրակները",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": "ընդհանրապէս խմբագրողը. տեղտեղ կան երկար ՅԻՇԱՏԱԿԱՐԱՆ ընդօրինակուած ուրիշներու ձեռքով",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ծանօթ.— Իր առաջին աշխատասիրութեան մէջ Ս. Եպս. Խապայեան Ձեռագիրներու Ցուցակը կազմած է խմբագրելով գրքերու տեսակներուն համաձայն.— Հմմտ. Սիոն, 1952, էջ 251։ Էջ 1.— Աւետարան, թիւ 1=1941, թկ. ՋՁԳ =1264։ Դիտ.— Թուականը սխալ է. տես Մայր Ցուցակ Ձեռ. Ս. Յակոբեանց, Զ. Հատոր, 1972, էջ 481, 485։ Էջ 10.— Աւետարան, թիւ 2=1956, թկ. ՋՁԴ=1265, Դար ԺԳ։ Էջ 18.— Աւետարան, թիւ 8=1858, թկ. ՋՁԵ=1266, Դար ԺԳ։ Դիտ.— Թիւ 1858 սխալ է, պիտի ըլլար 1958։ Էջ 69.— Սկիզբն Բ. տետրակի.— Նոր Կտակարան եւայլն, թիւ 7=1946, թկ. ՋԾԹ=1810, Դար ԺԴ։ Էջ 127 կրկնուած է։ Էջ 148.— Սկիզբն Գ. տետրակի։ Էջ 228.— Սկիզբն Դ. տետրակի։ Տետր Ե. առաջին կողքին ներսի կողմը. \" 1898, յնվր. 24\"։ Էջ 308.— Աւետարան, թիւ 42=2574. թկ. ՌՃԲ=1653, Դար ԺԷ։ Տետր Զ. առաջին կողքին ներսի կողմը. \" 1898, փետ. 4\"։ Էջ 388.— (62) 2626, Աւետարան, ՌՃԵ =1656։ Տետր Է. առաջին կողքին ներսի կողմը. \" 1898, փետ. 4\"։ Էջ 466.— (77) 2617, Աւետարան պատկերազարդ, ՌՁԶ=1637, Դար ԺԷ։ Տետր Ը. առաջին կողքին ներսի կողմը. \" Մարտ 7\"։ Էջ 546.— (99) 2848. Աւետարան պատկերազարդ, ՌՃԸ=1659, Դար ԺԷ։ Տետր Թ. առաջին կողքին ներսի կողմը. \" Մարտ 30\"։ Տետր Ժ. առաջին կողքին ներսի կողմը. \" Ապրիլ 14\"։ Էջ 784.— 2641, Աւետարան, ՌՃԼԶ= 1687, Դար ԺԷ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "022.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3602Ա-refine.json",
+    "pipeline_version": "v1"
+  }
+}

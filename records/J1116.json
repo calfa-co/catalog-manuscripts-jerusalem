@@ -1,0 +1,68 @@
+{
+  "id": "J1116",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1116",
+  "notice": "1116",
+  "volume": "Jerusalem_V4",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԵՓԵՍԱՑԻՈՑ ԹՂԹՈՅՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1116",
+    "no_notice": "1",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԵՓԵՍԱՑԻՈՑ ԹՂԹՈՅՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԱ+439",
+    "dimensions": "19.5x13x2.5",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 29 տող։ Նոտր շեղագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Հեղինակը",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Ը, դատարկ։ Էջ Թ, տարբեր գրչով. — Մեկնութիւն Թղթոյն Սրբոյն Պօղոսի առ Եփեսացիս, զոր յօրինեաց Աղամալեան Բերդումեան Նախիջեւանցի առաքելավաստակ Պետրոս Արքեպս. ի միաբանութենէ Սրբոյ Աթոռոյն Էջմիածնի։ Էջ Ժ-ԺԱ, դատարկ։ Էջ 1. — Յառաջաբանութիւն առ հեղամիտ ընթերցօղս վասն բոլորի գրքոյս. — Յատկութիւն է բնութեամբ բարւոյն ի բարութենէ իւրմէ հաղորդել այլոց...։ Էջ 7. — Աղերս առ ամենասուրբ Երրորդութիւնն վասն առաջիկայ գործոյս. — Պատճառ բնաւից բոլոր գոյից...։ — Պետրոսի է։ Էջ 8. — Մեկնութիւն Թղթոյն Պօղոսի որ առ Եփեսացիս։ Գլուխ Առաջներորդ։ Էջ 105. — Գլուխ Երկրորդ. — Յայսմիկ գլխոջ բացատրէ նախ զանհնարին մոլորութիւնն մարդկայնոյս բնութեան զհետ մեղաց...։ Էջ 213. — Գլուխ 3։ Էջ 258. — Գլուխ Դ. — Յայսմիկ գըլխոջ նախ ողբանօք յորդորէ զհաւատացեալսն...։ Էջ 324. — Գլուխ 5։ Էջ 374. — Գլուխ Զ. — Յայսմիկ գըլխոջ զանազան խրատաբանութեամբ յորդորէ զորդիս...։ Էջ 413. — Եղեւ վախճան Մեկնութեան Թղթոյն Պօղոսի, որ առ Եփեսացիս, ի փառըս մեծագունին Աստուծոյ, եւ ի պատիւ Աստուածածին Կուսին Մարիամու։ Վերջ։ Վասն ժողովոց, թէ երբ եղեն։ Էջ 414-416, դատարկ։ Էջ 417, տարբեր գրով. — Ոտանաւորս որ է աստ դրած, ի տէր Կարապետէս եղեւ շարադրած։ Կամ ես յօժար միշտ ընթերցման, ըղձիւ մնամ պատրաստական, զի բառ ոչ ինչ է խրթնական, դժուարիմաց եւ նրբական...։ — Կարապետ։ Էջ 418-439, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "204.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1116-refine.json",
+    "pipeline_version": "v1"
+  }
+}

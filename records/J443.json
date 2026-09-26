@@ -1,0 +1,68 @@
+{
+  "id": "J443",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "443",
+  "notice": "443",
+  "volume": "Jerusalem_V2",
+  "title": "ԱՍՏՈՒԱԾԱՆՄԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": "1823",
+    "to": "1823",
+    "display": null
+  },
+  "fields": {
+    "numero": "443",
+    "no_notice": "Յ",
+    "titre": "ԱՍՏՈՒԱԾԱՆՄԱՆՈՒԹԻՒՆ",
+    "date_debut": "1823",
+    "date_fin": "1823",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "156",
+    "dimensions": "23 X 20 X 1",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 28 տող։ Նոտր շեղագիր։ Կարմրագիծ մեծ տառեր՝ իւրաքանչիւր գլուխի սկիզբը",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": "Խաչատուր Րաբունի, Մ. Ս. Յ.",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— Էջ 1.— Գիրք կոչեցեալ Աստուածանմանութիւն. զոր արարեալ է երանաշնորհ եւ մեծիմաստ րաբունապետին հայոց եւ բնիկ միաբանին Սրբոյ Տիեզերական Մայր Աթոռոյն Էջմիածնի՝ Աղամալեան Նախիջեւանցի Պետրոս Վարդապետին երբեմն Փերթոմեան կոչեցելոյ։ Ի փառս Այ. եւ ի շահ օգտի հայկազուն բանասիրաց եկեղեցականաց եւ քաղաքայնոց անձին բարուց կրթականութեան։ Յընտիր օրինակէ գաղափարեալ ի վայելս Սրբոյ Եղէմի. բնիկ միաբան եւ Կարնոյ մայրաքաղաքի ծայրագոյն նուիրակ Տեառն Խաչատուր խոնարհազարդ մեծի րաբունւոյ։ Գրչութեամբ Շէքէրճեան Գրիգոր Վարժապետի Կարնեցւոյ ձեռնասուն աշակերտաց։ Ի 1823 ամի Տն., ի յՕգոս. Ժ. ի մայր ուսումնարանս Կարնոյ։ Էջ 5ա.— Թէ որքան մեծ իցէ ճանաչել զԱծ.։ — Ճանաչումն Այ. այնքան է մեծ որքան է ինքն...։ — Հմմտ. Ա. Հատոր, թիւ 177։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "424.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "443-refine.json",
+    "pipeline_version": "v1"
+  }
+}

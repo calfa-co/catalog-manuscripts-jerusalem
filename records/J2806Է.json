@@ -1,0 +1,68 @@
+{
+  "id": "J2806Է",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2806Է",
+  "notice": "2806Է",
+  "volume": "Jerusalem_V9",
+  "title": "Օ Ր Ա Գ Ր Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1874",
+    "to": "1874",
+    "display": null
+  },
+  "fields": {
+    "numero": "2806Է",
+    "no_notice": null,
+    "titre": "Օ Ր Ա Գ Ր Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": "1874",
+    "date_fin": "1874",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "272",
+    "dimensions": "20.5 X 15 X 1",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "չունի",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ մեծագոյն մասամբ։ Էջ 3.— 1874, յունվար 1։ Էջ 8.— Սբ. Ծնունդ, յունվար 6, Կիր.։ Էջ 31.— Փետրվար 1։ Էջ 45.— Մարտ 1, ուր.։ Էջ 57.— Ծաղկազարդ, մարտ 24, Կիր.։ Էջ 63.— Ապրիլ 1, Բշ.։ Էջ 81.— Մայիս 1, Դշ.։ Էջ 102.— Յունիս 1, Շբ.։ Էջ 119.— Յուլիս 1, Բշ.։ Էջ 124.— Վարդավառ։ Յուլիս 7, Կիր.։ Էջ 147.— Օգոստոս 1, Եշ.։ Էջ 156.— Վերափոխում։ Օգոստոս 18, Կիր.։ Էջ 172.— Սեպտեմբեր 1, Կիր.։ Էջ 181.— Սբ. Խաչ։ Սեպտ. 15, Կիր.։ Էջ 192.— Վարագայ Սբ. Խաչ։ Սեպտ. 9, Կիր.։ Էջ 194.— Հոկտեմբեր 1, Գշ.։ Էջ 210.— Գիւտ Խաչ։ Հոկտ. 27, Կիր.։ Էջ 213.— Նոյեմբեր 1, Ուր.։ Էջ 268.— Դեկտեմբեր 31, Գշ.։ Էջ 269-272, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "033.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2806Է-refine.json",
+    "pipeline_version": "v1"
+  }
+}

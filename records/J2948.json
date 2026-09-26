@@ -1,0 +1,72 @@
+{
+  "id": "J2948",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2948",
+  "notice": "2948",
+  "volume": "Jerusalem_V9",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր (ՏԱՐԵԿԱՆ)",
+  "date": {
+    "from": "1852",
+    "to": "1852",
+    "display": null
+  },
+  "fields": {
+    "numero": "2948",
+    "no_notice": "9",
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր (ՏԱՐԵԿԱՆ)",
+    "date_debut": "1852",
+    "date_fin": "1852",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ժ+490",
+    "dimensions": "28×18×3",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 30 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "նոտրակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խասաքարտեայ ոսկեդրուագ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Ստեփանոս Վրդ. Ադրիանուպոլսեցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Զ, դատարկ։ Էջ Է.— Ճակատ.— Տարեկան Քարոզ, հաւաքեալ ի Սբ. Գրոց եւ ի մատենից սուրբ եւ իմաստուն վարդապետաց։ Հատոր Առաջին։ Աշխատասիրութեամբ Պոլսեցի Տ. Կարապետի Արքեպիսկոպոսի եւ Պատրիարքի Կոստանդնուպոլսոյ, յամի Տեառն 1834, եւ մերոյս ՌՄՁԳ։ Ի Հայրապետութեան Մայր Աթոռոյն մերոյ Սրբոյ Էջմիածնի՝ Տ. եւ Տ. Ներսեսի սրբազնակատար Կաթողիկոսի ամ. Հայոց։ Ի պատրիարքութեան Սրբոյ Աթոռոյն Երուսաղէմի՝ Տ. Յովհաննու աստուածընտիր Արքեպիսկոպոսի։ Եւ ի պատրիարքութեան Կոստանդնուպոլսոյ Տ. Յակովբայ երջանկազարդ Արքեպիսկոպոսի։\nՎերստին օրինակեալ յընտիր գաղափարէ ընդ ձեռն Սրբոյ Երուսաղէմի միաբան Ստեփաննոս վարդապետէ Անդրիանուպոլսեցւոյ, յամի Տեառն 1852, յԱռաքելական մեծի գահին Սրբոց Յակովբեանց, որ յԵրուսաղէմ։ Էջ Ը–Ժ, դատարկ։ Էջ 1.— Առաջաբան.— Եկեղեցի բանական՝ գեղեցիկ իմն յարմարութեամբ ի դըրախտ օրինակի...։ Էջ 3, դատարկ։ Էջ 4.— Եւ դու քարոզեա զբանն...։ Էջ 4–5ի միջեւ տարբեր թուղթի վրայ սեւագիծ նկար, «Յակոբ Աստուածաբան»։ Էջ 5.— Քարոզ Ա։ Կաղանդ։ Խոկումն Մահուան։\nէջ 200.— Քարոզ ԽԶ։ Ծաղկազարդ։ Գալուստ Տեառն յԵրուսաղէմ։ էջ 404.— Քարոզ ՂԷ։ Տօն Սրբոց Հրեշտակաց։ էջ 474.— Քարոզ ՃԺԵ։ Կիւրակէ պատահեալ ի մէջ Աւագ Տօնից։ էջ 479.— Ցանկ Քարոզից.— Ա-ՃԺԷ Գըլուխներ։ էջ 483–490, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "164.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "165.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2948-refine.json",
+    "pipeline_version": "v1"
+  }
+}

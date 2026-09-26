@@ -1,0 +1,72 @@
+{
+  "id": "J38",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "38",
+  "notice": "38",
+  "volume": "Jerusalem_V1",
+  "title": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "38",
+    "no_notice": "2",
+    "titre": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ+720",
+    "dimensions": "36 X 22 X 5",
+    "mise_en_page": "սեւ մելանով, երկսիւն, 46–52 տող",
+    "details_ecriture": "կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: գրեթէ սովորական։ Մեծ սկզբնատառերուն տեղերը բաց մնացած ընդհանրապէս",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "բաւարար, լուսանցքներէն ցեցակեր",
+    "copiste": null,
+    "possesseur": "և նուիրող՝ Վանեցի Թէոդորոս Պատրիարք",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ ա–բ, դատարկ։ Էջ Գ.— Ճակատ.— Գիրք որ կոչի Բանք Ոսկիականք և գեղեցկագոյնք զանազան Սբ. Գրոց վարդապետութեամբն։ Ի բո-"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "170.jpg"
+    },
+    {
+      "volume": "Jerusalem_V1",
+      "file": "171.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "38-refine.json",
+    "pipeline_version": "v1"
+  }
+}

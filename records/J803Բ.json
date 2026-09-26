@@ -1,0 +1,68 @@
+{
+  "id": "J803Բ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "803Բ",
+  "notice": "803Բ",
+  "volume": "Jerusalem_V3",
+  "title": "ԹԱՆԳԱՐԱՆ ԽՐԱՏՈՒ.— Բ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "803Բ",
+    "no_notice": "1",
+    "titre": "ԹԱՆԳԱՐԱՆ ԽՐԱՏՈՒ.— Բ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "226",
+    "dimensions": "21x15x2",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 23 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "անարուեստ",
+    "etat_conservation": "բաւարար",
+    "copiste": "Երեմիա Աբեղայ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 3.— Պրակ ԻԲ.— Այսոքիկ են Ա. օրինակք յորմէ տպեցան։ Զարութիւն.— Թեթեւ բեռն է երկրի ծանրութիւն իւր զոր կրէ, քան զայր չարագործ։ Էջ 224.— ԺԶ.— Որ զինքն ոչ կարէ կառավարել յորում վիճակի եւ յորպիսի պարագայս եւ իցէ՝ է ծածուկ խելագար. քանզի նա է այր խոհեմ եւ մարդ կատարոր յամ. դարձուածս եւ փոփոխութիւնս այսր կենցաղոյս՝ հնարս գտանէ ի կառավարութիւն անձին իւրոյ, եւ ոչ յուսահատեալ լքանի եւ վհատի։ Էջ 225.— Ոչ սակաւ ի սոսին եղէ աշխատ ի գտանել զյարմար վկայութիւնսն եւ յօրինակել ի քանի նուագս զսոսին։ Ն. Ծ. Եր. ԱԲ.։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "282.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "803Բ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

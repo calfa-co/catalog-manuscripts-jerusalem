@@ -1,0 +1,68 @@
+{
+  "id": "J3605",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3605",
+  "notice": "3605",
+  "volume": "Jerusalem_V11",
+  "title": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": "1902",
+    "to": "1902",
+    "display": null
+  },
+  "fields": {
+    "numero": "3605",
+    "no_notice": "7",
+    "titre": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+    "date_debut": "1902",
+    "date_fin": "1902",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "21x18.5x8: Էջք ԺԱ+652: Հանգամանք լաւ: Թուղթ հասարակ: Գրիչ՝ Մովսէս Բութլուեան, Այնթապցի: Գրութիւն սեւորակ մելանով, միասիւն, 17 տող՝ յաճախ նուազ, սեւագիծ շրջանակներու մէջ: Շեղագիր: Ուղղագրութիւն տկար: Կազմ կիսակաշի խաւաքարտեայ նորադրոշմ: Կնիք, \"Ուսումնական Խորհուրդ Երուսաղէմի\", էջ Է, ԺԱ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Դ, դատարկ: Նոյնպէս էջ Զ, Ը–Ժ: Էջ Է.— Թարգմանեաց ի գրաբարէ յաշխար[հ]աբար Զմիւռնիացի Յովհաննէս պերճիմաստ վարժապետ Միրզայ Վանանդեցի, գըծագրեալ յԱյնթապցի Մովսէս Բութլուեան, որ է միաբան առաքելական Ս. Գահիս Երուսաղէմի Սրբոց Յակովբ[ե]անց, սկսեալ յունվար ամսոյ 19, աւարտեցաւ փետրվար ամսոյ 16, յամի Տեառն 1902: Էջ ԺԱ.— Նախակրթութիւն Ճարտասանութեան մասանց: Հ.— Զի՞նչ է Ճարտասանութիւն: Պ.— Ճարտասանութիւնն է՝ որ կը սորվեցնէ ճարտար խօսելու ձեւերը ու հանգամանքները, եւ ով որ այս ձեւերը ու հանգամանքները ճարտարութեամբ գործածէ ճարտասան կամ բանիբուն կ'սուի...: Էջ 1.— Հ.— Քանի՞ի կը բաժանի ճարտասանութիւնը: Էջ 16.— Յաղագս Վիպասանութեան: Էջ 81.— Յաղագս Առասպելաց: Էջ 112էն յետոյ սխալմամբ դրած է 114:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "045.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3605-refine.json",
+    "pipeline_version": "v1"
+  }
+}

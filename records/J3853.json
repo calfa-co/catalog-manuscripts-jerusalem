@@ -1,0 +1,68 @@
+{
+  "id": "J3853",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3853",
+  "notice": "3853",
+  "volume": "Jerusalem_V11",
+  "title": "ՂՈՒՐԱՆԻ ՄԵԿՆՈՒԹԻՒՆ",
+  "date": {
+    "from": "1261",
+    "to": "1261",
+    "display": null
+  },
+  "fields": {
+    "numero": "3853",
+    "no_notice": null,
+    "titre": "ՂՈՒՐԱՆԻ ՄԵԿՆՈՒԹԻՒՆ",
+    "date_debut": "1261",
+    "date_fin": "1261",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "364",
+    "dimensions": "21.5x15x2",
+    "mise_en_page": "սեւ մելանով, միասիւն, 17 տող, շատ բառերու վերեւ կարմիր գիծ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ փայլուն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ դրոշմազարդ",
+    "etat_conservation": "համարեա բաւարար, վերջը թերի",
+    "copiste": "Եագուպ իպն Օսման իպն Մահմուտ իպն Մուհամմէտ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "էջեր, 1, 250, 251։ Յաւելուածական քիչ մը փոքր մէկ թերթ՝ փակցուած էջ 84-85ի միջեւ, մէկ երեսը դատարկ",
+    "colophon": "1980 Էջ 364, ստորին լուսանցքին.- Այս Ձեռագիրս կը յանձնեմ Սրբոց Յակոբեանց Ձեռագրատան՝ Տեսուչ Գերշ. Տ. Նորայր Ս. Արք. Պօղարեանի միջոցաւ.- Յուլիս 21, 1980, Երուսաղէմ.- Ժիրայր Վրդ. Բաշճեան",
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "316.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3853-refine.json",
+    "pipeline_version": "v1"
+  }
+}

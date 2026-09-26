@@ -1,0 +1,72 @@
+{
+  "id": "J1115",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1115",
+  "notice": "1115",
+  "volume": "Jerusalem_V4",
+  "title": "Մ Ա Ր Գ Ա Ր Է Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1115",
+    "no_notice": "2",
+    "titre": "Մ Ա Ր Գ Ա Ր Է Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "72",
+    "dimensions": "20x13",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 20 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապոյտ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ կարմրակաշի ոսկեդրուագ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ . — Էջ 1 Մարգարէութիւն, զոր ետես երանելի եւ սրբազան քահանայն Հերոնիմոս Ագաթանգեղոս, որ է ի կարգէն սրբոյ մեծին Բարսղի եղեալ ի Մէսէքիս քաղաքն Սիկիլիա Կղզւոյն, յամի 1279։ Իսկ զկնի յամի Տեառն 1555 ի լոյս ածաւ յիտալական բարբառ ի հայր հնագոյն տէր Յակոբէ, որ էր ի կարգէն սրբոյն Բենետիկտոսի։ Ապա թարգմանեալ յիտալական բարբառոյ ի յոյն, ի սրբակրօն վանահօրէ ի տէր Պօլինտոսէ։ Եւ զկնի ժամանակաց թարգմանի ի յունականէ ի հայ ի յետին ծառայէ յումեմնէ, 1816։\nԷջ 3 . — Ներածութիւն . — Ես ծառայս Յիսուսի Քրիստոսի եւ ճշմարտին Աստուծոյ . . . ։ — Հմմտ. աստ, թիւ 1028, որուն ուղղագրութիւնը աւելի տկար է։ Էջ 52 . — (Գլուխ Թ) . — Լուայ ձայն որ ասէր այսպէս . Ռուսիա, զարթիցես արդ ի քնոյդ . . . ։ Էջ 62 . — Գլուխ ԺԱ . — Ի կողմանս հիւսիսոյ ի վերայ բարձրագոյն բլրոց ել եւ էին անդ երեք հրկիզութիւնք . . . ։ Էջ 69 . — Եւ զայս յայլ ուստեք հանեալ գրեցաք աստանօր։\nթագաւորութիւն առիւծուն, այսինքն Օսմանցւոց, վախճան ունիցի ի սահմանեալ ժամանակի, եւ ի մասունս լուծցի, որպէս ասէ աստուածայինն Եսայի ի տեսիլն Եդովմայեցւոց...։ էջ 70–72, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "203.JPG"
+    },
+    {
+      "volume": "Jerusalem_V4",
+      "file": "204.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1115-refine.json",
+    "pipeline_version": "v1"
+  }
+}

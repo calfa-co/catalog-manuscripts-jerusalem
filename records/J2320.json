@@ -1,0 +1,68 @@
+{
+  "id": "J2320",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2320",
+  "notice": "2320",
+  "volume": "Jerusalem_V7",
+  "title": "ՏՐԱՄԱԲԱՆՈՒԹԻՒՆ ԿՈՎՏՆՈՅ (ՀԱՄԱՌՕՏԵԱԼ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2320",
+    "no_notice": "2",
+    "titre": "ՏՐԱՄԱԲԱՆՈՒԹԻՒՆ ԿՈՎՏՆՈՅ (ՀԱՄԱՌՕՏԵԱԼ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "170",
+    "dimensions": "18x12x2",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւորակ մելանով, միասիւն, 23 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 — Հ. — [Զ]ի՞նչ է բանն, եւ զի՞նչ է տրամաբանութիւնն։ Պ. — Բանն է յաւժգնութիւն իմն մակաբերելոյ զմինն ի միւսոյն։ Իսկ Տրամաբանութիւնն է մակացութիւն, որով կարեմք զմինն ի միւսոյն մակաբերել. — Հմմտ. թ. 1226, Դ. Հատոր, էջ 367։ Էջ 167 — Խնդիր Եօթներորդ։ Յաղագս բախտի դիպուածոյ եւ նախակարգութեան։ Էջ 168 — Պրակ Երկրորդ։ Յաղագս նախակարգութեան։ Էջ 170, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "466.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2320-refine.json",
+    "pipeline_version": "v1"
+  }
+}

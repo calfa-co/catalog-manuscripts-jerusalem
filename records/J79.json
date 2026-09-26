@@ -1,0 +1,72 @@
+{
+  "id": "J79",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "79",
+  "notice": "79",
+  "volume": "Jerusalem_V1",
+  "title": "ՎԱՐՔ ՈՍԿԵԲԵՐԱՆԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "79",
+    "no_notice": "1",
+    "titre": "ՎԱՐՔ ՈՍԿԵԲԵՐԱՆԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "192",
+    "dimensions": "33 x 22 x 1",
+    "mise_en_page": "սեւ մելանով, միասիւն, 39 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բարակ փայլուն",
+    "nb_lignes": null,
+    "reliure": "շագանակագոյն կաշի",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1. — Ցանկ գրոյս։ — Ա. — Յաղագս նախերգանի գրոյս։ — Կ. — Յաղագս յիշատակարանի գրոյս և թարգմանութեան սորին։ էջ 3-4, դատարկ։ էջ 5. — Պատմութիւն Սրբոյն Յովհաննու Ոսկեբերանի Կոստանդինուպօլսի եպիսկոպոսի, և տիեզերաց լուսաւորչի ծննդեանն և սննդեանն և գեղեցիկ քաղաքավարութեանն։ Յաղագս նախերգանի գրոյս։ Գլուխ Ա. — [Ա]մենեքեան որք ի հնումն գրողք եղեն պատմութեանց, ոմանք ի նոցանէ ի նախ եղելոց իրաց սկիզբն արարեալ ետուն մեզ զգլուխ գրոցն...։ էջ 100. — Յաղագս զրպարտութեան Իսիդորոսի քահանային և այլոցն զոր արար Թէոփիլոս։ Գլուխ ԼԱ։ — [Յ]այնժամ Ակակիոս եպս. Բերիա քաղաքին...։ էջ 187-192, դատարկ։\nՅիշատակարան Թարգմանութեան. — 1100 էջ 185. — Յաղագս յիշատակարանի գրոյս և թարգմանութեան սորին։ Գլուխ 4։ [Յ]ամի Ռ երորդի, հարիւրորդի, Այ. մերոյ և Տն. Յի. Քի. գալստեանն, և Ե հարիւրորդի, յիսներորդի ի մերում թուականութեանս, և յեթն և ի տասներորդ ամի թագաւորութեանն Կոմնոնոսի, Ալէքսի բըռնակալի, ես Գրիգորիս որդի Գրիգորի Մագիստրոսի Հայկազնոյ, ըստ աշխարհի Պարթեւ, ըստ ժառանգութեան Պահլաւիկ, ըստ գեղմոտիրն լինելոյ յազգէ Արշակունի, որ և ողորմութեամբն Այ. կոչեցայ ի դիտապետութիւն Աղուանացանս, ի բնիկ աթոռ հայրապետութեան նախնեացն իմոց։ Եւ բազում նեղութիւն կրեալ մեր յայլասեռ ազգաց հեթանոսաց և բնակաց։ Եւ ապա ի յառաջա-"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "286.jpg"
+    },
+    {
+      "volume": "Jerusalem_V1",
+      "file": "287.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "79-refine.json",
+    "pipeline_version": "v1"
+  }
+}

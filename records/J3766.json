@@ -1,0 +1,68 @@
+{
+  "id": "J3766",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3766",
+  "notice": "3766",
+  "volume": "Jerusalem_V11",
+  "title": "ՈՍԿԵՄԱՏԵԱՆ ՄԱՏԵՆԱԴԱՐԱՆԻ",
+  "date": {
+    "from": "1945",
+    "to": "1948",
+    "display": null
+  },
+  "fields": {
+    "numero": "3766",
+    "no_notice": null,
+    "titre": "ՈՍԿԵՄԱՏԵԱՆ ՄԱՏԵՆԱԴԱՐԱՆԻ",
+    "date_debut": "1945",
+    "date_fin": "1948",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "184",
+    "dimensions": "19x14.5x1",
+    "mise_en_page": "հայերէն, անգլերէն եւայլն",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "ծաղկազարդ լաթ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "այլազան եւ այլալեզու",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Այցելուներու ստորագրութիւններ, ընդհանրապէս օտար, շատեր հանդերձ հասցէներով։ Էջ 68-184 դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "222.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3766-refine.json",
+    "pipeline_version": "v1"
+  }
+}

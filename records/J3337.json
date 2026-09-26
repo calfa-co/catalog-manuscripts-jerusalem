@@ -1,0 +1,68 @@
+{
+  "id": "J3337",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3337",
+  "notice": "3337",
+  "volume": "Jerusalem_V10",
+  "title": "Մ Ա Շ Տ Ո Ց",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3337",
+    "no_notice": "129",
+    "titre": "Մ Ա Շ Տ Ո Ց",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "222",
+    "dimensions": "20.5X13.5X3.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 18-20 տող",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ հնամաշ, կը պակսի կռնակի կաշին",
+    "etat_conservation": "համարեա բաւարար. վերջը թերի",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "քառանկիւն, «Մատենադարան Ս. Նշան Վանուց Սեբաստիոյ, թիւ 74», էջ 3",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, դատարկ։ Էջ 2.— Ցանկ։ Ա-ԺԶ Գլուխներ։ Ա.— Էջ 3.— Կանոն Խաչ Աւրհնելոյն։ Բ.— Էջ 51.— Կանոն Ջուր Աւրհնելոյ։ Գ.— Էջ 72.— Կանոն Մկրտութիւն Առնելու։ Դ.— Էջ 87.— Կանոն Պսակ Աւրհնելոյ։ Էջ 94-95, պարապ մնացած։ Նոյնպէս 98-99, 102-103։ Ե.— Էջ 104.— Կանոն Պսակ Վերացուցանելոյ։ Զ.— Էջ 109.— Կանոն Համաւրէն Ամ. ննջեցելոց։ Է.— Էջ 128.— Կանոն Այգոյն գան ի գերեզման եւ ասեն...։ Էջ 136.— Կանոն Եւթն աւուրն. երթան ի գերեզմանն եւ ասեն...։ Ը.— Էջ 139.— Կանոն Տղայաթաղ առնելոյ։ Թ.— Էջ 156.— Եւ ապայ Այգոյն երթան ի գերեզմանն եւ ասեն...։ Ժ.— Էջ 160.— Կանոն Հոգեհանգիստ առնելոյ։ ԺԱ.— Էջ 168.— Կանոն Աղ Աւրհնելոյ։ ԺԲ.— Էջ 169.— Աւրհնութիւն Հատի Պատարագի։ ԺԳ.— Էջ 173.— Կանոն Խաղող Աւրհնելոյ։ ԺԴ.— Էջ 177.— Կանոն Սկի եւ Մաղազ[մ]այ Աւրհնելոյ։ ԺԵ.— Էջ 177.— Կանովն Ժամահար Աւրհնելոյ։ Էջ 180.— Կանոն ապաշխարող առնելոյ։ ԺԶ.— Էջ 197.— Կանոն Հինգշաբաթին զապաշխարողսն արձակելոյ։ Էջ 218-219ի միջեւ թերթ ինկած։ Էջ 219.— Կարողութիւն մարմնոյս կորեաւ...։ Էջ 220.— Տաղ ողբ վասն Ղարիպին.— Բայց ղարիպին կեանքն է լալի ողբերգական...։ Էջ 222.— ...Ղարիպն անկեալ եւ թաւալէ ողորմայգին...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "208.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3337-refine.json",
+    "pipeline_version": "v1"
+  }
+}

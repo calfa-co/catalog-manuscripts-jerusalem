@@ -1,0 +1,72 @@
+{
+  "id": "J2007",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2007",
+  "notice": "2007",
+  "volume": "Jerusalem_V7",
+  "title": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2007",
+    "no_notice": "28",
+    "titre": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Գ + 976",
+    "dimensions": "20.5 X 15 X 6.5",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 30 տող։ Նոտր շեղագիր, տարբեր գրիչներէ",
+    "details_ecriture": "չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, կրկնատեսակ",
+    "nb_lignes": null,
+    "reliure": "սպիտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "ութանկիւն փակագիր, «Պետրոս Վարդապետ, 1740», էջ 1",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "ՆԿԱՐԱԳՐՈՒԹԻՒՆ. — Էջ Ա—Բ, դատարկ։ Էջ Գ. — Գիրք որ կոչի (Բանք Ոսկիականք) եւ գեղեցկագոյնք զանազան Սբ. Գրոց վարդապետութեամբն արարեալ եւ ճոխացուցեալ, ի բոլոր ժամանակս տարւոյն, շարադրեալ եւ արարեալ ի գերազանց սրբազան աստուածաբանութեան վարդապետէ, եղբայր Յակոբէ Վոռաճիոյ կարգին քարոզողաց, յումեմնէ եպիսկոպոսէ Եանվէնսիոյ երջանկապէս սկսանին : Էջ 1 — Մեկնի Յառաջաբանութիւն Առաջին Կիւրակէի Գալստեան Տեառն : Էջ 968 — Բան Երրորդ — Որպէս ի յաշխարհի ոչինչ յագումն, ի դժոխս մշտնջենաւոր սով, եւ ի յերկինս լինի լի յագումն ցուցանի : Էջ 972 — Վախճան Գրքոյս է այս : Էջ 973 — Ահա թագաւոր քո գայ քեզ . . . : Էջ 974—976, դատարկ :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "047.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "048.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2007-refine.json",
+    "pipeline_version": "v1"
+  }
+}

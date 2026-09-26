@@ -1,0 +1,68 @@
+{
+  "id": "J2477",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2477",
+  "notice": "2477",
+  "volume": "Jerusalem_V8",
+  "title": "Շ Ա Ր Ա Կ Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2477",
+    "no_notice": "132",
+    "titre": "Շ Ա Ր Ա Կ Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "718",
+    "dimensions": "10×7.5×7",
+    "mise_en_page": "խորագիրները, սկզբնատողերը և գլխատառերը կարմիր, մնացեալը սև մելանով, միասիւն, 15 տող",
+    "details_ecriture": "չափազանց առատ։ Կարմրագիծ զարդագիր և լուսանցազարդ կանոններու սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "ողբալի. ցեցահար չարաչար. նորոգութիւն կրած, դարձեալ կարօտ նորոգութեան",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "էջ 213 ; ԳՈՒՆԱՒՈՐ: խորանազարդ էջ 289",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։ Էջ 3.— Կանոն Ծնընդեան.— Երգեցէք որդիք Սիօնի...։ Էջ 53-56, տարբեր թուղթ և գրչութիւն։ Էջ 213.— Կանոն Ղազարու, Աւրհնութիւն։ Էջ 289.— Այսաւր յարեաւ...։ Էջ 361-4, տարբեր թուղթ և գրչութիւն։ Էջ 385.— Կանոն Գալըստեան Սբ. Հոգւոյն։ Էջ 510.— [Կ]անոն Վարագա Սբ. Խաչի, աւրհնութիւն։ Էջ 527-528, տարբեր թուղթ և գրչութիւն։ Նոյնպէս 597-598, 647-648։ Էջ 644.— Կանոն համաւրէն ամ. ննջեցելոցն։ Էջ 674.— Կանոն աւրհնութեան. . .։— Երգեսցուք երգ նոր...։ Էջ 717, նոտրագիր.— Յիշատակ է գիրքս ի դուռն Սբ. Յակոբայ որ յԵրուսաղէմ։ Էջ 718, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "165.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2477-refine.json",
+    "pipeline_version": "v1"
+  }
+}

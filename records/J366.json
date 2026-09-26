@@ -1,0 +1,72 @@
+{
+  "id": "J366",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "366",
+  "notice": "366",
+  "volume": "Jerusalem_V2",
+  "title": "Դ Ա Տ Ա Ս Տ Ա Ն Ա Գ Ի Ր Ք (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "366",
+    "no_notice": "5",
+    "titre": "Դ Ա Տ Ա Ս Տ Ա Ն Ա Գ Ի Ր Ք (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "246",
+    "dimensions": "24x17x2",
+    "mise_en_page": "խորագիրները կարմիր, մնացեալը մասամբ ժանգագոյն եւ մասամբ սեւ մելանով, միասիւն, 25 տող",
+    "details_ecriture": "կանոնաւոր, հնադրոշմ։ Կարմրագիծ լուսանցազարդք իւրաքանչիւր յօդուածի կից",
+    "types_cahiers": "Զ–ԺԸ",
+    "matiere_principale_id": null,
+    "details_matiere": "հնատիպ, բամպակեայ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ, խաւաքարտեայ",
+    "etat_conservation": "ոչ գոհացուցիչ, խոնաւութենէ վնասուած, սկիզբէն եւ վերջէն պակասաւոր, կարգ մը ԹԵՐԹՔ կարկտուած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Այս ձեռագրի մասին ՏԵՂԵԿՈՒԹԻՒՆՔ տրուած են Բաբգէն Եպիսկոպոսի կողմէ, Հանդէս Ամսօրեայի մէջ (1926, էջ 137–8)",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — ԺԴ. — Հայր եթէ ոչ կամիցի ունել եպիտրապէս? որդւոց իւրոց եւ մեռաւ ոք յորդւոցն, իշխանութիւն է մաւրն ժառանգել զնոսին։ Ծանօթ. — Էջ 1–4 սխալ տեղ դրուած են վերջին կազմին ժամանակ. շարունակութիւնը կը գտնուի հատորին վերջը, էջ 235–239. կանոնաթիւք ՁԵ։ Յաջորդ յօդուածով կը սկսի բուն Դատաստանագիրքը. նախորդները ամբողջ կորած են։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "289.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "290.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "366-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2559",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2559",
+  "notice": "2559",
+  "volume": "Jerusalem_V8",
+  "title": "ԱՍՏՈՒԱԾԱՇՈՒՆՉ, արծաթապատ, մագաղաթ. գրիչք՝",
+  "date": {
+    "from": "1622",
+    "to": "1632",
+    "display": null
+  },
+  "fields": {
+    "numero": "2559",
+    "no_notice": "4",
+    "titre": "ԱՍՏՈՒԱԾԱՇՈՒՆՉ, արծաթապատ, մագաղաթ. գրիչք՝",
+    "date_debut": "1622",
+    "date_fin": "1632",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "283.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2559-refine.json",
+    "pipeline_version": "v1"
+  }
+}

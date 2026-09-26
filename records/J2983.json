@@ -1,0 +1,72 @@
+{
+  "id": "J2983",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2983",
+  "notice": "2983",
+  "volume": "Jerusalem_V9",
+  "title": "ԱՐԿԱԾՔ ԳԱԳԿԱՅ ԱՐՔԱՅԻ",
+  "date": {
+    "from": "1870",
+    "to": "1870",
+    "display": null
+  },
+  "fields": {
+    "numero": "2983",
+    "no_notice": null,
+    "titre": "ԱՐԿԱԾՔ ԳԱԳԿԱՅ ԱՐՔԱՅԻ",
+    "date_debut": "1870",
+    "date_fin": "1870",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "128",
+    "dimensions": "22X18X1",
+    "mise_en_page": "սրճագոյն թանաքով, միասիւն, 20 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ։ Գըրիչ՝ Թէոդորոս Վրդ. Շիրակունի",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտ",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։ Էջ 3.— Տիտղոսաթերթ.— Արկածք Վերջին Գագկայ Արքայի Հայոց Բագրատունոյ. Եղերերգեաց Յակովբ Հայոց Քհնյ. Տէր Մխիթարեանց, ըստ առաջադրութեան բարձր սրբազան Սարգիս Արքեպիսկոպոսի Հայոց Ջալալեան Սանահնեցւոյ, ի 1862 ամի, յԱլէքսանդրապօլ քաղաքի։\nԷջ 5.— Առ մերազնեայ հայրենախնդիր հայցաւորս։ Էջ 7.— Յառաջաբան.— Զհայրենասիրի բորբոքել յանձին զկայծակ գործ է իսկապէս հոյակապ եւ ինքնագէտ արանց...։ Էջ 10.— Նախադրութիւն.— Համառօտ նըկարագրութիւն Ան(ո)ւոյ...։\nէջ 11. — Երգ Առաջին։ Դիպուած Առաջին։ էջ 48. — Նախադրութիւն. — Իշխանն Մագիստրոս...։ էջ 49. — Երգ Երկրորդ։ Դիպուած Երկրորդ։ էջ 58. — Նախադրութիւն։ էջ 60. — Երգ Երրորդ։ Դիպուած Երրորդ։ Գիշերոյն մինչ գիշերավար զերկնից չափէր զկամար...։ էջ 82. — Նախադրութիւն։ էջ 83. — Երգ Չորրորդ։ Դիպուած Չոր-[ր]որդ։ էջ 96. — Նախադրութիւն. — Հայրենասէր արծիւն գայ առ Գագիկ...։ էջ 97. — Երգ Հինգերորդ։ Դիպուած Հինգերորդ։ էջ 121. — Վերջ։ էջ 122. — Յորդորակ։ էջ 124-128, դատարկ։\nՅիշատակարան Գրչի. — 1870 էջ 4, ստորոտը. — Ես Թէոդորոս Վրդ. Շիրակունի զայս զեղերերգութիւն, որ է երկասիրութիւն տեառն Յակովբ հանգուցեալ քահանայի Մխիթարեան Ալէքսանդրապօլեցւոյ, օրինակեալ էի ի իսկականէն ինձ համար, նուիրեցի Սբ. Երուսաղէմայ Մատենադարանին, ի ձեռն Բարձրապատիւ Երեմիայ Վարդապետի Տէր Սահակենց՝ նուիրակի Սբ. Երուսաղէմայ, ի 1 ննոյ. 1870 ամի։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "189.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "190.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2983-refine.json",
+    "pipeline_version": "v1"
+  }
+}

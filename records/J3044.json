@@ -1,0 +1,68 @@
+{
+  "id": "J3044",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3044",
+  "notice": "3044",
+  "volume": "Jerusalem_V9",
+  "title": "Շ Ա Ր Ա Կ Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3044",
+    "no_notice": "139",
+    "titre": "Շ Ա Ր Ա Կ Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "704",
+    "dimensions": "12.5x9x6",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 21 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական գրեթէ։ Կարմրագիծ զարդագիր եւ լուսանցազարդ՝ Կանոններու սկիզբը. մեծ բաժանումները հանդերձ գլխազարդով. խորանազարդ իւր սարօք, էջ 1, 257, 449",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ գծազարդ։ Սկիզբը մէկ թերթ ճերմակ թուղթ՝ դատարկ մեծագոյն մասամբ",
+    "etat_conservation": "լաւ ընդհանուր առմամբ. նորոգութիւն կրած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Երգեցէք որդիք Սիովնի երգ նոր...։ Էջ 88.— Կանովն Համօրէն Առաքելոցն.— Երանելի սուրբ առաքեալք...։ Էջ 92-93, դատարկ նոր թուղթ՝ փակցըւած հինին վրայ։ Էջ 207.— Կանովն Յարութեանն Ղազարու։ Էջ 257.— Այսօր յարեաւ ի մեռելոց...։ Էջ 349.— Կանովն Պենտակոստէին Աւրհնութիւն։ Էջ 449.— Ի վերայ վիմի հաւատոյ...։ Էջ 541.— Շարական Սրբոցն Տարագոսի, Անդրոնիկոսի, եւ Պրօ։.— Տենչալի տօնիւ...։ Էջ 564.— Կանովն Համօրէն Ամենայն Մարտիրոսաց։ Էջ 603.— Կանովն Համօրէն Ամ. Ննջեցելոց։ Էջ 659.— Աւրհնութիւնք Յարութեան Տեառն մերոյ Յի. Քի.։ Էջ 699.— [Մ]արտիրոսաց Ճաշոյն է.— ԳԿ.— [Ճ]ըգնաւորքք ճըշմարիտք...։ Էջ 700, դատարկ։\nՄանր յիշատակագրութիւն Գրչի.— Էջ 698.— Ով պատուական եղբայրք եւ հարք, զեղկելի գծողս յիշեցէք ի սուրբ յաղօթս ձեր։\nԷջ 701-704, երկու թերթ տարբեր թուղթ, մեծ մասամբ ծածկուած անհարթ անկանոն գրութեամբ, մանիշակագոյն թանաքով։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "263.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3044-refine.json",
+    "pipeline_version": "v1"
+  }
+}

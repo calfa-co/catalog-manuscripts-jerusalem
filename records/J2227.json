@@ -1,0 +1,68 @@
+{
+  "id": "J2227",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2227",
+  "notice": "2227",
+  "volume": "Jerusalem_V7",
+  "title": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": "1862",
+    "to": "1862",
+    "display": null
+  },
+  "fields": {
+    "numero": "2227",
+    "no_notice": "2",
+    "titre": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+    "date_debut": "1862",
+    "date_fin": "1862",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "356",
+    "dimensions": "27 x 19 x 2.5",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 26-29 տող",
+    "details_ecriture": "մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական գրեթէ։ Փառակազմ։",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Սարգիս Սրկ. Գէորգեան, Պրուսացի",
+    "possesseur": "Սարգիս Սրկ. Գէորգեան, Պրուսացի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Ճակատ. — Աստուածաբանութիւն, Վարդապետական եւ բարոյական, արարեալ տեառն Լուտովիկոյ Հաբերտի Ուրբանեան աստուածաբան վարդապետի Փարիզեան Համալսարանի։\nԹարգմանեալ ի լատին լեզուէ յամի Տեառն 1828, Հայոց ՌՄՀԷ, ի հայ բարբառ, աշխատասիրութեամբ տեառն Ներսիսի Գաղանճեան Բերիացւոյ, ի փառս Այ. եւ յօգուտ Արամեան։\nԸնդօրինակեալ ի ձեռն Առաքելական Սրբոյ Աթոռոյս Երուսաղէմի Սրբոց Յակովբեանց բնիկ միաբան Պրուսացի աւագ սարկաւագ տիրացու Սարգիս Գէորգեան, յամի Տեառն Փրկչին մերոյ 1862, օգոստոս քսան եւ մէկ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 — Ճառ Յաղագս Շնորհացն Քրիստոսի. — Այդ ճառ այնպիսի կապակցութիւն ունի ընդ նախընթացին, մինչ զի պատշաճ թուէր ընդ մի եւ նոյն մակագրաւ յաղագս մարդեղութեան եւ շնորհաց խօսիլ . . .։ — Հմմտ. թ. 237, Ա. Հատոր, էջ 648։ Էջ 117 — Յօդուած երրորդ։ Յաղագս Պարգեւաց Հոգւոյն Սրբոյ։ Էջ 188 — Գլուխ հինգերրորդ։ Յաղագս Ներգործական Շնորհաց։ Էջ 323 — Լուծմունք Առարկութեանց։ Էջ 353-356, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "357.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2227-refine.json",
+    "pipeline_version": "v1"
+  }
+}

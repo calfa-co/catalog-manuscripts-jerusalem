@@ -1,0 +1,68 @@
+{
+  "id": "J59",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "59",
+  "notice": "59",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԵՍԱՅԵԱՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "59",
+    "no_notice": "2",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԵՍԱՅԵԱՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "154 + 1028",
+    "dimensions": "33 x 21 x 8",
+    "mise_en_page": "սեւ մելանով, երկսիւն, 42 տող։ Նոտր շեղագիր",
+    "details_ecriture": "շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, փայլուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": "Գերմանիկցի Աբրահամ Վարդապետ, որուն կնիքը կը տեսնուի 1, 152, 155, և 925 էջերուն վրայ, «Յի. Քի. Աբրահամ վարդապետ, ՌՄԺԳ, ծռ.» արձանագրութեամբ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք՝ սկիզբը 11 թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Խորհրդաւոր նշանք ժողովեալ ի չորս գլխաւոր մարգարէից կարգաւ շարադրեալ և համառօտապէս մեկնեալ։ Էջ 153–154, դատարկ։ Էջ 155.— Գլուխ Առաջին. Շար Գըլխոց.— Նախ զմեղս ժողովրդեան բազմացուցանէ և յանդիմանէ...։ Էջ 903բ.— Գլուխ վաթսուն և վեցերորդ, Շար Գլխոց.— Այս գլուխս նման է նախանցելոյ...։ Էջ 926–1028, դատարկ։\nՅիշատակագրութիւնք Ստացողի.— Հ. 1764 1.— Էջ 1 լս.— Մելան և գրիչ բնագրէն տարբեր.— Յիշատակ է Եսայեայ մարգարէի մեկնիչս Գերմանիկցի Աբրահամ Վարդապետի, որ ետ ի դուռն Սբ. Յակոբայ Աթոռոյն. ընթերցօղքդ և վայելօղքդ լի բերանով տուք զողորմիս. նաեւ Ած. ձեզ ողորմեսցի։ 2.— Էջ 152, տարբեր գրով.— Գիրքս այս Քի. ծառայ ի տէր Աբրահամ Վարդապետի Գերմանեցւոյ, այսինքն՝ մարաշցւոյ։ 3.— Էջ 925բ.— Գերմանիկեցի Աբրահամ աբեղային սա՝ ըստացայ արդեամբ իմով։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "209.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "59-refine.json",
+    "pipeline_version": "v1"
+  }
+}

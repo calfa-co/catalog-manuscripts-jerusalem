@@ -1,0 +1,68 @@
+{
+  "id": "J1020",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1020",
+  "notice": "1020",
+  "volume": "Jerusalem_V4",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1020",
+    "no_notice": "5",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "340",
+    "dimensions": "20x14x2.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 25 տող։ Նոտր շեղագիր",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–4, դատարկ։ Էջ 5.— Յօհաննու Հայոց Կաթողիկոսի Յառաջաբան Պատմութեան.— Զդադարումն դարուց ժամուց եւ ժամանակաց թէպէտ եւ իսկապէս զհօրէ ասաց բանն դնել յիւրում իշխանութեան ի բաց միանգամայն տարեալ ի մարդկայնոցս գիտութեանց...։ Էջ 9.— Արդ այսոքիկ քեզ բաւականացեալ յառաջաբանութիւն որով մարթասցես գալ բանիւ զրուցացն ճշդութեամբ առ ի մատուցանել զլսելիս եւ առնուլ զպատմութիւն...։ Էջ 320.— Բան ինքնուրոյն սակս յիշատակի անուան իւրոյ.— Թագաւորք աստուածասէրք եւ բարեպաշտօնք, իշխանք եւ պետք եւ հրամանատարք Հայոց, եղբարք մեր եւ առաքեալք եկեղեցւոյ եւ փառք Քըրիստոսի...։ Արդ այսքան բան ձեզ յինէն բաւականասցի. բայց անարժանս ես եւ հեղգ ապաշաւս Յօհաննէս նուաստ Կաթողիկոս Հայոց աղաչեմ։ Էջ 325–340, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "060.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1020-refine.json",
+    "pipeline_version": "v1"
+  }
+}

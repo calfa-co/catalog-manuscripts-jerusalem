@@ -1,0 +1,68 @@
+{
+  "id": "J924",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "924",
+  "notice": "924",
+  "volume": "Jerusalem_V3",
+  "title": "Ճ Ա Շ Ո Ց",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "924",
+    "no_notice": "14",
+    "titre": "Ճ Ա Շ Ո Ց",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "358",
+    "dimensions": "20x15x4",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 22 տող",
+    "details_ecriture": "վարժ, բայց տարբեր գրիչներէ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: գրեթէ սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ, կան փրթած ԹԵՐԹՔ եւ պրակներ (Բ եւ Գ, որոնք կրկնուած են)",
+    "etat_conservation": "անբաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Աստուածայայտնութեան ճրագայլուցին գիրքն, եւ առաւօտեան ճաշու գի[րք]ն այս է...։ Էջ 19ա.— Շաբ. Սրբոյն Սարգսի եւ որդւոյ նորա մարտիրոսի։ Էջ 22բ.— Շաբ. Սրբոյն Սահակայ Հայրապետին։ Էջ 32ա.— Շաբ. Ղազարու Յարութեան։ Էջ 50բ.— Յինանց Գ. կիրակին որ կանանչ ասի։ Էջ 76ա.— Զկնի Ը. օրէից առաջի կիրակէին։ Էջ 92բ.— Շաբաթ, Սրբոյն Սահակայ Հայրապետին։ Էջ 103բ.— Բուն Բարեկենդանին կիրակի։ Էջ 120ա.— Մեծի կենսաբեր Սրբոյ Զատկին։ Էջ 276ա.— Կիրակի. մեծի եւ կենսաբեր Սբ. Նշանին։ Էջ 283բ.— Կիրակի Վարագայ Խաչի։ Էջ 311բ.— Շբթ. Սրբոյն Գրիգորի Սքանչելագործին։ Էջ 343բ.— Ի մեծի աւուր Պենտեկոստէին։ Էջ 345ա.— Շաբ. յիշատակ է Երեմիայ մարգարէի։ Էջ 351բ.— Շաբ. Սրբոյն Գրիգորի Լուսաւորչին ելն ի խոր վիրապէն։ Էջ 354ա.— Կիրակի տօն է յեկեղեցւոյ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "477.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "924-refine.json",
+    "pipeline_version": "v1"
+  }
+}

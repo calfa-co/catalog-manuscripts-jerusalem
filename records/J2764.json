@@ -1,0 +1,68 @@
+{
+  "id": "J2764",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2764",
+  "notice": "2764",
+  "volume": "Jerusalem_V8",
+  "title": "Բ Ա Ն Ք Հ Ա Տ Ը Ն Տ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2764",
+    "no_notice": null,
+    "titre": "Բ Ա Ն Ք Հ Ա Տ Ը Ն Տ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "112",
+    "dimensions": "17×11",
+    "mise_en_page": "խորագիրները և սկզբնաբառերը կարմիր կամ կապոյտ, մնացեալը սևորակ մելանով, միասիւն, 19 տող",
+    "details_ecriture": "նոտրակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Բանք հատընտիրք և զուարճացուցիչք, հաւաքեալ ի գրոց Վարուցն իմաստասիրաց, որ է տպեալ ի Վենետիկ ի թիւ Փրկչին 1826։ Ի Թաղեսի Վարուց.— Սակաւս խօսէր Թաղէս և բազումս խորհրդածէր, և առ ոչինչ համարէր զանձն օգուտ։ Յերես 6։ Էջ 6.— Ի Սողոնի Վարուցն.— Հռչակաւոր առած սորա էր զայս ասել. Պարտ է յամենայնի զչափ ունել։ 19։ Էջ 16.— Ի Պիտտակոսի Վարուցն.— Այս քան էր հանապազ նորա ի բերան. Պարտ է յարմարել զանձն ըստ ժամանակին, և յամենայնէ կթել շահ։ 52։ Էջ 25.— Ի Պերիանդրի Վարուցն։ Էջ 27.— Ի Քիլոնի Վարուցն։ Էջ 31.— Ի Կղէոբուլոսի Վարուցն։ Էջ 33.— Ի յԱնաքարսեայ Վարուցն։ Էջ 36.— Ի Վարուցն Պիւթագորեայ։ Էջ 38.— Ի Վարուցն Հերակղիտոսի։ Էջ 39.— Ի Վարուցն Անաքսագուրայ։ Էջ 42.— Ի Վարուցն Անտիսթենեսի։ Էջ 46.— Ի Վարուցն Արիստիպպոսի։ Էջ 55.— Ի Վարուցն Արիստոտելի։ Էջ 59.— Ի Վարուցն Դիոգինեսի։ Էջ 81.— Ի Վարուցն Կրատեսի։ Էջ 87.— Ի Վարուցն Բիոնի։ Էջ 90.— Ի Վարուցն Զենոնի։ Էջ 93, ստորոտը.— Եւ ահա աստ կատարեցաւ զժողովելոցս վերջաւորութիւնն, ի յիշատակ զկնի իմ վայելողաց ի նիւթ քարոզի։ Էջ 94.— Անուանց իմաստասիրացն յայսըմ գրքոջ եղելոց, և որք ի սմա են սոցա են բանք, վասնզի աստ եդաք առ ի դիւրաւ գըտանելոյ զորոց միանգամ խնդրենն զբանն.— 1-24 անուններ։ Էջ 95-112, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "408.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2764-refine.json",
+    "pipeline_version": "v1"
+  }
+}

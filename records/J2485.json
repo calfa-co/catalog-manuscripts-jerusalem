@@ -1,0 +1,68 @@
+{
+  "id": "J2485",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2485",
+  "notice": "2485",
+  "volume": "Jerusalem_V8",
+  "title": "Տ Օ Ն Ա Ց Ո Յ Ց",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2485",
+    "no_notice": "44",
+    "titre": "Տ Օ Ն Ա Ց Ո Յ Ց",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "314",
+    "dimensions": "15.5x10.5x2.5",
+    "mise_en_page": "սկզբնատողերը և գլխատառերը կարմիր, մընացեալը սև մելանով, միասիւն, 20 տող",
+    "details_ecriture": "կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ։ Կարմրագիծ զարդագիր, լուսանցազարդ և գլխազարդ քանի մը տեղ, անարուեստ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-6, դատարկ։ Էջ 7. — Նախ և առաջին Աստուածայայտնութեան ճրագալուցին գիշերն...։ Էջ 112. — Սբ. Զատկին գիշերն հսկումն է...։ Էջ 177. — Պենտեկոստէին գիշերն հըսկումն է...։ Էջ 244. — Սուրբ Խաչվերացի գիշերն հսկումն է...։ Էջ 290. — Մեսեդիք Ծննդեան։ Էջ 306. — Ալէլուիա Ճաշու Յարութեան։\nՅետնագոյն յիշատակագրութիւն. — Էջ 308, ստորին լուսանցքին, նոտր շեղագիր անհարթ. — Ի վայելումն վերաձայեալ Իգնատիոս Աբեղայի Կարնեցոյ զարմէ Մսրրեան?։ Էջ 309-314, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "180.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2485-refine.json",
+    "pipeline_version": "v1"
+  }
+}

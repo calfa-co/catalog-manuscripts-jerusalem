@@ -1,0 +1,68 @@
+{
+  "id": "J1423",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1423",
+  "notice": "1423",
+  "volume": "Jerusalem_V5",
+  "title": "ԺՈՂՈՎԱԾՈՅ ՄԵԿՆՈՒԹԵԱՆՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1423",
+    "no_notice": null,
+    "titre": "ԺՈՂՈՎԱԾՈՅ ՄԵԿՆՈՒԹԵԱՆՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "384",
+    "dimensions": "16x10x3.5",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 20 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": "Եզեկիէլ Երէց",
+    "possesseur": "Թորոս Վարդապետ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": "կարմրագիծ, էջ 5, 13. սեւագիծ՝ էջ 158, 188, 272",
+    "initiales": null,
+    "enluminures_marginales": "կարմրագիծ, էջ 5, 13. սեւագիծ՝ էջ 158, 188, 272",
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "կարմրագիծ, էջ 5, 13. սեւագիծ՝ էջ 158, 188, 272",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— ՄԵԿՆ. ԱՌԱԿԱՑ.— 15 էջ 1-4, դատարկ։ էջ 5.— Ցանկ Առակացն Սողոմոնի։ էջ 13.— Գրիգորի եռամեծի, աշակերտի Յոհաննու Որոտնեցոյ, եւ քաջ դիտապետի, Համառօտ Հաւաքումն յԱռակաց Գրոցն Սողոմոնի, ի լուսաւոր բանից մեծին Ներսեսի։\nԲ.— ՄԵԿՆ. ԺՈՂՈՎՈՂԻ.— 14 էջ 158.— Գիրք Ժողովողին։ Աւգնեա ինձ Միածին Որդի.— Որպէս յայտ է ի Մեկնութիւն Մեծին Ներսեսի...։\nԳ.— ՄԵԿՆ. ԻՄԱՍՏՈՒԹԵԱՆ.— 14 էջ 188.— Յաղագս իմաստութեանն Սողոմոնի.— Իսկ վասն Իմաստութեանն Սողոմոնի ոմանք գայթակղեցան վասն կրկին պատճառի...։\nԴ.— ՄԵԿՆ. ԵՐԳՈՑ ԵՐԳՈՅՆ.— 18 էջ 265.— Ցանկ է առաջիկայ լուծմանց Երգ Երգոցին։\nՅիշատակագրութիւն Գրչի.— էջ 271, ստորոտը, կարմրատառ.— Զմեղաւոր գրիչս անարժան Եզեկիէլ կոչեցեալ էրէցս յիշեսջիք ի Քրիստոս։\nէջ 272.— Համառօտ Հաւաքումն ի տեսութիւն Լուծմանց Երգոց Երգոյն, աշխատասիրեալ Գրիգորիոս հսկողի, արի եւ երջանիկ հռետորի եւ քաջ փիլիսոփային, աշակերտի եռամեծին Յոհաննու Որոտնեցոյ, ի լուսաւոր բանից Վարդապետին Վարդանայ։\nՅիշատակագրութիւն.— էջ 379.— Եւ ամենայն աշխատողացն ի սմա, երջանիկ եւ լուսաւոր վարդապետին Վարդանայ, եւ խնդրողացն, եւ համօրէն աշխատողացն ի սմա, ուսուցչացն եւ ուսողացն։ Եւ ստացողի գրոցս Թորոս Վարդապետին։ Եւ գծողի սորին, մեղաւոր Եզեկիէլ հրէցս յիշեսջիք ի Քրիստոս, ամէն։ էջ 380-384, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "105.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1423-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3599",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3599",
+  "notice": "3599",
+  "volume": "Jerusalem_V10",
+  "title": "ՀԱՇՈՒԵՏԵՏՐ",
+  "date": {
+    "from": "1917",
+    "to": "1928",
+    "display": null
+  },
+  "fields": {
+    "numero": "3599",
+    "no_notice": null,
+    "titre": "ՀԱՇՈՒԵՏԵՏՐ",
+    "date_debut": "1917",
+    "date_fin": "1928",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "98",
+    "dimensions": "19x12.5x1",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 17 տող",
+    "details_ecriture": "Լաթակազմ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Տետր Արդեանց եւ Ծախուց Ս. Հրեշտակապետ Եկեղեցւոյ եւ Վանուց, սկսեալ 1917, սեպտեմբեր 1էն։ Էջ 4.— 1918։ Էջ 11.— Տարեկան Արդիւնք Տեսչութեան Ս. Հրեշտակապետի, սկսեալ 1918 սեպտ. 1/14էն։ Էջ 18.— 1919։ Էջ 29.— 1920։ Էջ 38.— 1921։ Էջ 49.— 1922։ Էջ 61.— 1923։ Էջ 68.— Ամփոփումն Արդեանց Ս. Հրեշտակապետի Վանուց Տեսչութեան, սկսեալ 1917 սեպտ. 1–1923, օգ. 28։ Էջ 69.— Ժամուցք – 1923։ Էջ 70–98, դատարկ մեծագոյն մասամբ։ Ծանօթ.— Վերոյիշեալ տարիներուն Ս. Հրեշտակապետաց Վանքի Տեսուչն էր Մատթէոս Վրդ. Գայըքճեան։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "659.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3599-refine.json",
+    "pipeline_version": "v1"
+  }
+}

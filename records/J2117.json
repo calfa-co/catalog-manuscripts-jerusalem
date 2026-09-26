@@ -1,0 +1,68 @@
+{
+  "id": "J2117",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2117",
+  "notice": "2117",
+  "volume": "Jerusalem_V7",
+  "title": "Ք Ա Ր Ո Զ Ծ Ն Ն Դ Ե Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2117",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Ծ Ն Ն Դ Ե Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "64",
+    "dimensions": "22x15.5",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, երկսիւն, առաջինը գրաբար՝ երկրորդը թրքերէն հայատառ, 30 տող",
+    "details_ecriture": "մանր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "անարուեստ",
+    "etat_conservation": "բաւարար",
+    "copiste": "Յօհան Քահանայ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "հաւկթաձեւ, սեւադրոշմ, էջ 64բ, «Ներսէս Եպիսկոպոս», Գէորգեան, Առաջնորդ Թէքիրտաղի (1877-1888)",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Քարոզ ի վերայ Ծննդեանն Քըրիստոսի Աստուծոյ մերոյ, ասացեալ Բերդումեան Պետրոս արքեպիսկոպոսի, որ ի միաբանութենէ Սրբոյ Էջմիածնի։\nՅիշատակարան Գրչի.— Էջ 62, ստորոտը.— Երանեալ սրբազան հարցդ յորոց ախորժ թուի սոյն այս պերճաբան ճառ հրաշալի Ծննդեան եւ Յայտնութեան Տեառն մերոյ Յիսուսի Քրիստոսի եւ օգտիցի ինչ ի սմանէ, աղաչեմ աղաչեմ յիշել զբազմամեղ տէր Յօհան անուամբ եւեթ քահանայս, եւ համայն ազգայինս, խնդրելով զներումն բազմաթիւ յանցանաց իմոց։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "203.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2117-refine.json",
+    "pipeline_version": "v1"
+  }
+}

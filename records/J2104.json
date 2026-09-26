@@ -1,0 +1,68 @@
+{
+  "id": "J2104",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2104",
+  "notice": "2104",
+  "volume": "Jerusalem_V7",
+  "title": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2104",
+    "no_notice": "19",
+    "titre": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ+664",
+    "dimensions": "20×15×4.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 27 տող։ Նոտր շեղագիր, ոչ միատեսակ",
+    "details_ecriture": "առատ։ Սեւագիծ զարդեր կը գտնուին վեց տեղ, էջերու ստորոտը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ, բայց լուսանցքները ցեցակեր։ Մեծ սկզբնատառերու տեղերը յաճախ բաց մնացած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "փոքր հաւկթաձեւ, «Յակոբ Վարդապետ», էջ 1, ստ. լուսանցքին",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Զ, դեղին թուղթ։ Էջ Ա–Գ.— Ցանկ։ 1–46 գլուխներ։ Էջ Դ–Զ, դատարկ։\nԷջ 1.— Սէրն Աստուծոյ դէպ առ մարդըն։ Յաղագս մեծի սիրոյն զոր Տէր Աստուած մեր միշտ ունեցաւ դէպ առ մարդն.— Ամենակարօղն Աստուած ի յաւիտենից սահմանեալ առ ի ստեղծել զմարդն...։— Հմմտ. թ. 896, Գ. Հատոր, էջ 412։ Էջ 28, դատարկ, անմաքուր։ Էջ 444–448, դատարկ։ Էջ 449.— Յաղագս մեծագոյն դժուարութեանն զոր ունին դառնալ առ Աստուած խոստացեալ մեղաւորքն.— ԼԴ։ Էջ 527–528, դատարկ։ Էջ 659 – 662, դատարկ։ Նոյնպէս էջ 664։ Էջ 663, վերը, տարբեր գրով.— Գլուխ ԼԱ, ի վերայ անհունութեան ողորմութեանն Աստուծոյ, զոր ի քարոզելն մեր արատ եղեալ Յովհաննէս վարդապետն դրեաց անդ եւ ասա թէ արտաքոյ գրոց դուրս կու տայ, ի վերայ այնմ թէ առ ի կորուստ Սոդոմայ Բ հրեշտակք էին, եւ ոչ գոյր անդ խորհուրդ աստուածութեան եւ կամ մարմնացեալ Բանին։ Ի ՌՄԻԶ։ Ներքեւը գունաթափ մելանով. Պօլսեցի տիրացու Պօղոսի դպրատան Յովհաննէս չեկ վարդապետն որ յետոյ ի Սբ. Երուսաղէմ նուիրակացաւ. եւս ի վերա մեր, եւ յետոյ ելեալ զնուիրակութիւնն լատինացաւ ընդ ազգօքն հանդերձ։\nՄանր յիշատակագրութիւն.— Էջ 1, ստորին լուսանցքին, անհարթ գրով.— Է ղղի է սոյն գիրք. ի տիրացու Սարգիսէն առեալ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "190.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2104-refine.json",
+    "pipeline_version": "v1"
+  }
+}

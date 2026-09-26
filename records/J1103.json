@@ -1,0 +1,68 @@
+{
+  "id": "J1103",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1103",
+  "notice": "1103",
+  "volume": "Jerusalem_V4",
+  "title": "Ա.— ՄԵԿՆՈՒԹԻՒՆ ՂՈՒԿԱՍՈՒ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1103",
+    "no_notice": "6",
+    "titre": "Ա.— ՄԵԿՆՈՒԹԻՒՆ ՂՈՒԿԱՍՈՒ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԻԲ + 562",
+    "dimensions": "19×14×4.5",
+    "mise_en_page": "խորագիրները, եւ մասամբ բնաբանները կարմիր, մնացեալը սեւ մելանով, միասիւն, 24-26 տող։ Նոտր շեղագիր",
+    "details_ecriture": "բաւական առատ ; ՈՒՂՂԱԳՐՈՒԹԻՒՆ: տկար",
+    "types_cahiers": "ԺԲ+ԺԲ",
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ սպիտակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-ԻԲ, դատարկ։ Էջ 1, վերեւը շեղագիր.— Յիշատակ է ի դուռն Սբ. Յակովբայ որ յԵրուսաղէմ, 1834։\nԱ.— Էջ 1.— Նուաստ եւ յետին աշակերտի Մատթէոս եռամեծի Յովհաննու եւ Գ(ի)րիգորի աշխատասիրի Հաւաքումն բանի Աւետարանին Ղուկասու, եւ Քարոզ յոլովք, ի վայելումն մանկանց Հայաստանեաց։— Եւ արդ ուսումնասիրաց պարտ է ընդունիլ զխրատս հոգեշահս։ Բայց արդ յաղագս ծուլի թէ զինչ խորհի։ Յորժամ սկսանի յընթեռնուլ զգիրս սուրբս, չորս կերպիւ այսպանէ...։ Էջ 273.— Ցանկ։ ԻԱ Ճառեր։ Էջ 279-288, դատարկ։\nԲ.— Էջ 289.— Մատթէոսի վարդապետի եւ տիեզերալոյս րաբունապետի արարեալ բանս յԱւետարանին Յոհաննու որ ասէ. Ի սկզբանէ էր Բանն, եւ Բանն էր առ Աստուած, եւ Աստուած էր Բանն.— Կահաւորիմ վասն տեսութեան բանին Տեառն, ով կաճառք լոյսաերամից, եւ դասք սերոբէից ...։\nՅիշատակարան Հեղինակի.— Էջ 473.— Ի լրումն գրոյս է ըստ ոճ կարգի յիշատակարանս. որ եւ այս տեսչութեամբն ընդ նախասացեալ Մեկնութեանն, որ ըստ Ղուկաս Աւետարանչին դիցի...։ Էջ 475-562, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "179.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1103-refine.json",
+    "pipeline_version": "v1"
+  }
+}

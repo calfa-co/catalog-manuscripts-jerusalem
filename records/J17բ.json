@@ -1,0 +1,68 @@
+{
+  "id": "J17բ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "17բ",
+  "notice": "17բ",
+  "volume": "Jerusalem_V1",
+  "title": "Նախորդին Երկրորդ Հատորն է։",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "17բ",
+    "no_notice": null,
+    "titre": "Նախորդին Երկրորդ Հատորն է։",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ + 619—1202։ Հանդամանք շատ լաւ",
+    "dimensions": "նոյն",
+    "mise_en_page": "նոյն",
+    "details_ecriture": "նոյն ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "նոյն",
+    "nb_lignes": null,
+    "reliure": "և նուիրատու նոյն",
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Դ.— Յ. Ս. Քիւրքճեանօֆի հակիրճ դրութիւնը, յարեւնման նախորդին։ Էջ Զ.— Գունաւոր նկար, Ս. Գր. Նարեկացի ծնրադիր՝ Ս. Կոյսին և մանուկ Յիսուսի առջեւ։ Էջ 619ա.— Հնգետասաներորդ տառն, որ է Կ, սկսանի այսպէս.— Կաղէս.— Կաղէս, այսինքն սրբութիւն, քաղաք...։ Էջ 1162ա.— Երեսուն և եօթներորդ տառս այս որ է Օ, սկսանի այսպէս։ Օրէթ։ Էջ 1175ա.— Կցորդ Անտառի Այլաբանութեանց ըստ թուոց։ Յիշատակարան Գրչի.— 1799 Էջ 1202ա.— Փառք անճառելի միոյ և անքննելի երրորդութեանն Հօր և Որդւոյ և Հոգւոյն Սրբոյ, որպէս էրն ի յըսկզբանէ, նոյնպէս և է միշտ ելոց, որ ըստ իւրոյ անբաւ կարողութեանն նպաստ և ձեռնտու եղեւ ինձ անկարիս, որ ի կատարն հասեալ աւարտեցի զհոգելից մատեանս զայս, որ կոչի Անտառ Այլաբանութեանց։ Վասն որոյ խնդրի ի բարեսէր ընթերցողացդ յիշման արժան առնել զմեղսաներկ նօտարս իբր մանկավարժ — — — և զհայրն իմ — — — Կիւմիւշխանացի. նաեւ զվարժապետն իմ տիրացու — — —, որ և յիշօղքդ յիշեալ լիջիք ի Տեառնէ մերմէ Յս.է Քս.է, ամէն։ Գրեցաւ ի մեծն Պօլիս ընդ հուանեաւ սբ. Աստուածածնի եկեղեցւոյ, ի թուին Հայոց ՌՄԽԸ, Դկտ. Ժ։ ԾԱՆՕԹ.— Գիծերով նշանակեցինք տեղերը այն անուններուն որոնք դիտմամբ եղծուած են մելանով և դարձած անընթեռնլի։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "123.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "17բ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

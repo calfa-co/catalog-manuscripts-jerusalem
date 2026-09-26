@@ -1,0 +1,72 @@
+{
+  "id": "J578",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "578",
+  "notice": "578",
+  "volume": "Jerusalem_V2",
+  "title": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "578",
+    "no_notice": "9",
+    "titre": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "44",
+    "dimensions": "22.5 x 16 x 1",
+    "mise_en_page": "կապոյտ, կարմիր եւ սեւ մելաններով, երկսիւն, 22 տող",
+    "details_ecriture": "կանոնաւոր, գունաւոր եւ զարդարուն շրջանակի մէջ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր դեղնորակ",
+    "nb_lignes": null,
+    "reliure": "խարխարտեայ, քայքայուած",
+    "etat_conservation": "լաւ ընդհանուր առմամբ",
+    "copiste": null,
+    "possesseur": "Խաչատուր",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4, տարբեր, նորագոյն թուղթ. — Էջ 2ա նոտրագիր. — Քահանայք քո ըզգեցցին զարդարութիւն...։ Էջ 5ա, նոտր շեղագիր. — Յիշատակ է ի դուռն Սրբոց Յակոբեանց երկնաբաղդատ Աթոռոյն որ ի Սուրբն Երուսաղէմ։ Որ զգեցեալ ես ըզլոյս որպէս հանդերձ...։ Էջ 14ա. — ... Որ բազմեալ հանգչի,\n... եւ ... որ ի կողահոս ... պարբերութիւնները չունի ։ Էջ 34, ստորին լուսանցքին, բոլորգիր . — Ո՛վ սբ . պատարագող, Յիշեա՛ զըստացող զՍուրբ խորհրդատետրիս, զԽաչատուրն, եւ զծնօղսն իւր զԳրիգորն, եւ ըզմայրն իւր զՆանուին, եւ զեղբարքն իւր զՅարութիւնն եւ զԳորգանանն ։ Էջ 44բ . — Աւրհնեալք եղերուք ի շընորհաց . . . ։ — Եւ կարգա աւետարան Յհն . , եւ իբրեւ ճաշեցին ։ Եւ դառնա յարեւելս ։ Երկիր պագանէ երիցս ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "623.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "624.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "578-refine.json",
+    "pipeline_version": "v1"
+  }
+}

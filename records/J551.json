@@ -1,0 +1,68 @@
+{
+  "id": "J551",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "551",
+  "notice": "551",
+  "volume": "Jerusalem_V2",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ՀԱՅՈՑ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "551",
+    "no_notice": "3",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ՀԱՅՈՑ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "62",
+    "dimensions": "22.5x18",
+    "mise_en_page": "սեւ մելանով, երկսիւն, 34—36 տող",
+    "details_ecriture": "մանր կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա . — Յոհաննէս Կաթողիկոս եւ պատմագիր(ք), որ էր աշակերտ Մաշտոց Կաթողիկոսի Սեւանցւոյ, որ յետ նորա եղեւ կաթողիկոս ի ժամանակս Սմբատայ արքայի Բագրատունւոյ։ սուղ ինչ շարայարեցից, եւ թէ ոյք ի նոցանէ շինութեան պարապեալ...։ — Հմմտ . Տպ . Երուսաղէմ, 1867, էջ Է–Ը։ Էջ 56ա . — ... Եւ ամենեքեան դաշինս ընդ նմա դնէին, որպէս արդարեւ ընդ թագաւորական զարմի . այլ [Շարունակութիւնը կը պակսի] . — Հմմտ . նոյն, էջ 169։ Էջ 56բ– 62, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "594.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "551-refine.json",
+    "pipeline_version": "v1"
+  }
+}

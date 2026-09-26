@@ -1,0 +1,68 @@
+{
+  "id": "J2742",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2742",
+  "notice": "2742",
+  "volume": "Jerusalem_V8",
+  "title": "ՔԱՐՈԶՔ ՓՈՔՐ ՔԱՌԱՍՆՈՐԴԱԿԱՆՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2742",
+    "no_notice": "2",
+    "titre": "ՔԱՐՈԶՔ ՓՈՔՐ ՔԱՌԱՍՆՈՐԴԱԿԱՆՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "160",
+    "dimensions": "22x17x1",
+    "mise_en_page": null,
+    "details_ecriture": "անարուեստ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "այլազան",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Քարոզագիրք, համառօտեալ ի Քառասնորդականաց մեծահռչակ քարոզչին Յովհաննու Մկրտչի Մասիյլէօնի յընկերութենէ Աղօթավանից, արքունի քարոզչի և արքեպիսկոպոսի Քլերմօն քաղաքի՝ որ ի Թագաւորութեանն Գաղղիոյ։ Յիտալական թարգմանութենէ փոխաբերեալ ի հայ լեզու՝ ձեռամբ Տէր Կարապետեան Յովհաննու Պրուս[ացւոյ], յամին 1830, յԱտարազար։\nՆախածանօթք Հայ թարգմանչին.— Յիտալական թարգմանութեանց Քառասնորդականացս որ ի գաղղիական բնագրէ...։ Այլ թէ կամք իցեն ումեք հետաքննաբար առնուլ զճաշակ...։— Հմմտ. Թիւ 678, Գ. Հատոր, էջ 118։\nԷջ 2.— Ի չորեքշաբաթի աւուր մոխրոց։ Քարոզ Ա։ Յաղագս Պահոց։ Բնաբան։ Յորժամ պահիցէք մի՛ լինիք իբրև զկեղծաւորսն տըրտմեալք։ Մատթ. Զ. 16։ Էջ 9.— Ի չորեքշաբաթի աւուր մոխրոց։ Քարոզ Բ։ Պատճառք դարձի։ Էջ 62.— Յերկրորդում Կիւրակէի Քառասնորդաց։ Քարոզ ԺԱ։ Յաղագս վտանգից աշխարհական երանութեան։ Էջ 104.— Յերկուշաբաթի աւուր երրորդի շաբաթուն։ ԺԸ։ Ի վերայ սակաւ թուոյ ընտրելոց։ Էջ 155.— Ի հինգշաբաթի չորրորդում շաբաթուն։ Քարոզ ԻԸ։ Յաղագս մահուան։— Կը մնայ անաւարտ. յաջորդ էջերը, 157-160, դատարկ են։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "388.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2742-refine.json",
+    "pipeline_version": "v1"
+  }
+}

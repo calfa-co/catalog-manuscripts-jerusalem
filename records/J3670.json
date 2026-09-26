@@ -1,0 +1,68 @@
+{
+  "id": "J3670",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3670",
+  "notice": "3670",
+  "volume": "Jerusalem_V11",
+  "title": "ՏԱՂԱՐԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3670",
+    "no_notice": null,
+    "titre": "ՏԱՂԱՐԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "172, մեծագոյն մասը դատարկ",
+    "dimensions": "14.5x20x1.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 16—26 տող",
+    "details_ecriture": "ոչ միատեսակ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "գծազարդ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 2.— Պու պիր սըր հիքմէտ տիր, նէ պիլէն սէօյլէր, նէ սէօյլէ[յէ]ն պիլիր։\nՊու պիր տէվրիշ քիւլահի տիր, նէ պիլէն կիյէր, նէ կիյէն պիլիր։ Էջ 8.— Մաքամլար սէմայիսի.— Վիճակ ել ինձ ըրաստ եկաւ հողանիւթ մարմնի...։ Էջ 11.— Պէաթի աճէմ.— Մեղեդիք Յարութեան։ Էջ 13.— Ռաստ.— Մեղեդիք Աստուածածնի եւ ծննդթեան։ Էջ 19.— Սէկեահ.— Տաղ Յարութեան.— Ոչ արգելեաց վէմն երկնաւոր...։ Էջ 21.— Սվահան.— Տաղ Յարութեան.— Դարձեալ յայտնի այլանըման...։ Էջ 27.— Յուսէյնի.— Տաղ Սբ. Աստուածածնի.— Խնկին ծառին նման ես...։ Էջ 29.— Իճազ.— Տաղ Վարդեվառ[ի].— Այսօր ցընծայ լեառն Թափոր...։ Էջ 42.— Շարքի, մուհայեր սիւմպիւլ.— Ով գերարփի լոյս երկնաւոր անսահման...։ Էջ 49.— Շարքի.— Սէնինիլէ իքիմիզ պիր սէհէրտէ...։ Էջ 52.— Զի որ ինքն իւր չար է, այլում բարի ոչ կարէ լինել...։ Էջ 53—159, դատարկ։ Էջ 165.— Մովսէս ասէ. Տեսանիցէք զկեանս ձեր կախեալ ի փայտէ...։ Էջ 168.— Հայոց Պատմութեան Ա. Հատորն նարկիլճճի Եղիազար աղայի մօտն է, 1848։ Էջ 172.— Հաւատ ի լրոյ...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "108.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3670-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J1147",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1147",
+  "notice": "1147",
+  "volume": "Jerusalem_V4",
+  "title": "ՀԱՄԱՌՕՏ ՎԱՐԴԱՊԵՏՈՒԹԻՒՆ ՔՐԻՍՏՈՆԷՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1147",
+    "no_notice": "1",
+    "titre": "ՀԱՄԱՌՕՏ ՎԱՐԴԱՊԵՏՈՒԹԻՒՆ ՔՐԻՍՏՈՆԷՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ+90",
+    "dimensions": "19x13x1.5",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 27 տող։ Նոտր շեղագիր",
+    "details_ecriture": "գրեթէ սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր յոյժ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ։",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Էջ Ա.— Ճակատ.— Համառօտ Վարդապետութիւն Քրիստոնէութեան. թարգմանեցեալ յիտալականէն յեբրայականն բարբառ, ի Յօհաննու Մկրտչէ Յօհաննեան, որ է ընդհանրական ուսուցիչ եբրայական լեզուին ի Հռոմ։ Յորում վարդապետն հարցանէ եւ աշակերտն պատասխանէ։ Էջ Բ, դատարկ։ Էջ Գ.— Առ ընթերձօղս.— Ճանաչելով իմ, թէ որքան եւ որպէս հակառակին ...։ Էջ Զ, դատարկ։ Էջ 1.— Հ.— Դու Քրիստոնեա՞յ ես։ Պ.— Այո՛ շնորհօքն Քրիստոսի։ ... Էջ 10.— Յաղագս Բացայայտութեան Հաւատամքին։ Էջ 28.— Յաղագս Մեկնութեան Հայր մերին եւ Ողջունի Մարիամու։ Էջ 34.— Յաղագս պատուիրանացն Աստուծոյ։ Էջ 47.— Յաղագս Խորհրդոց Սրբոյ Եկեղեցւոյ։ Էջ 69.— Յաղագս կերպի աղօթելոյ, զկնի ուսման վարդապետութեանս։ Էջ 79–90, դատարկ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "262.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1147-refine.json",
+    "pipeline_version": "v1"
+  }
+}

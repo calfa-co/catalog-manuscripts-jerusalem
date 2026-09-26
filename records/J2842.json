@@ -1,0 +1,72 @@
+{
+  "id": "J2842",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2842",
+  "notice": "2842",
+  "volume": "Jerusalem_V9",
+  "title": "ՏՈՄԱՐԱԳԻՏՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2842",
+    "no_notice": null,
+    "titre": "ՏՈՄԱՐԱԳԻՏՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "72",
+    "dimensions": "21X15X1",
+    "mise_en_page": "խորագիրները, գլխատառերը եւ թուանշանները կարմիր, մնացեալը սեւ մելանով, միասիւն, 21 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "շեղակերպ, յստակ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "խասաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4, դատարկ։ Էջ 5.— Պապ էվվէլ.— Պէ հէր կիւն թաքվիմի չէմս՝ պիլմէք իչիւն, թարիքի պուտուր...։ Էջ 11.— Պապի սանի.— Թաքվիմի չէմս պէ հէր պուրճ պիլմէք իչիւն տիւր...։ Էջ 16.— Պապ սալիս. թաքվիմի գամէր հէր կիւն պիլմէք։ Էջ 28.— Պիր ղայրի մեսալ իսթիքպալ իչիւն։ Էջ 32.— Րէիս թաքվիմի պիլմէք իչիւն։ Էջ 35.— Պապ հերթէքի չէմս պէ րէիս պիլմէք իչիւն։ Էջ 37.— Խաւարումն արեգական։ Էջ 49.— Պէյան հուսուֆ քամէր։ Էջ 51.— Թատիլի պիլմէք իչիւն։ Էջ 54-65, երկսիւն բառարան, Տաճկերէն, Հայերէն։ Էջ 54.— Թաքվիմ, յայն աւուր տեղն։ Թարիխ, հանել։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "076.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "077.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2842-refine.json",
+    "pipeline_version": "v1"
+  }
+}

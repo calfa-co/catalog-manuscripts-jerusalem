@@ -1,0 +1,68 @@
+{
+  "id": "J1450",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1450",
+  "notice": "1450",
+  "volume": "Jerusalem_V5",
+  "title": "Ա.— ՀԱՅԵԼԻ ՎԱՐՈՒՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1450",
+    "no_notice": "9",
+    "titre": "Ա.— ՀԱՅԵԼԻ ՎԱՐՈՒՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "988",
+    "dimensions": "15.5×10×6",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 20, 23 տող",
+    "details_ecriture": "կրկնատեսակ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ, մանաւանդ երկրորդ մասին մէջ",
+    "types_cahiers": "ԺԸ+ԻԳ",
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը երկու թերթ՝ բոլորգիր աղիւսակ Պարզատոմարի, վերջը մէկ թերթ՝ դարձեալ բոլորգիր՝ մասն փոքրագիր երկսիւն Աւետարանի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Հ Ա Յ Ե Լ Ի Վ Ա Ր Ո Ւ Ց էջ 1.— Ցանկին վերջին մասն է. Գըլուխ Ծ-Հ։ Առաջին պրակին սկիզբի երկու թերթերը կորսուած։ էջ 2, դատարկ։ էջ 3.— Ա.— Յաղագս Ագահութեան գլուխ.— Տէրն մեր Յս. Քս. հրամայէ...։ էջ 415.— Յաղագս Քի. անուան. Գըլուխ ՀԱ.— [Զ]օրական ոմն մեծազգի հըսւիրեաց երբեմն զոմանս...։ էջ 419-422, դատարկ։\nՄԵԿՆՈՒԹԻՒՆ ԵՍԱՅԵԱՅ էջ 423.— Ցանգ Առաջիկայ Գրոցս։ էջ 437.— Յովհաննու պիտակ աշակերտի Գրիգորի եռամեծի հաւաքեալ ի պատճառ իմաստից սակաւ սատար փառաքի մըտացս ի բանից աստուածաբան մարգարէին Եսայեայ.— Զինչ է որ ասէ Տեսիլ Եսայեայ...։ էջ 871.— ԼԲ.— Քարոզ վասն Պահոց։ Գոչեա զօրութեամբ եւ մի խնայեր։ էջ 961.— ԽԴ.— Քարոզ վասն Կանանց։ էջ 988, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "150.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1450-refine.json",
+    "pipeline_version": "v1"
+  }
+}

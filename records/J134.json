@@ -1,0 +1,72 @@
+{
+  "id": "J134",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "134",
+  "notice": "134",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԵԶԵԿԻԷԼԻ",
+  "date": {
+    "from": "1797",
+    "to": "1797",
+    "display": null
+  },
+  "fields": {
+    "numero": "134",
+    "no_notice": "3",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԵԶԵԿԻԷԼԻ",
+    "date_debut": "1797",
+    "date_fin": "1797",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "600",
+    "dimensions": "30 X 18 X 4",
+    "mise_en_page": "սեւ մելանով, միասիւն, 37 տող։ Նոտր շեղագիր կանոնաւոր",
+    "details_ecriture": "շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "փայլուն, կապտորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ ոսկեզօծ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": "Պետրոս պատրիարք Երուսաղէմի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Մեկնութիւն Եզեկիէլ Մարգարէին։ Յառաջաբանութիւն. — Եղեն ոմանք ի հնագունից, որք վարկեցին, թէ Եզեկիէլ էր Պիթագորաս...։ Էջ 13. — Մեկնութիւն Եզեկիէլ Մարգարէին. Գլուխ Առաջին, Շար Գլխոց. — Եզեկիէլ տեսանէ զփառաւոր կառն, եւ զԱծ. ի նմա բազմեալ...։ Էջ 564. — Գլուխ քառասուն եւ ութն։ Շար Գլխոց. — Զկնի առաջրութեան եւ բաժանման սրբոյ երկրին առ չորս կողմունս աշխարհի...։ Էջ 577. — Գովաբանութիւնք յաղթութեան Այ. բարեգութի եւ մեծագունի ... ի պատգամացն Եզեկիէլի։ Էջ 582. — Ցանկ յատկեղ նշանաւոր բանից՝ մանրամասնաբար ներ ամենայարգի մատենիս պարունակելոց՝ ըստ կարգի այբուբենից հաւաքեալ աշխատասիրութեամբ ի վայել ամենապատուական անձին Տն. Պետրոսի գեր[եր]ջանիկ Պատրիարքի Սրբոյ եւ մեծի ամենացանկալի Աթոռոյն Երուսաղէմի. որում ընծայեալ նուիրի յամենասուրբ եւ յետին միաբանէ Յակոբայ Աբեղայէ Անդրիանուպօլսեցւոյ, յամի Տն. 1797, ի մայիսի 25։ Էջ 599-600, դատարկ։\nՅետնագոյն յիշատակագրութիւն.— 1802 Էջ 598, շեղագիր.— Յիշատակ է Սըրբոյ Աթոռոյս Երուսաղէմի գրքատան, զոր եդաք վասն հոգւոյ ստացողիս, ՌՄԾԱ, եւ ի հոկտեմբեր թին։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "388.jpg"
+    },
+    {
+      "volume": "Jerusalem_V1",
+      "file": "389.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "134-refine.json",
+    "pipeline_version": "v1"
+  }
+}

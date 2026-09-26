@@ -1,0 +1,72 @@
+{
+  "id": "J2005",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2005",
+  "notice": "2005",
+  "volume": "Jerusalem_V7",
+  "title": "Շ Ա Ր Ա Կ Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2005",
+    "no_notice": "104",
+    "titre": "Շ Ա Ր Ա Կ Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "558",
+    "dimensions": "22x15x7.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 23 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական։ Կարմիր կապոյտ զարդագիր եւ լուսանցազարդ, բաւական նուրբ գծագրութեամբ, մեծ բաժանումները հանդերձ գլխազարդով",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ, կռնակը վերէն վար ճեղքուած երկիցս",
+    "etat_conservation": "լաւ ընդհանուր առմամբ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը եւ վերջը մէկմէկ թերթ, մասունք երկաթագիր աւետարանաց",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդ իւր սարօք էջ 5, 217",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1—4, դատարկ, գծմծուած. առաջին թերթին կէսը փրցուած վերէն վար։ Էջ 5. — Կանովն Ծնընդեան Սրբբոյ Աստուածածնին [ի] Յովակիմայ եւ յԱննայէ — Երգեցէք որդիք Սիովնի...։ Էջ 87. — Երգ Բուն Բարեկենդանին առաջի կիւրակէին։ Էջ 173. — Կանովն Յարութեան Ղազարու։ Էջ 217. — Կանովն Սրբբոյ Պասեքին եւ Յարութեան Տեառն. — Այսաւր յարեաւ...։ Էջ 294. — Կանովն Պենտեկոստէին առաջի ա...։ Էջ 364. — Անձինք Սուրբ Աստուածած-"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "045.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "046.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2005-refine.json",
+    "pipeline_version": "v1"
+  }
+}

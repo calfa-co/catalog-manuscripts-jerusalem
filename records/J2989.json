@@ -1,0 +1,72 @@
+{
+  "id": "J2989",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2989",
+  "notice": "2989",
+  "volume": "Jerusalem_V9",
+  "title": "ՔԵՐԱԿԱՆՈՒԹԻՒՆ (ԳՐԱԲԱՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2989",
+    "no_notice": "1",
+    "titre": "ՔԵՐԱԿԱՆՈՒԹԻՒՆ (ԳՐԱԲԱՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "205",
+    "dimensions": "20 X 15 X 1",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 17 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը եօթ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Քերականութիւն։ Հ.— Ի՞նչ է Քերականութիւնը։ Պ.— Քերականութիւնը շիտակ խօսելու, ուղիղ կարդալու եւ անսխալ գրելու արուեստըն է։ Էջ 4.— Մասն Ա։ Բառագիտութիւն։ Էջ 14.— Յօդուած Բ։ Միջական Անուն։ Էջ 41.— Գիտելիք.— Հ.— Նախադրութեանց վրայ ի՞նչ գիտելիք կայ։ Էջ 58.— Գլուխ Ը։ Միջարկութիւն։ Էջ 61.— Մասն Բ։ Համաձայնութիւն Մասանց Բանի։ Էջ 83 կրկնուած է։ Էջ 92.— Յօդուած Դ։ Խնդրառութիւն Անուանց։\nէջ 104. — Միջական Ածականք։ էջ 112. — Համաձայնութիւն Դերանուանց։ էջ 117. — Գլուխ Ե։ Յօդ. Զ։ Յարաբերական ընդ Յարաբերեալի։ էջ 120. — Գիտելիք. — Գիտնալու է որ նախ՝ յարաբերականը դիմորոշ յօդ չ’առներ ...։ էջ 144. — Մասն Գ։ Ձեւաւոր Շարադրութիւն։ էջ 166. — Ե. — Արտուղութիւն կամ Յեղաշրջութիւն։ էջ 169. — Ազատ Յեղաշրջութիւն։ էջ 174-175, դատարկ։ էջ 176. — Վերծանութիւն։ էջ 180. — Գ. — Տրոհութիւն։ էջ 184-185, դատարկ։ էջ 186. — Ցանկ։ էջ 189-205, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "194.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "195.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2989-refine.json",
+    "pipeline_version": "v1"
+  }
+}

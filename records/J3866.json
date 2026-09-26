@@ -1,0 +1,68 @@
+{
+  "id": "J3866",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3866",
+  "notice": "3866",
+  "volume": "Jerusalem_V11",
+  "title": "ԼՈՒՍԱՆԿԱՐՆԵՐ ԹԻՒ 1798 ԱՒԵՏԱՐԱՆԻ",
+  "date": {
+    "from": "1798",
+    "to": "1798",
+    "display": null
+  },
+  "fields": {
+    "numero": "3866",
+    "no_notice": null,
+    "titre": "ԼՈՒՍԱՆԿԱՐՆԵՐ ԹԻՒ 1798 ԱՒԵՏԱՐԱՆԻ",
+    "date_debut": "1798",
+    "date_fin": "1798",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "28",
+    "dimensions": "24x16",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "եւայլն ըստ նախորդին",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, ըստ նախորդին։ Էջ 2–4, դատարկ։ Էջ 5, ըստ նախորդին, փոքր տարբերութեամբ.— Volume No 1798. Size of page 19x25 cms. Էջ 6, դատարկ։ Էջ 7.— Երկրպագութիւն մոգուց։ Էջ 8.— Ընծայումն Քառասնօրեայ։ Էջ 9.— Մկրտութիւն ի Յորդանան։ Էջ 10.— Պայծառակերպութիւն։ Էջ 11.— Յարութիւն Ղազարու։ Էջ 12.— Մուտք յԵրուսաղէմ։ Էջ 13.— Ոտնալուայ։ Էջ 14.— Վերջին Ընթրիք։ Էջ 15.— Մատնութիւն։ Էջ 16.— Յիսուս Կապեալ։ Էջ 17.— Իւղաբեր Կանայք։ Էջ 18.— Յարութիւն Տեառն։ Էջ 19.— Բուղթ Եւսեբիոսի։ Էջ 20.— Կարպիանոս։ Էջ 21.— Կանոն Ա. յորս չորսն։ Էջ 22.— Կանոն Բ. յորս երեքն։ Էջ 23.— Կանոն Բ, Կանոն Գ։ Էջ 24.— Կանոն Զ. յորս երկուն։ Էջ 25.— Գիրք Ծընընդեան Յի. Քի.։ Էջ 26.— ՅԺԹ.— Եւ ետուն ի ձեռս Պոնտացոյ Պիղատոսի դատաւորի։... Էջ 27.— Սկիզբն Աւետարանի Յի. Քի.։ Էջ 28, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "332.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3866-refine.json",
+    "pipeline_version": "v1"
+  }
+}

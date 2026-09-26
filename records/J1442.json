@@ -1,0 +1,68 @@
+{
+  "id": "J1442",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1442",
+  "notice": "1442",
+  "volume": "Jerusalem_V5",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՅՈՎՀԱՆՆՈՒ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1442",
+    "no_notice": "11",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՅՈՎՀԱՆՆՈՒ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "832",
+    "dimensions": "15x10x7",
+    "mise_en_page": "բնաբանները եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 19 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: չափազանց առատ։ Կարմրաներկ զարդագիր, լուսանցազարդ եւ գլխազարդ էջ 3, 689",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը եւ վերջը երկուական թերթ, մասն երկաթագիր Աւետարանի ; ԿՆԻՔ: սեւադրոշմ, ութանկիւն, փակագիր. «Մարտիրոս Վարդապետ», էջ 3 լս.",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–2, դատարկ։ Էջ 4 .— Գրիգորի Եռամեծի եւ քաջ հըռետորի եւ իմաստասիրի, աշակերտի Յոհաննու Որոտնեցոյ, մակ անուն կախեցոյն ի սէրն Յիսուսի, ի յիղձ բաղձանաց բանասէր անձանց նորին աշակերտաց, արարեալ լուծումն համառօտ. յառաջաբան Աւետարանին Յոհաննու։ Էջ 49 .— Համառօտ Մեկնութիւն Աւետարանին Յոհաննու, նորին Գրիգորի, աշակերտի Յոհաննու Որոտնեցոյ, հաւաքեալ ի հին եւ ի նոր թարգմանչաց, ի խնդրո հաւատարիմ աշակերտաց։ Էջ 689 .— Նորին հաւաքումն երրորդին հատորի Մեկնութեան Աւետարանի։ Էջ 823 .— Արդ զոր ետն խաւսիմ որպէս ասաց ինձ Հայր այն. — Նախ ցուցանէ թէ պատուէրս այս ուղիղ եւ ճշմարիտ է...։ Էջ 827–832, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "139.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1442-refine.json",
+    "pipeline_version": "v1"
+  }
+}

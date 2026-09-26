@@ -1,0 +1,72 @@
+{
+  "id": "J1712",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1712",
+  "notice": "1712",
+  "volume": "Jerusalem_V6",
+  "title": "Շ Ա Ր Ա Կ Ա Ն",
+  "date": {
+    "from": "1678",
+    "to": "1678",
+    "display": null
+  },
+  "fields": {
+    "numero": "1712",
+    "no_notice": "90",
+    "titre": "Շ Ա Ր Ա Կ Ա Ն",
+    "date_debut": "1678",
+    "date_fin": "1678",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "704",
+    "dimensions": "12x8.5x4.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 21 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: եւ խազագրութիւն սովորական։ Կարմրագիծ զարդագիր եւ լուսանցազարդ Կանոններու սկիզբը, մեծ բաժանումները հանդերձ գունաւոր գլխազարդով։ Խորանազարդը իւր սարօք, էջ 257",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ հնացեալ",
+    "etat_conservation": "բաւարար գրեթէ. լուսանցքները ցեցահար",
+    "copiste": "Յովանէս",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "Յովակիմ եւ Աննա, էջ 2, Իւղաբեր Կանայք 256",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը եւ վերջը. առաջինը բոլորգիր, վերջինը երկու թերթ մասն երկաթագիր Աւետարանի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, մագաղաթ.— Բոլորգիր կրօնական բովանդակութեամբ։ Էջ 3, սկիզբէն թերթ ինկած.— ԴԿ. Հ. — Որ զնախագրեալսն...։ Էջ 13–14, մեծագոյն մասը պատռուած։ Էջ 257.— Կանովն Սրբոյ Պատեքին...։ — Այսօր յարեաւ...։ Էջ 669.— Օրհնութենք Յարութեան Տն. Յի. Քի.։\nՅիշատակարան Գրչի.— 1678 էջ 704, վարը, բոլորգիր մանր.— Գըրեցաւ եղանակաւոր տառս թվին ՌՃԻԷ, ի յերկիրս Գերմանիկոյ, ի գեղաքաղաքս ի Զեթուն, ընդ հովանեաւ Սրբուհւոյ Ամէնօրհնեալ Աստուածածնին և Սրբոյն Գրիգորի մեր Լուսաւորչին եւ այլ եկեղեցեացս, ի տաճարացս, ի կաթողիկոսութեան Կիւլիկեցւոց տէր Սահակին, եւ յառաջնորդութեան մեր Վանացս՝ եղբօրս մեր Ստեփանոս Վարդապետի, եւ աշակերտի նորին Մկրտիչ Վարդապետի, ձեռամբ Յովանէս ոչինչ անարժանի, ի խնդրոյ [այսչափ]։\nՅետնագոյն յիշատակագրութիւն.— 1834 էջ 244–255, ստորին լուսանցքին, շեղագիր.— Ի 29 ապրիլ, 1834, ի Աղէքսանդրիայ. Նիկոպօլսեցի Յօհան Վարդապետըս ետու զայս Շարականս [այսչափ]։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "038.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "039.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1712-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J1764",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1764",
+  "notice": "1764",
+  "volume": "Jerusalem_V6",
+  "title": "ՑԱՆԿ ՔԱՐՈԶԳՐՈՑ Յ. ՆԱԼԵԱՆԻ",
+  "date": {
+    "from": "1772",
+    "to": "1772",
+    "display": null
+  },
+  "fields": {
+    "numero": "1764",
+    "no_notice": null,
+    "titre": "ՑԱՆԿ ՔԱՐՈԶԳՐՈՑ Յ. ՆԱԼԵԱՆԻ",
+    "date_debut": "1772",
+    "date_fin": "1772",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "70",
+    "dimensions": "25×19×1",
+    "mise_en_page": "խորագիրը եւ առաջին տառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 40 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ ոսկեդրուագ",
+    "etat_conservation": "լաւ",
+    "copiste": "Գաբրիէլ Վարդապետ",
+    "possesseur": "Գաբրիէլ Վարդապետ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Հայելի որ եւ ցուցակ նշանաւոր բանից Քարոզգրքոյն Տարեկանի, զորս արարեալ և շարադրեալ է լուսահոգի հայրն մեր Յակոբ աստուածաբան պատրիարքն, այբբենական կարգաւ շարահիւսեալ թուով եւ գրով համանշանեցեալք. որոց առաջին թուահամարքն ցուցանեն զերեսս թղթոցն, թէ յորքանում թղթահամարում իցեն այնք բանք։ Երկրորդ հետեւեալ նօտր գիրքն, այբ եւ բեն, ցուցանեն զէջս նոյն երեսացն։ Եւ երրորդապէս հետեւեալ (եթէ յուրեք գտանիցի) նշանագիրն (եւ) ցուցանէ թէ նոյն բանն եւ ի միւս երեսն եւս գոյ։ Անաշխատութեամբ զայս այսպէս իմա եւ զաշխատող ցանկիս յիշեա Հայր մերին։\nՅիշատակարան Գրչի.— 1772 Էջ 70, ստորոտը.— Գոհութիւն եւ փառք եռանձնեայ տէրութեան և միոյ աստուածութեան անբաժանելւոյ, Հօր արարչի, Որդւոյ Միածնի, եւ Հոգւոյն Սրբոյ կենդանատուի եւ առատապարգեւի, որ ետ իմոյս նուաստութեան զկարողութիւն առ ի յաւարտ ժամանեցուցանել ցանկս զայս այբբենական, ի պատիւ եւ ի փառս ամեներանեցեալ Սրբուհւոյ Աստուածածնին, և ի յօգուտ ուսումնասիրաց եղբարց սիրեցելոց, եւ մտերիմ անձանց յատկացելոց։ Աւարտումն այբբենական ցանկիս եղեւ յոգնաջան աշխատասիրութեամբ Գաբրիէլ անպիտան վարդապետիս ի պատրիարքարանըս ամ. Հայոց ի Կոստանդնուպօլսոյ քաղաքի, ի ՌՄԻԱ. թւին, եւ յօգոստոսի Ե։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "125.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1764-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3582Ա",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3582Ա",
+  "notice": "3582Ա",
+  "volume": "Jerusalem_V10",
+  "title": "ԶՕՐԱՎԱՐ ԱՆԴՐԱՆԻԿ",
+  "date": {
+    "from": "1927",
+    "to": "1927",
+    "display": null
+  },
+  "fields": {
+    "numero": "3582Ա",
+    "no_notice": "Ա",
+    "titre": "ԶՕՐԱՎԱՐ ԱՆԴՐԱՆԻԿ",
+    "date_debut": "1927",
+    "date_fin": "1927",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "7+500",
+    "dimensions": "20x12.5x4",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 17 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապոյտ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Հաւաքողը",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Բ, դատարկ։ Նոյնպէս էջ 7, Զ–Է։ Էջ Գ.– Ա– Հատոր։ Էջ Ե.– Զօրավար Անդրանիկ.– Հաւաքեց Շ. Գարահիսարցի Յ. Վրդ. Պարոնեան, Առաքել. Ուխտէն Ս. Յակոբեանց, Երուսաղէմ, 1927։ Էջ Ը.– Փակցուած լուսանկար, ներքեւը գրուած Զօրավար Անդրանիկ, (Շապին Գարահիսարցի 1866–1927)։ Էջ Բ.– Անդրանիկին.– Իբրեւ արծիւ ...։ Էջ 1.– Դրուագ մը Զօր. Անդրանիկի կեանքէն։– Էջ ԶԶ.– Ազգ–Պահակ, Ա. տարի, Թ. 240, 7 օգոստ. 1922 Պոսթոն։ Էջ 25.– Զօր. Անդրանիկի վերջին օրերը։ Էջ 57.– Անդրանիկին.– Սասնոյ լանջքին արծիւները թող փորեն Գերեզման մը հերոսի...։ Էջ 75.– Կենսագրական գիծեր։ Էջ 378.– Աթէնքի Յունական թերթերը Զօր. Անդրանիկի մասին։ Էջ 484 – 495, դատարկ։ Էջ 496.– Ցանկ.– Կը պարունակէ 57 յօդուածներ եւ ոտանաւորներ"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "640.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3582Ա-refine.json",
+    "pipeline_version": "v1"
+  }
+}

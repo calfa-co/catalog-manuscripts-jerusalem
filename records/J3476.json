@@ -1,0 +1,72 @@
+{
+  "id": "J3476",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3476",
+  "notice": "3476",
+  "volume": "Jerusalem_V10",
+  "title": "ԱՒԵՏԱՐԱՆ (ՃԱՇՈՒ)",
+  "date": {
+    "from": "1269",
+    "to": "1269",
+    "display": null
+  },
+  "fields": {
+    "numero": "3476",
+    "no_notice": "1",
+    "titre": "ԱՒԵՏԱՐԱՆ (ՃԱՇՈՒ)",
+    "date_debut": "1269",
+    "date_fin": "1269",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "682",
+    "dimensions": "27x18x8.5",
+    "mise_en_page": "խորագիրները եւ սկզբնատողերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 18, 19 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ ընդհանրապէս. լուսանցքները մասամբ ցեցակեր. նորոգութիւն կրած",
+    "copiste": "Մաթիա",
+    "possesseur": "Րապան Դենհա",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը երեք թերթ",
+    "colophon": "գրչի, թարգմանող S.P. Cowe.— 1269 Էջ 680.— Glory to the Father and to the Son and to the Holy Spirit, now and forever and unto ages of ages. The writing of the Lectionary of the Holy Gospel of the four Evangelists was fully completed in every part in the year of the Greeks 1580 by the hand not free from worldly defilement of a poor, feeble man whose name is not worthy to be written, a humble stammerer, monk in the monastery of Mathai, originating from Bartely, village of believers. Bowing his head, he begs a prayer from every learned brother. If in what you observe and read in this book with the lamps of the body, a skilled reader, you find a clear mistake, set right the weakness in me and correct it according to your ability and in love of prayer cleanse my wretchedness that God may have mercy on me on the day of his second coming. Amen. He wrote it for his sprititual brother Raban Denha bar Bacchus, illustrious superior from Beth—Cudida, the blessed village and famous castle, in the monastery of Mathai, may God give him wisdom and understanding so that it may receive honour in abundance as the land extolled in the book of life. Amen. Ծանօթութիւն թարգմանողի.— Տրուած թուականը՝ Սելեւկեանը 1580 (նուազ 311) հաւասար 1269",
+    "informations_diverses": "Առանձին թերթիկի մը վրայ, շեղագիր.— Աւետարան առօրեայ ընթերցուածոց Գրիչ.— Մաթիա Պարթըլէցի Տեղի.— Մուսուլ Ժամանակ.— ԺԳ. Դար",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "466.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "467.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3476-refine.json",
+    "pipeline_version": "v1"
+  }
+}

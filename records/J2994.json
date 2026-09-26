@@ -1,0 +1,72 @@
+{
+  "id": "J2994",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2994",
+  "notice": "2994",
+  "volume": "Jerusalem_V9",
+  "title": "ՈՒՍՈՒՄՆ ՔՐԻՍՏՈՆԷԱԿԱՆ ՀԱՒԱՏՈՅ",
+  "date": {
+    "from": "1901",
+    "to": "1901",
+    "display": null
+  },
+  "fields": {
+    "numero": "2994",
+    "no_notice": "2",
+    "titre": "ՈՒՍՈՒՄՆ ՔՐԻՍՏՈՆԷԱԿԱՆ ՀԱՒԱՏՈՅ",
+    "date_debut": "1901",
+    "date_fin": "1901",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԶ + 332",
+    "dimensions": "20 X 14.5 X 1.5",
+    "mise_en_page": "կարմիր եւ մանիշակագոյն թանաքներով, միասիւն, 20 տող",
+    "details_ecriture": "սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ նորադրոշմ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Յովսէփ Մ. Մեծատուրեան, Սիմհանիգիւղցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Բ, դատարկ։ Էջ Գ, վերջ.— Ի գրոց Յովսէփ Մ. Մեծատուրեան, Սիմհանիգիւղացւոյ։ Էջ Դ-ԺԲ, դատարկ։ Էջ ԺԳ.— Տիտղոսաթերթ. Համառօտութիւն Ուսման Քրիստոնէական Ուղղափառ Հաւատոյ Հայաստանեայց Առաքելական Սուրբ Եկեղեցւոյ, ծաղկաքաղ, ի պէտս աշակերտաց, հաւաքեաց Մ. Ե. Յ. Մարկոսեան, յամի Տեառն 1895, յԵրուսաղէմ։ Ընդօրինակեաց աշակերտ նորին Սիմհաճիգիւղցի Յովսէփ Մ. Մեծատուրեան, ի Ժառ. Վարժարանի Սրբոց Յակովբեանց, որ յԵրուսաղէմ, 1901, օգս. 1 : Էջ ԺԴ-ԺԶ, դատարկ։\nԷջ 1.— Համառօտութիւն Ուսման Քրիստոնէական Ուղղափառ Հաւատոյ Հայաստանեայց Առաքելական Ս. Եկեղեցւոյ։ Դաս Ա.— Հարցում.— Ի՞նչ է կրօնը։ Պատասխան.— Կրօնքն է պաշտօն առ Ած. որով կը միանայ մարդ Աստուծոյ հետ։ Էջ 5.— Դաս Բ։ Հիմն կրօնի։ Էջ 14.— Դաս Դ։ Հին եւ Նոր Կտակարան։ Էջ 30.— Հանգանակ Հաւատոյ։ Խորհուրդք Եկեղեցւոյ։ Դաս ԺԵ։ Էջ 159.— Դաս ԾԲ։ Խորհուրդք Եկեղեցւոյ։ Էջ 161.— Դաս ԾԳ։ Ա.— Մկրտութիւն։ Էջ 226.— Դաս ՁԱ։ Բարեպաշտական ծէսք Եկեղեցւոյ։ Էջ 307.— Դաս ՃԶ։ Հ. Ո՞րն է վերջաբանը։ Պ. Տէրունական աղօթքին վերջաբանն է, Զի քո է արքայութիւն...։ Էջ 310.— Վերջ։ Էջ 311-312, դատարկ։ Էջ 313.— Ցանկ։ Էջ 316-332, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "197.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "198.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2994-refine.json",
+    "pipeline_version": "v1"
+  }
+}

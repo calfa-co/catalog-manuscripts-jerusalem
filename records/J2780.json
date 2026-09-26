@@ -1,0 +1,68 @@
+{
+  "id": "J2780",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2780",
+  "notice": "2780",
+  "volume": "Jerusalem_V8",
+  "title": "Մ Ա Շ Տ Ո Ց (ՀԱՅՐԱՊԵՏԱԿԱՆ)",
+  "date": {
+    "from": "1778",
+    "to": "1778",
+    "display": null
+  },
+  "fields": {
+    "numero": "2780",
+    "no_notice": "107",
+    "titre": "Մ Ա Շ Տ Ո Ց (ՀԱՅՐԱՊԵՏԱԿԱՆ)",
+    "date_debut": "1778",
+    "date_fin": "1778",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "102",
+    "dimensions": "25x18x1",
+    "mise_en_page": "գլխատառերը կարմիր, մնացեալները սև մելանով, երկսիւն, 28 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ ոսկեդրուագ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "հաւկթաձև, երկաթագիր. «Եղիշէ Եպս. Դուրեան, 1898», էջ 1",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա. — Կանոնն Օրհնութեան Սրբոյ Միւռոնին։ Էջ 32, դատարկ։ Էջ 32-33ի միջև կը տեսնուին արմատները՝ կտրուած երկու թերթերու։ Էջ 33ա. — Իսկ յաւուրն յորում պատշաճի ձեռնադրութիւնն. . .։ Էջ 50բ. — Աստուածային և երկնաւոր շնորհ. . . կոչէ զայս անուն ի քահանայութենէ յեպիսկոպոսութիւն. . .։ Էջ 66ա. — Կանոն Կաթուղիկոս Ձեռնադրելոյ։\nՀին յիշատակարան. — Էջ 84ա, ստորոտը. — Զերջանիկ սուրբ Հայրապետն Հայաստանեաց զտէր Կոստանդին զստացող սորին յիշեսջիք ի Քս. պատահօղք սմին։\nԷջ 84բ. — Կարգաւորութիւն Օրհնութեան Թագաւորի ըստ մեծի Եկեղեցւոյն Հըռոմայ։\nՅիշատակագրութիւնք. — 1. — Էջ 101ա. — Նուաստս Կոստանդին կաթուղիկոս գտայ զշարագրութիւնս հայրապետացն Հայոց գրեալ ձեռամբ սուրբ հօրն մերոյ Ներսիսի արքեպիսկոպոսի Տարսոնի և ետու գրել աստ։\n2. — Նախորդին ներքև. — 1380 Ի մեծ թուիս Հայոց ՊԻԹ ամի, յօգոստոս ամսոյ ԺԵ, ի չորեքշաբաթի օր, հանգեաւ ի Քս. պատուական հայրապետն Հայոց տէր Կոստանդին երկրորդ Լամբրոնացին, որոյ յիշատակ նորին օրհնութեամբ եղիցի։\n3. — Էջ 101բ, բոլորգիր. — Ձեռքն այն չորանայ, և աչքն կուրանայ, ով ոք որ ի սուրբ գրոցս պարապ տեղիքն գրիչ դնելով, այլ ուրիշ իրմէն ի զատ բան գրէ. յանդգնողքըն ընդ կապանօք եղիցին։\n4. — Նախորդին ներքև. — 1778 Վերստին օրինակեցաւ ձեռամբ ծառայ ծառայից Աստուծոյ Յակոբ չնչին Դպիր, թըւին ՌՄԻԷ, օգոստոսի Լ։ Էջ 102, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "422.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2780-refine.json",
+    "pipeline_version": "v1"
+  }
+}

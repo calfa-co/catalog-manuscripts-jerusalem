@@ -1,0 +1,72 @@
+{
+  "id": "J2310",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2310",
+  "notice": "2310",
+  "volume": "Jerusalem_V7",
+  "title": "Թ Ո Ւ Ղ Թ Ք   Պ Ա Ւ Ղ Ո Ւ Ի",
+  "date": {
+    "from": "1628",
+    "to": "1628",
+    "display": null
+  },
+  "fields": {
+    "numero": "2310",
+    "no_notice": null,
+    "titre": "Թ Ո Ւ Ղ Թ Ք   Պ Ա Ւ Ղ Ո Ւ Ի",
+    "date_debut": "1628",
+    "date_fin": "1628",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ժ+204",
+    "dimensions": "18x11x2",
+    "mise_en_page": "խորագիրները, սկզբնատառերը եւ մասամբ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, կարմիր գիծերու միջեւ, 25 տող",
+    "details_ecriture": "սովորական գրեթէ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "դեղնորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "բաւարար. նորոգութիւն կրած. լուսանցքի ցեցահարութիւն թեթեւ",
+    "copiste": "Ծերիկ Դպիր, որդի Նիկոլի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "գլխազարդ եւ լուսանցազարդ, էջ 5, 19",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Ե, այլ գրչութեամբ, զանազան հատուածք։ Էջ Զ-Ժ, դատարկ։ Նոյնպէս էջ 2-4։ Էջ 5ա.— Յառաջաբան Պօղոսի Առաքելոյն, նախակարգեալ ի գլուխս գրոցն.— Ընդ ուսումնասէր...։ Էջ 19ա.— Գլուխք Հռովմայեցւոց Թղթոյն Պաւղոսի Առաքելոյն.— Պօղոս ծառայ Յի. Քի. կոչեցեալ առաքեալ...։ Էջ 49ա.— Առ Կորնթացիս յառաջին թուղթ...։\nԷջ 55-56, սպիտակ նոր նուղթ, այլ գըրչութիւն, նոտրագիր մանր։ Էջ 78ա. — Առ Կորնթացիս երկրորդ...։ Էջ 187ա. — Առ Փիլիմոն եւ առ Աբբիպաս սարկաւագ եւ առ Ապիա։ Էջ 188բ. — Գրեցի եւ կարգեցի ըստ կարի ստիբերոսն զգիրս Պաւղոսի Առաքելո...։\nՅիշատակագրութիւնք. — 1. Էջ 1, բոլորգիր. — Մեղաւոր Ծ[ե]-ր[ե]նկ Դպիր, թվ. ՌՀԷ, Հոկտ. Թ.։ Domine conserua nos in pace. — Աւելի վարը, նոտրագիր. — Թվ. ՌՀԷ գրեցաւ գիրս. Ծ[ե]ր[ե]նկ Դպիր որդի Նիկօլին։\n2. Էջ 189բ, ստորոտը, շեղագիր. — Յիշատակ է ի Սբ. յԵրուսաղէմ, ի դուռն Սբ. Յակոբայ, թվ. ՌՃԷ [= 1658]։ Էջ 190-204, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "452.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "453.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2310-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J3023",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3023",
+  "notice": "3023",
+  "volume": "Jerusalem_V9",
+  "title": "Ս Ա Ղ Մ Ո Ս",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3023",
+    "no_notice": "67",
+    "titre": "Ս Ա Ղ Մ Ո Ս",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "556",
+    "dimensions": "15X10.5X5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 17 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի։ Կարմրագիծ կամ գունաւոր զարդագիր եւ լուսանցազարդ՝ գուրզաներու սկիզբը, կանոնները հանդերձ գլխազարդով։ Կարմրագիծ խորանազարդ իւր սարօք, էջ 1",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ",
+    "nb_lignes": null,
+    "reliure": "սպիտակեայ հնամաշ",
+    "etat_conservation": "անբաւարար. կարգ մը ԹԵՐԹՔ փրթած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "1.— Ա.— Երանեալ է այր...։\nէջ 3. — Հանգիստ. այսինքն մտաց ինչ այլայլել կամ ձայնի փոփոխում։ էջ 59. — ԺԸ. — Ի Կատարած. Սաղմոս ի Դաւիթ. — Երկինք պատմեն զփառս Աստուծոյ...։ էջ 124. — ԼԶ. — Սաղմոս ի Դաւիթ. — Մի' նախանձիր ընդ չարս...։ էջ 198. — ԾԵ. — Սաղմոս ի Դաւիթ. — Ողորմեաց ինձ Աստուած...։ էջ 261. — ՀԲ. — Պակասեցին աւրհնութիւնք ի Դաւթէ որդւոյ Յեսսէ. Սաղմոս յԱսափ. — Իբրեւ զի բարի է...։ էջ 333. — ՁԹ. — Աղաւթ ի Մովսէս ի այրըն Աստուծոյ. — Տէր ապաւէն եղեր մեր...։ էջ 396. — ՃԶ. — Սաղմոս ի Դաւիթ. — Խոստովան եղերուք Տեառն զի քաղցր է...։ էջ 463. — ՃԺԹ. — Աւրհնութիւն Աստիճանաց. — Ի նեղութեան իմում ես առ Տէր կարդացի...։ էջ 518-519. — Աղօթք Ամբակումայ Մարգարէին. — Տէր զլուր քո լուայ եւ երկեայ...։ էջ 520-521ի միջեւ ինկած մէկ թերթ։ էջ 529. — Խոստովանութիւն Մանասէի թագաւորի. — Տէր ամենակալ...։ էջ 538. — Երգ երից Մանկանց։ էջ 546. — Աղօթք Տեառն Ներսեսի. — Հաւատով խոստովանիմ...։ էջ 555. — Փառաւորեալ Տէր...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "233.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "234.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3023-refine.json",
+    "pipeline_version": "v1"
+  }
+}

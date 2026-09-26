@@ -1,0 +1,72 @@
+{
+  "id": "J2960",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2960",
+  "notice": "2960",
+  "volume": "Jerusalem_V9",
+  "title": "ԻՄԱՑԱԿԱՆ ՓԻԼԻՍՈՓԱՅՈՒԹԻՒՆ",
+  "date": {
+    "from": "1868",
+    "to": "1868",
+    "display": null
+  },
+  "fields": {
+    "numero": "2960",
+    "no_notice": null,
+    "titre": "ԻՄԱՑԱԿԱՆ ՓԻԼԻՍՈՓԱՅՈՒԹԻՒՆ",
+    "date_debut": "1868",
+    "date_fin": "1868",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԶ+266",
+    "dimensions": "18X11X2",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 22 տող կամ պակաս, սեւ գիծերու միջեւ",
+    "details_ecriture": "մաքուր։ Լաթակազմ խաւաքարտեայ մաշած",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Կարապետ Գ. Զեմենճեան, Զմիւռնիացի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–ԺԲ, դատարկ: Էջ ԺԳ.— Ճակատ. Իմացական Փիլիսոփայութիւն կամ Հոգեբանութիւն, ծաղկաքաղ հաւաքեալ համառօտեաց Յարութիւն Պ. Զինճիճեան, 1866, յԵրուսաղէմ, ի Վանս Սրբոց Յակովբեանց: Էջ ԺԴ, դատարկ: Էջ ԺԵ.— Նուէր (Նորին) Ամենապատիւ Տ. Տ. Եսայի սրբազան պատրիարք բարեխնամ Հօր: Օրինակեաց Ն. Կարապետ Գ. Զեմենճեան, Զմիւռնացի, ձուլիչ տպարանին Սաղիմայ, 1868, Դեկ. 10: Էջ ԺԶ.— Եթէ ոք գնայ ի տուընջեան ոչ գայթակղի:\nԷջ 1.— Առաջին Հոգեբանութիւն: Հ.— Ի՞նչ է տրամաբանութիւնը: Պ. Տրամաբանութիւնը արհեստ մըն է, որ մարդուս իմացական կարողութիւնը ուղղելու կանոն կու տայ...: Էջ 2.— 1.— Հ. Ի՞նչ է Հոգին: Պ. Հոգին պարզ էակ մըն է, որ ունի շատ ներգործութիւններ...: Էջ 3.— 2.— Իմացականութիւն: Էջ 6.— 3.— Զգայութիւն: Էջ 14.— Երկրորդ.— 6.— Ունակութիւն: Էջ 16.— Երրորդ.— 7.— Վերըմբռնումն: Էջ 56.— 1.— Զգացողութիւն: Էջ 189.— Ա.— Բարոյական հաւանութեան եւ անհաւանութեան շարժութիւնները: Բարոյական զգացողութեանց կարգը: Էջ 216.— Ե.— Բարոյական դաստիարակութիւն: Հ.— Բարոյական դաստիարակութիւնը ոչինչ սեպողներ գտնուա՞ծ են: Էջ 226.— Վերջ: Յաղթանակ աշխատութեանս.— Կ. Զմիւռնձուլիչ: Էջ 227–266, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "172.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "173.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2960-refine.json",
+    "pipeline_version": "v1"
+  }
+}

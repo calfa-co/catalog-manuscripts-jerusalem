@@ -1,0 +1,72 @@
+{
+  "id": "J2032",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2032",
+  "notice": "2032",
+  "volume": "Jerusalem_V7",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (ՄԱՍՆԱԿԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2032",
+    "no_notice": "22",
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (ՄԱՍՆԱԿԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "540",
+    "dimensions": "21 X 16 X 3.5",
+    "mise_en_page": "սեւ մելանով",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": "Ա — ԺԲ (էջ 1 — 284)",
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ ոսկեդըրուագ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "առհասարակ, տեղտեղ կան կարմիր գլխատառեր, միասիւն, 28 տող",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Քարոզ ՁԵ.— Մեծի Պահոց Բարեկենդանի Կիրակէին։ Նախ առ Բանն Եսայեայ. Գոչեա զօրութեամբ եւ մի խնայեր...։ Մասն Առաջին.— Պատուիրէ Ած. քարոզչաց, ի սկզբան պահոց կոչել զժողովուրդըս ի խոստովանութիւն...։ Հրամայեաց Ած. Մովսէսի առնել երկու արծաթի փողս կոածոյս...։ Էջ 34. դատարկ, անմաքուր։ Էջ 285.— Քարոզ ՃԼ.— Աւագ չորեքշաբաթին, ի խորհուրդ մատնութեանն Քըրիստոսի։ Էջ 520.— Քարոզ ՃԺԵ.— Եօթներորդ Կիրակէի զկնի սրբոյ զատկին երկրորդ ծաղկազարդին...։ Մասն առաջին.— Որպէս զկնի յարութեանն Ղազարու եկն Յիսուս յԵրուսաղէմ ի տօնի Զատկին...։\nՅիշատակագրութիւն Հեղինակի.— Էջ 534.— Ի պարգեւաց Հոգոյն Սրբոյ աւարտեցաւ Կիրակէից Քարոզագիրքս յամի Տեառն 1758. եւ Հայոց ՌՄԷ. յունիսի ամսոյ ԺԹ. ի տօնի Սրբոյն Յօհաննու Մկրտչի եւ Աղանագինեայ եպիսկոպոսի, ի փառս եռանձնեայ եւ միոյ Աստուածութեանն՝ Հօր եւ Որդւոյ եւ Հոգւոյն Սրբոյ, եւ ի պատիւ ամենօրհնեալ մօրն Յիսուսի եւ Աստուածածին կուսի, իմոյ յատկական այցելուի եւ բարեխօսի, եւ Սրբոյն Յօհաննու Մկրտչի, եւ ամենայն Սրբոց, Ամէն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "108.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "109.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2032-refine.json",
+    "pipeline_version": "v1"
+  }
+}

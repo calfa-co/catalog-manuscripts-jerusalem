@@ -1,0 +1,68 @@
+{
+  "id": "J1846",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1846",
+  "notice": "1846",
+  "volume": "Jerusalem_V6",
+  "title": "ԲՈՒՐԱՍՏԱՆ Ս. ԵՐՈՒՍԱՂԷՄԻ",
+  "date": {
+    "from": "1839",
+    "to": "1839",
+    "display": null
+  },
+  "fields": {
+    "numero": "1846",
+    "no_notice": "5",
+    "titre": "ԲՈՒՐԱՍՏԱՆ Ս. ԵՐՈՒՍԱՂԷՄԻ",
+    "date_debut": "1839",
+    "date_fin": "1839",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "22x16: Էջք Դ+50: Հանգամանք լաւ: Թուղթ հասարակ դեղնորակ: Գրիչ եւ Ստացող՝ Դաւիթ Վրդ. Կարնեցի: Գրութիւն՝ ամբողջովին սև մելանով, միասիւն, 25 տող: Շեղագիր: Համառօտագրութիւնք սովորականէն աւելի: Կազմ կիսակաշի խաւաքարտեայ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Բ, դատարկ: Էջ Գ.— Ճակատ.— Բուրաստան Սբ. Երուսաղէմի, յօրինեալ ի պատիւ Սրբազան Տեղեացն Քի. Այ. մերոյ, ի տէր Պօղոս սրբազան արքեպիսկոպոսէ եւ պատրիարքէ մեծին Պօլսոյ, որ կայ եւ մնայ այժմ ծայրագոյն կառավարիչ եւ խորհրդական Սրբոյ Աթոռոյս ազգընտիր տնօրինմամբը գերամեծար ազգապետ ամիրայից, ի պայծառութիւն Սրբոց Վայրացս Տէրունեան: 1839, յապրիլ 23, յԵրուսաղէմ: Եւ այժմ օրինակեցաք ի բուն գաղափարէն ի վայելս մերում նուաստութեան, եւ եղբարց սրբոց բարեխնամ աստուածագումար միաբանութեանս երկնահանգստ մայր աթոռոյս Սրբոց Յակոբեանց, ծառայ միաբան Սբ. Երուսաղէմի Դաւիթ Վրդ. Կարնեցի: Էջ Դ, դատարկ:\nԷջ 1.— Յառաջաբանութիւն Հեղինակին.— Ո տայր աւետիս Ադամայ նախաստեղծին...: Էջ 9.— Գլուխ Առաջին. Յաղագս թէ Սբ. Երուսաղէմ է նախնական եւ վախճանական բնակութիւն մարդոյ: Էջ 18.— Գլուխ Երկրորդ: Յաղագս թէ Սբ. Քաղաքս Երուսաղէմ նման է երկնից: Էջ 37-38, դատարկ:\nԷջ 39, տարբեր թուղթ.— Քարոզ, ըը նաբան, Շնորհք, եւ ճշմարտութիւն ի ձեռն Յի. Քի. եղեւ: Էջ 45.— Քարոզ. խնդիր. Արդեօք յամենայն ժամ համբերել պարտ է: Էջ 46-50, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "247.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1846-refine.json",
+    "pipeline_version": "v1"
+  }
+}

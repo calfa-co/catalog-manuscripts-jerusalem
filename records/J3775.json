@@ -1,0 +1,68 @@
+{
+  "id": "J3775",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3775",
+  "notice": "3775",
+  "volume": "Jerusalem_V11",
+  "title": "ՑՈՒՑԱԿ ԳՐՉԱԳԻՐ ՄԱՏԵՆԻՑ",
+  "date": {
+    "from": "1857",
+    "to": "1857",
+    "display": null
+  },
+  "fields": {
+    "numero": "3775",
+    "no_notice": null,
+    "titre": "ՑՈՒՑԱԿ ԳՐՉԱԳԻՐ ՄԱՏԵՆԻՑ",
+    "date_debut": "1857",
+    "date_fin": "1857",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "52",
+    "dimensions": "35X23",
+    "mise_en_page": "կապոյտ եւ սեւ մելաններով, երկսիւն, 48 տող, երբեմն նուազ, սեւ գիծերու միջեւ։ Նոտր շեղագիր",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "գունաւոր թուղթ։ Կարմրադրոշմ կնիք, \"ՅԻ. ՔԻ. ծառայ Յովհաննէս Պատրիարք Սբ. Եէմի. ՌՄՂԹ\" [=1850], էջ 3ա, 31ա",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Պիտակ առաջին կողքին երեսը փակցուած։ Ցուցակ գրչագիր մեծ եւ փոքր զանազան մատենից Թանգարանի Վերծանութեան Սբ. Աթոռոյս Եէմի, որք հրամանաւ Տն. Տն. Յովհաննու Ամենապատիւ Վեհափառ Սրբազան Պատրիարքի, թուով 958, ինն հարիւր յիսուն եւ ութ հատոր ի գրքատանէ փոխադրեցան ի Թանգարանն, Յ, երեք ի Սեղա[նա]տանէն, 29, քսան եւ ինն ի Բեթղէհէմէ, եւ 14 տասն եւ չորս ի նորին Վեհափառութենէն ընծայեցան, որք միահամուռ ամ. լինին 1004, հազար եւ չորս հատորս .— 1857, նոյեմբեր։ Էջ 1—2, դատարկ։ Էջ 3ա.— Ա.— Աղամգիրք, ոտանաւոր... գրեալ ի թուին ՌՃԺԷ։ Էջ 6ա.— Բ.— Բան Վասն Հաւատոյ Պօղոս եպս.ի Նախջիւ. առ Շահաբաս։ Էջ 28բ.— Զ.— Քարոզից նիւթք հաւաքեալ ի Սբ. Գրոց ըստ յարմարութեան մտաց միմեանց...։ Էջ 31ա.— Օ.— Օրէնք եւ Սրվորութիւնք Եբրայեցւոց...։\n31ա.— Ցուցակ գրչագիր մեծ եւ փոքր զանազան մատենից ... հազար եւ չորս հատորս.— 1857, նոյեմբեր։ Էջ 31բ—52, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "234.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3775-refine.json",
+    "pipeline_version": "v1"
+  }
+}

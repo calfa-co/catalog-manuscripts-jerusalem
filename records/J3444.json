@@ -1,0 +1,72 @@
+{
+  "id": "J3444",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3444",
+  "notice": "3444",
+  "volume": "Jerusalem_V10",
+  "title": "ԿՏԱԿ ՄԵԾԻ ՈՒՐԲԱԹՈՒ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3444",
+    "no_notice": null,
+    "titre": "ԿՏԱԿ ՄԵԾԻ ՈՒՐԲԱԹՈՒ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ա-Դ+80+Ե-Ը",
+    "dimensions": "18X13X1.5",
+    "mise_en_page": "խորագիրը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 20 տող, կարմիր գիծերու միջեւ։ Նոտր շեղագիր",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ գծադըրրոշմ հնամաշ",
+    "etat_conservation": "անբաւարար. վարի մասը վընասուած կրակէ եւայլն",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Դ, զանազան մանրուք։ Էջ 1.— Կտակ Խաչելութեանն Քի. Այ. մերոյ.— Ով օր դառնութեան եւ սգոյ, ով գիշեր կսկծալի եւ ողբալի...։— Հմմտ. թիւ 3077, Թ. Հատոր, էջ 294։ Էջ 79.— Ողբ ընդդէմ Միածնի.— Այ իմ որդեակ գառն անպարտական...։ Էջ 80.— Գիրքս այս շարադրեցեալ ի Յակոբայ տեառն աստուածաբան վարդապետէ,\nեւ զանազան ի գրոց սրբոց հաւաքեցեալ։ էջ Ե–Ը, զանազան մանրուք։\nՅիշատակագրութիւնք անհարթ գրերով.— 1.— էջ Բ, վերը, նոտր շեղագիր.— Յիշատակ է այս կէտակ Գիրքս Զիմայոցի յԱնէմ օղլի Մօմսէյսին որդիքայ տիրացու Յարութիւն եւ տիրացու Գիրգորին։ Յօվ որ հանդիպի նէյ թօյղ մէկ մէկ հայր մեղայ այսէ. Ած. իւր մեղքայ չի յիշէյ ամէն։ Յայս գիրս տիրացու Խուկաս գրեց։ 2.— էջ Զ, վերը.— Յիշատակ է այս կէտակէս Զիմառայցի Մոմսէսին յորդոյն տիրացու Յարութէնին։ Յով օր կարդայ մէկ հայր մեղամ յէսէ. Ած. յողորմի ամէն։ 3.— էջ Գ, վերը.— Յիշատակ է այս կէտակ Գիրքես Զիմայոցի վարի վարդենց ուստայ? Մելքօնի օրդին Յօհաննեսին։ Յօվ օր հանդիպի նէյ թօյղ մէկ հայր մեղայ այսէյ. Ած. իւր մեղքայ չի յիշէյ ամէն։ 4.— էջ Ը, վերը.— Պատճառ գրոյ այս է որ ես Յոհաննեսի որդի ոսկերիչ տիրացու յապկարես ի թվին Հայոց ՌՃՃԱ, ապրիլի Ի առի յոսկե(րե)րիչ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "410.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "411.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3444-refine.json",
+    "pipeline_version": "v1"
+  }
+}

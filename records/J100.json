@@ -1,0 +1,72 @@
+{
+  "id": "J100",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "100",
+  "notice": "100",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՀՆԳԱՄԱՏԵՆԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "100",
+    "no_notice": "1",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՀՆԳԱՄԱՏԵՆԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "44 + 1442",
+    "dimensions": "32 x 21 x 10",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 45-40 տող։ Նոտր շեղագիր կանոնաւոր",
+    "details_ecriture": "շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ ոսկեզօծ։ Թղթեայ պահպանակք՝ սկիզբը հինգ թերթ, լատիներէն հին գիրքերու նկարազարդ տպեալ տիտղոսաթերթեր, վերջը՝ երեք թերթ դատարկ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Գովասանութիւն Սուրբ Գրոց։ Առաջին բաժանումն։ Զգաղափարէ նորին, զարժանապատուութենէ, առարկայէ, հարկաւորութենէ, պտղոյ, լայնութենէ, դըժուարութենէ, օրինակէ, կարգէ, և դտրամադրութեանց։ Էջ 19.— Երկրորդ բաժանումն։ Զկիրարմանէ։ Էջ 27.— Երրորդ բաժանումն։ Ով և որքան Մօսէս։ Էջ 44ի և 1ի միջեւ, երկար թերթի մը վրայ.— Ժամանակագրութիւնք աշխարհի, կամ բոլոր Հնոյ Կտակարանի, յԱդամայ մինչեւ առ Քրիստոս։ Էջ 1.— Մեկնութիւն Ծննդոց, Գլուխ Առաջին։ Համար, կամ կարգ գլխոց։\nէջ 401-404, դատարկ : էջ 405 — Մեկնութիւն Ելից : էջ 806-812, դատարկ : էջ 813 — Մեկնութիւն Ղեւտացւոց : էջ 1051-1052, դատարկ : էջ 1053 — Մեկնութիւն Թուոց : էջ 1261 — Մեկնութիւն Երկրորդ Օրինաց :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "328.jpg"
+    },
+    {
+      "volume": "Jerusalem_V1",
+      "file": "329.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "100-refine.json",
+    "pipeline_version": "v1"
+  }
+}

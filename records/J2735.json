@@ -1,0 +1,68 @@
+{
+  "id": "J2735",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2735",
+  "notice": "2735",
+  "volume": "Jerusalem_V8",
+  "title": "ԿՏԱԿ ԱՒԱԳ ՈՒՐԲԱԹՈՒ",
+  "date": {
+    "from": "1788",
+    "to": "1788",
+    "display": null
+  },
+  "fields": {
+    "numero": "2735",
+    "no_notice": null,
+    "titre": "ԿՏԱԿ ԱՒԱԳ ՈՒՐԲԱԹՈՒ",
+    "date_debut": "1788",
+    "date_fin": "1788",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "184",
+    "dimensions": "23×18×2",
+    "mise_en_page": "սևորակ մելանով, միասիւն, 29-36 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ գծազարդ մաշած",
+    "etat_conservation": "բաւարար",
+    "copiste": "Ոմն Գրիգոր",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը մէկ թերթ",
+    "colophon": null,
+    "informations_diverses": "սևադրոշմ փակագիր. «Կիրակոս Վարդապետ, 1256» [= 1807], էջ 1, 176",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1.— Ի լուսանորոգ մթութեան խնդրակատար գիշերիս և ի բերկրութ թ տրտմութեան հրաշալի Ուրբաթուս...։ էջ 176.— ...Եւ ես զփառսն զոր ետուր ինձ ետու նոցա, զի իցեն մի որպէս և մեք մի եմք։ Որոյ պաշտելի միութեանն փառք պաշտօն և երկրպագութիւն ի միացելոցս յօդիւ հաւատոյ առ միութիւնդ անճառելի։\nԳրեցաւ ի օրինակէ հեղինակին, ձեռամբ ուրումն Գրիգորի, ի թուին ՌՄԼԷ [= 1788], մարտի 20։ էջ 177-184, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "382.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2735-refine.json",
+    "pipeline_version": "v1"
+  }
+}

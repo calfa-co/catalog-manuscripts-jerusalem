@@ -1,0 +1,68 @@
+{
+  "id": "J1542",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1542",
+  "notice": "1542",
+  "volume": "Jerusalem_V5",
+  "title": "ԱՆԳԻՏԱՑ ԱՆՊԷՏ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1542",
+    "no_notice": "2",
+    "titre": "ԱՆԳԻՏԱՑ ԱՆՊԷՏ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "152",
+    "dimensions": "15.5x10x1",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, լուսանցքներն ալ գրութեամբ լեցուն եւ խճողեալ",
+    "details_ecriture": "չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "անարուեստ",
+    "etat_conservation": "ոչ գոհացուցիչ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 . — Ապուխտ, որ է նամաքսուտան . . . ։ Էջ 5 . — Բարունճ, որ է պապունճն, որ է իրիցուկն, որ է գետնի խնձորն . . . ։ — Հմմտ . Ամիրտովլաթ, Անգիտաց Անպէտ, Վիեննա, 1926, էջ 102։ Էջ 15 . — Գարի, որ յ չէր ասէ, եւ պ ճաւ, բ արփա, եւ ինքն բ ցեղ լինի . . . ։ Էջ 25 . — Դաղձ, որ է յ ֆութանաճն, եւ պ պուտինայ . . . ։ Էջ 36 . — . . . եւ ես անպիտան Ամիրտօլվէթս, ծառայ Քրիստոսի, սակաւիկ դըրեցի վասն մատնէհար կաւին, ի թվաբերութեան Հայոց ՋԻԹ ամին, ի թագաւորութեան սուլթան Մուհամատ խանին, որ կայ ուր նստել ի Կոստանդինուպօլիս . . . ։ — Հմմտ . նոյն, էջ 126։ Էջ 37 . — Եասամինն Գ ազգ է, լաւն այն է որ սպիտակ լինի . . . ։ Էջ 42 . — Զաճ, որ հ րասով սովատպ ասեն . . . ։ Էջ 69 . — Բողխանն Բ ցեղ կու լինի, վայրի եւ ածվոց . . . ։ Էջ 73 . — Թաշմիզաճ, եւ պ չասմիզաճ, եւ չասմակ այլ կասեն . . . ։ Էջ 81 . — Իսղիրն, որ է իսկիլն, որ է մկնոսին . . . ։ Էջ 88 . — Լապան, որ է կաթն, ինքն ցեղցեղ է . . . ։ Էջ 102 . — Խարըլտէկ, ու տուճաճ, որ է հաւուն եւ խօսողին ծիրտն . . . ։ Էջ 120 . — Ծներեկ, որ է հալիոնն, ինքըն Գ ցեղ է . . . ։ Էջ 121 . — Կուրկի, որ է պ քարկատանըն . . . ։ Էջ 121 . — Հաշայ, որ բ այս խոտիս տուկմայյուճայ ասիւր ասեն . . . ։ Էջ 134 . — Ձուկն, յ սամաք ասեն . . . ։ — Թուղթերը սխալ տեղաւորուած են . շարունակութիւնը կը գտնուի էջ 145։ Էջ 135 . — Հաճյ, որ է կաքաւն . . . ։ Էջ 144 . — Համամայ, ինքն ծառ մնէ . . . ։ Էջ 146 . — Ձմերուկն, որ պատտիխի ղիխին . . . ։ Էջ 146 . — Ղար, որ ֆ լաուրի ասեն . . . ։ Էջ 151 . — Ղարանֆուլ, ինքն հնտի եասիմինն է . . . ։ — Հմմտ . նոյն, էջ 288։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "320.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1542-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J3551",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3551",
+  "notice": "3551",
+  "volume": "Jerusalem_V10",
+  "title": "ԺՈՂՈՎԱԾՈՅ (Կրօնական)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3551",
+    "no_notice": null,
+    "titre": "ԺՈՂՈՎԱԾՈՅ (Կրօնական)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "98",
+    "dimensions": "20x14.5x1",
+    "mise_en_page": "այլազան, նոտր շեղագիր",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": "սրճագոյն թուղթ",
+    "etat_conservation": "անբաւարար, վնասուած հնութենէ. առաջին կէսին վարի կողմը մկնակեր, սկիզբը եւ վերջը թերի",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, Պրակ Ժ.— Ննջման Աստուածամօրն Աւրհնելոյն։ Էջ 11.— Ի բանն որ ասէ. Ի Զ ից վշտաց փրկեցից զքեզ։ Էջ 21.— Աւտար եղէ ես յեղբարց իմոց եւ հիւր որդոց մօր իմոյ։ Էջ 36.— Վասն երկոտասան պարգեւաց մարդոյս։ Էջ 42.— Նախերգանք։ Էջ 47.— Ի բան Սողոմոնի՝ Տէր ամբարտաւանից հակառակ կայ, տայ զշնորհս խոնարհաց, եւայլն։\nէջ 51.— Ի բան Աւետարանին որ ասէ. Արիք գնասցուք աստի։ էջ 59.— Քառասնօրեայ ի Տաճարն։ էջ 61, պրակ ԺԲ.— Թագաւորք Պարթեւաց, որ կոչին Արշականիք։ էջ 63.— Հարցմունք.— Յունաց գիրն ով է արարեալ...։ էջ 69.— Հրց. Զի՞նչ է Պսակն։ էջ 70.— Քարոզ Քահանային Ձեռնադրութեան։ էջ 73.— Արտաքին Գիրք որ ի դաս մտանե։ էջ 77, պրակ ԺԳ.— Հարցմունք։ էջ 83.— Դիւրագոյն մարզեցումն եւ կե[ր]պ խոստովանութեան։ էջ 92.— Կերպ խոստովանութեան։ էջ 96.— Շուրջ զպատգամաւն։ Մի սուտ վկա[յ]եր։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "548.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "549.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3551-refine.json",
+    "pipeline_version": "v1"
+  }
+}

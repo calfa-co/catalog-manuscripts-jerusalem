@@ -1,0 +1,68 @@
+{
+  "id": "J2819",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2819",
+  "notice": "2819",
+  "volume": "Jerusalem_V9",
+  "title": "ՈՒՂԵՒՈՐՈՒԹԻՒՆ ԳՐԻԳՈՐ ՊԱՏՐԻԱՐՔԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2819",
+    "no_notice": null,
+    "titre": "ՈՒՂԵՒՈՐՈՒԹԻՒՆ ԳՐԻԳՈՐ ՊԱՏՐԻԱՐՔԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "31",
+    "dimensions": "20.5X12",
+    "mise_en_page": "սեւ մելանով, միասիւն, 23 տող",
+    "details_ecriture": "անհարթ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "չունի։",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Կողքի առաջին երեսին, շեղագիր վարժ, սեւորակ մելանով. Ուղեւորութիւն Տեառն Գրիգորի Պատրիարքի Շղթայակրի յԵրուսաղէմէ ի Կոստանդնուպօլիս, որ եւ հրատարակեցաւ ի Սիօն Հանդիսի, Ա. Տարի, թ. 8, 9, 10, 1866։ Գրեալ է աստ եւ վէճն որ եղեւ ընդ լատինաց ի թվ. 1742, հոկտեմբեր 16։ Ներքեւը, մանիշակագոյն թանաքով, շեղագիր տարբեր. Երջանկայիշատակ Տ. Գրիգոր Շղթայակիր Ս. Պատրիարքին իսկական ձեռամբ գրուած։\nԷջ 1.— Ի թվ. ՌՃՁԳ ամին, ի նոյեմբերի ամսոյ ԺԱ օրն...։ Վերջին երկու թերթերը դատարկ եւ առանց իջաթիւի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "055.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2819-refine.json",
+    "pipeline_version": "v1"
+  }
+}

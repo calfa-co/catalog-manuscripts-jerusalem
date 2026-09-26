@@ -1,0 +1,68 @@
+{
+  "id": "J3377",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3377",
+  "notice": "3377",
+  "volume": "Jerusalem_V10",
+  "title": "Տ Օ Ն Ա Ց Ո Յ Ց",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3377",
+    "no_notice": "82",
+    "titre": "Տ Օ Ն Ա Ց Ո Յ Ց",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "334",
+    "dimensions": "11.5X8.5X3",
+    "mise_en_page": "խորագիրներ, սկզբնատողեր, եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 15 տող։ Նոտր շեղագիր",
+    "details_ecriture": "առատ։ Կարմիր կապոյտ գլխազարդ իւր սարօք, էջ 1",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ հնամաշ",
+    "etat_conservation": "համարեա բաւարար. վնասուած հնութենէ ե— գործածութենէ. կան փրթած ԹԵՐԹՔ. վերջով թերի",
+    "copiste": "Գրիգոր Երէց",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Աստուածայայտնութեան Ճրագալուցին գիշերն...։ Էջ 12–13ի միջեւ թերթ ինկած։ Էջ 37.— Այլ խրատ պիտանի.— Բայց զայս գիտասջիր, զի յորժամ ա'յբ լինի գիր տարւոյն...։ Էջ 66.— Ծաղկազարդի Արմաւենեաց կիրակի գիշերն հսկումն է...։ Էջ 75.— Ով տօնասէրք, եթէ կամիք դըռնաբաց առնել, այսպէս արասջիք։ Էջ 81–82, տարբեր թուղթ եւ գրչութիւն։ Էջ 102–103ի միջեւ թերթ ինկած։ Նոյնպէս 124–127ի միջեւ։ Էջ 140.— Նոր Կիրակէին գիշերն հսկումն է...։ Էջ 198.— Փոխման Սբ. Աստուածածնին գիշերն հսկումն է...։ Էջ 211.— Խաչվերացի գիշերն հսկումն է...։ Էջ 230–231ի միջեւ թերթ ինկած։ Էջ 259.— [Ա]լելուք գիշերային կարգաւ։ Էջ 292.— Ճաշու Ալելուք կարգաւ։ Էջ 305.— Մեսեդի Յարութեան։ Էջ 314.— Խրատք Աւետարանացն Իւղաբերից, Բժշկութեան, եւ Հանգստեան։ Էջ 317.— Ժամամուտք կարգաւ...։ Էջ 334.— Գրի.։— Գրիգոր Սբ. Քահանայապետ...։\nՄանր յիշատակագրութիւն Գրչի.— Էջ 124, ստորոտը.— Եւ զանարժան Գրիգոր երէցս յիշեա ի Տէր, ով եղբայր բարի։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "267.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3377-refine.json",
+    "pipeline_version": "v1"
+  }
+}

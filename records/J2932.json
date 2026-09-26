@@ -1,0 +1,72 @@
+{
+  "id": "J2932",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2932",
+  "notice": "2932",
+  "volume": "Jerusalem_V9",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2932",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ+48+138",
+    "dimensions": "14X10X1",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 14 տող",
+    "details_ecriture": "վարժ։ Լաթակազմ խաւաքարտեայ նորագրոշմ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Դ, դատարկ։ Էջ Ե.— Վանգոյժ, կուց մի ջուր իւր այրած Հայրենեաց վերայ կը սրսկէ Խրիմեան Հայրիկ, Կ. Պօլիս, Տպագրութիւն Արամեան, 1877։\nէջ 2, դատարկ: էջ 1.— Առ մեծարոյ սիրելիդ իմ Աբրահամ Սօլախեան, մտերիմ հայրենակից: էջ 5.— Կուժ մի ջուր առ իմ այրած Հայրենիք: էջ 45-46, դատարկ: էջ 47.— Հայգոյժ, Աշխարանք Հայոց Աշխարհին, գրեաց եւ աշխարհագուժեաց Խըրիմեան Հայրիկ: Ի Կ. Պօլիս, Տնտեսեան Ե. Մ. տպագրիչ, յամի Տեառն 1877, յուլիս 3: էջ 48, դատարկ: էջ 1.— Առ ողբակիցդ իմ հայրենակից: էջ 15.— Աշխարանք Հայոց Աշխարհին: էջ 91.— Վերջ: էջ 92-106, դատարկ: էջ 107.— Ազգային: Ամեն. Խրիմեան Հայրիկ եւ Պիոս Թ. պապը.— Աւասիկ այն պերճախօս, իմաստալից եւ հոգելից նամակն...: էջ 131-138, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "154.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "155.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2932-refine.json",
+    "pipeline_version": "v1"
+  }
+}

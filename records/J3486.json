@@ -1,0 +1,68 @@
+{
+  "id": "J3486",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3486",
+  "notice": "3486",
+  "volume": "Jerusalem_V10",
+  "title": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3486",
+    "no_notice": "288",
+    "titre": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "228",
+    "dimensions": "25X17X4",
+    "mise_en_page": "սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 35 տող",
+    "details_ecriture": "վարժ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ, հնամաշ եւ քայքայուած",
+    "etat_conservation": "յոյժ անբաւարար. չարաչար վնասուած եւ հալումաշ եղած խոնաւութենէ. կարօտ նորոգութեան",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ վերջը երեք թերթ, մասն երկաթագիր Աւետարանի, փճացած մեծագոյն մասամբ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-7.— Կանոնի տախտակներ, փճացած, առանց զարդարանքի։ Էջ 9ա.— Գիրք Ծննդեան Յի. Քի. ....։ Էջ 56ա.— Աւետարան Ըստ Մարկոսի.— Սկիզբն Աւետարանի Յի. Քի. ....։ Էջ 82բ.— եւ ոչ ումեք ինչ ասացին, զի երկնչէին։ Էջ 83ա.— Աւետարան ըստ Ղուկասու.— Քանզի բազումք յաւժարեցին...։ Էջ 128բ, մէջտեղը.— Ըստ Մարկոսի Աւետարանն։ Էջ 128, վարը, խիտ տողերով.— Յարուցեալ Յս. առաւաւտուն...։ — Քովը, ձախակողմեան լուսանցքին՝ Համբարձման կարդայ զսա. ի Մարկոսի գլուխ է այս աւետարանս։ Էջ 129 — Աւետարան ըստ Յոհաննու.— Ի սկզբանէ էր Բանն...։ Էջ 164ա.— Իրք կնոջն շնացելոյ։ Էջ 165-228.— Ճաշու Ընթերցուածք, ի Գործոց եւ ի Կաթողիկէ Թղթոց։\nՄանր յիշատակագրութիւն Գրչի.— Էջ 164, ստ. լուսանցքին.— Զմեղապարտ գրչիկս, Կոստ., եւ զծնաւղսն իմ՝ աղաչեմ յիշելի Տէր։\nՅետնագոյն յիշատակագրութիւն.— 1923 Էջ 8, վարը, շեղագիր.— Իր սեփական մատենադարանէն Երուսաղէմա Ս. Յակոբայ Վանքին Մատենադարանին կ՚նուիրէ Յարութիւն Քհ. Եսայեան, Հալէպ, 4 փետր. 923։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "474.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3486-refine.json",
+    "pipeline_version": "v1"
+  }
+}

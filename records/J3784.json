@@ -1,0 +1,72 @@
+{
+  "id": "J3784",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3784",
+  "notice": "3784",
+  "volume": "Jerusalem_V11",
+  "title": "ԱՇԽԱՐՀԱՑՈՒՑԱԿ ՀՆԴԿԱՀԱՅՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3784",
+    "no_notice": null,
+    "titre": "ԱՇԽԱՐՀԱՑՈՒՑԱԿ ՀՆԴԿԱՀԱՅՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "200",
+    "dimensions": "29.5x19x1.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 31 տող, կամ նուազ",
+    "details_ecriture": "ոչ միատեսակ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Աշխարհացուցակ Հնդկահայութեան.— Ա–Ը նահանգներ – Թ. Ճավա Կղզեխումբ – Ժ. Չինաստան, 1, Հօնկ Քօնկ – ԺԱ. Ճաբոն։ Էջ 6.— Հնդկահայութեան պատկանեալ նօթեր։ Էջ 18.— Ըստ Լէօի (Հայկական Տպագրութիւն)։ Էջ 26.— Ըստ Պ. Յարութիւն Տէր Յովհաննեանց պատմագրի Նոր Ջուղայու։ Էջ 38.— Բատաւիա (ի 5 Յուլիսի 1917)։ Տեղւոյս Հայոց շնչագրութիւնը։ Էջ 50.— Մարդահամար Բանտանգի եւ Լեմբանգի։ Էջ 55.— Շնչագրութիւն Հայոց ի Սուրաբայա։\nԷջ 66.— Շնչագրութիւն Հայոց ի Պալի կղզւոջ։ Էջ 67.— Շնչագրութիւն Սըմըրանգի։ Էջ 69.— Զինաստանի Հոնկ Քոնկ քաղաքում։ Էջ 71.— Եօքօհամայի մէջ։ Էջ 72.— Պատճէնք Գերեզմանատան արձանագրութեանց Հայոց Սինգափուրի։ Էջ 76.— Պատճէնք Գերեզմանատան արձանագրութեանց Հայոց Սուրբայիայի։ Էջ 78.— Պատճէնք Գերեզմանատան արձանագրութեանց Հայոց Սմարանգի։ Էջ 80.— Ընդհանուր տեղեկութիւններ Ջաւայի Հայոց վրայ (ըստ Պ. Յ. Յորդանանեանի)։ Էջ 89.— Հանգուցեալ խաչակիր տէր Պսակ Հ. Յակոբջանեան քահանայի աշխատութիւնները։ Էջ 97.— Շնչագրութիւն Հայոց ի Սինկափուր։ Էջ 100.— Սինկափուրի եկղ. որմերի մէջ դրուած արձանագրութիւնները։ Էջ 101.— Շնչագրութիւն Հայոց ի Պինանգ։ Էջ 102.— Հնդկահայ պանդոկներ։ Էջ 105.— Շնչագրութիւն Հայոց ի Ռանգուն։ Էջ 115.— Շնչագրութիւն Հայոց Մանտըլէի։ Էջ 118.— Շնչագրութիւն Հայոց ի Կալկաթա։ Էջ 182–185 դատարկ։ Էջ 186.— Հայք բնակեալք ի Հնդկաստան։ Էջ 189–198 դատարկ։ Էջ 199.— Հայ ուսանողք...։ Էջ 200 դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "240.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "241.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3784-refine.json",
+    "pipeline_version": "v1"
+  }
+}

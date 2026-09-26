@@ -1,0 +1,68 @@
+{
+  "id": "J2166",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2166",
+  "notice": "2166",
+  "volume": "Jerusalem_V7",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՅՈՎՀԱՆՆՈՒ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2166",
+    "no_notice": "5",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՅՈՎՀԱՆՆՈՒ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "278",
+    "dimensions": "30 x 18 x 2",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 35 տող։ Նոտր շեղագիր վարժ",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապոյտ",
+    "nb_lignes": null,
+    "reliure": "խաւարտեայ եղերադրոշմ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը մէկ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդ իւր սարօք, էջ 7",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1 — Ոչինչ ըղձալի է քան զսիրելեացըն լցուցանել զիղձս տենչանաց . . .։ Հմմտ. Տպ. Վենետիկ, էջ 1։\nէջ 7 — Է. — Սրբոյն Նանայի Ասորւոյ վարդապետի՝ Մեկնութիւն Յօհաննու։ Գլուխ Առաջին. — Ի սկզբանէ էր Բանն։ Պարտ է մեզ ի սկզբան ճառիցս նկատել զառաւելութիւն իմաստութեան աւետարանչիս . . .։ — Հմմտ. Նոյն, էջ 15։\nէջ 254 — Գլուխ ԻԱ. — Յետ այսորիկ դարձեալ յայտնեաց զանձն իւր Յս. աշակերտաց իւրոց . . .։\nէջ 261 — Յորժամ ձմեռնական ժամանակին անվայելուչ դժնդակութիւնքն ժամանեն . . . արժանաւորեսցուք վերառաքել փառս Հօր եւ Որդւոյ եւ Հոգւոյն Սրբոյ, այժմ եւ միշտ եւ յաւիտեանս յաւիտենից ամէն։\nէջ 263–278, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "267.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2166-refine.json",
+    "pipeline_version": "v1"
+  }
+}

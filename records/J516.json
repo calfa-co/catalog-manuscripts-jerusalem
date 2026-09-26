@@ -1,0 +1,72 @@
+{
+  "id": "J516",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "516",
+  "notice": "516",
+  "volume": "Jerusalem_V2",
+  "title": "ՄԵԿՆ. ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+  "date": {
+    "from": "1822",
+    "to": "1822",
+    "display": null
+  },
+  "fields": {
+    "numero": "516",
+    "no_notice": "6",
+    "titre": "ՄԵԿՆ. ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+    "date_debut": "1822",
+    "date_fin": "1822",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "118",
+    "dimensions": "23 X 19 X 1",
+    "mise_en_page": "խորագիրները եւ բնաբանները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 31 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": "Յակոբ Վրդ. Բիւթանիացի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Յորդորակ առ հարկաւոր բանսըն Քսի.— Պարտ է մարդոյ գիտել զիմաստ եւ զհանճար...։ Էջ 3ա.— Բան առ բարեմիտ ընթերցողսդ յաղագս առաջակայ առակաց աւետարանականաց...։— Կանխաբարբառ եւ հոգեշարժ Աւետարանիչն Մատթէոս...։ Էջ 109, Ցանկն է։ Էջ 110–118, դատարկ։\nՅիշատակագրութիւնք.— Էջ 104բ.— Օրինակեցաւ ի Սբ. Եղմ. յաստուածահիմն Մայր Աթոռս Սրբոց Յակոբեանց ի թուականիս Հայոց ՌՄՀԱ [= 1822] Մայիս ամսոյ սկիզբն։\nԷջ 108.— Յիշատակարան Գրքոյս ըստացողի.— Գոհակալութիւն բիւրապատիկ, փառք եւ պատիւ անդրագոյն այնմ, որ ամենաբարի կամօք իւրովք ելից զիղձ սրտի իմումս թշուառութեան, ոչ հայեցեալ յանպատեհ գործողութիւնս անարգ ծառային, եւ ոչ սրտմտեալ առ բարձրն ձեռնարկութիւնս, այլ անաչառապէս բաշխեալ իւրաքանչիւրոց եւ ինձ. արդարեւ ըստ նոյնոյ բանին՝ թէ (զոր ինչ խնդրիցէք հաւատով յանուն Որդւոյ ի Հօրէ տացի ձեզ) ոչ գտաք վերջացեալ յամենայնէ խնդրոյ եւ ոչ մի։ Զի որչափ ոք բարիս խնդրէ յԱյ. աներկբայ հաւատով, հաստատ յուսով, եւ ջերմ սիրով, անտարակոյս ընդունի յերջանիկ վայելս, ըստ վկայութեան Սբ. Գրոց, եւ ամարք ընտրիք տօնեցեալք յեկեղեցիս եւ սրբազան առաքեալք, մարգարէք եւ նահա-"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "533.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "534.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "516-refine.json",
+    "pipeline_version": "v1"
+  }
+}

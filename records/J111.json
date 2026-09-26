@@ -1,0 +1,68 @@
+{
+  "id": "J111",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "111",
+  "notice": "111",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+  "date": {
+    "from": "1811",
+    "to": "1811",
+    "display": null
+  },
+  "fields": {
+    "numero": "111",
+    "no_notice": "2",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+    "date_debut": "1811",
+    "date_fin": "1811",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "50",
+    "dimensions": "32x22x1",
+    "mise_en_page": "ամբողջովին սեւ մելանով, երկսիւն, 47 տող։ Նոտր շեղագիր մանր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1ա.— Յառաջաբանութիւն Հեղինակի գրոյս։ — Կանխաբարբառ և հոգեշարժ Աւետարանիչն Մատթէոս...։ էջ 3բ.— Ոտանաւոր գրքոյս շինողի ի վերայ անուան իւրոյ։ Յորդորակ առ առակաւոր բանսն Քրիստոսի.— Պարտ է մարդոյ գիտել զիմաստ և զհանճար...։ էջ 5ա.— Յաղագս տեսակաւորեալ հաւատոց, մեկնութեան առակացն Քրիստոսի։ ԺԲ էջ 50բ — 18 — 11 ի լրումն։ 7"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "343.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "111-refine.json",
+    "pipeline_version": "v1"
+  }
+}

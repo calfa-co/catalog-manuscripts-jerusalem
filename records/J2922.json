@@ -1,0 +1,72 @@
+{
+  "id": "J2922",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2922",
+  "notice": "2922",
+  "volume": "Jerusalem_V9",
+  "title": "ՇԱՐԱԿԱՆՔ ՁԱՅՆԱԳՐԵԱԼ(4)",
+  "date": {
+    "from": "1890",
+    "to": "1890",
+    "display": null
+  },
+  "fields": {
+    "numero": "2922",
+    "no_notice": null,
+    "titre": "ՇԱՐԱԿԱՆՔ ՁԱՅՆԱԳՐԵԱԼ(4)",
+    "date_debut": "1890",
+    "date_fin": "1890",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "20X15.5X4: Էջք Թ+651: Հանգամանք շատ լաւ: Թուղթ, Գրիչ եւ Գրութիւն նման նախորդին: Զարդանկարք աւելի քան երկու երկոտասնեակ: Կնիք՝ նոյն, էջ 1: Փառակազմ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Ը, դատարկ: Էջ Թ.— Յիշատակագրութիւն՝ նման նախորդներուն: Ներքեւը հաւկթաձեւ կնիք Թանգարանի: Էջ 1.— Կանոն Սբ. Համբարձման: Էջ 24.— Կանոն Հոգոյն Սրբոյ Գալստեան: Էջ 36.— Հարց Առաջին Ձայն ծանր: Դիտ.— Եղանակը ծանր չէ: Էջ 64բ.— Կանոն Վարդավառի: Էջ 147ա.— Կանոն Վերացման Կենսատու Սուրբ Խաչին: Էջ 179–182, դատարկ: Էջ 183.— Կանոն Խաչվերացի Առաջին Աւուր: Էջ 283.— Կանոն Վարագայ Սուրբ Խաչին: Էջ 297.— Կանոն Գիւտ Սուրբ Խաչի: Էջ 337.— Կանոն Սրբոյն Յակովբայ Մըծբնայ Հայրապետին: Էջ 391.— Հանդէս Երկնային Զօրաց: Էջ 469.— Յովհաննու Ոսկեբերան Հայրապետի Մանկունք եւ Համբարձի ԴԿ ստեղի: Էջ 485.— Բարսղի Հայրապետի Մանկունք ԴԿ Ձայն, ստեղի:\nէջ 499. — Նիկողայոսի Հայրապետի Մանկունք ԴՁ Ձայն ստեղի։ էջ 513. — Սուքիասանց Վըկայից, Մանկունք, Համբարձի, ԲՁ Ձայն ստեղի։ էջ 531. — Սրբոյն Վահանայ Գողթնացւոյն Մանկունք եւ Համ. ԲՁ Ձայն ստեղի։ էջ 559. — Սրբոց Վարդանանց Զօրավարաց Մանկ. եւ Համբարձի ԴԿ ստեղի։ էջ 573. — Առաքելոց Մանկունք, եւ Համբարձի ԴԿ Ձայն, Ստեղի։ էջ 587. — Սրբոցն Յովակիմայ եւ Աննայի եւ Կանանցն Իւղաբերից Համբ. ԴԿ Ստեղի։ էջ 601. — Սրբոց Ղեւոնդեանց Քահանայից Համբարձի, ԲՁ Ձայն, Ստեղի։ էջ 637-641, դատարկ։ էջ 642. — Ցանկ։ Հատոր Դ։ էջ 646. — Շրջանակներ, մէջտեղը խաչ։ էջ 647-651, դատարկ։\n9. — Զ ա ր դ ա ն կ ա ր Թիւ 2922, էջ 107բ\n10. — Զ ա ր դ ա ն կ ա ր Թիւ 2922, էջ 336"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "145.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "146.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2922-refine.json",
+    "pipeline_version": "v1"
+  }
+}

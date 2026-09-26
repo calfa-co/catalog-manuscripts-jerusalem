@@ -1,0 +1,72 @@
+{
+  "id": "J2683",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2683",
+  "notice": "2683",
+  "volume": "Jerusalem_V8",
+  "title": "ՀՈԳԵՇԱՀ ՆԻՒԹՔ ՔԱՐՈԶԻՑ",
+  "date": {
+    "from": "1856",
+    "to": "1856",
+    "display": null
+  },
+  "fields": {
+    "numero": "2683",
+    "no_notice": "2",
+    "titre": "ՀՈԳԵՇԱՀ ՆԻՒԹՔ ՔԱՐՈԶԻՑ",
+    "date_debut": "1856",
+    "date_fin": "1856",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԲ+328",
+    "dimensions": "18x12x2",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 22 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ նորադըրոշմ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Ժ, դատարկ։ Էջ ԺԱ.— Հոգեշահ Նիւթք Քարոզից, ընտրեալ ի բազում սուրբ գրոց. . .։ Երկրորդ Հատոր։ Ի վեհափառ հայրապետութեան Սրբոյ Էջմիածնի ամենայն Հայոց Տ. Տ. Ներսեսի սրբազնակատար կաթողիկոսի՝ հոգևոր ծնողին իմոյ։ Ի պատրիարքութեան Սրբոյ Երուսաղէմի, և Կ. Պոլսոյ տեառն Յովհաննու, տեառն Յակովբայ Ամենապատիւ սրբազան Արքեպիսկոպոսաց՝ հարցն մերոց։ Նուաստ ծառայ Կարնեցի Դաւիթ Եպս. միաբան Սբ. Երուսաղէմի, 1856, ի սկզբան յունվարի, ի գերապանձ մայր Սբ. Աթոռս Քրիստոսական Սրբոց Յակոբեանց յԵրուսաղէմ։ Էջ 1.— Գլուխ Առաջին։ Յաղագս սիրոյն Աստուծոյ, որ ունի ի վերայ մարդոյ։\nէջ 16 — Գլուխ Բ. — Յաղագս նախկին գալստեան Փրկչին. — Հմմտ. թիւ 2173, Է. Հատոր, էջ 235։ էջ 227 — Գլուխ ԽԸ. — Յաղագս նախախնամութեան Աստուծոյ։ էջ 230 — Գլուխ ԽԹ. — Բացատրութիւն ոմանց Բանից Տեառն մերոյ ըստ մտաց Աւետարանին Յովհաննու։ էջ 246 — Գլուխ ԾԳ. — Մասնաւոր Բանք պիտանիք։ էջ 258, անմաքուր։ էջ 259 — Ցանկ գրքոյս գլխոց և թղթահամարից. — Ա-ԾԳ Գլուխներ։ էջ 262-328, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "321.jpg"
+    },
+    {
+      "volume": "Jerusalem_V8",
+      "file": "322.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2683-refine.json",
+    "pipeline_version": "v1"
+  }
+}

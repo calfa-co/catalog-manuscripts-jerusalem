@@ -1,0 +1,68 @@
+{
+  "id": "J562",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "562",
+  "notice": "562",
+  "volume": "Jerusalem_V2",
+  "title": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "562",
+    "no_notice": "6",
+    "titre": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "186",
+    "dimensions": "22x17x1.5",
+    "mise_en_page": "սեւ մելանով, միասիւն, 29 տող։ Նոտր շեղագիր",
+    "details_ecriture": "առատ։ Խորագիրները բոլորգիր, սկզբնատառերը մեծ երկաթագիր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ։",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Ճակատ.— Գիրք Անտառ Նորագոյն Մտածմանց, որ կոչի Սէր Աստուծոյ, այսինքն Ճակատամարտութիւն։ — Արարեալ ի գերյարգելի Տեառն Ալեքսանդր Գալամաթօ կոչեցելոյ Մեսինացւոյ ի Փատուայ։ Հիմնեալ ի Սբ. Գրոց, եւ ի Սրբոց Հարց ծայրագոյն Վարդապետաց Սրբոյ Եկեղեցւոյ։ Յարմարեցուցանելի ամենայնից լուր աւուրցն քառասնորդաց կիւրակէից ի մէջ տարւոյն եւ հասարակ տօնից։ Թարգմանեցեալ ի յիտալականէ լեզուէ ի հայ բարբառ ի Ղուկասու Վարդապետէ Խարբերդացւոյ։ Ըստ խնդրոյ Տեառն Յովհաննու Պատրիարքին Կոստանդնուպօլսոյ ի Տէր հանգուցելոյ։ Ի Կոստանդնուպօլիս, յամի Տեառն 1741։ — Յիշատակ է յԷջմ. ի Դուռն Սբ. Յակոբայ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Վասն Սիրոյն Աստուծոյ.— Գլուխ Ա.— Ամենակարօղն Ած. ի յաւիտենից սահմանեալ առ ի ստեղծել զմարդն... Էջ 7.— Վասն Հարկաւորութեան Ապաշխարութեան.— Գլուխ Բ.— Երկուքումբք տախտակօք հասանիմք փրկութեան, մինն անմեղութեամբ, երկրորդն ապաշխարութեամբ...։ Էջ 13.— Վասն Բամբասանաց.— Գլուխ Գ.— Պիանտոս Լաչէտիմօն մինն ի յօթանց իմաստասիրաց ի Յունաստան...։ Էջ 177.— Հանդէս Ուխտի Կուսանաց — Գլուխ ԿԷ.— Արդ տեսցուք, թէ որպէս կուսութիւն իցէ արքայութիւն...։ Էջ 179.— Վասն Աղօթելոյն եւ Քրիստոնէոյն Տեառն.— Գլուխ ԿԸ.— Դաւիթ ի հեռուստ երանեալ ոգւով ասէր վասն Տեառն...։ Էջ 181.— Ցանկ Գլխոց Մատենիս։ Էջ 184.— զի մատնեցից (զնա) ձեզ...։ Ծանօթ.— Հատուած մըն է մէկ ու կէս էջ երկարութեամբ որ կը պատկանի ԽԶ Գլուխին, էջ 134, ուր լուսանցքի վրայ նշանակուած է խաչանիշով. զտեղս պակասի, տես ի վերջն։ Էջ 186, եւ յաջորդ թերթը դատարկ, բացի ուրուանկարէ մը։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "610.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "562-refine.json",
+    "pipeline_version": "v1"
+  }
+}

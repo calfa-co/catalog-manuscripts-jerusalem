@@ -1,0 +1,72 @@
+{
+  "id": "J2822",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2822",
+  "notice": "2822",
+  "volume": "Jerusalem_V9",
+  "title": "ՔԵՐԱԿԱՆՈՒԹԻՒՆ (ԳՐԱԲԱՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2822",
+    "no_notice": "1",
+    "titre": "ՔԵՐԱԿԱՆՈՒԹԻՒՆ (ԳՐԱԲԱՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "20X13X1: Էջք 202: Հանգամանք լաւ: Թուղթ գծաւոր: Գրութիւն սեւորակ մելանով, միասիւն, 21-23 տող: Շեղագիր մաքուր: Կազմ կիսակաշի խաւաքարտեայ: Դատարկ թուղթք սկիզբը երեք թերթ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Քերականութիւն. Հ.— Ի՞նչ է Քերականութիւնը: Պ.— Քերականութիւնը շիտակ խօսելու, ուղիղ կարդալու եւ անսխալ գրելու արուեստըն է: Հ.— Խօսքը ինչո՞վ կը շինուի: Պ.— Խօսքը, որ բան ալ կ'ըսուի, կը բաղկանայ բառերէ, բառը վանկէ, վանկն ալ տառէ կամ գրէ: Էջ 3.— Մասն Ա. Բառագիտութիւն: Գլուխ Ա. Անուն: Հ.— Ի՞նչ է Անունը: Պ.— Անունը այն մասն բանին է, որ բանի մր ինչ կամ ինչպէս ըլլալը կը յայտնէ, եւ երկու տեսակ է, Գոյական եւ Ածական...: Էջ 5.— Պարագայք Անուան: Էջ 36.— Հոլովումն Ածականաց ընդ Գոյականաց: Էջ 44.— Գլուխ Բ. Դերանուն: Էջ 50.— Գլուխ Գ. Բայ: Էջ 56.— Խոնարհումն Էական Բայից: Էջ 81.— Գլուխ Դ. Դերբայ: Էջ 83.— Գլուխ Ե. Նախադրութիւն: Էջ 90.— Գլուխ Զ. Մակբայ: Էջ 95.— Գլուխ Է. Շաղկապ: Էջ 101.— Գլուխ Ը. Միջարկութիւն: Էջ 106-107, դատարկ: Էջ 108.— Մասն Բ: Համաձայնութիւն: Էջ 110.— Գլուխ Ա. Տէր Բայի: Էջ 115.— Գլուխ Բ. Խնդիր Բայի: Էջ 138.— Գլուխ Գ. Ածական ընդ Գոյականի: Էջ 146.— Գլուխ Դ. Յատկացուցիչ եւ Յատկացեալ: Էջ 150.— Գլուխ Ե. Բացայայտիչ եւ Բացայայտեալ: Էջ 153.— Գլուխ Զ. Խնդիր եւ Խնդրառու: Էջ 165.— Գլուխ Է. Յարաբերական եւ Յարաբերեալ: Էջ 171.— Գլուխ Ը. Դիմորոշ Յօդ: Էջ 175.— Գլուխ Թ. Նախդիր: Էջ 178.— Յաւելուած: Գլուխ Ա. Ձեւաւոր Շարադրութիւն: Էջ 190.— Գլուխ Բ. Վերծանութիւն: Էջ 197-202, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "056.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "057.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2822-refine.json",
+    "pipeline_version": "v1"
+  }
+}

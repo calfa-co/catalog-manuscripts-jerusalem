@@ -1,0 +1,68 @@
+{
+  "id": "J2854",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2854",
+  "notice": "2854",
+  "volume": "Jerusalem_V9",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2854",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "50",
+    "dimensions": "24X17",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 25, 26 տող։ Նոտր շեղագիր անարուեստ",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "թղթեայ, որուն առաջին երեսին գրուած է «Քարոզ եւ Ծանուցումն»",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Առաջին թերթը ծուռ դրուած է։ Էջ 2.— Սրբոյ Յարութեան դրան բացման ծանուցումն է։ Էջ 4.— Սբ. Յարութեան Բանտի վրայի ծանուցումն է։ Էջ 13.— Նախ Սիօն կոչեցաւ հասարակ բընութեանս մայր, որպէս ասէ Դաւիթ. Սիօնի ասի մայր եւ մարդ ծնաւ։ Էջ 40.— Քարոզ Յաղագս Փառաց Սրբոց ...: Էջ 44.— Քարոզ յորում յայտէ թէ Քս. կամեցաւ բարձրանալ ի խաչին զի զմեզ ուսուցանիցէր...։ Էջ 50.— Սրբոյն Գէորգեայ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "083.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2854-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J988",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "988",
+  "notice": "988",
+  "volume": "Jerusalem_V3",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԱԼԵՔՍԱՆԴՐԻ (ԹՐՔԵՐԷՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "988",
+    "no_notice": "1",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԱԼԵՔՍԱՆԴՐԻ (ԹՐՔԵՐԷՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "20x15x2.5",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 20-21 տող ընդհանրապէս։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": "188",
+    "matiere_principale_id": null,
+    "details_matiere": "փայլուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": "թարգմանիչը",
+    "possesseur": "թարգմանիչը",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Թղ. 1-5, դատարկ։ Թղ. 6ա. — Քիթապ Հէքեայէի Ճիհանկիր Իսքէնտէր Զուլգարնիյին, լիսան էրմէնեանտէն լիսան թուրքճէ թէրճումէի էտթ. էլեազիր Իրէմիա. — Մըսրըն սէլէմասի արզուն վէ տէրեանըն իլմի հէնտէսէի ատէտընէ իրմէկ իլէ...։ Թղ. 91ա. — Իսքէնտէր էլչիլըկէ փուրտէն իզն ալտըղի։ Թղ. 102ա. — Տարա Հինտ փատշահի Պօրօսէ մէքթուպ եազտի պու սուրէթտէ։ Թղ. 108ա. — Փարսիան մէմլէքէթընտէ գօնուլան գանուն վէ էնվաննամէ։ Թղ. 132ա. — Սօնրա Արիսթաթալիսէ մէքթուպ եազտի պու սուրէթտէ։ Թղ. 173ա. — Իքինճի վասիէթնամէ Մագէտօնեալըեէ եազըլան։ Թղ. 178բ-188, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "607.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "988-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J2722",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2722",
+  "notice": "2722",
+  "volume": "Jerusalem_V8",
+  "title": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1865",
+    "to": "1865",
+    "display": null
+  },
+  "fields": {
+    "numero": "2722",
+    "no_notice": "3",
+    "titre": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": "1865",
+    "date_fin": "1865",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "218",
+    "dimensions": "25×18×2",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 29 տող",
+    "details_ecriture": "մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապոյտ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Ուրարակիր Կարապետ Մովսէսեան, Պօլսեցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 . — Հ . — Զի՞նչ է Ճարտասանութիւնն ։ Պ . Ճարտասանութիւնն է, որ ճարտար խօսելու ձեւերը, ու հանգամանքները կ’սորվեցնէ . և ով որ այս ձեւերը ու հանգամանքները կ’գործածէ, ճարտասան կամ բանիրուն կսուի ։ Կամ թէ բանաւոր փաստերով, յարմարաւոր իմաստներով, ու շքեղ ասացուածով բարւոք խօսելու ազատական արհեստ մի է. — Հմմտ. թիւ 2069, Է. Հատոր, էջ 117։ էջ 17 — Գիրք Առաջին։ Յաղագս գիտի առ հասարակ։ էջ 27, դատարկ։ էջ 57 — Գիրք Երկրորդ։ Յաղագս տըրամադրութեան. — Հ. — Ի՞նչ է տրամադրութիւնը։ էջ 134 — Գիրք Չորրորդ։ Յաղագս հանդիսից ճարտասանութեան։ էջ 212 — Յաղագս Շարժմանց Մարմնոյ։ էջ 216 — Աւարտ Տետրակիս Ճարտասանութեան յորում բովանդակին ճարտասանութեան հարց և պատասխանիքն։\nԻ Վանս Սրբոց Յակովբեանց Ուսումնարանին՝ յետին ուրբակիր Պօլսեցի Կարապետ մահտեսի Մովսէսեան։ էջ 217—218, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "364.jpg"
+    },
+    {
+      "volume": "Jerusalem_V8",
+      "file": "365.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2722-refine.json",
+    "pipeline_version": "v1"
+  }
+}

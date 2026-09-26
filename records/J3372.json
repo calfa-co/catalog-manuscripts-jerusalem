@@ -1,0 +1,68 @@
+{
+  "id": "J3372",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3372",
+  "notice": "3372",
+  "volume": "Jerusalem_V10",
+  "title": "Մ Ա Շ Տ Ո Ց (ԿԱՐԳ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3372",
+    "no_notice": null,
+    "titre": "Մ Ա Շ Տ Ո Ց (ԿԱՐԳ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "160",
+    "dimensions": "15 X 10 X 2.5",
+    "mise_en_page": "խորագիրները եւ գլխատառերը նարնջագոյն, մնացեալը սեւ մելանով, միասիւն, 16 տող։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ գծադրոշմ։ Հմմտ.— Ցուցակ Ձեռ. Սեբաստիոյ, թիւ 97",
+    "etat_conservation": "բոլորովին անբաւարար. վնասուած թացութենէ եւայլն",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-36.— Տղայական խազմզուք։ Էջ 37.— Ած. յաւիտենական, անսկիզբն, անեղ...։ Էջ 82.— Կանոն յորժամ տղայ վաղճանի։ Էջ 108.— Գանձ մեռելի թաղման.— Մինչ ի յէէն...։ Էջ 112.— Ողբ ի վերայ գերեզմանին.— Ով քահանայք...։ Էջ 117.— Ողբ ի վերայ մանկանց.— Արարիչն արարածոց մեզ բարկացաւ...։ Էջ 122.— Ինձ ումէտ կայր ու կումէն հանց քո գալուն...։ Էջ 125-160.— Տղայական խազմզուք։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "261.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3372-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2486",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2486",
+  "notice": "2486",
+  "volume": "Jerusalem_V8",
+  "title": "Տ Օ Ն Ա Ց Ո Յ Ց",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2486",
+    "no_notice": "45",
+    "titre": "Տ Օ Ն Ա Ց Ո Յ Ց",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "208",
+    "dimensions": "15x10x2",
+    "mise_en_page": "սկզբնատողերը և գլխատառերը կարմիր , մընացեալը սև մելանով , միասիւն , 19-21 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "տախտակեայ խաչադրոշմ",
+    "etat_conservation": "բաւարար . նորոգութիւն կրած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4 , դատարկ ։ Էջ 5 . — Աստուածայայտնութեան ճրագալուցի գիշերն . . . ։ Էջ 89 . — Սբ . Զատկին գիշերն հսկումն է . . . ։ Էջ 152 . — Սուրբ Խաչին գիշերն հսկումն է . . . ։ Էջ 182 . — Մեսեդիկ Ծննդեան ։ Էջ 190 . — Յինանց ճաշուն ։ Էջ 206-208 , համարեա դատարկ ։\nԼուսանցագրութիւնք հետագայ ստացողի , բոլորգիր ։ 1 . — Էջ 114 , վերի լուսանցքին . — Տէր Սիմէոնի որդի Պետրոս վարդապետ ։ 2 . — Էջ 178-179 , ստորին լուսանցքին . — Տօնացոյցս տէր Սիմոնին է , Ած . բարով վայել տացէ ամէն ։ Տէր Սիմոնի որդի Պետրոս վարդապետին է Տօնացոյցս , Ած . բարով վայել տացէ ամէն ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "180.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2486-refine.json",
+    "pipeline_version": "v1"
+  }
+}

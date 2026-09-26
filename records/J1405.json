@@ -1,0 +1,68 @@
+{
+  "id": "J1405",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1405",
+  "notice": "1405",
+  "volume": "Jerusalem_V5",
+  "title": "ՍԱՀՄԱՆՔ ԻՄԱՍՏԱՍԻՐՈՒԹԵԱՆ",
+  "date": {
+    "from": "1732",
+    "to": "1732",
+    "display": null
+  },
+  "fields": {
+    "numero": "1405",
+    "no_notice": "12",
+    "titre": "ՍԱՀՄԱՆՔ ԻՄԱՍՏԱՍԻՐՈՒԹԵԱՆ",
+    "date_debut": "1732",
+    "date_fin": "1732",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "168",
+    "dimensions": "15.5x10.5x2",
+    "mise_en_page": "խորագիրները եւ սկզբնատողերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 18-22 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդ էջ 3",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։ Էջ 3.— Դաւթի փիլիսոփայի Ներգինացւոյ, Յաղագս Սահմանաց Իմաստասիրութեան.— Որք միանգամ իմաստասիրութեան տենչան բանից...։ Էջ 162.— Դաւթի եռամեծի և անյաղթ փիլիսոփայի ընդդէմ չորից առարկութեանց Պիեռոնի իմաստակի, եւ սահմանք եւ տրամատութիւն իմաստութեան մինչեւ ցայս վայր։ Ընդ այսոսիկ եւ առաջիկայ բան իմաստնոյս.— Ամենայն չար տանջելի, ոչ ոք տանջեալ անապական...։ Էջ 163.— Այս գծածք հանդիսադիր խմբից, առաջնոց տառից տրամախոհ իմաստասէր մակացու արանց ներբողեալ ի Դաւթէ եռամեծէ ընթադրեցաւ։ Վերջ։\nՄէկ տող քերուած ջնջուած, կը մնայ թուականը՝ 1181 թուոջ Հայոց։ Էջ 164-168, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "077.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1405-refine.json",
+    "pipeline_version": "v1"
+  }
+}

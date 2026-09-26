@@ -1,0 +1,68 @@
+{
+  "id": "J2396",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2396",
+  "notice": "2396",
+  "volume": "Jerusalem_V8",
+  "title": "Բ Ա Ռ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2396",
+    "no_notice": "27",
+    "titre": "Բ Ա Ռ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "396",
+    "dimensions": "15x10.5x3.5",
+    "mise_en_page": "սկզբնատառերը կարմիր, երկրորդ մասին մէջ նաեւ սեւ, փոփոխիոխ, մնացեալը սեւ մելանով, երկսիւն էջ 1—92, միասիւն էջ 93—395, առաջին մասին մէջ 23 տող, երկրորդին՝ 10, երբեմն աւելի կամ պակաս",
+    "details_ecriture": "կրկնատեսակ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սակաւ",
+    "types_cahiers": "Ա—Դ (էջ 1—92), Բ—ԺԴ (էջ 93—396)",
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, ոչ միատեսակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դըրոշմազարդ",
+    "etat_conservation": "լաւ. կան սակայն որդնակեր լուսանցքներ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Այս բառք բաղաձայնք հոմանուանց բաղձաձեալ զամ. զոր ինչ միանգամ են անուանք հեբրայեցի...։ Ալիֆ, ուսումն նշանագրոց...։ Էջ 2, դատարկ։ Էջ 3.— Բառք Եբրայեցոց.— [Ա]դամ, երկիր, կամ, կոյս...։ Էջ 12ա.— Գոմեր, օգնականութիւն կամ շնորհ...։ Էջ 32ա.— Պասեք, փրկութիւն։ Պասքա, ելք, կամ, անցանել ընդ մէջ...։ Էջ 41ա.— Քուրա, հալոց։ Քօղիցնօղ, դասապետ։ Ներքեւը՝ Զանպիտան ծառայս ղգծող տառիս, աղաչեմ յիշել ի Տէր։\nԷջ 41ա.— Այս բառք են քերթողականք, վասն չափոյ հոմերական տաղիցն, վասնզի քերթողական արհեստքն չափաբերականք են, և չափով վարին...։ Էջ 42ա.— [Աստուած]ազարդ, աստուածարեաւ...։ Էջ 87բ.— Թելադրութիւն, յորդորումն բանի, կամ, յօդումն...։ Էջ 92բ.— Ի բաց առեալ, մաքրեալ։ Ի բնէ աղօտիցն, ի բնէ նուաստիցն։ Ի բացուստ, այլ [այսչափ. յաջորդը տարբեր բաձ է]։\nԷջ 93, պրակ Բ.— Ասպնջական, տաւստ։ Անօթ, աման...։ Էջ 107.— Բայ, բան, կամ մասն բանի։ Բամբիշ, տիկնաց տիկին...։ Էջ 238, դատարկ մեծագոյն մասամբ։ Էջ 239.— Կոկոն, ղանձայ։ Էջ 316.— [Ձ]ուել, կաւլմիշ անել, յառաջ խաղալ...։ Էջ 395.— Քսեստ, չափ է, կշռի անուն։ Էջ 396, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "050.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2396-refine.json",
+    "pipeline_version": "v1"
+  }
+}

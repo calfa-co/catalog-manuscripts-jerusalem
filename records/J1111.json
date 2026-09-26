@@ -1,0 +1,68 @@
+{
+  "id": "J1111",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1111",
+  "notice": "1111",
+  "volume": "Jerusalem_V4",
+  "title": "ՎԱՐԴԱՊԵՏՈՒԹԻՒՆ ՃՇՄԱՐՏՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1111",
+    "no_notice": "7",
+    "titre": "ՎԱՐԴԱՊԵՏՈՒԹԻՒՆ ՃՇՄԱՐՏՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Գ+107",
+    "dimensions": "20x16x1",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 21 տող",
+    "details_ecriture": "անհարթ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք վերջը վեց թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ, էջ Ա.— Գիրք որ կոչի Վարդապետութիւն Ճըշմարտութեան, որով իմաստնանալով մարդ՝ ճանաչէ զմոլորութիւն իւր, եւ եղանի իմաստուն եւ զգաստ։ Յայտնութիւն բանից լուսաւոր առնէ եւ իմաստուն զտղայս։ Շարագրեցեալ դիւրին ոճիւ ի յօգուտ պարզամտաց։ Ի գերյարգելի Պետրոս Վարդապետէ Թիֆլիզեցւոյ, ի քաղաքն Գօլոնիայ, յամի փրկչին 1727։\nԷջ Գ.— Բան առ ընթերցօղս։ Էջ 1.— Վարդապետութիւն Առաջին։ Յաղագս այնոցիկ որք զինքեանս երջանիկ համարին, վասն ունելոյ զյաջողութիւնս աշխարհիս յայսմիկ։ Էջ 106.— Ցանկ Գլխոց։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "200.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1111-refine.json",
+    "pipeline_version": "v1"
+  }
+}

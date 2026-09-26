@@ -1,0 +1,68 @@
+{
+  "id": "J2959",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2959",
+  "notice": "2959",
+  "volume": "Jerusalem_V9",
+  "title": "ՏԵՏՐ ՁԱՅՆԱԳՐՈՒԹԵԱՆ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2959",
+    "no_notice": "1",
+    "titre": "ՏԵՏՐ ՁԱՅՆԱԳՐՈՒԹԵԱՆ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "378",
+    "dimensions": "22X14X2",
+    "mise_en_page": "մանիշակագոյն եւ սեւորակ մելաններով, միասիւն, 19 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Տետր Ձայնագրութեան, գրեաց Վաղարշ Տ. Մարկոսեան, ի Ս. Երուսաղէմ, 1895, Յունիս 1։ Էջ 2, դատարկ։ Էջ 3.— Ի գրեանց Ղուկաս Վարդապետին, թիւ 50։ Դաս Ա.— Երբ մէկը երգէ կամ նուագէ որեւէ նուագարանի վրայ, այն ժամանակ մենք կը լսենք զանազան հնչիւններ...։ Էջ 7.— Դաս Բ.— Վարժութիւններ։ Էջ 23.— Դաս ԺԶ.— Աղօթք մանկան.— Ով երկընքի երկրի Տէր...։ Էջ 41.— Դաս Լ։ Կիսաձայն։ Էջ 55.— Դաս ԼԶ։ Երգերի եղանակները.— Երգերի եղանակները երկու են՝ առոյգ եւ տխուր...։ Էջ 77.— Վերջ Ա. Մասին։ Էջ 78, դատարկ։ Էջ 79.— ԱՁ, կամ առաջի ձայնի սանդուխին ել եւ էջն հետեւեալն է...։ Էջ 83.— ԱԿ.— Առաջին կողմ, սանդուխն է հետեւեալը...։ Էջ 85.— ... (Շարունակութիւն տես երես 222)։ Էջ 86, դատարկ։\nԷջ 87.— Տարերք Ձայնական Երաժշտութեան։ Մասն Ա։ Գլուխ Ա։ Հարցում.— Ի՞նչ է երաժշտութիւնը։ Պ. Երաժշտութիւնը արհեստ մի է...։ Էջ 88.— Գլուխ Բ.— Երաժշտական ձայներու վրայ տեսութիւն։ Էջ 98.— Դաս Ե.— Երաժշտական չափերուն տեւողական արժէքին վրայ։ Էջ 114.— Գլուխ Ե.— Փոքր գրել ծանր կարդալ։ Էջ 120.— Այլ վարժութիւն ծանր յորդոր։ Էջ 121.— Մասն Բ։ Գլուխ Թ։ Յաղագս կիսաձայնի.— Հմմտ. հետագայ թիւ 2967։ Էջ 124-378, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "172.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2959-refine.json",
+    "pipeline_version": "v1"
+  }
+}

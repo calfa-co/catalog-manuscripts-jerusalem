@@ -1,0 +1,72 @@
+{
+  "id": "J2161",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2161",
+  "notice": "2161",
+  "volume": "Jerusalem_V7",
+  "title": "Ն Ա Մ Ա Կ Ա Ն Ի",
+  "date": {
+    "from": "1801",
+    "to": "1808",
+    "display": null
+  },
+  "fields": {
+    "numero": "2161",
+    "no_notice": "1",
+    "titre": "Ն Ա Մ Ա Կ Ա Ն Ի",
+    "date_debut": "1801",
+    "date_fin": "1808",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "112",
+    "dimensions": "29x19x1",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, անհաւասար տողերով",
+    "details_ecriture": "ոչ միատեսակ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "մաշած",
+    "etat_conservation": "բաւարար",
+    "copiste": "Սարգիս Աբեղայ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 — Պատուելի Պարոն Յօհաննէս, Պետրոս, սիրելոյտ սիրով ողջոյն օրհնութեամբ Տեառն։ — Ի Պասրայ։ Վերոյի գիրն նոյն խրդ. ուղարկեցի ի Պօմպէյ...։ Էջ 3 — Թիւ 1801, Դեկտեմբեր 30։ Էջ 4 — Պատուելի Պարոն Նիկողոս ըՍտեփան. — Ի Հալէպ։ Էջ 12 — Բացրագոյն Դիտապետի Տեառըն իմոյ Թէոթորոսի վեհ Պատրիարքի սուրբ զարշապարացն կարօտիւ համբոյր. — Ի Սուրբ Երուսաղէմ...։ Ի թուոյն 1801, Դեկտեմբեր 30, ի Մատրաս քաղաքն Հնդկաստանի, Տեառնդ իմոյ յետնեալ ծառայ իբր Հնդկաց նուիրակ Սարգիս Աբեղայ։ Էջ 48 — Պարոն Նիկողոս Ստեփանեան աղային ողջունիւ յայտ առնեմ, ի Հալէպ...։ — Ի Պասրայ, 1802, Նոյեմբերի 29. — Այսօր ելի ի Պասրայ գնալ Տիգրիս գետով ի Պաղտատ. — Սբ. Ե. Յ. Ծ. Հ. ն. Սարգիս Աբեղայ։ Էջ 49, դատարկ։ Նոյնպէս էջ 57-60։ Էջ 62 — Հոգոյս բաղձալի ի յոգունց տենչալի եղբայր սիրալի, Տեառն Կարապետ հոգեսուն բարունոյ իմոյ հոգեկցի ողջոյն ընդ սիրոյ ընծայել նուիրեմ յոյժ կարօտով լի. — Առ Կեսարիոյ նուիրակ Կարապետ Վարդապետին...։ — Թիւ 1904, Մայիս 22. — Գրեցաւ կէսն, ի Սբ. Երուսաղէմ, և կէսն ի Յոպպէ։ Սբ. Երուսաղէմայ յետնեալ ծառայ, երբեմն Հնդկաց նուիրակ, Սարգիս Աբեղայ. — Հմմտ. Մ. Ե. Աղաւնունի, Միաբանք, էջ 460։\nՎերջին կողքին ներսի կողմը. «Յիշատակ է ի դուռն Սրբոյն Յակոբա, որ է Երուսաղէմ»։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "263.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "264.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2161-refine.json",
+    "pipeline_version": "v1"
+  }
+}

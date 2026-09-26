@@ -1,0 +1,68 @@
+{
+  "id": "J3672",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3672",
+  "notice": "3672",
+  "volume": "Jerusalem_V11",
+  "title": "ԱՂՕԹԱՄԱՏԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3672",
+    "no_notice": null,
+    "titre": "ԱՂՕԹԱՄԱՏԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "694",
+    "dimensions": "18X18X7",
+    "mise_en_page": "կարմիր եւ սեւ մելաններով, միասիւն, 16 տող, տեղտեղ պակաս։ Կան արաբերէն կարմրատառ խորագիրներ։ Մեծ զարդագրեր կան գլուխներու սկիզբը",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բամպակեայ",
+    "nb_lignes": null,
+    "reliure": "խաւաթղթեայ դրոշմազարդ արաբական ոճով։",
+    "etat_conservation": "անբաւարար. վնասուած հնութենէ եւ գործածութենէ. քայքայուած բոլորովին. ժամանակին նորոգութիւն կրած՝ դարձեալ կարօտ նորոգութեան",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Նորագոյն յիշատակագրութիւն.— 1932 Էջ 6, փակցուած նոր թուղթի վրայ. սեւորակ մելանով։ Ի ճոխացումն Մատենադարանի երկնանման Վանուցն Հայոց Սրբոց Յակոբեանց Ս. Երուսաղէմի, նուիրեաց զայս գրչագիր Աղօթամատեանս Ղպտոց ի յիշատակ հանգուցեալ ծնողացն իւրոց, Տիկին Մառի Համբարձում Իւթիւճեան Գահիրէցի, դուստր Խաչեր Պէյի, որդւոյ Միքայէլ Սարրաֆի, սատարողի շինութեան Ս. Աստուածածին Եկեղեցւոյն Պէյն էլ Սուրէյնի, եւ ժամանակակցի Աղա Կարապետի Գալուստի առն կրթասիրի. Ձեռամբ տաներիցուն իւրոյ՝ Տ. Պսակ Քահանայի Մ. Խաչիկեան. յամսեանն ԺԲրդի, 1932 ամի, ի Գահիրէէ, յԵգիպտոս",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր եւ գլխազարդ էջ 7",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, դատարկ։ Էջ 2–5.— Կարմիր եւ սեւ մելաններով, արաբերէն եւ ղպտերէն մանրուք։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "110.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3672-refine.json",
+    "pipeline_version": "v1"
+  }
+}

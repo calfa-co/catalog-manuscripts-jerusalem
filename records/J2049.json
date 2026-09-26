@@ -1,0 +1,68 @@
+{
+  "id": "J2049",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2049",
+  "notice": "2049",
+  "volume": "Jerusalem_V7",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": "1851",
+    "to": "1851",
+    "display": null
+  },
+  "fields": {
+    "numero": "2049",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": "1851",
+    "date_fin": "1851",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "172",
+    "dimensions": "26×16×1",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 24 տող։ Նոտր շեղագիր",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "մաշած",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Քարոզ առաջին.— Վասն անուան քրիստոնէութեան թէ զինչ է.— Ի վերայ քրիստոնէական սուրբ հաւատոյ եւ կրօնի՝ ձեզի սորվելու եւ գիտնալու պէտք եղած բաները այս տեղս խօսիմք...։ Էջ 11.— Գլուխ Բ.— Քարոզ վասն քրիստոնէութեան գործոց եւ վարուց։ Էջ 24.— Քարոզ [Երրորդ].— Վասն քրիստոնէութեան նշանի.— Անցեալ երկու կիւրակէին մեր ատենաբանութեան մէջ նիւթը այս էր...։ Էջ 111.— Քարոզ իններորդ, վասն Որդւոյն Միածնի աշխարհ գալոյն։ Էջ 127.— Քարոզ տասներորդ.— Վասն Ծննդեան Սրբոյ Կուսին եւ Որդւոյն միածնի.— Շատ ժամանակէ հազարաւոր տարինէ պէտի մարդկայինս բնութիւն փէք շատ կարօտութեամբ եւ մեծ բաղձանօք կ'ըսպասէր մարդեղութեան Բանին Աստուծոյ Քրիստոսի Տեառն մերոյ...։ Էջ 153.— Դարձեալ քարոզ.— Վասն երկնային հոգեղէն անմարմին հրեշտակաց։ Էջ 166–171, դատարկ։ Էջ 172.— Ցանկ տետրակիս։ Յիշատակագրութիւն Գրչի.— Էջ 152.— Աւարտումն տետրակիս, յուլիս 12, ի 1851։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "134.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2049-refine.json",
+    "pipeline_version": "v1"
+  }
+}

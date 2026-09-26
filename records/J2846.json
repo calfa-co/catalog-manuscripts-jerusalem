@@ -1,0 +1,68 @@
+{
+  "id": "J2846",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2846",
+  "notice": "2846",
+  "volume": "Jerusalem_V9",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2846",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "54",
+    "dimensions": "22X15.5",
+    "mise_en_page": "սեւ մելանով, միասիւն, 29-31 տող",
+    "details_ecriture": "նոտրակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "թղթեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ, ութանկիւն, «Ք. Ծ. Կարապետ», էջ 54 լս.",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Քարոզ երկրորդ Կիւրակէին մեծի պահոց։ Էջ 3.— Քարոզ Բ. ի վերայ Սրբոցն Կիրակոսի եւ մօրն նորա Յօղիտայ։ Էջ 23.— Ժ. Քարոզ Հոգեգալստեան։ Էջ 42.— Քարոզ ԺԷ. Խաչի։ Էջ 46.— Քարոզ Դատաստանի. Գլ. ԺԸ։ Էջ 51, ստորին լուսանցքին, անհարթ գըրով.— Ծառայ Յիսուսի տիրացու Կարապետ, 1866, ապրիլի 28ին։\nՅիշատակագրութիւն.— 1878 Էջ 53, տարբեր գրչէ.— Զտետրակս գտաք ի նահանգ Տիգրանակերտու Մակաբայեցւոց Սբ. Թադէոս սրբազան առաքելոյ Վանս։ Կարապետ վարդապետն է Ռընտվանցի Տէր Յօհաննեսեան Կարապետ Վարդապետ, իսկ վարժապետն է Կրէտատցի տիրացու Կարապետ Թովմասեան, 1878։ Էջ 54.— Այլազան մանրուք, գրչափորձ, եւայլն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "080.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2846-refine.json",
+    "pipeline_version": "v1"
+  }
+}

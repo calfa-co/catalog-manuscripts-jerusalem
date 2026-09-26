@@ -1,0 +1,68 @@
+{
+  "id": "J2936",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2936",
+  "notice": "2936",
+  "volume": "Jerusalem_V9",
+  "title": "ՀԱՄԱՌՕՏ ՊԱՏՄՈՒԹԻՒՆ ԸՆԴՀԱՆՈՒՐ ԱԶԳԱՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2936",
+    "no_notice": null,
+    "titre": "ՀԱՄԱՌՕՏ ՊԱՏՄՈՒԹԻՒՆ ԸՆԴՀԱՆՈՒՐ ԱԶԳԱՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "20X14.5X2: Էջք 490: Հանգամանք բաւարար: Թուղթ հասարակ, կրկնատեսակ: Գրութիւն մանիշակագոյն թանաքով, միասիւն, 18–19 տող: Շեղագիր խոշոր: Կազմ կիսալաթ խաւաքարտեայ: Դատարկ թուղթք սկիզբը երեք թերթ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Համառօտ Պատմութիւն Ընդ[հ]անուր Ազգաց: Նախագիտելիք.— Ի՞նչ է ընդհանուր պատմութիւնը. որո՞նք են պատմութեան աղբիւրները. քանիի՞ կը բաժնուի ընդհ. պատմութիւնը: Էջ 2.— Մասն Ա. Հին Պատմութիւն: Դաս Ա: Աշխարհագրութիւն Հին Դարու: Էջ 6.— Դաս Բ.— Ափրիկէի մէջ նախնեաց ծանօթ երկիրները որո՞նք են: Էջ 13.— Դաս Ե: Ստեղծագործութենէ մինչեւ ազգաց բաժանումը: Էջ 20.— Դաս Է: Հատուած Ա: Պատմութիւն Արեւելեան Ազգաց: Էջ 24.— Դաս Ը: Գլուխ Ա: Հնդիկք: Էջ 35.— Դաս Ժ: Գլուխ Գ: Բաբելացիք եւ Ասորեստանցիք:— Չէ գրուած, 35–43, դատարկ: Էջ 44.— Դաս ԺԱ: Էջ 51–64, դատարկ: Էջ 65.— Դաս ԻԲ: Եբրայեցիք կամ Հըրեայք: Էջ 85.— Դաս ԻԵ: Ասորիք, Արաբացիք, Քանանացիք: Էջ 168.— Ուրուագիծ Յունաց Պատմութեան: Էջ 196–202, դատարկ: Էջ 203.— Դաս Ա: Յունաց Առաջին ժամանակը: Էջ 236.— Դաս Բ: Պատմութիւն Սպարտայի եւ Աթէնքի մինչեւ Պարսկական պատերազմաց ժամանակ: Էջ 281.— Դաս Գ: Մարական Պատերազմներն: Էջ 329.— Գլուխ Թ: Պատմութիւն Յունաստանի եւ Պարսկաստանի: Էջ 403.— Դաս ԺԱ: Մակեդոնիոյ Թագաւոր Փիլիպպոսի թագաւորելը: Էջ 411–430, դատարկ: Էջ 431.— Պատմութիւն Յունաց. Թեփէ. 382–360 Ն. Ք.: Էջ 446, դատարկ: Էջ 447.— Պատմութիւն Հռովմայեցւոց. Հռովմ. Հռոմուլոս: Էջ 459–462, դատարկ: Էջ 463.— Փիւնիկեան Ա. Պատերազմ: Էջ 471.— Հռովմայեցւոց Քաղաքականապէս մեծնալը եւ բարոյապէս իյնալը: Էջ 473–490, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "157.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2936-refine.json",
+    "pipeline_version": "v1"
+  }
+}

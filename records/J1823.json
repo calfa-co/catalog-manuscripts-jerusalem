@@ -1,0 +1,68 @@
+{
+  "id": "J1823",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1823",
+  "notice": "1823",
+  "volume": "Jerusalem_V6",
+  "title": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1823",
+    "no_notice": "17",
+    "titre": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "352",
+    "dimensions": "23x16x2.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 25 տող։ Նոտր շեղագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը մէկ թերթ",
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ փակագիր. «Ք. Ծ. Դաւիթ Վարդապետ, 1272» [= 1823], էջ 1",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Սէրն Աստուծոյ դէպ առ մարդըն։ Յաղագս մեծի սիրոյն զոր Տէր Ած. մեր միշտ ունեցաւ առ մարդն.— Ամենակարողն Ած. ի յաւիտենից սահմանեալ առ ի ստեղծել զմարդն...։ Էջ 345–352, դատարկ։\nՅիշատակագրութիւնք Ստացողաց. Ա.— Դաւիթ Վարդապետի.— 1845 Էջ 1ա, վերը, շեղագիր.— Ի 1845 ետու Յակոբ վարդապետին մերոյ ի բարի վայելս յամայր ամս շնորհաց.— Դաւիթ Վարդապետ։ Բ.— Յակոբ Վարդապետի. Էջ 344բ, ստորոտը, շեղագիր.— Սրբոյ Աթոռոյս Երուսաղէմի միաբան Տիգրանակերտցի Յակոբ Վարդապետ Մահտեսի Յոհաննէսեան։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "213.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1823-refine.json",
+    "pipeline_version": "v1"
+  }
+}

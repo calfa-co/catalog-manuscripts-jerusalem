@@ -1,0 +1,72 @@
+{
+  "id": "J2928",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2928",
+  "notice": "2928",
+  "volume": "Jerusalem_V9",
+  "title": "Մ Ա Շ Տ Ո Ց (ՁԵՌՆԱԴՐՈՒԹԵԱՆ)",
+  "date": {
+    "from": "1457",
+    "to": "1457",
+    "display": null
+  },
+  "fields": {
+    "numero": "2928",
+    "no_notice": "111",
+    "titre": "Մ Ա Շ Տ Ո Ց (ՁԵՌՆԱԴՐՈՒԹԵԱՆ)",
+    "date_debut": "1457",
+    "date_fin": "1457",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "158",
+    "dimensions": "18.5 X 13.5 X 2",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 17 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն աւելի։ Կարմիր կապոյտ զարդագիր եւ լուսանցազարդ կարեւոր կտորներու սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "բաւարար. վերի լուսանցքները ցեցահար",
+    "copiste": "Մարտիրոս Եպիսկոպոս",
+    "possesseur": "Մարտիրոս Եպիսկոպոս",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "տարբեր թուղթ սկիզբը եւ վերջը մէկմէկ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "էջ 92",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— 500 տարուան է գիրքս։ Այս է Ձեռնադրութեան գիրքնն։ Էջ 2—4, դատարկ։ Էջ 5.— Սահմանադրութիւն Դաստիարակութեան նորածնելոց մանկանց, որք հրաւիրելոց են յաստիճան Քահանայութեան, խըրատք հարկաւորք եւ պիտանիք, արարեալ մեծ վարդապետին Գրիգորի հռետորին.— Արդ ըստ կարգի ժամանակին վարժեալ ըզմանկունս...։ Էջ 17—18, դատարկ։ Էջ 19.— Խրատք Ձեռնադրութեան.— Նըստի եպիսկոպոսն յաթոռ, առաջի սուրբ սեղանոյն...։ Էջ 34.— Եւ հրամայէ եպիսկոպոսն ասել զդաւանութիւն ուղղափառ հաւատոյ որ է այսպէս։ Էջ 41.— Սկիզբն աստիճանաց կղերիկոսաց, որք են Սաղմոսերգու, Անթածու, եւ այլն ըստ իւրաքանչիւր կարգի...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "151.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "152.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2928-refine.json",
+    "pipeline_version": "v1"
+  }
+}

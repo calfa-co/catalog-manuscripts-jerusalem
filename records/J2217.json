@@ -1,0 +1,68 @@
+{
+  "id": "J2217",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2217",
+  "notice": "2217",
+  "volume": "Jerusalem_V7",
+  "title": "Ա.— ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2217",
+    "no_notice": "30",
+    "titre": "Ա.— ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "38—74",
+    "dimensions": "32 x 22 x 1",
+    "mise_en_page": "ոչ միատեսակ ; ԳՐՈՒԹԻՒՆ: խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 48 տող",
+    "details_ecriture": "սովորականէն աւելի։ ; ՆՈՏՐԱԳԻՐ: տարբեր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ։",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "Ա.— ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ Գրութիւն՝ խորագիրները, սկզբնատառերը, գիծերը եւ երբեմն գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 50 տող",
+    "etat_conservation": "բաւարար գրեթէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "էջ 1-4, դատարկ։ էջ 5.— Ճակատ.— Բանք եւ Ճառք սրբոց տօնախմբութեանց, գերյարգելի Յակոբ կրօնաւորի արհի եպիսկոպոսի, ի կարգէն Քարոզողաց, Բանք Ոսկիականք, յաղագս գլխաւոր սրբոց տօնախմբութեանց, զորս հռչակէ եկեղեցին ի հնութենէ, եւ անթիւ սղալանաց սրբագրեալք եղեն, [ի] ձեռն այլ գերյարգելի կրօնաւորի, որ կոչի Ռուսօյֆիս մականուամբ [Կ]լուդոս, ի նոյն կարգէ եւ կրօնէ Տօմէնիքան Քարոզողաց, որ նշանակեցիւք եւ թուահամա(ր)ուիւք բանից ի լուսանց, եւ ամենաճոխ ցանկով իրաց զարդարեալ։\nէջ 6, դատարկ։\nէջ 7.— [Ո]րպէս ոչ է հետաքրքրութեամբ հետազօտելի, այլ հաւատալի հաւատով, եւ փառաւորելի՝ պարզաբա(նութի)նի եւ ցուցակ[ի]...։\nէջ 30բ.— Ի յիշատակ Սրբոյն Պօղոսի Առաքելոյն, բան 1։ Յաղագս հինգ գործոց ամտուածային ողորմութեան, զորս ծանեաւ խոնարհաբար յանձին իւրում։\nէջ 33, տարբեր գրչութիւն։ էջ 34-38, դատարկ, թէեւ գծուած պատրաստ։\nԲ.— ՄԵԿՆ. ԺԲ. ՄԱՐԳԱՐԷԻՑ Պրակք Ա-Դ ; էջ 1ա.— Երկոտասան Փոքր Մարգարէից Մեկնութիւն.— Աստ զսակաւ առաջաբանութիւնս արկանեմ...։\nէջ 23բ.— Կանոնք ի փոքրագոյն մարգարէս։\nէջ 64բ.— Առակ ի գրոց երկոտասան Մարգարէից արտահանեալք։\nէջ 72բ-74, դատարկ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "347.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2217-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J1940",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1940",
+  "notice": "1940",
+  "volume": "Jerusalem_V6",
+  "title": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1940",
+    "no_notice": "31",
+    "titre": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "628",
+    "dimensions": "28x21x7",
+    "mise_en_page": "սկզբնատողերը եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 21 տող",
+    "details_ecriture": "յստակ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ. առաջին կողքը կռնակի կողմէն վերէն վար ճեղքուած",
+    "etat_conservation": "շատ լաւ. ցեցահարութիւն չնչին",
+    "copiste": "Յովհաննէս",
+    "possesseur": "մահտեսի Յովսէփ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը եւ վերջը մէկմէկ թերթ անգիր",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր, լուսանցազարդ կամ լուսանցանկար հատուածներու սկիզբը ; ԽՈՐԱՆԱԶԱՐԴ: իւր սարօք, էջ 31, 183, 301, 485։ Նըկարք գունաւոր ոսկեխառն, ոչ նուրբ, Եւսեբիոս էջ 2, Կարպիանոս 3, Մատթէոս եւ Հրեշտակ 30, Մարկոս եւ թեւաւոր առիւծ 182, Ղուկաս եւ թեւաւոր եզ 300, Յովհաննէս Աւետարանիչ 484",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Դատարկ էջեր, 1, 4, 5, 8, 9, 12, 13, 16, 17, 20։ Կանոնի տախտակներ, տիրող գոյն կարմիր, էջ 6, 7, 10, 11, 14, 15, 18, 19։ Էջ 21.— Գլուխք Մատթէոսի Աւետարանի։ Էջ 26-29, դատարկ։ Էջ 31.— Գիրք ծննդեան Յի. Քի. ...։ Էջ 178.— Գլուխք Մարկոսի Աւետարանին։ Էջ 183.— Սկիզբն աւետարանի Յի. Քի. ...։ Էջ 292ա.— Յարուցեալ Յս. առաւօտուն...։ Էջ 294.— Գլուխք Ղուկասու Աւետարանին։ Էջ 298.— Նախադրութիւն Ղուկայ Աւետարանին։ Էջ 301.— Քանզի բազումք յաւժարեցին...։ Էջ 481.— Գլուխք Յովհաննու Աւետարանին։ Էջ 483, դատարկ։ Էջ 485.— Ի սկզբանէ էր Բանն...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "498.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "499.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1940-refine.json",
+    "pipeline_version": "v1"
+  }
+}

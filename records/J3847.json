@@ -1,0 +1,68 @@
+{
+  "id": "J3847",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3847",
+  "notice": "3847",
+  "volume": "Jerusalem_V11",
+  "title": "ԺԱՄԱԳԻՐՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3847",
+    "no_notice": null,
+    "titre": "ԺԱՄԱԳԻՐՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "894",
+    "dimensions": "28x17x8",
+    "mise_en_page": "սեւ մելանով, միասիւն, 12 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": "մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ նորադրոշմ ոսկեդրուագ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը երկու թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Տէր զի բա , եւայլն։ Էջ 6.— Երգ Տեառն Ներսիսի.— Յիշեսցուք ի գիշերի...։ Էջ 61.— Կանոնագլուխ ԱՁ։ Էջ 115.— Կանոնագլուխ Բուն Բարեկենդանի եւ Նոր Կիւրակէին։ Էջ 121.— Երգ Աւագ Ուրբաթու, ԴԿ.— Այսօր անճառ...։ Էջ 138.— Թագաւոր Ապաշխարութեան, ԲՁ.։ Էջ 176.— Թագաւոր յաւիտեան Սրբոյն Ստեփաննոսի։ Էջ 230.— Ալէլուք Ծննդեան։ Էջ 272.— Փառք ի բարձունս։ Էջ 285.— Որդւոց Որոտման աւուր Դարձ անձն իմ որ ասի ստողոգի, մահու ձայնիւ զկնի Մանկանցն։ Էջ 290.— Երգ Արեւագալի։ Էջ 304.— Երգ Կիւրակամտից։ Էջ 336.— Ստեղիք.— Սըրբուհի Մարիամ...։ Էջ 378.— Սաղմոսք Քահանայաթաղի։ Էջ 383.— Վերջ Ժամագրոյն։ Էջ 384, դատարկ։ Էջ 385.— Ցանկ։ Էջ 388–894, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "301.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3847-refine.json",
+    "pipeline_version": "v1"
+  }
+}

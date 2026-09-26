@@ -1,0 +1,72 @@
+{
+  "id": "J3561",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3561",
+  "notice": "3561",
+  "volume": "Jerusalem_V10",
+  "title": "ԺՈՂՈՎԱԾՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3561",
+    "no_notice": null,
+    "titre": "ԺՈՂՈՎԱԾՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "200",
+    "dimensions": "24x19x1",
+    "mise_en_page": "այլազան",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "այլազան",
+    "nb_lignes": null,
+    "reliure": "թղթեայ, առաջին երեսին շեղագիր. 1.— Նամակագրութիւնք. 2.— Ներբող Գովեստի... 3.— Տապանագրերու օրինակներ",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 եւ 4 դատարկ։ Էջ 2–3, ցանկ. 1–58 Գլուխներ։ Էջ 5–24, թուղթ կապտորակ, նոտր շեղագիր։ Էջ 5.—Ոստ շառաւիղ վայելչական, ի յարմատոյ բուսեալ հայկեան, լցեալ պտղովք միշտ աներկեան, բարի գործովք միշտ անխափան։... Էջ 18.—Ազնիւ տոհմական, իշխան քաջա– լանջ, Ռետին քաղցրութեան, ջահ լուսա– ճաճանչ, Քանքար բեղմնաւոր՝ բարեաց աննահանջ, Ազգիս բիւրաւոր՝ պարծանք իսկա– քանչ...։— Առ քաջարանց մահ– տեսի Առաքել Ամիրա ի Գրիգորէ։ Էջ 25.— Վսեմափառ պայազատ. Զերկ– նատունկ ծառոյ սիրոյն Աստուծոյ զանու– շակ պտուղ ընկերին սիրոյ՝ լի եւ առատ բեղմնաւորութեամբ մատուցանելով մեզ ի ճաշակ հոգեւորական գեղեցիկ շառաւիղ ցուցար իսկաքանչ... որ եմ վեհանձնու– թեան ձերում խոնարհագոյն ծառայ տիրացու Գրիգոր Փէշտմալճեան։ Էջ 35.—Գերամեծար վեհ իշխանիդ, Արփիարեան պարծանք զարմիդ, Փիլիպպոսի Ամիրայիդ, Նուիրի սէր անկեղծ ի սիրտ։... Էջ 38–40, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "558.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "559.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3561-refine.json",
+    "pipeline_version": "v1"
+  }
+}

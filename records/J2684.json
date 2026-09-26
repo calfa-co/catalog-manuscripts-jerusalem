@@ -1,0 +1,68 @@
+{
+  "id": "J2684",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2684",
+  "notice": "2684",
+  "volume": "Jerusalem_V8",
+  "title": "Տ Ր Ա Մ Ա Բ Ա Ն Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2684",
+    "no_notice": "1",
+    "titre": "Տ Ր Ա Մ Ա Բ Ա Ն Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "399. երկու տեղ սխալ սպրդած է. թիւ 71 չէ գրուած, իսկ 191-192 կրկնուած է",
+    "dimensions": "19x13.5x2",
+    "mise_en_page": "սևորակ մելանով, միասիւն, 24 տող",
+    "details_ecriture": "մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը և վերջը չորսական թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 . — Տրամաբանութիւն որ և Արուեստ Բանական։ Հ. Ի՞նչ է Տրամաբանութիւնը։ Պ. Տրամաբանութիւնն է արուեստ ուղիղ խորհելոյ, որովհետև բարւոք քննել՝ ու ճշմարիտը սուտէն, և ստոյգն ալ անըստուգէն որոշել կը սորվեցնէ . — Հմմտ. թիւ 1049, Գրաբար, Գրիգոր Վրժ. Փէշտըմալճեանի, Դ. Հատոր, էջ 73։ Էջ 20 . — Մասն Առաջին։ Ըմբռնումն։ Հ. Ի՞նչ է ըմբռնումն։ Պ. Ըմբռնումն է մտաց ներգործութիւն, որով զգայութեան մէջ տպաւորուած իրաց պատկերները և անոնց հանգամանաց ծանօթութիւնները կերևակայեմք առանց դատաստան ընելու։ Էջ 221 . — Մասն Երկրորդ։ Դատումն։ Էջ 311 . — Մասն Երրորդ։ Տրամախոհութիւն կամ Խելամտութիւն։ Էջ 358-359ի միջև երկու էջ դատարկ. ըստ երևոյթին սխալմամբ երկու թերթ մէկէն դարձուած է։ Էջ 387, դատարկ։ Էջ 388 . — Ցանկ Գլխոց։ Էջ 399, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "322.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2684-refine.json",
+    "pipeline_version": "v1"
+  }
+}

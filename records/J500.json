@@ -1,0 +1,68 @@
+{
+  "id": "J500",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "500",
+  "notice": "500",
+  "volume": "Jerusalem_V2",
+  "title": "ԺԱՄԱՆԱԿԱԳՐՈՒԹԻՒՆ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "500",
+    "no_notice": "6",
+    "titre": "ԺԱՄԱՆԱԿԱԳՐՈՒԹԻՒՆ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "164",
+    "dimensions": "23x17x2.5",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 27 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր, կոշտ",
+    "nb_lignes": null,
+    "reliure": "տախտակեալ",
+    "etat_conservation": "բաւարար. խոնաւութենէ մասամբ աղտուած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–4, դատարկ։ Բայց էջ 2, բ. սիւնակին վրայ կայ հետեւեալը. Գրբիէլ սեւաորս ստացեալ եմ հեալալ արդեամբս 1. — Հայելի Ած.աշունչ 1. — Քերականութիւն Պաղտասարի 1. — Այբեբթ 1. — Սաղմոս 1. — Եփրեմ Խորին 1. — Տոմարի Մեկնութիւն 1. — Սաղմոսի Մեկն. Վարդանայ 1. — Մեկնութիւն Սահմանաց 1. — ... բնաբանութիւն? 1. — Միքաել Պատմակիրք 1. — Ժամակիրք 1. — Երգ Երգոցի Մեկնութիւն 1. — Գրչայ Քարոզգիրք 1. — Սէր Աստուծոյ\nԷջ 5ա. — Միքաելի Պատրիարքի Ասորոց Համառօտ ժամանակաց գրուցք, քաղուածոյ արարեալ յոլովից պատմագրաց ի վարժս բանասիրաց, սղա(յ)մաճակ տեղեկութեան, յԱդամայ հետէ մինչեւ յետին աւուրս բուացեալ զգլխաւորս. — Խնայեցի յիս զի լռելիսդ ձեր յաճախութենէ դրուցաց...։ — Հմմտ. աստ, թիւ 303։ Էջ 151բ. — ... Իսկ Յուստիանոս թագաւորն շինեաց ԲԺ ան վանք եւ եկեղեցիս ՂԶ, եւ ոչ դադարեաց ի ժամանակս իւր յաղքատանոցս եւ հիւրանոցս շինելոյ. ի ՊՀԱ թւին Ասորոց, սկսաւ թուականն Հայոց — Հմմտ. Տպ. յԵրուսաղէմ, 1870, էջ 273։ Էջ 152–164, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "512.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "500-refine.json",
+    "pipeline_version": "v1"
+  }
+}

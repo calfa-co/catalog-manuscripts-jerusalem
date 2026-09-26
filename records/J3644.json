@@ -1,0 +1,68 @@
+{
+  "id": "J3644",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3644",
+  "notice": "3644",
+  "volume": "Jerusalem_V11",
+  "title": "ԺԱՄԱԳԻՐՔ (ՄԱՍՆԱԿԻ) ԵՒ ԿԱՐԳ ԹԱՂՄԱՆ",
+  "date": {
+    "from": "1601",
+    "to": "1601",
+    "display": null
+  },
+  "fields": {
+    "numero": "3644",
+    "no_notice": null,
+    "titre": "ԺԱՄԱԳԻՐՔ (ՄԱՍՆԱԿԻ) ԵՒ ԿԱՐԳ ԹԱՂՄԱՆ",
+    "date_debut": "1601",
+    "date_fin": "1601",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "204",
+    "dimensions": "29x20x2",
+    "mise_en_page": "վերնագիրները նարնջագոյն, մնացեալը սրճագոյն թանաքով, երկսիւն, 25, 28 տող։ Շղթայակերպ շրջանակ, էջ 42։ Կարմրաներկ հաստագիծ մեծ խաչ, երեք թեւերը խաչաձեւ, էջ 48, ձախակողմեան թեւին ներքեւը գրուած է. \"The weak one who paints with diligence will be saved by you and will ride upon you and cross the lake of fire\": (Այս եւ հետագայ թարգմանութիւնները կատարեց Պր. Peter Cowe)",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բամպակեայ",
+    "nb_lignes": null,
+    "reliure": "չունի",
+    "etat_conservation": "յոյժ անբաւարար, վնասուած խոնաւութենէ եւ ցեցերէ եւ հնութենէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": "Էջ 105.— Completion of the funeral of children in the succour of our Lord Jesus Christ. Pray for the weak [scribe] who wrote it according to his strength in the year 1912 [=A.D. 1601]:",
+    "informations_diverses": "Զ.— էջ 161.— Pray for the weak one who labours and is worn down by his need. I wrote this as my feebleness was able in the year 1912 [=A.D. 1601]",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "081.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3644-refine.json",
+    "pipeline_version": "v1"
+  }
+}

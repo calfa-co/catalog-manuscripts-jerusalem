@@ -1,0 +1,68 @@
+{
+  "id": "J405",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "405",
+  "notice": "405",
+  "volume": "Jerusalem_V2",
+  "title": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+  "date": {
+    "from": "1770",
+    "to": "1770",
+    "display": null
+  },
+  "fields": {
+    "numero": "405",
+    "no_notice": "7",
+    "titre": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+    "date_debut": "1770",
+    "date_fin": "1770",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "686",
+    "dimensions": "23 x 18 x 4",
+    "mise_en_page": "խորագիրները եւ սկզբնաւորութիւնները կարմիր, մնացեալը սեւ մելանով, միասիւն, 35 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, յըղկուն",
+    "nb_lignes": null,
+    "reliure": "փայտեայ, սեւակաշի",
+    "etat_conservation": "գրեթէ լաւ",
+    "copiste": "Գրիգոր Դպիր Եւքառացի",
+    "possesseur": "Աւետիս Վրդ. Երզնկացի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդ մը՝ էջ 1",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Սէրն Այ. դէպ առ մարդն։ Յաղագս մեծի սիրուն զոր Տէր Ած. մեր միշտ ունեցաւ դէպ առ մարդն։ — Ամենակարողն Ած. ի յաւիտենից սահմանեալ առ ի ստեղծել զմարդն...։ Էջ 682.— Ցանկ գրքոյս։— Ա.— Յաղագս մեծի սիրոյն...։— ՀԲ.— Յաղագս աղօթելոյն Քս.ի...։\nՅիշատակարան Գրչի.— Թկ. 1770 Էջ 678.— Շնորհիւ Տն. եւ յօժանդակութեամբ նախավկային իւրոյ Սրբոյն Ստեփաննոսի յանկ ելեալ աւարտեցաւ հոգելից գրկուկս որ կոչի Սէր Այ., ձեռամբ Կեսարիու գիւղէն Յեւքառացի հանգուցեալ Տէր Յակոբի որդի տիրացու եւեղ Գրիգորիս, ի վայելումն Յերզնկացի Աւետիս խոհեմազարդ վարդապետին, որոյ Տէր Յարութեան վայելել տացէ։ Եւ արդ ով ազնիւ եղբարք իմ մինչ ընթեռնուք զգրքուկս զայս եւ թէ սղալ ինչ գտանիցէք ի ներսմին զներելն հայցեմ տհասութեան զի եղեալ է կամ ի վրիպմամբ աչացս եւ կամ անկիրթ գոլոյս արհեստին քերականութեան։ Եւ վերջապէս խնդրեմ զլուսաւորչածին երամոցդ զի յիշմամբ արժանի առնիցէք առ Տէր հանգուցեալ զՏէր Յակոբ հայրն իմ եւ զմեղսակիր Գրիգոր դպիրս միով Հայր մերիս, եւ դուք յիշեալ լիջիք առաջի ահեղ ատենին Քսի. Այ. մերոյ ամէն։ Որ ի ՌՄԺԹ ամի ի գիւղաքաղաքն Յեւքառայ որ ի Կեսարիայ, ընդ հովանեաւ Սրբոյ Կարապետի։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "356.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "405-refine.json",
+    "pipeline_version": "v1"
+  }
+}

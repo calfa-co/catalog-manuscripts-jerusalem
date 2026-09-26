@@ -1,0 +1,68 @@
+{
+  "id": "J2369",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2369",
+  "notice": "2369",
+  "volume": "Jerusalem_V8",
+  "title": "Ս Ա Ղ Մ Ո Ս",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2369",
+    "no_notice": "48",
+    "titre": "Ս Ա Ղ Մ Ո Ս",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "486",
+    "dimensions": "14x10.5x5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը և սկզբնատառերը կարմիր, մնացեալը սև մելանով, միասիւն, 17 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բամպակեայ հասարակ",
+    "nb_lignes": null,
+    "reliure": "դրոշմազարդ հնամաշ",
+    "etat_conservation": "անբաւարար. սկիզբը և վերջը պակասաւոր. վնասուած որդերէ և խոնաւութենէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր և լուսանցազարդ գուրգաններու սկիզբը, կանոնները հանդերձ գլխազարդով",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— [Ժ].— Ի կատարած, Սաղմոս ի Դաւիթ.— Ի Տէր յուսացայ, ո՞րպէս ասիցէք ցանձն իմ, փոփոխեցեր ի լերինս որպէս ճըճղուկ...։ Էջ 20ի և 21ի միջև կը պակսի մէկ թերթ։ Էջ 23.— Երկինք պատմեն զփառս Աստուծոյ...։ Էջ 84.— Մի՛ նախանձիր ընդ չարս...։ Էջ 278.— Տէր ապաւէն եղեր մեր...։ Էջ 337.— Խոստովան եղերուք Տեառն ...։ Էջ 399.— Ի նեղութեան իմում ես առ Տէր կարդացի...։ Էջ 474.— Տէր ամենակալ...։ Էջ 479.— Աղաւթք Սրբոյն Ներսեսի Հայրապետին.— Հաւատով խոստովանիմ...։ Էջ 486.— Փառաւորեալ Տէր ... բարեխաւսութեամբ սրբուհու Աստուածածնին...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "024.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2369-refine.json",
+    "pipeline_version": "v1"
+  }
+}

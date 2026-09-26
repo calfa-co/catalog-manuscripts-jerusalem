@@ -1,0 +1,72 @@
+{
+  "id": "J3683",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3683",
+  "notice": "3683",
+  "volume": "Jerusalem_V11",
+  "title": "ԲԱՌԱՐԱՆ ՀԱՅԵՐԷՆ–ԻՏԱԼԵՐԷՆ",
+  "date": {
+    "from": "1845",
+    "to": "1845",
+    "display": null
+  },
+  "fields": {
+    "numero": "3683",
+    "no_notice": "Զ",
+    "titre": "ԲԱՌԱՐԱՆ ՀԱՅԵՐԷՆ–ԻՏԱԼԵՐԷՆ",
+    "date_debut": "1845",
+    "date_fin": "1845",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "344",
+    "dimensions": "16x10x2.5",
+    "mise_en_page": "սեւ մելանով, միասիւն, 21 տող, սեւ գիծերու միջեւ։ Նոտր շեղագիր մաքուր։ Կազմակազմ խաւաքարտեայ ոսկեդրուագ, Ստացող՝ Յակոբ Վրդ. Տիգրանակերտցի",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–12, դատարկ։ Էջ 13.– Ճակատ. Բառարան ծոցակիր յեղեղեալ ի Հայ լեզուէ յիտալական, յօրինեալ ի մեծանուն գիտնական մահտեսի Մուրատ Վարժապետէ Բերիացւոյ։ Օրինակեալ յումեմնէ սարկաւագէ ի Միաբանութենէ Սբ. Երուսաղէմի, ի վայելումն Սրբոյ Աթոռոյս միաբան Յակոբ Վարդապետին Տիգրանակերտցւոյ, յամի Տեառն 1845, սկիզբն փետրվարի, ի գերահռչակ Վանս Սրբոց Յակովբեանց Առաքելոց, յԵրուսաղէմ։ Էջ 14, դատարկ։ Էջ 15.– Բառարան ի հայ յիտալական ծոցակիր։ Աբբայ, ապպա, բատրէ, մօնազօ։ Աբբասուհի, ապատէսսա։ Աբէթ, էսզա։ Աբեղայ, մօնազօ, րէլիճիօզօ, ֆրաթէ։ Ագահ, աւարօ...։– Հմմտ. Թիւ 1897, Զ. Հատոր, էջ 315։ Էջ 48.– Բ.– Բաբախիւն, տիփաթթիմէնթօ։ Էջ 120.– Ծ.– Ծագ, փունթա, չիմա, էսթրէմիթա։ Էջ 224.– Պ.– Պալատ, փալացցօ։ Էջ 279.– Օ.– Օգնական, այութօրէ։\nԷջ 282.— Յատուկ Անուանք Արանց։ Էջ 288.— Յատուկ Անուանք Քաղաքաց։ Էջ 297.— Հրահանգ խօսակցութեան յիտալական լեզու։ Բարի լոյս, Պուօն ճիօրնօ։ Էջ 303.— Վասն իտալերէն խօսելոյ։ Գիտե՞ս իտալերէն, Սաբէթէ լ՚իթալիա– նօ ? Էջ 311.— Զրոյցք վասն կերակրոյ։ Ահաւասիկ հասաք, Էզզօչի ճեռնօթի։ Էջ 316.— Զրոյց զհիւանդութենէ։ Զիա՞րդ անցուցիք զայս գիշեր. Քօմէ աւէթէ փասսաթա լա նօթթէ։ Յոյժ չարաչար. Մալամէնթէ։ Ոչ ննջեցեր. Նօն հա տօրմիթօ։ Էջ 317—344, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "133.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "134.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3683-refine.json",
+    "pipeline_version": "v1"
+  }
+}

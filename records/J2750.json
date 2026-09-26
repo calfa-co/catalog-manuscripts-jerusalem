@@ -1,0 +1,72 @@
+{
+  "id": "J2750",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2750",
+  "notice": "2750",
+  "volume": "Jerusalem_V8",
+  "title": "ԽՈՐՀՐԴԱԾՈՒԹԻՒՆՔ ՀՈԳԵՒՈՐՔ",
+  "date": {
+    "from": "1841",
+    "to": "1841",
+    "display": null
+  },
+  "fields": {
+    "numero": "2750",
+    "no_notice": null,
+    "titre": "ԽՈՐՀՐԴԱԾՈՒԹԻՒՆՔ ՀՈԳԵՒՈՐՔ",
+    "date_debut": "1841",
+    "date_fin": "1841",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "66",
+    "dimensions": "21x16",
+    "mise_en_page": "սեւորակ մելանով, շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "յոյժ ծծող",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "անբաւարար",
+    "copiste": "Դաւիթ Վրդ. Կարնեցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "392.jpg"
+    },
+    {
+      "volume": "Jerusalem_V8",
+      "file": "393.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2750-refine.json",
+    "pipeline_version": "v1"
+  }
+}

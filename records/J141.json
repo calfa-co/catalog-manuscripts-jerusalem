@@ -1,0 +1,68 @@
+{
+  "id": "J141",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "141",
+  "notice": "141",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆ. ՅՈՎՀԱՆՆՈՒ ԱՒԵՏԱՐԱՆԻՆ",
+  "date": {
+    "from": "1726",
+    "to": "1726",
+    "display": null
+  },
+  "fields": {
+    "numero": "141",
+    "no_notice": "1",
+    "titre": "ՄԵԿՆ. ՅՈՎՀԱՆՆՈՒ ԱՒԵՏԱՐԱՆԻՆ",
+    "date_debut": "1726",
+    "date_fin": "1726",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "30 x 20 x 1 սանթիմ : Էջք 235, պրակք 10: Հանգամանքը՝ լաւ: Բարակ թուղթ: Գրիչ՝ Յարութիւն դպիր. լմնցուցած է Հայոց ՌՃՁԵ[= 1726] թուին, Յունվար 1ին, շբ. օր: Գրութիւն՝ բնագիրը կարմիր, մեկնութիւնը սեւ մելանով, երկսիւն, 49 տող: Բոլորգիր: Չափազանց համառօտագրեալ: Ունի մէկ կիսախորան, մէջտեղը Յիսուսի մկրտութեան մանրանկար պատկերով, եւ մէկ լուսանցազարդ գունաւոր, առաջին էջին վրայ: Թղթակազմ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Գրիգորի Եռամեծի եւ Քաջ հռետորի եւ իմաստասիրի աշակերտի Յովհաննու Որոտնեցոյ մականուն կախելոյն, ի սէրն Յիսուսի ի յիղձ բաղձանաց բանասէր անձանց նորին աշակերտաց: Արարեալ լուծումն համառօտ. Յառաջաբան Աւետարանին Յովհաննու: Աւգնեա Աստուած իմ Յիսուս: Էջ 10ա.— Համառօտ մեկնութիւն Աւետարանին Յովհաննու, նորին Գրիգորի, աշակերտի Յովհաննու Որոտնեցւոյ, Հաւաքեալ ի հին եւ ի նոր թարգմանչաց ի խնդրոյ համաշունչ յաշակերտաց. Աւգնեա Հոգի Սուրբ: Էջ 21բ.— Հարցումն Գէորգայ: Եւ պատասխանի Գրիգորի նորին համշիրակի: — 24ա:— Ասկէ անդին մեկնութիւնը կը շարունակուի ցվերջ: Յիշատակարան. — Էջ 235բ.— Որ եւ զիս զանարժանս եւ զունայնս ամենայն բարեաց զպիտականուն Յարութիւն դպիրս որ զանունս միայն ունիմ եւ զգործս ոչ: Ի թվականիս հայոց. ՌՃՀԵ. ունվար ամսոյ ա. օրն շաբաթ, լըմընցաւ Յոհաննու Աւետարանիչս մեկնութիւն ամէն: Ձեռս յերթայ գիրս մնայ եւ մարմինս ունայնի եւ ի հող դառնայ: Հայր մեր որ երկինս սուրբ եղիցի:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "425.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "141-refine.json",
+    "pipeline_version": "v1"
+  }
+}

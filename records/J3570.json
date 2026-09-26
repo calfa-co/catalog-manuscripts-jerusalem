@@ -1,0 +1,68 @@
+{
+  "id": "J3570",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3570",
+  "notice": "3570",
+  "volume": "Jerusalem_V10",
+  "title": "ԺՈՂՈՎԱԾՈՅ (ԿՐՕՆԱԿԱՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3570",
+    "no_notice": null,
+    "titre": "ԺՈՂՈՎԱԾՈՅ (ԿՐՕՆԱԿԱՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "212",
+    "dimensions": "21.5x15x1.5",
+    "mise_en_page": null,
+    "details_ecriture": "այլազան",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "այլազան",
+    "nb_lignes": null,
+    "reliure": "սրճագոյն թուղթ",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–2, դատարկ։ Էջ 3.— Վասն Երուսաղէմայ պատուոյն եւ իշխանութեանն եւ գանձանակի մահու եւ կենաց ողորմութեան հարկաւորութեանն։ Էջ 22–30, դատարկ։ Էջ 31.— Կտակ Չարչարանաց եւ Խաչելութեան եւ անպարտ մահուան Տեառն մերոյ եւ փրկչին Յի. Քի.։— Ով սքանչելի եւ ահաւոր տեսիլ...։ Էջ 66–68, դատարկ։ Էջ 69.— Կտակ Չարչարանաց եւ Խաչելութեան եւ անպարտ մահուան Տեառն մերոյ Յի. Քի.։— Ով սքանչելի եւ ահաւոր տեսիլ...։ Էջ 101–104, դատարկ։ Էջ 105, պրակ Ա, թուղթ ծծող, շեղագիր.— Նոր իմն տեսարան երեւի յայտնապէս առաջի աչաց մերոց...։ Էջ 109.— Առաջին Կիրակի Մեծի Պահոց։ Քարոզ Ա։ Մինչդեռ ժամանակ ի ձեռս է գործեսցուք զբարիս։ Էջ 143.— Երկրորդ Կիրակի Մեծի Պահոց։ Քարոզ Երկրորդ։ Տէր հայր մեր, Տէր դատաւոր մեր։ Մասն Ա։ Էջ 153, Մասն Բ.— Բազում խորհրդաւոր անուամբ յայտնեցաւ Ած. ի դարս դարս...։ Էջ 165–168, դատարկ։ Էջ 169.— Կտակ Չարչարանաց Յի. Քի.։— Ով սքանչելի եւ ահաւոր մեծի խորհրդոյս...։ Էջ 193.— Կտակ Վասն Չարչարանաց Տեառն մերոյ.— Ով դառն գիշեր սարսափելի եւ խաւար ցաւալի...։ Էջ 212.— ... եւ Սբ. Աստուածածինն զցաւն եւ զկսկիծն արեան չափ երեւեցուցանէր...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "568.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3570-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2835",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2835",
+  "notice": "2835",
+  "volume": "Jerusalem_V9",
+  "title": "ԿՏԱԿ ԱՒԱԳ ՈՒՐԲԱԹՈՒ",
+  "date": {
+    "from": "1774",
+    "to": "1774",
+    "display": null
+  },
+  "fields": {
+    "numero": "2835",
+    "no_notice": null,
+    "titre": "ԿՏԱԿ ԱՒԱԳ ՈՒՐԲԱԹՈՒ",
+    "date_debut": "1774",
+    "date_fin": "1774",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "88",
+    "dimensions": "19X13X1",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 22 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "շեղակերպ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ հընամաշ",
+    "etat_conservation": "բաւարար",
+    "copiste": "Մկրտիչ, որդի Խարբերթցի Սէֆէրի",
+    "possesseur": "Մարտիրոս Չէլէպի՝ որդի Ղազար Ամիրայի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը մէկ թերթ, որուն երկրորդ երեսին կայ կնիք մը, սեւադրոշմ, փակագիր. «Քի. Ծռ. Տիրացու Թադէոս»",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Քարոզ եւ Կտակ Աւագ Ուրբաթ գիշերոյ չարչարանացն Յի. Քի. Փրկչին մերոյ.— Նայեցարուք եւ տեսէք (ասէ հայրն համբերութեան երանելին Յոբ) ...։ Էջ 83–88, համարեա դատարկ։\nՅիշատակագրութիւնք.— 1.— Էջ 82, վարը, տարբեր գրչութիւն.— 1774։ Օրինակեցաւ թուին Հայոց Մեծաց ՌՄԻԳ, փետրվարի ԺԳ, ի վայելումն Ղազար ամիրայի որդի տիրացու Մարտիրոս ջելեպոյն, որ Տէր Ած. բարի վայելումն պարգեւեսցէ։ Գրեցաւ ձեռամբ Խարբերթցի Ֆինճանճի Սէֆէրի որդի Տիրացու Մկրտչի, ի մանկատան Սրբոյ Խաչի ապաւինեալ, ահեղահրաշ մեծ նշանէ պաշտպանեցեալ։\n2.— Էջ 1, ձախակողմեան լուսանցքին, տարբեր գրով, մէկ տող. Նուիրեաց ի յիշատակ Եաշցի Եղիշէ Վարդապետն՝ միաբան Սրբոյ Աթոռոյս։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "069.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2835-refine.json",
+    "pipeline_version": "v1"
+  }
+}

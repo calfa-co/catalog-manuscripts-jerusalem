@@ -1,0 +1,68 @@
+{
+  "id": "J1060",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1060",
+  "notice": "1060",
+  "volume": "Jerusalem_V4",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ԿՐՕՆԱԿԱՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1060",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ԿՐՕՆԱԿԱՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "304",
+    "dimensions": "20x15x2",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւորակ մելանով, միասիւն, 21 տող։ Նոտր շեղագիր անհարթ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Ըստ Տ. Սաւալանեանի, «Հատուկտիր մեկնութիւնք բանից Սբ. Գրոց ի տնօրէնութիւնն Քրիստոսի, և մեկնողական բանք ի վերայ ինչինչ մոլութեանց եւ առաքինութեանց, անծանօթ հեղինակի գործ՝ վերջին դարու. գրեալ անհեթեթ գրչաւ ի վերայ հասարակ թղթոյ, անթուական» (Ցուցակ, էջ 564)",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–4, դատարկ։ Էջ 5.— Օգնեա Սբ. Հոգի։ Գլուխ Ա. Յաղագս Սիրոյն Այ. որ առ մեզ.— Եւ այժմ զի՞նչ է ինձ աստ, զի բարձաւ ժողովուրդ իմ ձրի. Եսայեայ 52։ Պտ. Ազգ մարդկան, թելադրութեամբ սատանայի մերժեցաւ յիւնէն...։ Էջ 17–18, դատարկ։ Էջ 19.— Գլուխ Բ։ Յաղագս Նախկին Գալստեան Փրկչին։ Էջ 24, դատարկ։ Էջ 25.— Յաղագս Աւետման Սբ. Կուսին։ Էջ 57.— Յաղագս ահեղ դատաստանին Քրիստոսի։ Էջ 65.— Յաղագս խոստովանութեան, զղջման եւ ապաշխարութեան։ Էջ 75.— Յաղագս աստուածաբանական առաքինութեանց առ հասարակ։ Էջ 113.— Քարոզ վասն զջուրն ի գինի փոխելոյն.— Վասն էր արար զջուրն գինի։ Պատասխանի. Ասեմք թէ վասն ժ պատճառի...։ Էջ 128–304, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "114.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1060-refine.json",
+    "pipeline_version": "v1"
+  }
+}

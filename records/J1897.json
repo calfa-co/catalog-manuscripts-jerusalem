@@ -1,0 +1,72 @@
+{
+  "id": "J1897",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1897",
+  "notice": "1897",
+  "volume": "Jerusalem_V6",
+  "title": "ԲԱՌԱՐԱՆ ՀԱՅԵՐԷՆ – ԻՏԱԼԵՐԷՆ",
+  "date": {
+    "from": "1849",
+    "to": "1849",
+    "display": null
+  },
+  "fields": {
+    "numero": "1897",
+    "no_notice": "1",
+    "titre": "ԲԱՌԱՐԱՆ ՀԱՅԵՐԷՆ – ԻՏԱԼԵՐԷՆ",
+    "date_debut": "1849",
+    "date_fin": "1849",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ժ + 298",
+    "dimensions": "16.5×10.5×2",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 20-22 տող",
+    "details_ecriture": "սակաւ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": "Ստեփանոս Վրդ. Տիգրանակերտցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Ը, դատարկ։ Էջ Ի.— Ճակատ. Բառարան ծոցակիր ի Հայ յիտալականէ, յօրինեալ եւ դասակարգեալ ի մեծանուն գիտնական մահտեսի Մուրատայ Վարժապետէ Բերիացւոյ։ Երկրորդ անգամ օրինակեցաւ ի նորին ձեռագրէ՝ յումեմնէ վարդապետէ ի Միաբանութենէ Սրբոց Յակովբեանց, յանուն Տիգրանակերտցի Ստեփաննոս շնորհափայլ վարդապետի ի նոյն Սրբոյ Ուխտէ։ Ի թիւ շնորհաց Փրկչին 1849, Նոյեմբեր ամսոյ սկիզբն, ի գերահռչակ Վանս Սրբոց Յակովբեանց Առաքելոց, յԵրուսաղէմ։ Էջ Ժ, դատարկ։\nԷջ 1.— Բառարան ի Հայ՝ յիտալական, ծոցակիր։\nԱբբայ, ապպա, բատրէ, մօնազօ : էջ 34 — Բ. — Բարախիւն, տիւաթթիմէնթօ : էջ 59, դատարկ : էջ 60 — Ե. — Եղեմ, էտէն, փարատիզօ : էջ 73 — Ը. — Ըղձանամ, տէզիտէրարէ : էջ 106 — Ծ. — Ծաղ, վունթա, չիմա, էսթրէմիթա : էջ 170 — Յ. — Յագեցուցանել, սաձիարէ : էջ 204 — Պ. — Պալատ, փալացցօ : էջ 226 — Վ. — Վաղը, թիկրէ : էջ 239 — Ր. — Րաբունապետ, կրան տօթթօրէ : էջ 255 — Օ. — Օգնական, այութօրէ : էջ 258 — Յատուկ անուանք արանց : Աբգար, Ապկարօ : էջ 264 — Յատուկ անուանք քաղաքաց : Աթէնք, Աթէնէ : էջ 273 — Հրահանգ խօսակցութեան յիտալական լեզու : Բարի լոյս, Պուօն ճիօրնօ : Բարի երեկոյ, Պուօնա սէրա : Զիա՞րդ ես, Գօմէ սթա? : Լաւ եմ, Սթօ պէնէ : էջ 288 — Զրոյց զհիւանդութենէ : Զիա՞րդ անցուցիք զայս գիշեր, Քօմէ ավէթէ փասսաթա լա նօթթէ : էջ 289-298, դատարկ :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "333.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "334.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1897-refine.json",
+    "pipeline_version": "v1"
+  }
+}

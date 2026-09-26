@@ -1,0 +1,68 @@
+{
+  "id": "J2304",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2304",
+  "notice": "2304",
+  "volume": "Jerusalem_V7",
+  "title": "Հ Ա Ր Ի Ւ Ր Ե Ա Կ   Ա Ռ Ա Կ Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2304",
+    "no_notice": "2",
+    "titre": "Հ Ա Ր Ի Ւ Ր Ե Ա Կ   Ա Ռ Ա Կ Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "170",
+    "dimensions": "17.5 x 11 x 1.5",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 23 տող",
+    "details_ecriture": "բաւական առատ ; ՈՒՂՂԱԳՐՈՒԹԻՒՆ: տկար",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ որդնակեր",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Հարիւրակ տետրակ առաջներորդ։ Առաջին տասնեակ. — Յաճախութիւն ծնանի զտաղտկութիւն...։ Հմմտ. թ. 1313, Դ. Հատոր, էջ 560։ Էջ 24. — Հարիւրեակ երկրորդ։ Տասնեակ Ա. — Իմաստուն է նա որ ոչ հաւատայ, բայց միայն այնմ զոր տեսանէ...։ Էջ 109. — Պատմութիւն. — Վրացի ոմն ճանապարհորդեալ ի Պարսկաստանէ գնայր ի Բաբաս ընդ միում ընկերի, որ էր փարթամ յոյժ...։ — Հմմտ. նոյն, էջ 561։ Էջ 158. — Պատմութիւն. — Սոկրատէս ողջունեաց զոմն մեծատուն ի ճանապարհի, և նա ոչ համարելով զնա արժանի՝ ոչ ընկալաւ զողջոյն նորա։ Ընդ որ խոժոռեալ զայրանային բարեկամքն Սոկրատայ, որոց ասէ. Ընդէ՞ր ցասուցեալ [բարկանայք] բարեկամք, վասն այնորիկ [թէ] այրն այն պակաս է քաղաքավարութեան մասին քան զիս. — Հմմտ. նոյն, անդ։ Էջ 167. — Տասնեակ Բ.։ Էջ 168. — Պատմութիւն. — Տիկին ոմն արամբի...։ Էջ 170, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "449.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2304-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3878",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3878",
+  "notice": "3878",
+  "volume": "Jerusalem_V11",
+  "title": "HISTOIRE MODERNE",
+  "date": {
+    "from": "1453",
+    "to": "1789",
+    "display": null
+  },
+  "fields": {
+    "numero": "3878",
+    "no_notice": null,
+    "titre": "HISTOIRE MODERNE",
+    "date_debut": "1453",
+    "date_fin": "1789",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "1–92, գրուած թուղթի մէկ երեսին միայն",
+    "dimensions": "21x14.5x1",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 27 տող։ Վարժ գեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ ընդհանրապէս, սկիզբը եւ վերջը որդնակեր արմատի կողմէն",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Սկիզբի դատարկ թուղթին վրայ. տարբեր թանաքով, \"Յովսէփ Ամատունի, Գնեցի. ՅԲՆ. Տիտղոսաթերթ, գեղագիր զարդարուն։ Histoire Generale, 3 eme Partie Histoire Moderne (1453 — 1789) College Externat des Carmes, Bagdad, 1902: Էջ 1.— Histoire Moderne, Chapitre I, La Renaissance. Էջ 7.— Chapitre II, Histoire de l'Espagne et de l'Allemagne...: Էջ 15.— Chapitre III, L'Angleterre. Էջ 90.— Chapitre XVI, Le Portugal, de 1640 a 1815: Էջ 92.— Table des Matieres."
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "344.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3878-refine.json",
+    "pipeline_version": "v1"
+  }
+}

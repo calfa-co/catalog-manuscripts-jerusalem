@@ -1,0 +1,68 @@
+{
+  "id": "J1520",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1520",
+  "notice": "1520",
+  "volume": "Jerusalem_V5",
+  "title": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1520",
+    "no_notice": "9",
+    "titre": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "552",
+    "dimensions": "15x10.5x5.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 21 տող",
+    "details_ecriture": "վարժ։ Կարմրագիծ զարդագիր եւ լուսանցազարդ հատուածներու սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ ընդհանուր առմամբ . նորոգութիւն կրած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "Աւետարանչաց, էջ 28, 178, 274, 436, ոչ նուրբ",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդ իւր սարօք, էջ 29, 179, 275, 437",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–4, դատարկ։ Էջ 5–22 . — Կանոնական ինը տախտակներ, անկանոն դասաւորութեամբ։ Գծագրութիւն կարմիր՝ կանաչի սակաւ գործածմամբ։ Վերի լուսանցքը կազմի պահուն շատ կտրուած՝ վնասելով խորանազարդերու վերին մասերուն։ Էջ 23 . — Մատթէոսի Աւետարանին Գլուխ։ Էջ 29 . — Աւետարանս Ըստ Մաթէոսի։ Էջ 179 . — Աւետարանս Ըստ Մարկոսի։ Էջ 275 . — Աւետարանս Ըստ Ղուկասու։ Էջ 437 . — Աւետարան Ըստ Յովհաննու։ Էջ 549–552, դատարկ։\nՅետնագոյն յիշատակագրութիւն . — 1721 Էջ 27, նոտր շեղագիր . — Յիշատակ է Սբ . Աւետարանս Սբ . յԵրուսաղէմ, ի Սուրբն Յակոբ, Թվ . ՌՃՀ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "281.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1520-refine.json",
+    "pipeline_version": "v1"
+  }
+}

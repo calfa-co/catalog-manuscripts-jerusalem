@@ -1,0 +1,72 @@
+{
+  "id": "J102բ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "102բ",
+  "notice": "102բ",
+  "volume": "Jerusalem_V1",
+  "title": "ՊԱՐՏԷԶ ՀՈՎՈՒԱՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "102բ",
+    "no_notice": "1",
+    "titre": "ՊԱՐՏԷԶ ՀՈՎՈՒԱՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "720",
+    "dimensions": "30 x 21 x 5",
+    "mise_en_page": "սեւ մելանով, երկսիւն, սկիզբէն մինչեւ էջ 370՝ 38 տող, էջ 371էն ցվերջ 31 տող։ Առաջին մասը շեղագիր. երկրորդը՝ նոտր շեղագիր",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "խարաբարեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": "Կիրակոս եպս. Երուսաղէմացի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ, փակագիր. «Ք. Ծ. Կիրակոս եպիսկոպոս, 1817» էջ 1",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1.— Երկրորդ Հատոր։ Պարտէզ Հովուաց։ Գիրք Երկրորդ։ Ընձեռուած Առաջին։ Յաղագս Յուսոյ և գործոց նորա։ էջ 2ա.— Առաջին Ընթերցուած։ Յաղագս զանազան անուանց, զորս դիրն աւատրէ զօրութեան յուսոյ։ էջ 79ա.— Երկրորդ Ընձեռուած. Յաղագս Աղօթից մերոց։ էջ 150բ.— Ընձեռուած Երրորդ։ Յաղագս տէրունական աղօթից։ էջ 272ա.— Չորրորդ Ընձեռուած։ Յաղագս հրեշտակային ողջունին։ էջ 337ա.— Գիրք Երրորդ։ Յաղագս Սիրոյ, և Տասն Պատուիրանաց։ էջ 348բ.— Ընձեռուած Առաջին։ Յաղագս Սիրոյ։ էջ 379բ.— Երկրորդ Ընձեռուած։ Յաղագս տասնաբանեայ օրինաց։ էջ 484ա.— Ընձեռուած Ա։ Խորհրդաւոր ճրագարանի։ Եւ Յաղագս Եօթն Խորհրդոց ի սեռի։ Ընթերցուած Ա։ Սակս Հեղինակի եօթանց խորհրդոց։ էջ 515ա.— Ընձեռուած Բ. խորհրդաւոր ճրագարանի կամ աշտանակի։ Յաղագս խորհրդոյ Մկրտութեան։ էջ 658բ.— Ընձեռուած Է. խորհրդաւոր Ճրագարանի։ Յաղագս խորհրդոյ կարգին և աստիճանի։ էջ 712ա.— Ցանկ Երկրորդ Հատորի Պարտէզ Հովուաց Գրքոյն։ էջ 714բ–720, դատարկ։\nՅիշատակարան Ստացողի.— 1823 էջ 1.— Նուաստ Կիրակոս եպիսկոպոս Երուսաղէմացի՝ ստացայ զՀովուական Պարտէզի Երկրորդ հատոր գիրքս, ի վայելումն անձին իմոյ, և յետ անցմանս լինել յիշատակ Սրբոց Յակովբեանց Առաքելական Աթոռոյն Սրբոյ Երուսաղէմի։ Ապաքէն աղաչեմ զյետագայ սրբազան եղբարս՝ ի վայելել զայս գիրք՝ յիշատակել յաղօթս զնուաստըս հանդերձ հոգեւոր և մարմնաւոր ծնողօք իմովք ի Տէր։ Յամի Տեառն 1823, ի սեպտեմբերի։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "331.jpg"
+    },
+    {
+      "volume": "Jerusalem_V1",
+      "file": "332.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "102բ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

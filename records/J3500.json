@@ -1,0 +1,68 @@
+{
+  "id": "J3500",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3500",
+  "notice": "3500",
+  "volume": "Jerusalem_V10",
+  "title": "ՔԱՐՈԶԳԻՐՔ (ՏԱՐԵԿԱՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3500",
+    "no_notice": "15",
+    "titre": "ՔԱՐՈԶԳԻՐՔ (ՏԱՐԵԿԱՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԶ+483",
+    "dimensions": "30x19x3",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 27–32 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ ոսկեդրուագ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Բ, դատարկ։ Էջ Գ.–Տիտղոսաթերթ.– Տարեկան Քարոզք. Հաւաքեալ ի Սբ. Գրոց եւ ի Մատենից Սբ. եւ Իմաստուն Վարդապետաց։ Հատոր Առաջին։ Աշխատասիրութեամբ Տ. Կարապետի Արքեպիսկոպոսի Կոստանդնուպօլսոյ։... Յամի Տեառն 1853, եւ ի մերոյս ՌՅԲ, ի Խրիստոպօլիս։ Ի վայելումն Թադէոս Եպիսկոպոսին. Ա. Թէքիրտաղու։ Ներքեւը շեղագիր տարբեր. Գերաշնորհ Տ. Գրիգորիս Ս. Արքեպիսկոպոս Ալէաթճեան բարեջան քարոզչէն Ս. Խաչ Եկեղեցւոյ Իւսկիւտարի նուիրեաց Գեր. Տ. Մարկոս Վարդապետ Գարագաշեանի Ս. Լուսաւորիչ Եկեղեցւոյ քարոզչին Գուզկունճուքի, յամի Տեառն 1894 եւ յամսեանն Սեպտեմբերի 18, Կ. Պոլիս։\nԲՈՎԱՆԴԱԿՈՒԹԻՒՆ.– Էջ Ե.– Յառաջաբանութիւն։ Էջ Թ– ԺԵ, դատարկ։ Էջ ԺԶ.– Սեւատիպ նկար, փակցուած, Փրկիչ Յիսուս։ Էջ 1.– Քարոզ Ա.։ Կաղանդ։ Խոկումն Մահուան։ Էջ 21–50, տարբեր գրչութիւն։ Էջ 51.– Քարոզ ԺԲ։ Երրորդ Կիւրակէ զկնի Ծննդեան։ Էջ 77.– Քարոզ ԺԸ։ Երկրորդ Կիւրակէ Առաջաւորաց։ Էջ 100.– Քարոզ ԻԴ։ Առաջին Ուրբաթ։ Փոյթ յԱպաշխարութիւն։ Էջ 220 էն յետոյ սխալմամբ գրուած է 222։ Էջ 226.– Քարոզ Ծ։ Աւագ Ուրբաթ։ Կտակ Չարչարանաց Տեառն մերոյ։ Էջ 256–257, վրիպած։ Էջ 303.– Քարոզ ԿԸ։ Գիւտի Նշխարաց Սրբոյն Գրիգորի։ Էջ 401.– Քարոզ ՂԷ։ Տօն Սրբոց Հրեշտակաց։ Էջ 468.– Քարոզ ՃԺԵ։ Կիւրակէ պատահեալ ի մէջ Աւագ Տօնից։ Բացատրութիւն Առակի Ազնուականին։ Էջ 473.– Ցանկ Քարոզի։ Ա– ՃԺԵ Գլուխներ։ Էջ 477–483, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "489.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3500-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J2516",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2516",
+  "notice": "2516",
+  "volume": "Jerusalem_V8",
+  "title": "ՆՈՐԱԳՈՅՆ ԾԱՂԻԿ ԶՕՐՈՒԹԵԱՆՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2516",
+    "no_notice": "1",
+    "titre": "ՆՈՐԱԳՈՅՆ ԾԱՂԻԿ ԶՕՐՈՒԹԵԱՆՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "318",
+    "dimensions": "15x10x2.5",
+    "mise_en_page": "ամբողջովին սև մելանով, միասիւն, 17, 18 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական գրեթէ ; ՈՒՂՂԱԳՐՈՒԹԻՒՆ: տկար",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ",
+    "nb_lignes": null,
+    "reliure": "դրոշմազարդ, կտաւեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը և վերջը չորսական թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։\nԷջ 3.— Նորագոյն Ծաղիկ Զօրութեանց, թարգմանեցեալ ի Յոհաննէսէ վարդապետէ Կոստանդնուպոլսեցւոյ, ի զուարճութիւն հայկազունեաց, յամի ներմարմնութեան Տեառնըն, հնգետասաներորդում աւուր ամսեանն փետրվարի, ի Հռոմ. ի փառս մեծագոյնս Այ.։\nԲան առ Սուրբն Գրիգոր Լուսաւորիչն Հայաստանեացս.— Ով ամենայարբեզութ, և ծնող մեր ի Քս. Յս., պարծանք Պարթևականաց և լուսաւորիչ Հայկազունեաց, հայցեմ ի քէն պաղատմամբ...։\nԷջ 6.— Տրակ, Առ ընթերցողս.— Յատուկ է բնաւից կենդանեաց որոնելն ըստ կարի զելս նեղութեանց...։ Ուրեմն այս որդիկ նարդեանս թարգմանի ըստ խնդրոյ Նասպի Գրիգ(ի)որեան առն երկուղածի...։\nԷջ 9.— Նորագոյն Ծաղիկ Զօրութեանց, նորում ընձեռի զմո(լ)ութեանց յորոց պարտիմք ի բաց փաղչիլ առ ի կենցաղավարիլ ընդ երկուղիւն Այ.։\nՅաղագս սիրոյ հասարակաբար։\nԷջ 53.— Գլուխ Եօթներորդ։ Յաղագս զհարութեան կամ նախանձու։\nԷջ 59.— Գլուխ Ութերորդ։ Յաղագս Ուրախութեան։\nԷջ 64.— Գլուխ Իններորդ։ Յաղագս տրտմութեան։\nԷջ 71.— Գլուխ Տասներորդ։ Յաղագս խաղաղութեան։\nԷջ 149.— Գլուխ Քսաներորդ։ Յաղագս Արդարութեան.— Արդարութիւն ըստ Մաքռօպիոսի է հատուցո[ւ]մն իրաւանց իւրաքանչիւրոց...։\nԷջ 220.— Գլուխ Երեսուներորդ։ Յաղագըս Հաստատունութեան։\nԷջ 288.— Գլուխ Քառասուներորդ։ Յաղագըս Պարկեշ[տ]ութեան։\nԷջ 308.— Ցանկք Գլխոց պարունակեցելոց ընդրղկան այսմիկ։\nԷջ 314-318, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "210.jpg"
+    },
+    {
+      "volume": "Jerusalem_V8",
+      "file": "211.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2516-refine.json",
+    "pipeline_version": "v1"
+  }
+}

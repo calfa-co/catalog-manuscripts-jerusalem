@@ -1,0 +1,72 @@
+{
+  "id": "J2697Ա",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2697Ա",
+  "notice": "2697Ա",
+  "volume": "Jerusalem_V8",
+  "title": "Օ Ր Ա Գ Ր Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1850",
+    "to": "1852",
+    "display": null
+  },
+  "fields": {
+    "numero": "2697Ա",
+    "no_notice": null,
+    "titre": "Օ Ր Ա Գ Ր Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": "1850",
+    "date_fin": "1852",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "342",
+    "dimensions": "20.5x12x2",
+    "mise_en_page": "սեւորակ մելանով, շեղագիր, այլազան",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Յակոբ Վրդ. Յովհաննէսեան, Տիգրանակերտցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-18, դատարկ սպիտակ թուղթ։ Էջ 19. — Ի 1849էն մինչև ց1850 ապրիլի վերջ. Պուլանըխցի նախկին Տեսչին Սբ. Յարութեան Տաճարին հաշիւ։ Էջ 0. — 1850, մայիս 3, ի պատրիարքութեան տեառն և տեառն Կիրակոսի ճգնակակրօն արքեպիսկոպոսի Երուսաղէմացւոյ՝ ծառայ Տեառն Յակոբ վարդապետ Տիգրանակերտցի, մահտեսի Յօհաննէսեան։\nԷջ 21. — 1850 ամի Տեառն մերոյ։ Ողորմութեամբ Տեառն յետ գնացման տէրունական ուխտաւորաց յԵրուսաղէմէ՝ կամաւ իմով հրաժարեցայ ի թարգմանութեան գործոյն...։ Էջ 53. — Կանոն աւելելոյ, յուրբաթէ յուրբաթ մի ազգ աւլէ, այսինքն կամ լատինք, կամ յոյնք, և կամ Հայք...։ Էջ 97. — 1851, յունվար 1, օր Բշ.։ Էջ 206. — Սեպտ. 16, Կիր.։ — ...Իսկ յետ Ճաշու գրքին պատրիարք հայրն նստեալ յաթոռ, կոչեաց զնորընծայացու վեց սարկաւագսն... կոչեաց զանունս նոցա մի մի, որք են այսոքիկ. Մարաշցի Յարութիւնն կոչեցաւ Խաչատուր, Վանցի Բարաղամն՝ Մելքիսեթ, Կեսարացի Եսային՝ Եսայի, Պօլսեցի մեր լուսարար Գրիգորն՝ Արիստակէս, Սիլիֆքրեցի կամ Զօռլուցի Գէորգն՝ Աբրահամ, Կէլիպօլցի Յակոբն՝ Կիրակոս. յետ լըրացման՝ Սրբազանն քարոզ ետ ժողովրդոց, ևայլն : Էջ 260.— 1852, յունվար 1, Գշ. : Էջ 325.— Տոմար ի Սբ. Յարութեան գերահրաշ Տաճարի եկեղեցական եղեալ զարդուց և զգեստուց, և կահուց և կարասեաց, 1850, մայիս 5, զորս յանձնեցաք Յակոբ վարդապետին Տիգրանակերտցւոյ : Էջ 336-342, դատարկ :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "336.jpg"
+    },
+    {
+      "volume": "Jerusalem_V8",
+      "file": "337.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2697Ա-refine.json",
+    "pipeline_version": "v1"
+  }
+}

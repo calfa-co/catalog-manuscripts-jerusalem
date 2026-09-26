@@ -1,0 +1,72 @@
+{
+  "id": "J334",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "334",
+  "notice": "334",
+  "volume": "Jerusalem_V2",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՂՈՒԿԱՍՈՒ",
+  "date": {
+    "from": "1204",
+    "to": "1204",
+    "display": null
+  },
+  "fields": {
+    "numero": "334",
+    "no_notice": "2",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՂՈՒԿԱՍՈՒ",
+    "date_debut": "1204",
+    "date_fin": "1204",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "538",
+    "dimensions": "25 X 17 X 7",
+    "mise_en_page": "հատուածներու առաջին տողը կարմիր, — մի քանի տեղ միջին եւ կամ մեսրոպեան երկաթագրով — մնացեալը սեւ մելանով, միասիւն, 24 տող",
+    "details_ecriture": "կանոնաւոր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բամպակեայ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ ընդհանրապէս. նորոգութիւն կրած է",
+    "copiste": "Գրիգորիս Դպիր",
+    "possesseur": "Զաւրավար անուն, արհեստիւ ոսկեգործ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թերթք, սկիզբը վեց, վերջը երեք",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "էջ 1",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1. — Մեկնութիւն Ղուկասու Աւետարանին, զոր արարեալ է Իգնատիոսի սրբոյ եպիսկոպոսի, ի խնդրոյ Տն. Գրիգորիսի Հայոց Կաթողիկոսի. — Լնուլ զայս իմաստ աստուածային քո ըղձից պարտ համարեցա...։\nԳլխաւոր յիշատակարան. — էջ 535. — Յամի վեցհարիւրորդի յիսներորդի երրորդի թուաբերութեանս հայոց, ի կաթողիկոսութեանն Տն. Յոհաննիսի, եւ ի թագաւորութեանն Քս. պսակ եւ բարեյաղթ թագաւորին հայոց Լեւոնի որդո Ս տ ե փ ա ն է ի ... Զաքարէ Շ ա հ ե ն շ ա հ ... զղեակս Հ ռ ո մ կ լ ա ... վասն որո եւ ք ա ղ ց ր լ ե ա լ ի քիմս սորա ... ... զղեակս Հ ռ ո մ կ լ ա...։ Տես Յիշտ. Ձեռագրաց, Ա. էջ 695-700։ Շեղագրուած բառերը կը ներկայացնեն մեր նկատած տարբերութիւնները։\nՄանր Յիշատակագրութիւն, էջ 322. Յս. Քս. Որդի եւ Բան Հաւր, որ քոնն անբաւ մարդասիրութեամբրտ խոնարհեցար ի բարձանց, այցելու լինել տիրական պատկերիս, եւ գտեալ մաքրեցեր յաղտս ապականութեան, յիշեա ողորմութեամբ քո զըստացող մատենիս զԶաւրավար պատուական ոսկեգործ. ընդ նմին ընկալ եւ զգրիչս անարժան, ըստ անառակին դարձի։\nԼուսանցագրութիւնք Գրչի. էջ 287. — Ոհ դառն վիշտ եւ անըմբերելի տրտմութիւնս որ հեղձուցանէ զոգիս։ էջ 289. — Անձին վտանգելո Տէր է աւգնական։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "229.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "230.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "334-refine.json",
+    "pipeline_version": "v1"
+  }
+}

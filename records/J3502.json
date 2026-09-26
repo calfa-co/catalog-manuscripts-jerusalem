@@ -1,0 +1,68 @@
+{
+  "id": "J3502",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3502",
+  "notice": "3502",
+  "volume": "Jerusalem_V10",
+  "title": "ՏԵՏՐԱԿ ԵՐԳՈՑ",
+  "date": {
+    "from": "1856",
+    "to": "1856",
+    "display": null
+  },
+  "fields": {
+    "numero": "3502",
+    "no_notice": null,
+    "titre": "ՏԵՏՐԱԿ ԵՐԳՈՑ",
+    "date_debut": "1856",
+    "date_fin": "1856",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "46",
+    "dimensions": "30x20",
+    "mise_en_page": "սեւ մելանով, միասիւն, 24 տող, սեւ գիծերու միջեւ։ Նոտր շեղագիր յստակ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար",
+    "copiste": "Հեղինակը",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք, սկիզբը 3 թերթ, վերջը 9, կողքերը ներառեալ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ցանկ ոտանաւոր երգոց, եւ է բարեմաղթութիւն ինչ ի ժամ պատարագի ի յասելն Տէր ողորմեայ. եւ երբեմն եթէ պատահիցի սակս ննջեցելոց պաշտօն առնել՝ յայսցանէ հնար է ասել զմի տուն երգ զկնի վերջի Աւետարանի Սբ. Պատարագին, եթէ կամիցի ասօղն. զորս եդաք ըստ պատշաճի ոմանց տէրունի աւուրց, եւ ոմանց սրբոց տօնից աւուրցն՝ այլովքն հանդերձ։ Ահա եւ ի ներքոյ շարադասեալ զթուանշանսն՝ որ ի միջի գաւազանին՝ տես ի հատուածս իւրեանց...։ Եթէ գտանիցի ի սմա սխալանք՝ վասն Աստուծոյ ներեսջիք իմոյ տկար մտացս, աղաչեմ.— Սրբոյ Երուսաղէմի Աթոռոյս յետին ծառայից ծառայ՝ Տիգրանակերտցի Ստեփաննոս աբեղայս մահտեսի Թովմաճանեան, ի 1856, յունվար 1, ի Սբ. Ծնունդ, ի Վանս Հայոց։ Էջ 1–2.— Ցանկ։ 1–33 Գլուխներ։ Էջ 3.— 1.— Ոտանաւոր Վեշտասանոտնեայ ի վերայ Ծննդեան Ճրագալուցի, եւ երգ՝ նոյն Աստուածայայտնութեան աւուրցն։ Էջ 30.— 32.— Երգ աղաչանաց՝ վասն տառապեալ եւ ողորմելի անձանց։ Էջ 31.— 33.— Ոտանաւոր աւուրն Աւագ Ուրբաթու։ Հարց, պատասխանի։ Հարց.— Սըխրատեսիլ նախ բնակէիր՝ ի ծոցոյ Հօր բարձրագունի...։— Ստեփաննոս վարդապետ Տիգրանակերտցի։ Էջ 36.— Այս 30 տուն ի լեզու տաճկաց շարադրեալ հարց, պատասխանի բանն՝ է ի վեր անդր գրեալ 30 տանց ոտանաւորաց բացատրութիւնն,— Եա՜ հէյրանտէ գալաճագ Սահիպ...։— Եւ միաբան Սրբոյ Աթոռոյս Երուսաղէմի։ Էջ 46.— Վերջ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "490.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3502-refine.json",
+    "pipeline_version": "v1"
+  }
+}

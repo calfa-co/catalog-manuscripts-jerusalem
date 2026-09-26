@@ -1,0 +1,68 @@
+{
+  "id": "J3734",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3734",
+  "notice": "3734",
+  "volume": "Jerusalem_V11",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3734",
+    "no_notice": "ԺԵ",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Նման է նախորդ հատորին. էջք 844։",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Պատմութիւն Եկեղեցւոյն Աստուծոյ։ Հատոր ԺԵ։ Գիրք ԽԱ։ Մեծին Գրիգորի Հռոմայ Հայրապետութիւնը։ 590 թուէն մինչեւ 604։ Էջ 269.— Գիրք ԽԲ։ Եկեղեցական ժողովքներ, 585էն մինչեւ 604։ Եւ ուրիշ եկեղեցական դէպքեր մինչեւ [Այսչափ]։ Էջ 490.— Քննութիւն ԽԲ գրոց։ Քըննութիւն Ա։ Քրիստոսի Սուրբ Գեղարդին վըրայ թէ ու՞ր է։ Էջ 518.— Գիրք ԽԳ։ Մուհամէտի աղանդոյն ծագումէն եւ զօրանալէն մինչեւ 622 թուականէն մինչեւ [Այսպէս] Էջ 577–592, պրակ 37, կապոտրակ թուղթ։ Էջ 654.— Գիրք ԽԴ։ Հայոց Եկեղեցւոյն պատմութիւնը, եւ այն միջոցին եղած ուրիշ դէպքերը։ 616 թուականէն մինչեւ [Այսպէս]։ Էջ 817.— Քննութիւն Ա, ի ԽԴ երորդ գիրս։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "191.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3734-refine.json",
+    "pipeline_version": "v1"
+  }
+}

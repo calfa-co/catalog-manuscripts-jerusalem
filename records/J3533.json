@@ -1,0 +1,68 @@
+{
+  "id": "J3533",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3533",
+  "notice": "3533",
+  "volume": "Jerusalem_V10",
+  "title": "ԽՈՐԱԳԻՐՔ ՍԱՂՄՈՍԱՑՆ ԴԱՒԹԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3533",
+    "no_notice": null,
+    "titre": "ԽՈՐԱԳԻՐՔ ՍԱՂՄՈՍԱՑՆ ԴԱՒԹԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "48",
+    "dimensions": "16x11",
+    "mise_en_page": "սեւ մելանով, միասիւն, 16–21 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "թղթեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 17.— Խորագի[ր]ք Սաղմոսացն Դաւթի, սկսեալ յութեւտասներորդ գլխէ՝ նորին Սաղմոսացն։ Երկինք պատմեն (ասէ) զփառս Աստուծոյ. նշանակէ զօրհնութիւնս Աստուծոյ, զոր քարոզեն լռութեամբ անբան բնութիւնք արարածոց...։ ԺԹ.— Վասն Սողոմոնի որդւոյ իւրոյ աղօթէր, եւ խրատ տայր նմա յԱստուծոյ խնդրել զօգնականութիւն...։ Էջ 38.— ԾԼԶ.— Երանելին Դաւիթ ի ձեռն Երեմիայի տայ նշան Եբրայեցւոցն, եւ ծանուցանէ զգերիլն ի Բաբելացւոց, եւ զաղէտսն որ անցանելոց էր ընդ ժողովրդեանն, թերեւս խնդրեսցեն զողորմութիւն։ Վասնորոյ ասէ զայս։ Էջ 42.— ԾԾ.— Ի խորհուրդ խաչին կոչէ սրբութիւն երանելիս Դաւիթ, եւ թէ ի կատարածին խաչին ծառայեսցեն ամ. լեզուք, եւ ասէր։ Մինչ էր Ամբակում ի վերայ վիմին, եւ ետես զՏէրն ի վերայ խաչին, եւ որ ինչ լինելոց էր, օրհնութեամբ եւ դողութեամբ պատմէր եւ ասէր։ Էջ 43–48, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "528.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3533-refine.json",
+    "pipeline_version": "v1"
+  }
+}

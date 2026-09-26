@@ -1,0 +1,68 @@
+{
+  "id": "J2272",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2272",
+  "notice": "2272",
+  "volume": "Jerusalem_V7",
+  "title": "ԿԱՆՈՆ ՊՂԾԵԱԼ ՏԱՃԱՐԻ",
+  "date": {
+    "from": "1786",
+    "to": "1786",
+    "display": null
+  },
+  "fields": {
+    "numero": "2272",
+    "no_notice": null,
+    "titre": "ԿԱՆՈՆ ՊՂԾԵԱԼ ՏԱՃԱՐԻ",
+    "date_debut": "1786",
+    "date_fin": "1786",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "16",
+    "dimensions": "25x18",
+    "mise_en_page": "խորագիրները, ըսկըզբնատողերը եւ գլխագիրները կարմիր, մընացեալը սեւ մելանով, միասիւն, 34 տող։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": "Ղունկիանոս վարդապետ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդ եւ սկզբնատառ, էջ 1։ Լաթակազմ խստաքարտեայ։ Տե՛ս Գրչի մասին՝ Աղաւնունի, Միաբանք եւ Այցելուք, էջ 238",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Կանոն վասն պղծեալ Տաճարի ի յանօրինաց։ Գիշերն հսկումն առնեն ի յայն եկեղեցին...։ Էջ 4.— Եւ քահանայն ասէ զԱղօթս. Տէր ողորմեա, Տէր ողորմեա, Տէր ողորմեա։ Որ ընդունողդ ես աղօթից ժողովրդեան քում...։ Էջ 11.— Եւ ասէ զԱղօթս.— Տէր Ած. փառաւորեալ յամենայնի...։\nՅիշատակարան Գրչի.— 1786 Էջ 13, ստորոտը.— Ով բարի ընթերցողք եւ վայելողք հարք եւ եղբարք, զԲաղտասար դրեցուցանող, եւ զՂունկիանոս գծող տետրակիս նուաստ սեւաւորսս, յիշել աղաչեմք ի Քրիստոս, յորմէ եւ դուք յիշեալ լինիջիք ի յողորմութիւնս եւ ի գթութիւնս նորին, Ամէն։ Գրեցաւ ի ՌՄԼԵ թուին, եւ ի սեպտեմբերի 23։ Էջ 14-16, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "406.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2272-refine.json",
+    "pipeline_version": "v1"
+  }
+}

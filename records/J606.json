@@ -1,0 +1,72 @@
+{
+  "id": "J606",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "606",
+  "notice": "606",
+  "volume": "Jerusalem_V3",
+  "title": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "606",
+    "no_notice": "1",
+    "titre": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "252",
+    "dimensions": "22x16x2",
+    "mise_en_page": "խորագիրները կապոյտ մելանով, մնացեալը սեւ, միասիւն, 27 տող։ Խորագիրները լաւ բոլորգիր, մնացեալը վարժ նոտրագիր շեղակերպ",
+    "details_ecriture": "սովորականէն քիչ մը աւելի։ Լաթակազմ նոր",
+    "types_cahiers": "Ա–Հ, նշանակուած նաեւ լատին տառերով, A–Q, բայց ոչ ուղիղ կարգով",
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Սաւալանեան սապէս ներկայացուցած է. «Մկր. Վարդ. Աւգերեան Ած.աբանութիւն բաժանեալ ի չորս մասունս. թուի այս թէ իցէ ընդարձակն, այլ ; եւ այնպէս ոչ է ամբողջական։ Ի լուսանցս ուրեք դնին ի մերոց վարդապետաց եղծք ընդդէմ սխալ կարծեաց հեղինակին. այն է ընդդէմ գլխաւորութեան Պետրոսի, անսխալութեան պապից, եւայլն» (Ցուցակ, էջ 360)",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1.— Ցանկ առաջին հատորին Աստուածաբանութեան ։ էջ 8.— Առածք Աստուածաբանականք ։ էջ 9.— Վասն Ա. Եզրասայ, որ ըստ լտ . է երրորդ եւ անկանոն ։ էջ 14.— Մատեանք որք գովութեամբ յիշատակին կամ ի վկայութիւն կոչին ի բուն իսկ յԱստուածաշնչի ։ էջ 15.— Անյայտ գրեանք անընդունելիք ։ էջ 81.— Օրինակ վնասակար հակաճառութեան եւ հերքումն նորին՝ յաւէտ բանիւք Լամբրոնացւոյն խաղաղարար վարդապետին ։ էջ 127-165, կը տեսնուին ընդարձակ լուսանցագրութիւններ ։ էջ 170-175, դատարկ ։ էջ 178-184, դատարկ ։ էջ 185.— Ցանկ երկրորդ հատորոյ ։ էջ 227.— Ցանկ երկրորդ մասին՝ երկրորդ հատորոյ ։ էջ 231.— Ցանկ երրորդ հատորոյ ։ էջ 239.— Ցանկ չորրորդ հատորին ։ էջ 248-252, դատարկ ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "024.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "025.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "606-refine.json",
+    "pipeline_version": "v1"
+  }
+}

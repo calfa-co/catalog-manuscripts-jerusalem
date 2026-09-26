@@ -1,0 +1,72 @@
+{
+  "id": "J2329",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2329",
+  "notice": "2329",
+  "volume": "Jerusalem_V7",
+  "title": "Հ Ա Ր Ի Ւ Ր Ե Ա Կ   Ա Ռ Ա Կ Ք",
+  "date": {
+    "from": "1846",
+    "to": "1846",
+    "display": null
+  },
+  "fields": {
+    "numero": "2329",
+    "no_notice": "4",
+    "titre": "Հ Ա Ր Ի Ւ Ր Ե Ա Կ   Ա Ռ Ա Կ Ք",
+    "date_debut": "1846",
+    "date_fin": "1846",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "14.5x11.5x1.5 : Էջք 244 : Հանգամանք բաւարար : Թուղթ հասարակ : ԳՐՈՒԹԻՒՆ ամբողջովին սեւ մելանով , միասիւն , 14 տող : Նօտր շեղագիր : Համառօտագրութիւնք սովորականէն քիչ մը աւելի : Կաշեկազմ խաւաքարտեայ անարուեստ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 , դատարկ : Էջ 2 — Հարիւրեակ արարեալ առածք բարոյական իմաստալիցք յօրինեալ յիմաստասէր արանց գիտնականաց , եւ որոշեալ ի հարիւրեակս եւ ի տասնեակս , եւ յիւրաքանչիւր տասնեակսն եւս մի կամ երկուս համառօտ պատմութիւնս կցորդեալ : Եւ է սա թարգմանեալ յայլոց ազգաց քրիստոնէից լեզուէ ի Հայ լեզու , ի բարեմիտ մարդասէր եկեղեցականաց հարց ոմանց : Եւ այժմ օրինակեցաւ յԱռաքելական Մայր Աթոռս Սրբոց Յակոբեանց , 1846 , ի յունիսի 14 : Էջ 3 — Հարիւրեակ Առաջներորդ : Տասնեակ Ա . — 1 — Յաճախութիւնն ծնանի զտաղտկութիւն : Էջ 12 — Տասնեակ Դ . — Ձանձրացուցիչքն յաղթէ ագահին :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "479.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "480.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2329-refine.json",
+    "pipeline_version": "v1"
+  }
+}

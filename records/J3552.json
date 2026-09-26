@@ -1,0 +1,68 @@
+{
+  "id": "J3552",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3552",
+  "notice": "3552",
+  "volume": "Jerusalem_V10",
+  "title": "ՆԱՄԱԿԱՆԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3552",
+    "no_notice": null,
+    "titre": "ՆԱՄԱԿԱՆԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "206",
+    "dimensions": "21x15x2",
+    "mise_en_page": "այլազան, նոտր շեղագիր։ Լաթակազմ խաւաքարտեայ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Սկիզբի դատարկ նոր թուղթին վրայ, \"Կազմուեցաւ ի Ս. Յակոբ, 10-7-78\"։ Էջ 1.— Պետ բարեզարդ, արթնամիտ տեսուչ բանաւոր հօտին Քի. ...։ Էջ 42.— Բարեհամբաւ աստուածասէր իշխանի՝ մահտեսի ... մեծապատիւ ամիրայի եւ իմս հարազատ սիրելւոյ ողջոյն Էջ 53.— Խրթնաբանութիւն։ Էջ 55.— Իշխանաց եւ ժողովրդեանց։ Էջ 64.— Արանց եւ Կանանց։ Էջ 74.— Զայս գիրն ողորմութիւն ուղարկողաց եւս գրելու է։ Էջ 89.— Առ ի չգոյէ յարմար մարդոյ հարկ եղեւ մեզ զկիպրացի Սարգիս Վարդապետն առաքել ի Հնդիստան, որ եւ ել գընաց օգոստոսի սկիզբն, եւ այժմ ի Դամասկոս է եւ սպասէ կարաւանի որ գնայ ի Պաղտատ. Տէր տացէ նմայ շնորհք...։ Էջ 121.— Պատրիարքն գրէ առ իշխանաց կամ պարոնից։ Էջ 133.— Ի գիրս Աւրելիոսէ հաւաքեցեալ համառօտ։ Էջ 136.— Գիր յիշխանաց եւ ամիրայից։ Էջ 157.— Գիր սիրելւոյն օրինակեալ։ Էջ 163.— Իշխանաց որ ողորմութիւն խրկեալ են կամ ժամուց։ Էջ 173.— Բարեշնորհ տիրացու Սարգիս, սիրելի որդեակ մեր Էջ 201.— ... Գրեցաւ ծանուցական եւ պատուէրի նամակս ի ՌՄԽԲ թուին Հայոց, եւ նոյեմբերի ԻԸ ին, ի Պատրիարքարանս, Կոստանդնուպօլիս։ Էջ 205.— Յաղագս մասնակցութեան սրբոց զոր մարդ մեղանչելով կորուսաներ ասէ Տէրն, առ մեղաւորսն։ Էջ 206, դատարկ մեծագոյն մասամբ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "549.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3552-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3130",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3130",
+  "notice": "3130",
+  "volume": "Jerusalem_V9",
+  "title": "ՇԱՐԱԿԱՆՔ (ՀԱՅԿ. ՁԱՅՆԱԳՐՈՒԹԵԱՄԲ)",
+  "date": {
+    "from": "1896",
+    "to": "1896",
+    "display": null
+  },
+  "fields": {
+    "numero": "3130",
+    "no_notice": "Ա",
+    "titre": "ՇԱՐԱԿԱՆՔ (ՀԱՅԿ. ՁԱՅՆԱԳՐՈՒԹԵԱՄԲ)",
+    "date_debut": "1896",
+    "date_fin": "1896",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "956",
+    "dimensions": "28 X 22 X 5.5",
+    "mise_en_page": "նման նախորդին",
+    "details_ecriture": "նման նախորդին",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "նման նախորդին",
+    "nb_lignes": null,
+    "reliure": "նման նախորդին բայց փրթած",
+    "etat_conservation": "լաւ ընդհանուր առմամբ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը եօթ թերթ, հինգերորդին վրայ գրուած է մեծատառ. «Ձայնագրեալ Շարականս գրեաց Վաղ[ա]րշ Տ. Մարկոսեան Ռնտուանցի, ի թուին Փրկչին 1896ին, յԵրուսաղէմ»",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Սկսուածք եւ փառք Ութն Ձայնից։ Էջ 34–35ի միջեւ երեք թերթ դատարկ, առանց իջաթիւի։ Էջ 35, զարդագիր. — Ձայնագրեալ Շարականք Հայաստանեայց Սուրբ Եկեղեցւոյ. Կանոն Ծննդեան Սուրբ Աստուածածնի։ Էջ 52. — Կանոն Աստուածայայտնութեան Ճրագալուցին։ Էջ 64. — Կանոն Աստուածայայտնութեան Առաջին Աւուրն։ Էջ 107. — Կանոն Քառասնօրեայ Գալստեանն Քի. ի Տաճարն։ Էջ 191. — Կանոն Բուն Բարեկենդանին։ Էջ 401. — Կանոն Մեծի Ողորմեան՝ Ծաղկազարդի Կիւրակէին։ Էջ 487–488ի միջեւ երեք էջ առանց իջաթիւի։ Էջ 488. — Կանոն Սրբոյ Զատկին։ Էջ 494. — Հարցք Յարութեան։ Էջ 510. — Կանոն Նոր Կիւրակէին։ Էջ 624, կրկնուած։ Էջ 642. — Կանոն Համբարձման Քրիստոսի։ Էջ 695. — Կանոն Հոգեգալստեան Ա. Աւուրն։ Էջ 772. — Կանոն Շողակաթին։ Էջ 798ին կը յաջորդէ սխալմամբ էջ 800։ Էջ 815. — Կանոն Վարագայ Խաչի։ Էջ 817ին կը յաջորդէ 819։ Էջ 821. — Կանոն Գիւտ Խաչի։ Էջ 867. — Մանկունք Սրբոց Սուքիասանց։ Էջ 900. — Համբարձի Ղեւոնդեանց, ԲՁ, մասնաւոր եղանակ։ Էջ 915–932, դատարկ։ Էջ 933. — Ցանկ Շարականաց։ Էջ 941–956, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "366.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3130-refine.json",
+    "pipeline_version": "v1"
+  }
+}

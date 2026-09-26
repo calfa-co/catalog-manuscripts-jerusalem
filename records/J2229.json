@@ -1,0 +1,68 @@
+{
+  "id": "J2229",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2229",
+  "notice": "2229",
+  "volume": "Jerusalem_V7",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (ԿԻՒՐԱԿԷԻՑ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2229",
+    "no_notice": "6",
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (ԿԻՒՐԱԿԷԻՑ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԻԴ + 476",
+    "dimensions": "27 X 17 X 3",
+    "mise_en_page": "սկզբնատողերը կապոյտ, մնացեալը սեւ մելանով, միասիւն, 28 տող",
+    "details_ecriture": "մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի ոսկեդրուագ, խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Ի, դատարկ, թէեւ գծուած պատրաստ։ Էջ ԻԱ. — Յառաջաբանութիւն. — Յետ առաջնոյ Քարոզագրոյն անուանելոյ Տարեկան Քարոզք, զսա եւս յարմարեցի ի մնացորդաց նորա անուանեալ Քարոզք Կիւրակէից, թուով ութսուն եւ մէկ...։ Էջ 1 — Կաղանդի։ Գոհանալ զԱստուծոյ։ Էջ 6 — Կիւրակէ պահոց ծննդեան։ Ընթացք Քրիստոնէի։ Էջ 154 — Աւագ Ուրբաթի։ Կտակ Չարչարանաց Տեառն։ Էջ 228. — Չորրորդ Կիւրակէ Յարութեան։ Եւ լինի յետինն մարդոյն այնորիկ չար քան զառաջինն։ Մատթ. 12, 45։ Էջ 386 — Վեցերորդ Կիւրակէ Յիսնակի։ Ազգասիրութիւն։ Էջ 393-396, դատարկ։ Էջ 397 — Ցանկ Քարոզից, մտաց եւ բնաբանից նոցա, ըստ իւրաքանչիւր երեսաց եւ թղթահամարից։ Էջ 408, դատարկ։ Էջ 409 — Ցանկ Քարոզագրքոյս, ըստ այբուբենական կարգի, բազում աշխատութեամբ՝ ի դիւրութիւն հետեւողաց։ Էջ 448, դատարկ։ Էջ 449 — Շնորհք Ամենասուրբ Երրորդութեանն Հօր եւ Որդւոյ եւ Հոգւոյն Սրբոյ տնտեսին Այ. եկեսցէ եւ բնակեսցի և սփռեալ ծաւալեսցի ի հոգիս եւ ի մարմինս ձեր, որով կարողասջիք ապաշխարութեամբ, արդարութեամբ եւ աստուածպաշտութեամբ տալ ըզհամար հաւատարիմ տնտեսական ծառայութեան ձերոյ...։ Էջ 456 — Հաւատարիմն տիեզերաց՝ Յս. Քս. Բանն Ած. պարգեւեսցէ ձեզ ամենեցուն հոգի զգաստութեան եւ հաւատարմութեան ...։ Էջ 472-476, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "359.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2229-refine.json",
+    "pipeline_version": "v1"
+  }
+}

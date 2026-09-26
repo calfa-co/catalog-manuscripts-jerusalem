@@ -1,0 +1,68 @@
+{
+  "id": "J2843",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2843",
+  "notice": "2843",
+  "volume": "Jerusalem_V9",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2843",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "228",
+    "dimensions": "24X18X2",
+    "mise_en_page": "խորագիրները եւ բնաբանները կարմիր, մնացեալը սեւ մելանով, միասիւն, 40 տող, յաճախ նուազ։ Նոտր շեղագիր մանր, անարւեստ",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ մաշած",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։ Էջ 3.— Քս. բնակի ի խաղաղութիւն։ Էջ 13-18, դատարկ։ Էջ 19.— Ինճիլի Շէրիֆ էլ Մէսիհի Յս. Քս.ուն տէր Մատթէոս։ Պէրայի գըյամէյի Յս. Քս.ուն։ Էջ 26, դատարկ։ Էջ 27.— Ի վերայ Սրբոյ Կուսին։ Էջ 36, դատարկ։ Էջ 37.— Բնաբան, Յօհ. 10, 22։ Էջ 40-44, դատարկ։ Էջ 45.— Հոգւոյն Սրբոյ։ Էջ 51-58, դատարկ։ Էջ 59.— Այսմաւուրաց թարգմանեալ։ Էջ 62, դատարկ։ Նոյնպէս էջ 64, 78, 80-102։ Էջ 103.— Քարոզ ի վերայ Սրբոյ Եկեղեցւոյ։ Էջ 106, դատարկ։ Նոյնպէս էջ 110, 113-117։ Էջ 127.— Բնաբան, Մատ. 20, 29։ Էջ 129-131, դատարկ։ Նոյնպէս էջ 133-140։ Էջ 143.— Բնաբան Երգոց Երգոյն, 8, 12։ Էջ 145-164, դատարկ։ Նոյնպէս էջ 166։ Էջ 173.— Յաղագս թէ որպէս կարէին մարգարէքն ցուցանել թէ յԱստուծոյ իցէին առաքեցեալք։ Էջ 176, դատարկ։ Նոյնպէս էջ 178։ Էջ 182.— Վասն Գովութեան Աստուծոյ։ Էջ 183-228, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "077.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2843-refine.json",
+    "pipeline_version": "v1"
+  }
+}

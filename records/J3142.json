@@ -1,0 +1,72 @@
+{
+  "id": "J3142",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3142",
+  "notice": "3142",
+  "volume": "Jerusalem_V9",
+  "title": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+  "date": {
+    "from": "1638",
+    "to": "1638",
+    "display": null
+  },
+  "fields": {
+    "numero": "3142",
+    "no_notice": "202",
+    "titre": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+    "date_debut": "1638",
+    "date_fin": "1638",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "374",
+    "dimensions": "25 X 19 X 5",
+    "mise_en_page": "սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 27 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ, ատենօք զարդարուած բազմաթիւ խաչերով, որոնց տեղերը կը տեսնուին յստակօրէն",
+    "etat_conservation": "բաւարար. նորոգութիւն կրած",
+    "copiste": "Ներսէս Սարկաւագ, որդի եւ աշակերտ Մելքոն Քահանայի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "ոչ նուրբ, Ս. Մատթէոս էջ 26, Ս. Մարկոս 132, Ս. Ղուկաս 192, Ս. Յովհաննէս եւ Պրոխորոն 292",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր եւ լուսանցազարդ հատուածներու սկիզբը ; ԽՈՐԱՆԱԶԱՐԴ: իւր սարօք, էջ 27, 133, 193, 293",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-6, նոր թուղթ, դատարկ, ծակծկուած։ Էջ 7-9, դատարկ։ Էջ 10-11.— Թուղթ Եւսեբիոսի, շրջանակի մէջ։ Էջ 12-19.— Կանոնի տախտակներ, խորանազարդերուն մէջ աչքի կը զարնէ կանաչ գոյնը։ Էջ 20, վերը, նոտրագիր.— Մաթէոս գըրեաց զԱւետարանս իւր յԵրուսաղէմ քաղաքի...։ Էջ 21, բոլորգիր.— Գլուխք Մաթէոսի Աւետարանին։ Էջ 25.— Համաձայնութիւն նախասացեալ գրոցս։ Էջ 27.— Աւետարան ըստ Մաթէոսի.— Գիրք ծնընդեան Յի. Քի. ...։ Էջ 125ա, ստորոտը, Գրչէն.— Աղաչեմ յիշելի Տէր զեղկելիս Ներսէս։ Էջ 126.— Գլուխք Աւետարանին Մարկոսի։ Էջ 130-131, դատարկ։ Էջ 133.— Աւետարանս ըստ Մարկոսի։ Աւգնեայ Հոգիդ Սբ. Ած. ճշմարիտ.— Սկիսբըն Աւետարանի Որդոյ Այ. Յի. Քի. որպէս եւ գրեալ է յԵսայի մարգարէս...։ Էջ 186բ.— Յարուցեալ Յս. առաւաւտուն յառաջին միաշաբաթուն...։ Էջ 188ա.— Ցուցակք Աւետարանիս Ղուկասու, եթէ որքան գործ եւ զինչ սքանչելիս արարեալ Տէր։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "386.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "387.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3142-refine.json",
+    "pipeline_version": "v1"
+  }
+}

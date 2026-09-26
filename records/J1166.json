@@ -1,0 +1,68 @@
+{
+  "id": "J1166",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1166",
+  "notice": "1166",
+  "volume": "Jerusalem_V4",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՅՈՎՀԱՆՆՈՒ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1166",
+    "no_notice": "8",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՅՈՎՀԱՆՆՈՒ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "532",
+    "dimensions": "18x14x4",
+    "mise_en_page": "խորագիրները, բնաբանները, եւ յաճախ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 29 տող",
+    "details_ecriture": "առատ։ Մեծ զարդագրերուն տեղերը բաց մնացած առաջին մասերուն մէջ. երկրորդ մասը ունի կարմրագիծ զարդագիր եւ լուսանցազարդ շարք մը գլուխներու սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ. լուսանցքները քիչ մը ցեցակեր",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը եւ վերջը երկուական թերթ, մասն երկաթագիր Աւետարանի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա. — [Յ]առաջաբան։ Լծ. Նախերդանս ոչ է Նանայի Մեկնչի, այլ վարդապետին, որ վասն խոնարհութեան զանուն իւր ոչ գրէ, որ թարգմանեալ է ի մեր լեզուս ...։ Էջ 26ա. — Համառօտ Մեկնութիւն Աւետարանի Յովհաննու, Նորին Գրիգորի, աշակերտի Յոհաննու Որոտնեցոյ, հաւաքեալ ի հին եւ ի նոր թարգմանչաց, ի խնդրոյ համաշունչ աշակերտաց։ Աւգնեա ինձ Հոգի Աստուած. — [Ի] սկզբան։ Նախ ասելի է վասն սկզբան, զի բազում են սկզբունք...։ Էջ 61ա. — Հարցումն Գէորգեայ, եւ պատասխանի Գրիգորի՝ նորին համշիրակն։ Հարցումն. — [Ո]րպէս իմանամք զԲանն թէ երեւեցաւ շնորհքն Աստուծոյ փրկիչ ամենայն մարդկան...։ Էջ 526բ. — Արդ զոր եսն խաւսիմ, որպէս ասաց ինձ Հայր, այն[պէս խաւսիմ] = Գլուխ ԺԲ. Համար 50։ Էջ 529–532, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "289.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1166-refine.json",
+    "pipeline_version": "v1"
+  }
+}

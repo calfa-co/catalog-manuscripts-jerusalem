@@ -1,0 +1,68 @@
+{
+  "id": "J2815",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2815",
+  "notice": "2815",
+  "volume": "Jerusalem_V9",
+  "title": "Ե Ր Կ Ո Ւ  Ո Ս Ո Խ Ն Ե Ր",
+  "date": {
+    "from": "1911",
+    "to": "1911",
+    "display": null
+  },
+  "fields": {
+    "numero": "2815",
+    "no_notice": null,
+    "titre": "Ե Ր Կ Ո Ւ  Ո Ս Ո Խ Ն Ե Ր",
+    "date_debut": "1911",
+    "date_fin": "1911",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "21X12.5: Էջք Ը+56: Հանգամանք լաւ: Թուղթ գծաւոր: Գրութիւն սեւորակ մելանով, միասիւն, շեղագիր մաքուր: Լաթակազմ խաւաքարտեայ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Դ, դատարկ: Էջ Ե.— Տիտղոսաթերթ.— Երկու Ոսոխներ, Մարմինն ու Հոգին իրարու դէմ: Առաջին տպեալէն նորոգ բարեփոխեալ յաւելուածով մը: Գրեց Մշոյ Խասգիւղցի Աւետիս Վարդապետ Յովհաննէսեան, 1911, Տպուեցաւ Բ. անգամ Ս. Աթոռս սոյն ամի, յԵրուսաղէմ: Էջ Զ.— Հրատարակութիւն Երկասիրին: Նուիրեց իր ձեռագիր այս օրինակը Ս. Աթոռոյս Թանգարանին, 1 մայիս, 1911, յԵրուսաղէմ.— Երկասէրն: Էջ Է.— Յառաջաբան:\nԷջ 1.— Առաքեալին պատգամները: Էջ 3.— Երկու Ոսոխներ, Մարմին ու Հոգին իրարու դէմ: Էջ 39.— Յաւելուած: Աղերս առ Տէր Յիսուս: Էջ 40.— Աղերս առ Սուրբ Աստուածածին: Էջ 44.— Ճշմարիտ զղջման եւ ապաշխարութեան օրինակները: Էջ 48.— Պոռնիկ կինն առ ոտս Յիսուսի: Էջ 50.— Պօղոս Առաքեալին դարձն ու հաստատ առաջադրութիւնն առ Քրիստոս: Էջ 53.— Խրատ: Էջ 54–56, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "051.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2815-refine.json",
+    "pipeline_version": "v1"
+  }
+}

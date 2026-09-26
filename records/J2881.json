@@ -1,0 +1,68 @@
+{
+  "id": "J2881",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2881",
+  "notice": "2881",
+  "volume": "Jerusalem_V9",
+  "title": "ԱՒԵՏԱՐԱՆ ՅՈՎՀԱՆՆՈՒ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2881",
+    "no_notice": null,
+    "titre": "ԱՒԵՏԱՐԱՆ ՅՈՎՀԱՆՆՈՒ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "15th century codex; vellum; 14 X 12.7 cm; 94 folios; almost full binding; one wooden board at the back, loose in front; 2 columns, gene-rally 13 lines per column; Ms. partly damaged and soiled and stained, but generally legible.",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Title: Gospel of John. 1) fols. 1-91b, Gospel of John opening on f. 1 with the usual formula, and concluding that “all the words of the gospel are spoken by the son”. 2) fol. 91b on top there is (the words of the gospel equal 727?).\nAdditional Content. 1) fol. 81b-82b. A short prayer for blessing. 2) fol. 83a-84a. A short prayer of intercession for the remission of sin. 3) fol. 84b. A short prayer for healing and mercy. Տես էջ 186։ Ձեռագրին թիւը սխալմամբ տպուած է 2821 փոխանակ 2881ի։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "107.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2881-refine.json",
+    "pipeline_version": "v1"
+  }
+}

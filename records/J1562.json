@@ -1,0 +1,68 @@
+{
+  "id": "J1562",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1562",
+  "notice": "1562",
+  "volume": "Jerusalem_V5",
+  "title": "ԱՏԵՆԱԿԱՆ ԽՕՍՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1562",
+    "no_notice": "1",
+    "titre": "ԱՏԵՆԱԿԱՆ ԽՕՍՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "144",
+    "dimensions": "15 X 10.5 X 1.5",
+    "mise_en_page": "ամբողջովին սև մելանով գրեթէ, կան կարմիր գլխագիրներ երկրորդ կէսին մէջ, միասիւն, 16 տող",
+    "details_ecriture": "անարուեստ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։ Էջ 3. — Ճակատ. — Խօսք Ատենական, արարեալ սրբոյն Ներսեսի Լամբրոնացւոյ, այնմ քաղաքի աթոռակալի, եւ աստուածաբան վարդապետի, սակս միութեան եկեղեցւոյ Հայոց եւ Հոռոմոց, հրամանաւ համահրեշտակ կաթուղիկոսին Հայոց Գրիգորիսի, եղբօր որդւոյ Սրբոյն Ներսեսի, ի թուին Հայոց ՈԿԶ։ Էջ 4. — Յաստուածախումբ եւ ի տիերական ժողովն Տարսոնի, որ եղեւ ի շրջանի ընթացից ժամանակի, ՈԿԶ, թուականի Հայոց, հրամանաւ համահրեշտակ կաթուղիկոսին Հայոց Գրիգորիսի, եղբօրորդւոյ Սրբոյն Ներսեսի, յաջորդի Առաքելական Աթոռոյ Սրբոյն Գրիգորի։ Եւ քրիստոսազըսակ արքային Հայոց Լէոնի, սակս միութեան եկեղեցւոյ Հայոց եւ Հոռոմոց։ Ատենական խօսք սրբոյն Ներսեսի, այնմ քաղաքի աթոռակալի, եւ աստուածաբան վարդապետի. — Հմմտ. թիւ 911, Գ. Հատոր, էջ 437, եւ նկատ.։ Էջ 5. — Ով հարք սուրբք, եւ պետք ճշմարտութեան...։ Էջ 139-144, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "351.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1562-refine.json",
+    "pipeline_version": "v1"
+  }
+}

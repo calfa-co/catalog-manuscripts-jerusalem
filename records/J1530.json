@@ -1,0 +1,68 @@
+{
+  "id": "J1530",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1530",
+  "notice": "1530",
+  "volume": "Jerusalem_V5",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՍԱՂՄՈՍԱՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1530",
+    "no_notice": "17",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՍԱՂՄՈՍԱՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "232",
+    "dimensions": "15x10x2.5",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 24 տող",
+    "details_ecriture": "չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": "Ղազարոս",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը եւ վերջը տասներկուական թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Առաջաբանութիւն երանելոյն Եպիփանու եպիսկոպոսապետին արարեալ պատճառս երգուց Սաղմոսին.— Զամենայն զոր ինչ հրամայեաց...։ Էջ 17.— Խոստովանիմ Ած. զՀայր, անծին անեղ եւ անսկիզբն...։ Էջ 23.— Այս ինչ է ի սմա։ Էջ 27.— Նորին Գրիգորի աշակերտի եռամեծին Յովհաննու Որոտնեցւո արարեալ հաւաքումն բանից ի Մեկնութենէ Սաղմոսին աստուածահօրն Դաւթի մարգարէին։ Ա.— Էջ 28.— Ընդդէմ մոլորութեան նոցա որք ասեն զհիրքաքուրն։ Հ.— Էջ 147.— Քահանայք քո զգեցցին զարդարութիւն։ ՂԴ.— էջ 209.— Զի նա ասաց եւ եղեն...։ Յիշատակագրութիւն Գրչի.— Էջ 222.— Փառք Փրկչին եւ յիշատակ գրչին, զմեղաւոր Ղազարոսին։ Էջ 223-232, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "300.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1530-refine.json",
+    "pipeline_version": "v1"
+  }
+}

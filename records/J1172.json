@@ -1,0 +1,68 @@
+{
+  "id": "J1172",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1172",
+  "notice": "1172",
+  "volume": "Jerusalem_V4",
+  "title": "Պ Ա Տ Մ Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1807",
+    "to": "1807",
+    "display": null
+  },
+  "fields": {
+    "numero": "1172",
+    "no_notice": "2",
+    "titre": "Պ Ա Տ Մ Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": "1807",
+    "date_fin": "1807",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "192",
+    "dimensions": "19x12x2",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 23 տող",
+    "details_ecriture": "սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Յակոբ Եպիսկոպոս",
+    "possesseur": "Յակոբ Եպիսկոպոս",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Արիստակէս Պատմագիրք։ Պատմութիւն Արիստակէսի վարդապետի Լաստիվերտցւոյ՝ վասն անցիցն անցելոցն ի յայլասեռն ազգաց՝ որք շուրջ զմեօք են՝ անց ընդ աշխարհս Հայոց։ Ժամանեցին մեզ աւուրք չարչարանաց եւ գտին զմեզ նեղութիւնք անհնարինք. քանզի լցեալ զեղաւ չափ մեղաց մերոց՝ եւ ել աղաղակ մեր առաջի Աստուծոյ...։ Էջ 6.— Յաղագս Թագաւորութեանն Հայոց. Գլուխ Բ.։ Էջ 85.— Յաղագս մեծ պատերազմին, որ եղեւ ի մեծ դաշտին Բասենոյ, յորում պարտեցան Հոռոմք։ Գլուխ ԺԳ.։ Էջ 169.— Յաղագս Թագաւորին Յունաց, որ ի Թագաւորէն Պարսից ձերբակալ եղեւ։ Գլուխ ԻԵ.։ Էջ 178.— Բան յիշատակարանի նոյն գրոցս.— Կարեւոր համարեցայ ... եւ ըզմիջական ոմնէր ... կամ աւետիս բարութեան լուաք ... ընդ ձեռամբ թշնամեացն անկեալ ... վաղ ժամանել քան զշարժել պատուհասին և ընդդէմ կալ.— Հմմտ. Տպ. Վենետիկ, 1901, էջ 134-139։ Էջ 185.— Ցանկ Գլխոց։\nՅիշատակարան Գրչի.— 1807 Էջ 186.— Ընդօրինակեցաւ Պատմագիրքս ի Սբ. Երուսաղէմի վէքիլ Յակոբ եւեթէ եպս. նուաստ ծառայէ՝ ի վայելս անձին իւրոյ՝ ի կենդանութեան, եւ յետ այնր՝ ի բարեմիտ վերծանօղս սորին։ Եւ որք միանգամ ընթեռնուք եւ կամ օրինակէք զսա, յիշեցէք ի մաքուր աղօթս ձեր զհոգի գծողի դրոյս զՅակոբ եպիսկոպոս, միով Հայր մերիս։ Ի Կոստանդնուպօլիս, յամի Տեառն 1807։ Էջ 187-192, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "297.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1172-refine.json",
+    "pipeline_version": "v1"
+  }
+}

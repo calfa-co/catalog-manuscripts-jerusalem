@@ -1,0 +1,68 @@
+{
+  "id": "J3598",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3598",
+  "notice": "3598",
+  "volume": "Jerusalem_V10",
+  "title": "ԿՐՕՆԱ–ԿԵՆՍԱԳՐԱԿԱՆ ԷՋԵՐ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3598",
+    "no_notice": null,
+    "titre": "ԿՐՕՆԱ–ԿԵՆՍԱԳՐԱԿԱՆ ԷՋԵՐ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "198",
+    "dimensions": "25.5x19.5x1.5",
+    "mise_en_page": "եւայլն, նման նախորդին",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "եւայլն, նման նախորդին",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "եւայլն, նման նախորդին",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.– Մովսէս։ Էջ 31.– Յեսու։ Էջ 33.– Սամուէլ։ Էջ 35.– Դաւիթ։ Էջ 44.– Սողոմոն։ Էջ 54.– Եսայի։ Էջ 58.– Երեմիա։ Էջ 62.– Եզեկիէլ։ Էջ 64.– Դանիէլ։ Էջ 70.– Նէէմիա։ Էջ 72.– Յոբ Երանելին։ Էջ 75.– Սուրբ Ստեփաննոս։ Էջ 80.– Պօղոս Առաքեալ։ Էջ 110.– Պետրոս Առաքեալ։ Էջ 130.– Թադէոս Առաքեալ։ Էջ 143.– Բարթողիմէոս Առաքեալ։ Էջ 149.– Յակոբոս Առաքեալ։ Էջ 151.– Թուղթ Յակոբայ։ Էջ 152.– Յուդա Առաքեալ։ Էջ 154.– Մատթէոս Աւետարանիչ։ Էջ 159.– Ղուկաս Աւետարանիչ։ Էջ 163.– Մարկոս Աւետարանիչ։ Էջ 165.– Յովհաննէս Աւետարանիչ։ Էջ 178–198, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "659.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3598-refine.json",
+    "pipeline_version": "v1"
+  }
+}

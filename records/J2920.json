@@ -1,0 +1,68 @@
+{
+  "id": "J2920",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2920",
+  "notice": "2920",
+  "volume": "Jerusalem_V9",
+  "title": "ՇԱՐԱԿԱՆՔ ՁԱՅՆԱԳՐԵԱԼ(2)",
+  "date": {
+    "from": "1890",
+    "to": "1890",
+    "display": null
+  },
+  "fields": {
+    "numero": "2920",
+    "no_notice": null,
+    "titre": "ՇԱՐԱԿԱՆՔ ՁԱՅՆԱԳՐԵԱԼ(2)",
+    "date_debut": "1890",
+    "date_fin": "1890",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "20 X 15.5 X 4: Էջք Ե + 630: Հանգամանք շատ լաւ: Թուղթ, Գրիչ եւ Գրութիւն նման նախորդին: Գծանկարք երկու տասնեակ: Կնիք՝ նոյն, էջ 1: Փառակազմ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Բ, դատարկ: Նոյնպէս էջ Դ:\n7.— Զարդանկար Թիւ 2920, Էջ 209բ\n8.— Զարդանկար Թիւ 2920, Էջ 572\nԷջ Գ.— Կնիք հաւկթաձեւ, «Յիշատակ Թանգարանի Սրբոց Յակովբեանց, 1857»: Էջ Ե.— Յիշատակագրութիւն՝ նման նախորդներուն: Էջ 1.— Կանոն Բուն Բարեկենդանին: Էջ 37.— Կանոն Գ. Կիւրակէի Աղուհացից: Էջ 133.— Կանոն Չորրորդ Կիւրակէի Աղուհացից: Էջ 178.— Կանոն Հինգերորդ Կիւրակէի Աղուհացից: Էջ 247բ.— Կանոն Վեցերորդ Կիւրակէի Աղուհացից: Էջ 376.— Ըստ Տօնացուցի, Ծաղկազարդի երեկոյեան ժամերգութեան եւ վարագուրաբացման արարողութեան կարգադրութիւնն է: Էջ 398.— Կանոն Ծաղկազարդի Կիւրակէի: Էջ 466.— Յաւուր Հանդիսի Աւագ Հինգշաբաթի Աւուր՝ Տաղ Ոտնալուայի.— Այս խորհուրդ լըցաւ...: Էջ 524.— Կանոն Թաղման Տեառն մերոյ Յի. Քի.: Էջ 610, դատարկ: Նոյնպէս էջ 614, եւ 618-619: Էջ 620.— Ցանկ: Հատոր Բ: Էջ 624, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "144.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2920-refine.json",
+    "pipeline_version": "v1"
+  }
+}

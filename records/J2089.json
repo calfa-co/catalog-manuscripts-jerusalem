@@ -1,0 +1,68 @@
+{
+  "id": "J2089",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2089",
+  "notice": "2089",
+  "volume": "Jerusalem_V7",
+  "title": "ԳԻՐՔ ՃԱԿԱՏԱՄԱՐՏՈՒԹԵԱՆ (ԹԵՐԻ)",
+  "date": {
+    "from": "1828",
+    "to": "1828",
+    "display": null
+  },
+  "fields": {
+    "numero": "2089",
+    "no_notice": "4",
+    "titre": "ԳԻՐՔ ՃԱԿԱՏԱՄԱՐՏՈՒԹԵԱՆ (ԹԵՐԻ)",
+    "date_debut": "1828",
+    "date_fin": "1828",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "70",
+    "dimensions": "24x17",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 25 տող։ Նոտր շեղագիր",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար",
+    "copiste": "Սարգիս Դպիր Թրակիացի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "հաւկթաձեւ «Ներսէս Եպիսկոպոս», էջ 1",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 — Ճակատ. — Գիրք Ճակատամարտութեան եւ կամ ընտրողութեան այն, որ ունի ընդ ազգին հրէից, օրինաց նոցին եւ ծիսից, վկայութեամբ Սբ. Գրոց Հին եւ Նոր Կտակարանաց, արարեալ է ոմն Նէոփիտոս յունաց յաբեղայ որ լեալ է երբեմն րաբունի ազգին հրէից։ Եւ թարգմանեցեալ եղեւ ի մօլտովանու լեզուէ ի հայ բարբառ, աշխատութեամբ տէր Ներսէս քահանայի, յամի Տեառն 1808, ի քաղաքն Եաշ։ Իսկ այժմ գաղափարեցաւ Թրակիա, ի հայրապետութեան տեառն Եփրեմի սրբազան կաթողիկոսի ամ. Հայոց, ձեռամբ Սարգիս մեղապարտ սպասաւորի եւ անարժան ծառայի Թրակիացի, յամի Տեառն 1828, եւ յունվար 29. Սարգիս Դպիր Հոելեստոննեան?։\nԷջ 3 — Յառաջաբանութիւն շարադրողի գրքուս։ Էջ 47 — Գլուխ Գ. — Աստ զինքեանս, այսինքն՝ զյոյնսն, եւ զայլ ուղղափառսն...։ Էջ 66 — ...որպէս ասէ Քս. առ աշակերտսն իւր, երթայք [այսչափ. կը մնայ թերի. յաջորդ չորս էջերը՝ դատարկ]։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "176.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2089-refine.json",
+    "pipeline_version": "v1"
+  }
+}

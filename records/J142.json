@@ -1,0 +1,68 @@
+{
+  "id": "J142",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "142",
+  "notice": "142",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆ. ԵՐԳՈՑ ԵՐԳՈՅՆ ՍՈՂՈՄՈՆԻ (թերի)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "142",
+    "no_notice": "2",
+    "titre": "ՄԵԿՆ. ԵՐԳՈՑ ԵՐԳՈՅՆ ՍՈՂՈՄՈՆԻ (թերի)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "106",
+    "dimensions": "31x22x1",
+    "mise_en_page": "բնագիրը կարմիր, մեկնութիւնը սեւ մելանով։ Երկսիւն, 46 տող։ Մանր նոտրագիր։ Չափազանց համառօտագրեալ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Կը պարունակէ Երգ-երգոցի Մեկնութիւնը մինչեւ Բ. գլուխ 5 համար։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "426.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "142-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3808",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3808",
+  "notice": "3808",
+  "volume": "Jerusalem_V11",
+  "title": "ՔԱՐՈԶԳԻՐՔ (Տարեկան)",
+  "date": {
+    "from": "1855",
+    "to": "1855",
+    "display": null
+  },
+  "fields": {
+    "numero": "3808",
+    "no_notice": "16",
+    "titre": "ՔԱՐՈԶԳԻՐՔ (Տարեկան)",
+    "date_debut": "1855",
+    "date_fin": "1855",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "788",
+    "dimensions": "20x16.5x3.5",
+    "mise_en_page": "սրճագոյն մելանով, միասիւն, 21 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": "նոտրակերպ վարժ գրչէ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ։ Լաթակազմ խաւաքարտեայ, վերջին պրակը փրթած",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար",
+    "copiste": "Տիր. Ստեփան Թէքիրտաղցի",
+    "possesseur": "Գրիգոր Վրդ. Տէր Պօղոսեան, Պոլսեցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.– Քարոզ Ա. Կաղանդի։ Էջ 7.– Քարոզ Բ. Կիւր. Ծննդեան պահոց։ Էջ 344.– Քարոզ Ծ. Աւագ Ուրբաթ. Կտակ Չարչարանաց Տեառն.– Եղիցի օր մի, եւ օրն այն յայտնի Տեառն, Զաք. ԺԴ. 7։ Էջ 528.– Քարոզ ՁԲ։ Տօն Սրբոյն Գէորգայ։ Էջ 715.– Քարոզ ՃԺԵ։ Կիւր. պատահեալ ի մէջ Աւագ Տօնից։ Էջ 721 դատարկ։ Էջ 723.– Ցանկ։ Էջ 785, ստ. լուսանցքին, տարբեր գրչութեամբ.– Գրիգոր Եպս. Տէր Պօղոսեան։ Էջ 786, դատարկ։ Էջ 787.– Գիշեր այս աշխարհ, իբրեւ երազ անցանէ եւ կորնչի. 71 երես։... Էջ 788, ստորոտը.– Այս սուրբ մատեանս որ է Քարոզագիրք, իբրեւ սուրբ մասունք պաշտելու է, եւ միշտ հանապազ ընթեռնելու է։\nՅիշատակարան Գրչի.– 1855 Էջ 722.– Գիրք Քարոզից Տարեկան շարադրեալ հանգուցեալ տեառն Կարապետ սրբազան արքեպիսկոպոսի երբեմն պատրիարքի Կոստանդնուպօլսոյ։ Գաղափարեալ փոքրաւորի Գրիգոր վարդապետի տիրացու Ստեփանի Թէքիրտաղցւոյ։ Ի վայելումն վերոգրեալ Գրիգոր Վարդապետի Պոլսեցի Տէր Պօղոսեան երբեմն փոխանորդի Թէքիրտաղու վիճակին։ Գրեցաւ յամի 1855, ի Թէքիրտաղ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "255.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3808-refine.json",
+    "pipeline_version": "v1"
+  }
+}

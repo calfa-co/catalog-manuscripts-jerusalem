@@ -1,0 +1,68 @@
+{
+  "id": "J3724",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3724",
+  "notice": "3724",
+  "volume": "Jerusalem_V11",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3724",
+    "no_notice": "Զ",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "17—800",
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Նման է նախորդ հատորին. սկիզբէն կը պակսի առաջին պրակը, որուն տեղ դրուած է մէկ թերթ ճերմակ թուղթ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "[Գիրք ԺԳ].— Էջ 18.—...Սրբոյն Աթանասի անունով ուրիշ մէկ նամակ մըն ալ կայ...։ Էջ 242.— Քննութիւնք յ ԺԳ երրորդ գիրս։ Էջ 287.— Գիրք ԺԴ։ Յուլիանոսի կայսերութեան սկիզբէն մինչեւ Յոբիանոսի մահը. 361 էն մինչեւ 363, երկու տարվան պատմութիւն։ Էջ 646.— Քննութիւնք ԺԴ երրորդ գըրոց։ Էջ 772.— Յաւելուած, Յուլիանոսի ատենը երեւցած քանի մը ճարտասաններու եւ փիլիսոփաներու վրայ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "186.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3724-refine.json",
+    "pipeline_version": "v1"
+  }
+}

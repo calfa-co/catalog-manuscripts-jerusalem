@@ -1,0 +1,68 @@
+{
+  "id": "J3034",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3034",
+  "notice": "3034",
+  "volume": "Jerusalem_V9",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ՕՍՄ. ՊԵՏՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3034",
+    "no_notice": null,
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ՕՍՄ. ՊԵՏՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "74",
+    "dimensions": "25X19.5",
+    "mise_en_page": "սեւ մելանով, միասիւն, 21-23 տող։ Նոտր շեղագիր մեծ։ Տարեթիւերը արաբական թուանըշաններով",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Անատօլուտա տեվլէթ իսլամիյէն զուհուր վէ գարար իտէն Ալ Օսման տեվլէթլէրի տիր. սէպէպ զուհուր։ Շէօյլէ նագլ իտէրլէրքի, Ճինկիզխան խերուն իտիւփ Պալխէ կէլիւփ վէ Իրանէ թասլիթ իտիւփ...։ Էջ 14.— Օսման ղազի պունլարտան սօնկրա Պրուսայի մուհասէրէ իթտի...։ Էջ 22.— Պատէհու օղլու սուլթան Մուրատ Ղազի սենէ 761տէ ճլիւս իտուպ...։ Էջ 36.— Պատէհու օղլու սուլթան Պայազիտ խան ճիւլիւս էյլէտի...։ Էջ 46.— Պատէհու օղլու սուլթան Սիւլէյման ճլիւս իթտիքտէ. սէֆէր Պէլրղատ ֆէրման օլունտի...։ Էջ 52.— Սէնէ 1003տէ սուլթան Մուրատ սալիս վէֆաթ իտիպ, եէրինէ օղլու սուլթան Մահմետ ճլուս էյլէտի...։ Էջ 55.— Սենէ 1033տէ էհալիի Պաղտատ, Գայէի Պաղտատի շահ Ափասէ վիրտիլէր...։ Էջ 61-74, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "247.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3034-refine.json",
+    "pipeline_version": "v1"
+  }
+}

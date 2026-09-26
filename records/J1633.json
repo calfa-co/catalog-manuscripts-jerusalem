@@ -1,0 +1,72 @@
+{
+  "id": "J1633",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1633",
+  "notice": "1633",
+  "volume": "Jerusalem_V5",
+  "title": "Բ Ա Ն Ք  Չ Ա Փ Ա Ւ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1633",
+    "no_notice": "6",
+    "titre": "Բ Ա Ն Ք  Չ Ա Փ Ա Ւ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "350",
+    "dimensions": "13.5x8.5x5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասին, 18 տող",
+    "details_ecriture": "սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բամբակեայ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ. լուսանցքները թեթեւակի ցեցահար",
+    "copiste": null,
+    "possesseur": "Յակոբ Կրօնաւոր",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մաղագաթեայ վերջը երկու թերթ, անկիւնաւոր երկաթագիր, Աւետարանացոյց",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "գլխազարդ իւր սարօք, էջ 228. խորանազարդ էջ 5։ Լուսանցքի մանրանկարք, էջ 48, 49 ; ԳՈՒՆԱՒՈՐ: նկար էջ 4, Տէր Ներսէս",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "ՅԻՍՈՒՍ ՈՐԴԻ. — 11 Ա. — Էջ 1, դատարկ։ Էջ 2. — Ներսէսի Հայոց Կաթողիկոսի նուէր մաղթանաց, ներչափական (տաղից) տաղիւ, ըղձումն աղաւթից ներանձնական հոգոց, զարթուցելոց մտաւք ի թմբրութենէ կրից...։ Էջ 3, դատարկ մեծագոյն մասամբ։ Էջ 4. — Նկար, Տէր Ներսէս։\nէջ 5.— Յս. Որդի Հաւր Միածին...։ անըսկիզբն ասէ զԱստուած...։ էջ 218.— Յիշատակարան Մաղթանաց բանիցս Ներսեսի։ Բ.— էջ 228.— Խոստովանիմ Ած. ըզ-Հայր...։ Գ.— էջ 312.— Տեառն Ներսեսի Սըրբոյ Եպիսկոպոսի բան ի խրատ ուսումնականաց, ի դիմաց այբուբենից տառից, ոտանաւոր չափով.— Այբն առաջին ըզքեզ տըղայ, հանէ յիմաստըն գերակայ...։ Դ.— էջ 321.— Նորին Տեառն Ներսեսի. բան հաւատոյ վասն անեղին եւ եղելոց, բարառնաբար, ի դիմաց հակառակ տառից, չափաբերմամբ ոգեալ ի Ներսիսէ.— Այբն անըսկիզբն ասէ զԱստուած...։ Ե.— էջ 330.— Նորին բան ներսաղական, ի խրատ ոգոց համայնից, ի դիմաց մերոյին տառից տանց յիւրաքանչիւրսն քանից.— Այրն Աստուծոյ զքեզ մերձակայ...։ էջ 350, դատարկ։\nՄանր յիշատակագրութիւն Գրչի.— էջ 227.— Աղաչեմ զձեզ ով ոք հանդիպիք կամ եղանակէք, յիշեցէք ի Քս. զսրբասնեալ Յակոբ կրօնաւորն, որ ստացաւ զսա յիշատակ իւր եւ ծնաւղացն։ Այլ եւ յիշեցէք զանմաքր եւ զմեղասէր զ[ր]իչս եւ թողութիւն խնդրեցէք յԱստուծոյ, ամէն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "463.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "464.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1633-refine.json",
+    "pipeline_version": "v1"
+  }
+}

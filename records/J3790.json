@@ -1,0 +1,68 @@
+{
+  "id": "J3790",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3790",
+  "notice": "3790",
+  "volume": "Jerusalem_V11",
+  "title": "ՆԿԱՐԱԳՐՈՒԹԻՒՆ ԵՐԵՒԵԼԻ ՏԵՂԵԱՑ ՊԱՐՍԿԱՍՏԱՆԻ",
+  "date": {
+    "from": "1855",
+    "to": "1855",
+    "display": null
+  },
+  "fields": {
+    "numero": "3790",
+    "no_notice": null,
+    "titre": "ՆԿԱՐԱԳՐՈՒԹԻՒՆ ԵՐԵՒԵԼԻ ՏԵՂԵԱՑ ՊԱՐՍԿԱՍՏԱՆԻ",
+    "date_debut": "1855",
+    "date_fin": "1855",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "62",
+    "dimensions": "30X20",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 30 տող",
+    "details_ecriture": "վարժ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "թղթեայ",
+    "etat_conservation": "անբաւարար, կարօտ նորոգութեան",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Տիտղոսաթերթ.— Արարեալ ի Վրթանէ վարդապետէ Եիւզիւքճեան։ Նկարագրութիւն երեւելի տեղեաց Պարսկաստանի։ Թարգմանեալ յաշխարհաբարէ ի Յակովբայ Պուհուրեան, աշտ. Մ.Վ.։ Ի Լիբանան, ի վանս Անտոնեան միանձանց, որ է Պէթղաշպող, 1855, ապր.։\nԷջ 1.— Տիտղոսաթերթ.— Le Voyage du Pere Vrtanes Usuedji, de la congregation d'Antoin, traduit de l'Armenien par Jacques Bogos MisIrojian eleve du College Samuel Mourad de Paris, 1857, au mont Liban. էջ 2.— Preface. էջ 3.— Le Convent des Dominicains. էջ 7.— Le Convent du Sauveur ou de S. Josephe. 3.— էջ 10.— L'eglise de St. Minas. 4.— էջ 12.— L'eglise du Sauveur. 5.— էջ 15.— L'Eglise de la place. 6.— էջ 20.— L'Eglise des Gesuites. 7.— էջ 22.— L'Eglise des Muradians ou de St. Jaques Patriarche de Mzpin. 8.— էջ 24.— L'Eglise des Chavelians ou de St. Jean. 9.— էջ 26.— Mesdjedi — Chah mosquet. 10.— էջ 28.— Ala Khapi Palais. 11.— էջ 30.— Dervazee Khaiceri. 12.— էջ 32.— Mesdjid — Cheikh Loutfoullah, Mosquet. 17.— էջ 42.— Aina Khouni Palais. 23.— էջ 52.— Kouhi Sofa. 25.— էջ 55.— Minarei djom djom. 29.— էջ 60.— Bourdji Kebouler. էջ 62, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "246.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3790-refine.json",
+    "pipeline_version": "v1"
+  }
+}

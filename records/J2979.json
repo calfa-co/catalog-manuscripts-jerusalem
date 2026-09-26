@@ -1,0 +1,72 @@
+{
+  "id": "J2979",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2979",
+  "notice": "2979",
+  "volume": "Jerusalem_V9",
+  "title": "Ա.— ՎԱՆ ԳՈՅԺ",
+  "date": {
+    "from": "1899",
+    "to": "1899",
+    "display": null
+  },
+  "fields": {
+    "numero": "2979",
+    "no_notice": null,
+    "titre": "Ա.— ՎԱՆ ԳՈՅԺ",
+    "date_debut": "1899",
+    "date_fin": "1899",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ+24+48+80",
+    "dimensions": "20X15X1",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 21 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր։ Գըրիչ՝ Յովսէփ Տէր Վարդանեան, Մարաշցի",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "«Սամուէլ Վրդ. Կիրակոսեան», էջ Գ, 1",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Գ.— Տիտղոսաթերթ.— Վան Գոյժ, կուց մի ջուր իւր այրած հայրենեաց վրայ կը սրսկէ Խրիմեան Հայրիկ։ Կ. Պօլիս, Արամեան Տպագրութիւն, 1877։ Օրինակեցի ձեռագրէ Մարաշցի Յովսէփ Տ. Վարդանեան, յԵրուսաղէմ, ի Ժառ. Վար. 1899, Օգոս. 12-սեպ. 3։ Էջ 3.— Կուժ մի ջուր առ իմ այրած հայրենիք։ Էջ 23-24, դատարկ։\nԲ.— ՀԱՅ ԳՈՒԺ\nէջ 1.— Տիտղոսաթերթ.— Հայ Գոյժ, Աշխարանք Հայոց Աշխարհիս, գրեաց եւ աշխարհագուժեաց Խրիմեան Հայրիկ։ Ի Կ. Պոլիս, Տնտեսեան Ե. Մ. տպագրիչ, յամի Տեառն 1877, Յլ. 3։ Ձեռագրէ օրինակեցի Յ. Տ. Վ. Մարաշցի, 1899, Օգոստ. 12—սեպ. 3, յԵրուսաղէմ։ էջ 48, դատարկ։\nԳ.— ԺԱՄԱՆԱԿ ԵՒ ԽՈՐՀՈՒՐԴ ԻՒՐ\nէջ 2.— Տիտղոսաթերթ.— Ժամանակ եւ Խորհուրդ իւր, խորհրդածեց Խրիմեան Հայրիկ։ Ի լոյս բերաւ մտերիմ հայրենակից մեր պարոն Համբարձում Աճէմեան։ Տպագրութիւն Ե. Մ. Տնտեսեան, ի Կ. Պոլիս, 1876։ Ձեռագրէ մի օրինակեցի Յ. Տ. Վ. Մարաշցի, ի Սբ. յԵրուսաղէմ, ի վանս Ս. Յակովբեանց, 1899, Օգ. 12։ էջ 8.— Ով յաւիտենական ժամանակ...։ էջ 44.— Վերջ։ էջ 45.— Ամէն. Խրիմեան Հայրիկ եւ Պիոս Թ. պապը։ էջ 58–80, դատարկ։\nՅետնագոյն յիշատակագրութիւն.— 1903 Սկիզբի կապոյտ թերթին վրայ.— Մ. Ս. Տօլապճեան, 1903, Մայ. 15, յԵրուսաղէմ։ Նուէր Յ. Տ. Վարդանեանէ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "186.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "187.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2979-refine.json",
+    "pipeline_version": "v1"
+  }
+}

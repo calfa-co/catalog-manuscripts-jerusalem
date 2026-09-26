@@ -1,0 +1,72 @@
+{
+  "id": "J2234",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2234",
+  "notice": "2234",
+  "volume": "Jerusalem_V7",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2234",
+    "no_notice": "3",
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ի + 1118",
+    "dimensions": "25 X 17 X 5.5",
+    "mise_en_page": "բնաբանները, սկզբնատառերը եւ Ս.",
+    "details_ecriture": "մաքուր եւ կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն աւելի։ Փառակազմ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Գրական վկայութիւնները կապոյտ, մնացեալը սեւ մելանով, միասիւն, 26 տող",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Թ, դատարկ։ Էջ Ժ, տարբեր գրով. — Ասացեալ ի գերիմաստ վարդապետէ հայր Անտօն Վիերայ կոչեցեալ ի Յիսուսեան կարգէ։ Էջ ԺԱ. — Ցանկ Քարոզից, Դիտաւորութեանց եւ Բնաբանից նոցա որք գտանին ի մատեանս յայս. — 1-41 Գլուխներ։ Էջ ԺԷ-Ի, դատարկ։\nԷջ 1. — Քարոզ Քառասնորդական Պահոց։ Յիշեա ով մարդ հող ես եւ ի հող դարձցիս. — Զերկուս իրս քարոզէ այսօր մայրս մեր սուրբ եկեղեցին ամ. մահկանացուաց...։ Էջ 280. — Քարոզ 10։ Յաւուր Երկրորդ Կիւրակէի Պահոց։ Էջ 555. — Քարոզ 20։ Յաւուր Հինգշաբաթի Երրորդ Կիւրակէի։ Էջ 578. — Քարոզ 21։ Յաւուր Ուրբաթու Երկրորդ Կիւրակէի։ Բանն Այ. առանց պըտղոյ։ Էջ 786. — Քարոզ 30։ Էջ 977. — Քարոզ 41։ Յաւուր Երեքշաբաթի զկնի Սրբոյ Զատկին։ Էջ 1003-1112, գծաւոր թուղթի վրայ, մանիշակագոյն թանաքով։ Էջ 1003. — Ցանկ Բանից Ս. Գրոց յիշատակելոց յայս Քարոզագիրքս որք գտանին ըստ իւրեանց առընթեր թուոցն։ — Ծընունդք... Յայտնութիւն։ Էջ 1044-1046, դատարկ։ Էջ 1047. — Ցանկ Այբուբենական կարգով։ Աբիսողոմ զի՞նչ թարգմանի եւ զի՞նչ գործ նորա։ Էջ 1112. — ...Օրհնութիւնն Իսահակայ միեւ նո՞յն էր առ Յակովբ եւ առ Եսաւ։ Էջ 1113-1118, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "365.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "366.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2234-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J1202",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1202",
+  "notice": "1202",
+  "volume": "Jerusalem_V4",
+  "title": "Մ Ա Շ Տ Ո Ց (ՀԱՅՐԱՊԵՏԱԿԱՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1202",
+    "no_notice": "23",
+    "titre": "Մ Ա Շ Տ Ո Ց (ՀԱՅՐԱՊԵՏԱԿԱՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "176",
+    "dimensions": "18.5×14×1",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 18 տող",
+    "details_ecriture": "մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ ոսկեզօծ երիզով",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը երկու թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 — Կանոն մեռոն օրհնելոյ։ Էջ 6 — Կանոն օրհնութիւն Սրբոյ Մեռոնին օրհնելոյ. Այսպէս արա։ Էջ 53 — Կանոն Կաթողիկոս Ձեռնադրելոյ։ Էջ 91 — Կանոն Ձեռնադրութիւն եպիսկոպոսի ի կաթողիկոսէ։ Էջ 118-121, դատարկ։ Էջ 122 — . . . յետ այսորիկ կոչմանըն եւ արարողութեանն . . . ։ Էջ 127 — Եւ եպիսկոպոսքն ասասցեն զքարոզս ձայնիւ այլ ոչ ոք քահանայ եւ ոչ սարկաւագ — Տէր Աստուած հարցն մերոց\nամենազօր գործովք եւ առատ ողորմ, աղաաչեմք։... էջ 133.— Կանոն զԹագաւորս ձեռնադրելոյ։ էջ 144.— Ձեռնադրութիւն Սարկաւագ կանանցն որք են Սարկաւագուհիք։ էջ 145—176, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "356.JPG"
+    },
+    {
+      "volume": "Jerusalem_V4",
+      "file": "357.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1202-refine.json",
+    "pipeline_version": "v1"
+  }
+}

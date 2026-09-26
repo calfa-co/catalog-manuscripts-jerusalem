@@ -1,0 +1,68 @@
+{
+  "id": "J3029",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3029",
+  "notice": "3029",
+  "volume": "Jerusalem_V9",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3029",
+    "no_notice": "14",
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ+426",
+    "dimensions": "27X18X2",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 26 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": "Կիրակոս Վրդ. Մարգարեան, Սեբաստացի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "բոլորշի. «Կիրակոս Վարդապետ Մարգարեան, 1889», էջ 3, ստորին լուսանցքին",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա–Բ, դատարկ։ Նոյնպէս էջ Դ։ Էջ Գ. — Յառաջաբանութիւն. — Դիտումն իմ յայս գործ...։ Էջ 1. — Դիտաւորութիւն։ Քարոզ Առաջին։ Յաղագս պահոց եւ աղօթից։ Էջ 41. — Քարոզ 8։ Դիտաւորութիւն։ Յաղագս Յարութեան Քրիստոսի ։ Էջ 77էն ցատքած է 80ի։ Էջ 103. — 22. — Յաղագս Ապաշխարութեան։ Էջ 165. — 33. — Յաղագս վընասու չար ընկերակցութեան։ Էջ 215. — Աստ կատարեցաւ Առաջին Հատոր։ Էջ 222. — 2. — Յաղագս լսելոյ զքարոզութիւն։ Էջ 374. — Կատարեցաւ երկրորդ Հատորն։ 1. — Յաղագս Արթնութեան հովուաց։ Էջ 419. — 11. — Յաղագս վընասուն որ պատահի հոգւոյ...։ Էջ 424–426, դատարկ։\nՅիշատակագրութիւնք. — Էջ 3, ստ. լուսանցքին, կնիքին վերեւ. — 1901, Կ. Վ. Մ. Ս., օգոս. 28։ Էջ Գ, ստ. լուսանցքին, շեղագիր տարբեր. — Ի գրեանց Կիրակոս Վարդապետ Մարգարեան Սեբաստացւոյ, 1889, յունվար 1. յիշատակ է գրատան Ս. Յակովբեանց, 1917, օգոստոս 25, Կ. Վ. Մ. Ս.։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "241.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3029-refine.json",
+    "pipeline_version": "v1"
+  }
+}

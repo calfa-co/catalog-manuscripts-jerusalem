@@ -1,0 +1,72 @@
+{
+  "id": "J3368",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3368",
+  "notice": "3368",
+  "volume": "Jerusalem_V10",
+  "title": "Մ Ա Շ Տ Ո Ց",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3368",
+    "no_notice": "140",
+    "titre": "Մ Ա Շ Տ Ո Ց",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "282",
+    "dimensions": "16X11.5X3.5",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 15 տող",
+    "details_ecriture": "վարժ։ Կարմրաներկ զարդագիր եւ լուսանցազարդ կանոններու սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ, հնամաշ եւ քայքայուած",
+    "etat_conservation": "անբաւարար. վնասուած հնութենէ, ինչպէս նաեւ ցեցերէ. վերջը թերի. կարօտ նորոգութեան",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը 6 թերթ, մասամբ գծմծուած գրչախաղերով",
+    "colophon": null,
+    "informations_diverses": "քառանկիւն, «Մատենադարան Ս. Նշան Վանուց Սեբաստիոյ, թիւ 78», էջ 1",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "իւր սարօք, էջ 5",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, նոտրագիր.— Ամենազաւր Տէր Թագաւոր թագաւորաց...։ Էջ 3.— Յառաջաբանութիւն սուրբ եւ կենդանարար մկրտութեան...։ Էջ 5.— Կանովն Մկրտութիւն առնել։ Էջ 43.— Կարգաւորութիւն Հարսանեաց։ Էջ 85.— Կանովն Հաղորդ տալու։ Էջ 100.— Կանովն համօրէն ամ. ննջեցելոց թաղմամբ ի Քս. յուղարկելով։ Էջ 194.— Կանոն Տղայթաղի։ Էջ 237-238ի միջեւ երկու էջ մնացած է առանց թիւի։ Էջ 242, դատարկ։ Էջ 243.— Գանձ Թաղման ննջեցելոց ի յԱռաքել Վարդապետէ ասացեալ.— Այսաւր եհաս հրաման յարարչէն...։ Էջ 248.— Ողբ վասն մեռելի եւ մանկան տղայի.— Արարիչն արարածոց մեզ բարկացաւ...։ Էջ 255.— Ինձ ումէտ կայր եւ կուման վանց քո գալուստ...։ Էջ 258.— Ես գիտէի թէ աշխարհս ինձ մուլք էր տըւած...։ Էջ 263.— Յերէկ հողվերօքդ անցա...։ Էջ 268.— Ով քահանայք եւ վարդապետք\nաստուածաբան...։ էջ 271.— Մեղեդի ի վերայ ննջեցելոց.— Արարիչ եւ մարդասէր...։ էջ 274-275ի միջեւ թերթ ինկած։ էջ 276.— Դաւանութիւն Քրիստոնէից.— Մեղայ ամենասուրբ Երրորդութեանն...։ էջ 279-282, ըստ երեւոյթին մեկնակեր կիսով չափ։ էջ 281.— Ողորմեսցի քեզ մարդասէրն Ած. ...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "256.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "257.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3368-refine.json",
+    "pipeline_version": "v1"
+  }
+}

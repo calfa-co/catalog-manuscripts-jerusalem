@@ -1,0 +1,68 @@
+{
+  "id": "J3798",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3798",
+  "notice": "3798",
+  "volume": "Jerusalem_V11",
+  "title": "ԵԿԵՂԵՑԱԿԱՆ ԵՐԳԵՑՈՂՈՒԹԻՒՆ.— Զ.",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3798",
+    "no_notice": null,
+    "titre": "ԵԿԵՂԵՑԱԿԱՆ ԵՐԳԵՑՈՂՈՒԹԻՒՆ.— Զ.",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": ", ըստ նախորդին. տիտղոսաթերթ չունի, էջք 132։",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Հարց ԴԿ. Ծաղկազարդի.— Որ ի քրովբէական աթոռ...։ Էջ 16.— Կանոն Մեծի Երկուշաբաթի։ Էջ 33.— Կանոն Մեծի Չորեքշաբաթին։ Էջ 47.— Կանոն Մեծի Հինգշաբաթի։ Էջ 67.— Կանոն Մեծի Ուրբաթուն։ Էջ 88.— Կանոն Աւագ Շաբաթուն։ Էջ 103.— Մանկունք ԴԿ. Ստեղի.— Յովսէփ քեզ հաւատացեալ...։ Էջ 107.— Ցանկ։ Էջ 109.— Հարց ԳՁ, Աւագ Շաբաթուն։ Էջ 119–132, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "250.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3798-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3712",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3712",
+  "notice": "3712",
+  "volume": "Jerusalem_V11",
+  "title": "ԺՈՂՈՎԱԾՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3712",
+    "no_notice": null,
+    "titre": "ԺՈՂՈՎԱԾՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "228",
+    "dimensions": "22x16x4",
+    "mise_en_page": "կարմիր եւ սեւ մելաններով, միասիւն, 14 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բամբակեայ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ հնամաշ եւ քայքայուած։ Թուական, տեղի, գրիչ, ստացող անյայտ",
+    "etat_conservation": "անբաւարար. վնասուած հնութենէ եւ որդերէ. ԹԵՐԹՔ սխալ տեղ դրուած կամ կորսուած. կարօտ նորոգութեան",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, դատարկ անմաքուր, նախապէս փակցուած կողքին։ Էջ 2.— Քանի մը մանրուք. մէջտեղը սեւ մատիտով. \"Թարգմանութիւն ներքեւի գրին.— Յիշեա Տէր զՅակոբ որդի Սալէյ Տավաննի արքայութեան մէջ\"։ Էջ 3.— Շարունակութիւն էջ 228 ի։ Էջ 118.— Յեսու որդի Սիրաքայ։ Էջ 188.— Պատմութիւն եւ Խօսք Խիկարայ։ Յաւուրս Սարհադոմ թագաւորի որդի Սենեքերիպ արքայի Ասորեստանի եւ Նինուէի եւ Մուսուլի...։ Էջ 148–149ի միջեւ թերթ ինկած։ Էջ 190.— Վերջ բանից Խիկարայ։ Էջ 191.— Ասաց հայրն Յակոբ...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "178.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3712-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2280",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2280",
+  "notice": "2280",
+  "volume": "Jerusalem_V7",
+  "title": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+  "date": {
+    "from": "1769",
+    "to": "1769",
+    "display": null
+  },
+  "fields": {
+    "numero": "2280",
+    "no_notice": "56",
+    "titre": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+    "date_debut": "1769",
+    "date_fin": "1769",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "62",
+    "dimensions": "20.5 x 15 x 1.5",
+    "mise_en_page": "խորագիրները կարմիր, նոտրագիր, սկզբնատողերը նոյնպէս կարմիր, մնացեալը սեւ մելանով, երկսիւն, 15 տող",
+    "details_ecriture": "յստակ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի։ Կարմրագիծ զարդագիր եւ լուսանցազարդ գլխաւոր հատուածներու սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ, թանձր",
+    "nb_lignes": null,
+    "reliure": "կիսաշաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Յակոբ Վարդապետ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը մէկ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1ա. — Աղօթք առանձնական պատարագիչ քահանային յառաջ քան ըզգեստաւորիլն. — Որ ըզգեցեալ ես ըզլոյս...։ էջ 23բ. — Հաւատամք ի մի Ած. ...։ էջ 51բ. — Յոհաննու Ոսկեբերանին Աղօթք. — Գոհանամ եւ մեծացուցանեմ...։ էջ 57ա. — Որ օրհնես զայնոսիկ...։\nՅիշատակարան Գրչի. — 1769 էջ 59բ, վարը. — Գրեցաւ Խորհրդատետրս ի քաղաքն Սեբաստիա, ի Վանս Սուրբ Նշանաւ, թուին Հայոց ՌՄԺԸ, ձեռամբ մեղապարտ եւ անարժան Յակոբ իբրու վարդապետ գրչի։ Եւ որք հանդիպիք մըտեմ առ յաղօթս ձեր սուրբ, եւ յիշել զմեզ առ Տէր։ էջ 60-62, համարեա դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "414.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2280-refine.json",
+    "pipeline_version": "v1"
+  }
+}

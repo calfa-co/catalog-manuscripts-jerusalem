@@ -1,0 +1,68 @@
+{
+  "id": "J2697Բ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2697Բ",
+  "notice": "2697Բ",
+  "volume": "Jerusalem_V8",
+  "title": "Օ Ր Ա Գ Ր Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1862",
+    "to": "1862",
+    "display": null
+  },
+  "fields": {
+    "numero": "2697Բ",
+    "no_notice": null,
+    "titre": "Օ Ր Ա Գ Ր Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": "1862",
+    "date_fin": "1862",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "344",
+    "dimensions": "19×14×2",
+    "mise_en_page": "սեւորակ մելանով, շեղագիր մանր",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Յակոբ Վրդ. Յովհաննէսեան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "սպիտակ թուղթ սկիզբը չորս թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— 1862, յունվար 1, Բշ.։ Էջ 138.— Մայիս 6 Կիր.— Պատարագ ի Սբ. Յակոբ, աւագ սեղան, ժամարար եպիսկոպոսն, Երևման Խաչ, ի ժամ գրքին ընթերցողք ելին ի բեմն և ձեռնադրելիք... և կոչեաց զանունս նոցա մի առ մի. զոր օրինակ, սարկաւագ Յարութիւն՝ Եփրեմ, իսկ Յակոբն՝ Ղևոնդ կոչեցաւ, Մանուկն կոչեցաւ Մամբրէ, Գրիգոր՝ Իգնատիոս, Պօլսեցի Խաչատուրն՝ Գէորգ, Խարբերթցի Թորոսն՝ Արսէն, Վանցի Աբրահամն՝ Խորէն և Դաւիթն՝ Դաւիթ։ Էջ 226.— Օգոստոս 15, Դշ.— Ի քանի աւուրց անտի աստղ մի պոչով ծագի, տուտն դէպ ի յարևելս, որ ի վերայ մեր վանուց պարտիզին դրան առաջ։ Էջ 329-344, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "337.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2697Բ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

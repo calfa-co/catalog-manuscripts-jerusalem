@@ -1,0 +1,72 @@
+{
+  "id": "J1538",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1538",
+  "notice": "1538",
+  "volume": "Jerusalem_V5",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1538",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "120",
+    "dimensions": "15×10×2",
+    "mise_en_page": "խորագիրները կամ սկզբնատողերը եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 22 տող",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Վասն Քարոզութեան բան ինչ հաւաքեալ Սրբոյ Դաթեւացոյն. եւ ասէ\nյաղագս ահեղ դատաստանին.— Նախ եւ առաջ ահագնութեան դատաւորին...։ էջ 10.— Այլ Քարոզ եւ Խրատ պիտանի մարդկան.— Որպէս ասէ մարգարէն Մովսէս ...։ էջ 19.— Այլ Քարոզ Երգոց Երգոյն Սողոմոնի.— Եւ ասէ. որսացուցէք զմեզ քոյր իմ հարս...։ էջ 25.— Հաւաքումն Տրամաբանութեան սուղ ինչ յայսմ տառի դրեալ դայ, յաղագս Դ իրաց.— Նախ եւ առաջ զհարցմանէն...։ էջ 42.— Յաղագս Տասանց Ստորոգութեանց Արիստոտէլի.— Եւ ըստ ինքեան եղելոցն ստորոգին...։ էջ 56.— Դարձեալ յաղագս Արիստոտէլի իմաստնասիրին, ի գրոց վերլուծականացն...։ էջ 69.— Դարձեալ Յաղագս Բժշկութեան.— Եւ ասեն բժիշկն թէ ամ. կենդանութիւն մարդոյ ի սրտէ ելանէ...։ էջ 73.— Քարոզ վասն նախանձու։ էջ 97.— Հաւաքումն բնաբանութեանց արարեալ յումեմնէ սրբոցն իմաստասիրաց .— Վասն Դ տարերաց օրինակ մարդոյս։ էջ 116.— Հաւաքումն Օրհնութեանց։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "314.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "315.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1538-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J1872",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1872",
+  "notice": "1872",
+  "volume": "Jerusalem_V6",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Ւ (ԿՐՕՆԱԿԱՆ)",
+  "date": {
+    "from": "1725",
+    "to": "1725",
+    "display": null
+  },
+  "fields": {
+    "numero": "1872",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Ւ (ԿՐՕՆԱԿԱՆ)",
+    "date_debut": "1725",
+    "date_fin": "1725",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԱ+47",
+    "dimensions": "21.5x16",
+    "mise_en_page": "կարմիր եւ սեւ մելաններով, նոտրագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": "Աբրահամ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Դ, դատարկ։ Էջ Ե.— Ճակատ. Գիրք ժողովածու, ասացեալ ի Սբ. Գրոց, շահաւէտ ապագայից, եւ համեղ ամենից քրիստոնէից, եւ օգուտ մանաւանդ սկըսանելոց, եւ որք ունին խոկումն յուսանելոյ : էջ Զ.— Ցանկ մատենիս այս որ կոչի Ժողովածու : էջ 1.— Գիրք Ժողովածու.— Ա.— Պատուիրանն Աստուծոյ զտասն բանեան օրէնքն որպէս գրեալ է ի թուխթն Ելից ի ըըսան գլուխն, որպէս կայ ի գիրս լաթինացոց եւ արաբացոց որ ասի արապի զտպագրեցեալն ի Հռոմ ի թվին Քրիստոսի 1671 : էջ 43.— Կարգ եւ թիւք Հնոց Կտակարան[աց] զոր բաժանեաց զնայ եկեղեցին Այ. առաջ քան զմարմնանալն Յի. որպէս համարեալ կայ Եբրայեցւոց գրով, զոր գրեալ կայ ի գիրքն մեծին Աթանասիոսի Աղեքսանդրիայ պատրիարգին երկրորդ թխթոյն 56 ի երկրորդ պրակն : էջ 44.— Ցանկ. թիւք եւ կարգ նորոց Կտակարանաց այս են : էջ 45, հակառակ ուղղութեամբ գրուած փոքր նամակի պատճէն, «ի տէր Յարութիւն մեղապարտ վարդապետէ» : էջ 46-47, դատարկ :\nՅիշատակագրութիւն Գրչի.— 1725 էջ ԺԱ, ստորոտը.— Ի թվին մեծի Հայոց ՌՃՀԴ, գրեցաւ ձեռամբ անարժան տըրուփ, Աբրահամ : Ծանօթ.— Աբրահամ անունը գրուած է օղակագիր ծածկագրով, բայց սա տարբերութեամբ որ միաւորի օղակին վրայ առաջին կէտը դրուած է բ գրին վրայ, իսկ ա գիրը կէտ չունի :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "291.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "292.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1872-refine.json",
+    "pipeline_version": "v1"
+  }
+}

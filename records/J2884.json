@@ -1,0 +1,72 @@
+{
+  "id": "J2884",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2884",
+  "notice": "2884",
+  "volume": "Jerusalem_V9",
+  "title": "ՆՈՒԱԳԱՐԱՆ ԳՈՎՈՒԹԵԱՆ ՄԱՐԻԱՄԱՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2884",
+    "no_notice": null,
+    "titre": "ՆՈՒԱԳԱՐԱՆ ԳՈՎՈՒԹԵԱՆ ՄԱՐԻԱՄԱՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Vellum, codex; 21 X 17 cm; 121 folios; full binding wooden boards covered with black leather having geometrical drawings; double columns; 20-22 lines per column; Ms. in fair condition, but slightly soiled, and the last 12 folios badly stained. Handwriting fair.\nTitle: *Arganona Weddase* or *Organ of the Praise of Mary*. 1) fols. 1-119. *Arganon* or *Organ of the Praise of Mary* with rubrics and for reading on different days of the week. On fol. 1a there is an elaborate headpiece in red and black ink. Smaller headpieces also in red and black on fols. 22a, 61a, 81a, 94a, 99b.\n[Image] 1.— Գլխազարդ Թ. 2884, Թղ. 1ա\nAdditional Content. 1) The names Takla Yohannes on fols. 9a, 22b, etc. and Walda Krestos on fols. 99a, 118a, etc. are later additions. 2) On fol. 60b dates for the festivals of the various apostles are given by a late 15th century hand. 3) Emmendations by later hands... 4) fol. 118a. A note (not completed) that the name of Mary in Coptic is *Maria*, *bartanos* means virgin etc. 5) fol. 120. A short story of the life of Abba Yeshaq closing with a prayer for various men and women... 6) fol. 122b. A short Amharic qene (Later Addition). Տես էջ 188-189:",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "108.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "109.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2884-refine.json",
+    "pipeline_version": "v1"
+  }
+}

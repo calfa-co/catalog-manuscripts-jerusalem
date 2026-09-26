@@ -1,0 +1,68 @@
+{
+  "id": "J3817",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3817",
+  "notice": "3817",
+  "volume": "Jerusalem_V11",
+  "title": "ՔԱՐՈԶԳԻՐՔ (Տարեկան)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3817",
+    "no_notice": "17",
+    "titre": "ՔԱՐՈԶԳԻՐՔ (Տարեկան)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ+284",
+    "dimensions": "29X19.5X1",
+    "mise_en_page": "խորագիրներ, սկզբնատողեր եւ բնաբաններ կարմիր, մնացեալը մանիշակագոյն թանաքով, միասիւն, 30 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "անբաւարար, կողք չունի. կարօտ նորոգութեան",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա.— Առաջաբանութիւն.— Եկեղեցի բանական՝ գեղեցիկ իմն յարմարութեամբ ի դրախտ օրինակի...։— Հմմտ. թիւ 2228, Է. Հատոր, էջ 318։ Էջ 1.— Քարոզ Ա. Կաղանդ։ Դիտաւորութիւն, խոկումն մահուան։ Բնաբան։ Էջ 7.— Քարոզ Գ։ Ճրագալոյց Սբ. Ծըննդեան։ Էջ 11.— Քարոզ Դ։ Ծնունդ Տեառն։ Էջ 102.— Քարոզ Լ։ Ի նմին աւուր յերեկոյեան։ Անառակ Որդւոյն։ Էջ 213.— Քարոզ ԾԱ։ Ի նմին աւուր յերեկոյեան, թաղում Տեառն։ Էջ 258.— Քարոզ ԿԳ։ Պէնտէկոստէ։ Էջ 280.— Քարոզ Հ։ Հինգերորդ Կիւրակէ Յարութեան. Գիւտ Տփոյ Աստուածամօր։— Անաւարտ։ Էջին ստորոտը, սեւ մատիտով. \" Մեզի յանձնուեցաւ 1–11–61ին, Երուսաղէմ. Նորայր Եպս.\"։ Էջ 281–284, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "274.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3817-refine.json",
+    "pipeline_version": "v1"
+  }
+}

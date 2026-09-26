@@ -1,0 +1,72 @@
+{
+  "id": "J602",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "602",
+  "notice": "602",
+  "volume": "Jerusalem_V3",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "602",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "22x16x1: Էջք 118: Հանգամանք լաւ: Թուղթ հասարակ: Գրութիւն՝ խորագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 35 տող: Նոտրագիր: Համառօտագրութիւնք շատ առատ: Մեծ ըսկըզբնատառերու տեղերը բաց մնացած: Կազմ կիսակաշի խաւաքարտեայ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Գրիգորի Եպիսկոպոսի Նիւսեայ ԽՕՍՔ ՅԻՆՆ ԵՐԱՆՈՒԹԻՒՆՆ [թերի] . — Բան Առաջին. Երանի աղքատաց հոգւով ...:— Հմմտ. Բ. Հատոր, էջ 313: Էջ 6.— Նորին՝ Երանելիք հեզք, զի նոքա ժառանգեսցեն զերկիր: Բան Երկրորդ: Էջ 10.— Նորին, Բան Գ.: Երանելիք սգաւորաց, զի նոքայ...: Էջ 16.— Երանելիք որք քաղցեալք եւ ծարաւիք արդարութեան, զի նոքա յագեսցին: Նորին բան չորրորդ: Ծանօթ.— Շարունակութիւնը տես յետոյ: Էջ 25.— Դաւթի Անյաղթ Փիլիսոփայի Ներբողեան ի Սբ. Խաչն Աստուածընկալ.— Բարձրացուցէք զՏէր Ած. մեր, մարգարէն ձայնէ...: Էջ 34-47.— Մեկնաբանական հատուածք: Էջ 47.— Երանելիք ողորմածք, զի նոքա ողորմութիւն գտցեն: Նորին բան հինգերորդ: Էջ 56.— Երանելիք մաքուր սրտիւ, զի նոքա զԱծ. տեսցեն, նորին բան վեցերորդ: Էջ 62.— Նորին բան եօթերորդ: Երանելիք խաղաղարարք...: Էջ 69.— Երանելիք հալածեալք յաղագս յարդարութեան, զի նոցա է արքայութիւն երկնից.— [Զ]ինչ ութերորդին ի մարգարէին խորհուրդ...: Էջ 71-76.— Մեկնաբանական հատուածք, շարունակութիւն 44 էջի: Կը թուի\nթէ պրակները սխալ դրուած են կազմի ժամանակ ։ էջ 77.— Ստորին լուսանցքին, շեղագիր, Յովհաննու Երզնկացւոյ։— [Ա]րդ քըրիստոնէութեան սկիզբն եւ գլուխ, հիմն եւ արմատ մկրտութիւն է․․․։ էջ 80, դատարկ, անմաքուր։ էջ 99, ստորին լուսանցքին, շեղագիր, Յորդորակք Սարգսի Շնորհալւոյ․— [Ե]ւ արդ եթէ այսպիսի հոգացողք ունիմք․․․։ էջ 116․— [Զ]այսոսիկ լսելով սիրելիք կրկնեսցուք աղաչեմ․․․։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "021.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "022.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "602-refine.json",
+    "pipeline_version": "v1"
+  }
+}

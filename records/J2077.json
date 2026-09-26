@@ -1,0 +1,68 @@
+{
+  "id": "J2077",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2077",
+  "notice": "2077",
+  "volume": "Jerusalem_V7",
+  "title": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2077",
+    "no_notice": "1",
+    "titre": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "268",
+    "dimensions": "20x15x1",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 19-22 տող",
+    "details_ecriture": "սակաւ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, ոչ համաչափ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Գլուխ Ա. Յաղագս Ճարտասանութեան։ Հ. Ի՞նչ է Ճարտասանութիւնը։ Պ. Ունկնդիրները համոզելու համար բարւոք խօսելու արհեստին Ճարտասանութիւն կ'ըսուի.— Հմմտ. հետագայ թ. 2133։ Էջ 2.— Մասն Առաջին։ Յաղագս ճոխաբանութեան։ Էջ 8.— Մասն Երկրորդ։ Յաղագս փոխակերպութեան։ Էջ 44-52, դատարկ։ Էջ 53.— Ի՞նչ է վիպասանութիւնը։ Էջ 118.— Մասն Գ։ Տրամադրութիւն։ Էջ 153.— Յաղագս Հանդիսից։ Էջ 192-194, դատարկ։ Էջ 195.— Պէտք բանական։ Էջ 212.— Նմանութիւն գաղափարական։ Էջ 214-220, դատարկ։ Էջ 221.— Պարտ է մեզ արիութեամբ նուաճել զբաղդ։ Էջ 234.— Ապերախտք վաղ կամ անագան կրեն զպատիժ չարեացն։ Էջ 236-254, դատարկ։ Էջ 255.— Որ անձին չար է, այլում բարի ո՞չ լինի— Սիրաք։ Էջ 262.— Ընդդիմակօք.— Իսկ ընդ հակառակն...։ Էջ 264-268, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "165.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2077-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2265",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2265",
+  "notice": "2265",
+  "volume": "Jerusalem_V7",
+  "title": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+  "date": {
+    "from": "1660",
+    "to": "1660",
+    "display": null
+  },
+  "fields": {
+    "numero": "2265",
+    "no_notice": "42",
+    "titre": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+    "date_debut": "1660",
+    "date_fin": "1660",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "20",
+    "dimensions": "30 x 21 x 1",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը նարնջագոյն, մնացեալը սեւ մելանով, երկսիւն, 30 տող",
+    "details_ecriture": "նոտրաձեւ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "անարուեստ",
+    "etat_conservation": "համարեա բաւարար. նորոգութիւն կրած",
+    "copiste": "Պօղոս Աբղ. Ուրհայեցի",
+    "possesseur": "Պօղոս Աբղ. Ուրհայեցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Որ բղխեցեալ ես ըլլոյս...։ Էջ 7ա.— Հաւատամք ի մի Ած. ...։ Էջ 19ա.— Որ աւրհնես զայնոսիկ...։\nՅիշատակարան Գրչի.— 1660 Էջ 19բ.— Փառք ամենասուրբ Երրորդութեան...։ Գրեցաւ սուրբ Խորհրդատետրս ձեռամբ անարժան Պօղոս Յուրհայեցոյ, որ անուամբս եմ աբեղայ, եւ գործովս ունայն, ծոյլ եւ պղերգ յանձինս եմ այժմուս հաւան, վախեմ զհոգիս այրեմ ի հուրն յաւիտեան։ Զձեզ աղաչեմ հայրք եւ եղբարք սրբազան, որ պաղատիք վասն իմ առ Տէրն ամենայն, ներել մեղաց իմոց որ է բազմական, եւ ձեզ ողորմեսցի այժմ եւ յաւիտեան։ Դարձեալ երեսանկեալ աղաչեմ զձեզ վասն խոշորութեան եւ սպալանաց գրոյս անմեղադիր լերուք, զի չի հմուտ գրոյ արհեստի, միայն թէ փափաքեցայ եւ գրեցի զսա յիշատակ ինձ եւ ծընօղաց իմոց եւ ննջեցելոց իմոց ամէն։ Գրեցաւ սա ի թուականիս Հայոց ՌՃԹ, ի Սբ. Քաղաքն Երուսաղէմ, ի դուռն Սբ. Ծընընդեանն։ Ոչ ոք ունի իշխանութիւն հանել զսա ի դռանէ Սբ. Ծննդեանն։ Եւ որք հանդիպիք սմա, կարդալով կամ օրինակելով կամ պատարագ մատուցանելով, յիշեսջիք զմեզ ի մաքրափայլ աղօթըս ձեր, եւ դուք յիշեալ լիջիք ի Քէ. Այ. մերոյ, որ է աւրհնեալ յաւիտեանս, ամէն։ Էջ 20բ, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "400.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2265-refine.json",
+    "pipeline_version": "v1"
+  }
+}

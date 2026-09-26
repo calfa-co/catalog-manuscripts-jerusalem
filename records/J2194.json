@@ -1,0 +1,68 @@
+{
+  "id": "J2194",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2194",
+  "notice": "2194",
+  "volume": "Jerusalem_V7",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2194",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "104",
+    "dimensions": "22 x 14.5 x 1",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կապոյտ, մնացեալը սեւ մելանով, միասիւն, 27 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 — Քարոզ Առաջին — Յառաջաբանութիւն. — Որ ըստ մարմնոյն է տնտեսել ըզկեանս...։ Էջ 34 — Քարոզ Տասներորդ — Յառաջաբան. — Ոսկի, որ միանայ ի նիւթ օտար, ի հալոցի զփայլուն գեղ, եւ զամրութիւն իւր կորուսանէ յիւրմէ։ Էջ 51 — Քարոզ Չորեքտասաներորդ — Յառաջաբան. — Ամ. արարածք բարի են, բայց ոչ ամենեցուն ցանկալի արժան...։ Էջ 55-64, դատարկ։ Էջ 65 — Յուսակտուր անպարկեշտաբար ըստ հեթանոսաց կոծել եւ ողբալ զմեռեալս. են մեղք մահաբեր, որ է, ըստ հոգւոյ, եւ ըստ մարմնոյ։ Ուստի ի դժնեայ սովորութեանց աստի չարեաց չընտանին առ հրաժարեցուցանել համառօտ խրատաբանութեամբ։ Ի գրոց Յունաց դարձոյց ի հայ լեզու Կոստանդնուպօլսեցի Գրիգոր Վրդ. բազմիմաստն՝ Հաճի կոչեցեալ, յամին 1838, յապ. 20։ Լուարուք սիրելիք զպատուէր եւ զխրատ...։ Էջ 78-104, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "303.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2194-refine.json",
+    "pipeline_version": "v1"
+  }
+}

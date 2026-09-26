@@ -1,0 +1,68 @@
+{
+  "id": "J3826",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3826",
+  "notice": "3826",
+  "volume": "Jerusalem_V11",
+  "title": "ՄԱՇՏՈՑ (Վարդապետական)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3826",
+    "no_notice": "157",
+    "titre": "ՄԱՇՏՈՑ (Վարդապետական)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "80",
+    "dimensions": "21x14x1",
+    "mise_en_page": "խորագիրները կարմիր, սկզբնատառերը կարմիր կամ կապոյտ, մնացեալը սեւ մելանով, միասիւն, 19 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական գրեթէ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": "կաշի",
+    "etat_conservation": "համարեա բաւարար. կարմրագիր տողերէն ոմանք եղծուած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Արաբական տառերով տողեր։ Էջ 2.— Յաղագս գաւազան տալոյ աշակերտեալ սպասաւորաց բանին.— Յովհաննու պիտակ աշակերտի՝ Գրիգոր եռամեծի արարեալ զշարագրութիւն կարգաց չորեքտասան աստիճանի վարդապետաց...։ Էջ 8.— Շնորհազարդ սուրբ հայրապետ, որ ես հաստատեալ հովիւ...։ Էջ 19.— Սարկաւագն զգաւազանն զարդարեալ ի խորանոյն առնու եւ գայ առընթեր արհիական տեառն, եւ ունելով ի ձեռին իւրում ասէ...։ Էջ 20.— Երկրորդ աստիճան Վարդապետութեան։ Էջ 25.— Երրորդ Աստիճան։ Էջ 39.— Սկիզբն Հինգերորդ աստիճան Վարդապետութեան։ Էջ 61.— Սկիզբն Իններորդ աստիճան։ Էջ 68.— Սկիզբն տասներորդ աստիճան Վարդապետութեան։ Էջ 77.— Առ եւ զայս աստիճան կատարեալ թուոյ տասներորդին, որ լնու զթիւ չորեքտասաներորդին, զի առեր շնորհս ի Հոգւոյն Սրբոյ...։ Էջ 79.— Յետ այսորիկ սկիզբն առնու նորընծայ վարդապետն քարոզութեան։ Էջ 80.— Գրութիւն արաբատառ։\nՅիշատակագրութիւն.— 1.— Էջ 2, ստորոտը.— Ծառայ Յովակիմ Պետրոսեան։ 2.— Էջ 8, ստ. լուսանցքին, շեղագիր.— Այս գիրքը ես Սամուէլ Ադամեանս նուիրում եմ իմ սիրելի եւ թանգագին ընկերիս յիշատակ, Յովսէփ Նազարեանին, 47, 1, 4։— Նոյնը փոքր տարբերութեամբ արձանագրուած է էջ 79, ստորոտը։ 3.— Էջ 2, ստ. լուսանցքին.— Ստացանք ձեռամբ Հոգշ. Տ. Կիւրեղ Վրդ. Գաբիկեանի, 10-12-64, Երուսաղէմ.— Նորայր Եպս. Տ. Զ.։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "282.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3826-refine.json",
+    "pipeline_version": "v1"
+  }
+}

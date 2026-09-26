@@ -1,0 +1,68 @@
+{
+  "id": "J433",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "433",
+  "notice": "433",
+  "volume": "Jerusalem_V2",
+  "title": "ՄԵԿՆ. ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "433",
+    "no_notice": "3",
+    "titre": "ՄԵԿՆ. ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "152",
+    "dimensions": "24x17x1",
+    "mise_en_page": "սեւ մելանով, միասիւն, 30–36 տող",
+    "details_ecriture": "չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, ոչ միատեսակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Բան առ բարեմիտ ընթերցօղս, յաղագս առաջիկայ առակացս.— Կանխաբարբառ եւ հոգեշարժ Աւետարանիչն Մատթէոս...։ Էջ 9.— Յորդորակ առ առակաւոր բանսն Քսի.։ Էջ 11.— Յաղագս Հաշտութեան։ ... Էջ 79.— Աղէտ մարդկային անկման, եւ կանգնումն նորին։ ... Էջ 99.— Քարոզ ի վերայ Անառակ Որդւոյն արարեալ։ ... Էջ 152.— Աստ կատարումն եղեւ Յսի. առակաց, շնորհիւ այնմիկ, որ զհամերց բերանս եբաց։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "412.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "433-refine.json",
+    "pipeline_version": "v1"
+  }
+}

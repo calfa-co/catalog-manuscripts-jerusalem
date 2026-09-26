@@ -1,0 +1,72 @@
+{
+  "id": "J1493",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1493",
+  "notice": "1493",
+  "volume": "Jerusalem_V5",
+  "title": "Ա.— ՄԵԿՆՈՒԹԻՒՆ ԱՐԱՐԱԾՈՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1493",
+    "no_notice": "3",
+    "titre": "Ա.— ՄԵԿՆՈՒԹԻՒՆ ԱՐԱՐԱԾՈՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "376",
+    "dimensions": "15.5×10.5×3.5",
+    "mise_en_page": "սկզբնատառերը և բնաբանները կարմիր, մնացեալը սեւ մելանով, միասիւն, 17 տող",
+    "details_ecriture": "սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "ՄԵԿՆ. ԱՐԱՐԱԾՈՑ Էջ 1, դատարկ։ Էջ 2.— Ես Յովանէս նուաստ ոգի, որ մակ անուն Թուլկուրանց[ի], կամաւ իմով ի հոգ մըտի, դրանս ժողովել ինձ յիշելի. աստ կարճաբան հաւաքեցի, յԱրարածոցըն Մովսէսի, մեկնե[ալ] Վարդան Վարդապետի, քաղեալ ի հա[ր]ցըն հոգելի, վասն ըստեղծմանն արարածի։\nԷջ 3.— Սկսաւղն է սկիզբն սկզբան, արարիչ Աստուած յաւիտեան...։— Հմմտ. Յ. Թլկուրանցի, Տաղագիրք, Երուսաղէմ, էջ 75։\nԲ.— ՄԵԿՆ. ՊԱՏԱՐԱԳԻ.— 2 Յովհ. Երզնկացի\nԷջ 74.— Իմաստնոյն Յովհաննիսի Վարդապետի, մականուն Տկար կոչեցեալ Եզնկացոյ, համառօտեալ զՄեկնութիւն Լամբրոնացւոյ Արքեպիսկոպոսի, Յաղագս Մեկնութեան Սբ. Պատարագի Աթանասի Աղէկսանդրու.— [Ա]մենայնի ժամանակ է՝ եւ ժամանակ է ամենայն իրի...։ ...Յաղագս այսորիկ յետնեալս ի բարեաց ծնունդս վերջին ժամանակիս, Յովհաննէս Արիճեցի, թախանձեալ ոմանց քահանայից սրբազնեցից տալ նոցա վերստին համառօտ եւ պարզ բանիւք զտեսութիւն խորհրդոյս։ Եւ մեք հարկեալ ի նոցունց ձեռնարկեցաք ի սոյն՝ յուսալով ի Հոգին Սուրբ եւ յաղօթս սըրբոցն։ Ոչ թէ յաւելուած ինչ իմաստից խոռնելով ի մէնջ բանս մեկնութեան նախասացեալ արանցն, այլ միայն զբանս նոցունց կարճեալ պարզեցաք. . .։— Հմմտ. Թիւ 1444։ Էջ 143.— Խրատ քահանայի. յառաջ քան զզենուլն կարգած է սաղմոս կանոնուի ծնդրադրելով, եւ խոնարհի եւ անկանի ի վերայ երեսաց իւրոց, եւ ասէ անմռունչ զԱղօթս առ Հոգին Սուրբ, զոր ասացեալ է"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "245.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "246.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1493-refine.json",
+    "pipeline_version": "v1"
+  }
+}

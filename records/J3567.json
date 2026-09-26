@@ -1,0 +1,68 @@
+{
+  "id": "J3567",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3567",
+  "notice": "3567",
+  "volume": "Jerusalem_V10",
+  "title": "ԹՈՒՂԹ ՍԱՀԱԿԱՅ ԻՇԽԱՆԻ, ԵՒ ՊԱՏԱՍԽԱՆԻ",
+  "date": {
+    "from": "1842",
+    "to": "1842",
+    "display": null
+  },
+  "fields": {
+    "numero": "3567",
+    "no_notice": null,
+    "titre": "ԹՈՒՂԹ ՍԱՀԱԿԱՅ ԻՇԽԱՆԻ, ԵՒ ՊԱՏԱՍԽԱՆԻ",
+    "date_debut": "1842",
+    "date_fin": "1842",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "28",
+    "dimensions": "24x17",
+    "mise_en_page": "սեւ մելանով, միասիւն, 25 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "սրճագոյն թուղթ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Թուղթ Սահակայ Արծրունեաց իշխանի առ երանելին վարդապետն Մովսէս Խորենացի.— Հրեշտակ եւ սպասաւոր մեծութեանցն Քրիստոսի...։— Հմմտ. Մատ. Մովսէսի Խորենացւոյ, Վենետիկ, 1865, էջ 281։ Էջ 2.— Պատասխանի թղթոյն Սահակայ...։— Զյորդութիւն առատութեան աստուածային հոգւոյն շնորհաց...։— Հմմտ. նոյն, էջ 283։ Էջ 7.— ...զի եւ հեթանոսաց պարծեսցի ժողովարան, այսպիսի ունելով նախամարս Սրբոյն Կուսին.— Հմմտ. նոյն, էջ 286։ Էջ 21.— Օրինակեցաւ 1842, փետ. 16։ Էջ 22–28, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "566.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3567-refine.json",
+    "pipeline_version": "v1"
+  }
+}

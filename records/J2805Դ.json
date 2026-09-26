@@ -1,0 +1,72 @@
+{
+  "id": "J2805Դ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2805Դ",
+  "notice": "2805Դ",
+  "volume": "Jerusalem_V9",
+  "title": "ՈՒՂԵԳՐՈՒԹԻՒՆ",
+  "date": {
+    "from": "1868",
+    "to": "1870",
+    "display": null
+  },
+  "fields": {
+    "numero": "2805Դ",
+    "no_notice": "1",
+    "titre": "ՈՒՂԵԳՐՈՒԹԻՒՆ",
+    "date_debut": "1868",
+    "date_fin": "1870",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ + 457",
+    "dimensions": "20 X 14 X 2",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 24 տող",
+    "details_ecriture": "մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Սարգիս Սրկ. Գէորգեան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Ե, դատարկ։ Էջ Զ.— Կը նուիրեմ Հինգ Հատոր ուղեւորական Նօթերս Սրբոց Յակոբեանց Վանուց Ձեռագրաց Թանգարանին, որք նուիրակութեանս երեք ամսեա շրջանին գրած եմ.— Յովհաննէս Վրդ. Գ. Մեծիփեկեան Պրուսացի, 1910, մարտ 18, Երուսաղէմ։\nԷջ 1.— 1870, Տումար Չորրորդ՝ Ճանապարհորդութիւն Ներսէս Ծայրագոյն Վարդապետի Գէորգեան Թրակացւոյ, եւ Աւագ Սարկաւագ Սարգիս Գէորգեան Պրուսացւոյ, ի Հնդկաստան։\nՅունվար 1, օր Հինգշաբթի...։ Էջ 92.— Կարգադրութիւնք վասն ի ժամատանս բնակողաց։ Էջ 101.— Զօրինաց Հոլանտացւոց հարցի զտիրողաց Ճավայ կղզոյս տեղեկացեալս հետեւեալքն են։ Էջ 115.— Տապանագիր Հանգուցեալ Պարոն Գէորգ Մանուկի յետոյ յօրինեալ։ Էջ 148.— Անուանք աշակերտաց Բթաւիու Մարիամ Յակովբ Ուսումնարանի։ Էջ 221, տարբեր մեծ թուղթ, Գաղղիացւոց շոգենաւի գծագրութեամբ։ Էջ 311.— Մայիս 1, օր ուրբաթ, այսօր պատրաստիմք ի Դաքա գնալ քանզի փոքր հանգիստ եմք։ Էջ 346.— Որպիսութիւն Դաքու։ Էջ 451.— Յունիս 30, օր Երեքշաբթի...։ Էջ 452–457, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "025.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "026.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2805Դ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

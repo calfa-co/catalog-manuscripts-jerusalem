@@ -1,0 +1,68 @@
+{
+  "id": "J1774",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1774",
+  "notice": "1774",
+  "volume": "Jerusalem_V6",
+  "title": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+  "date": {
+    "from": "1773",
+    "to": "1773",
+    "display": null
+  },
+  "fields": {
+    "numero": "1774",
+    "no_notice": "26",
+    "titre": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+    "date_debut": "1773",
+    "date_fin": "1773",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "826",
+    "dimensions": "24x17x4.5",
+    "mise_en_page": "խորագրերնը, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 32 տող։ Նոտր շեղագիր",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ փայլուն։ Գըրիչ՝ Գրիգոր Եւքառացի, որդի Յակոբ քահանայի",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ գծազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ, փակագիր, «Ք. Ծ. Պողոս Վարդապետ, 1244», էջ 3, 771",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդ իւր սարօք, էջ 1",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Մեկնի Յառաջաբանութիւն. առաջին կիւրակէի գալստեան Տեառն. Բան Առաջին։— Զերից պատգամաւս, զորս այսօր առաքէ եկեղեցին մեզ, զՔրիստոսի գալստենէ հոգունակապէս գուշակողաց. Ամովս 4, 12.— Պատրաստեաց ընդդէմ Տեառն Աստուծոյ քոյ Իսրայէլի...։— Հմմտ. թ. 26, Ա. Հատոր, էջ 133։ Էջ 763բ.— Ցանկ.— Ա.— Զերից պատգամաւորաց, զՔրիստոսէ գալստենէ մեզ ղուշակողաց...։ Էջ 771բ, դատարկ։ Էջ 772.— Ցանկ այլաբանական գրքոյս .— Արէլ ասի ագարակ...։ Էջ 826, դատարկ։\nՅիշատակարան Գրչի.— 1773 Էջ 771ա, վարը.— Ձեռամբ Կեսարիու գիւղն Յեւքառացի հանգուցեալ տէր Յակոբի որդի եղկ Գրիգորիս. եւ արդ ով ազնիւ եղբայրք իմ մինչ ընթեռնուք զղրկուկս զայս, մի հայր մեղայիւ յիշէք զծնօղս իմ, եւ դուք յիշեալ լիջիք ի Քրիստոսէ Աստուծոյ մերոյ, Ամէն։ Ի թվին Հայոց ՌՄԻԲ ամի, եւ ամսեանըն մարտի։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "134.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1774-refine.json",
+    "pipeline_version": "v1"
+  }
+}

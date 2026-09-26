@@ -1,0 +1,68 @@
+{
+  "id": "J1073",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1073",
+  "notice": "1073",
+  "volume": "Jerusalem_V4",
+  "title": null,
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1073",
+    "no_notice": null,
+    "titre": null,
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Այս թիւը կրող ձեռագիրը այժմ կը պակսի։ Տ. Սաւալանեան կը ներկայացնէ զայն սապէս. «Սաղմոս բոլորագիր եւ բամպակաթուղթ, յորում ամփոփեալ կան Ժամագիրք, Պատարագամատոյց, Տօնացոյց եւ Պարզատումար, գաղափարեալ յընտիր օրինակէ ի թվ. ՌՃ (1651) ի յԱմիթ, ընդ հովանեաւ Սրբոյն Կիրակոսի, ձեռամբ Յովհաննիսի, ի վայելումն տէր Առաքելի» (Ցուցակ, էջ 572)։ Սոյն ձեռագրին անհետացումը տեղի ունեցած է Մեսրոպ Վ. Նշանեանի տեսչութենէն առաջ, ինչպէս կը հասկցուի Արձանագրութեան Տոմարէն, ըստ որում 1906 սեպտեմբեր 1-ին, Մատենադարանի յանձնման գործողութեան ատեն թ. 1073 կը պակսէր իր շարքէն (էջ 1)",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "134.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1073-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3764",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3764",
+  "notice": "3764",
+  "volume": "Jerusalem_V11",
+  "title": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3764",
+    "no_notice": "4",
+    "titre": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "198",
+    "dimensions": "20x18.5x1.5",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 19 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը վեց թերթ, վերջը եօթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Վիպասանութիւն։ Հարց.— Ի՞նչ է վիպասանութիւնը։ Էջ 6.— Գլուխ Ա։ Պէտք ճարտասանութեան։ Էջ 10.— Յաղագս Ճարտասանութեան։ Էջ 11.— Մասն Ա։ Յաղագս Ճոխաբանութեան։ Էջ 16.— Մասն Բ։ Յաղագս Փոխակերպութեան։ Էջ 51.— Մասն Երկրորդ։ Յաղագս Գիւտի։ Էջ 91–95ի միջեւ պատռուած երկու թերթ։ Էջ 108.— Մասն Գ։ Տրամադրութիւն։ Էջ 171.— Գլուխ Գ։ Ատենական Հանդէս։ Էջ 178.— Տաղաչափութիւն։ Գլուխ Ա։ Էջ 198.— Հ.— Ո՞րն է հնգետասանոտենանը...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "221.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3764-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3527",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3527",
+  "notice": "3527",
+  "volume": "Jerusalem_V10",
+  "title": "ԿԱՐԳ ԵՒ ՍԱՀՄԱՆ ԽՈՍՏՈՎԱՆՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3527",
+    "no_notice": null,
+    "titre": "ԿԱՐԳ ԵՒ ՍԱՀՄԱՆ ԽՈՍՏՈՎԱՆՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "32",
+    "dimensions": "17.5x11",
+    "mise_en_page": "խորագիրները, սկզբնաբառերը կամ նախատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 24 տող, գունաւոր շրջանակի մէջ. շրջագիծը տեղ տեղ ճեղքած է թուղթը՝ գործածուած մելանին խստութեան իբր հետեւանք։ Նոտր շեղագիր վարժ գրչէ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ եւ ծծող",
+    "nb_lignes": null,
+    "reliure": "թղթեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Այս է կարգ եւ Սահման Խոստովանութեան, սահմանեալ ի սրբոց հարանց կանոնաց աստուածային գրոց։ Վասն հարցման քահանային եւ քննութեան, թէ որպէս հարցանէ եւ քննէ զխոստովանորդին, վասնզի այս է ստոյգ ուղիղ կարգ եւ ճշմարիտ։ Որոց չիք հնար առանց այս կարգի ուղիղ խոստովանութիւն եւ ստոյգ առնել։ Վասնորոյ պարտ է քահանայից ըստ այսմ կարգի առնել, եւ ամ. քրիստոնէից։ Էջ 14.— Յատուկ խոստովանութիւն, զոր պարտ է խոստովանորդին ասել առաջի քահանային...։ Էջ 19.— Աղօթք յառաջ քան զխոստովանանքն։ Էջ 20.— Եւ ապա ի ծունկս անկեալ... ասէ զբանս Աթանասի հառաչմամբ եւ արտասուօք։ Էջ 26.— Խոստովանութիւն Քահանայից.— Մեղայ ամենասուրբ Երրորդութեանն...։ Էջ 31–32, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "523.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3527-refine.json",
+    "pipeline_version": "v1"
+  }
+}

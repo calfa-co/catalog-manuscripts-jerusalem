@@ -1,0 +1,68 @@
+{
+  "id": "J2463",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2463",
+  "notice": "2463",
+  "volume": "Jerusalem_V8",
+  "title": "Շ Ա Ր Ա Կ Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2463",
+    "no_notice": "119",
+    "titre": "Շ Ա Ր Ա Կ Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "730",
+    "dimensions": "16x11.5x6",
+    "mise_en_page": "խորագիրները, սկզբնատողերը և նախատառերը կարմիր, մնացեալը սև մելանով, միասիւն, 20 տող",
+    "details_ecriture": "շեղակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական։ Կարմիր կապոյտ զարդագիր և լուսանցազարդ կանոններու ըսկիզբը, մեծ բաժանումները հանդերձ գլխազարդով",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ։ Գագաթին երկաթագիր «Սարգիսին է. թվ. ՌՃՁԳին»․ ստորոտը՝ «Ի վայելումն տիրացու Սէրգիսին»",
+    "etat_conservation": "լաւ. լուսանցքի ցեցահարութիւն թեթե. նորոգութիւն կրած. վերջաւորութիւն թերի",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "էջ 3, 265, 359",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ, անմաքուր։ Էջ 3. — Կանոն մեծի և հրաշափառ Ծընընդեան Տիրուհոյ Կուսին ի Յովակիմա և Աննայէ. — Երգեցէք որդիք Սիոնի...։ Էջ 28-33ի միջև երկու թերթ դատարկ թուղթ։ Էջ 103. — Երգ բուն բարեկենդանին վասըն աղուհացիցն։ Էջ 124, դատարկ։ Էջ 265. — Կանոն կենսաբեր Յարութեանըն Քրիստոսի։ Էջ 358, դատարկ։ Էջ 359. — Կանոն պենտակոստէին աւրհնութիւն։ Էջ 586, դատարկ։ Էջ 587. — Կանոն համօրինաց մարտիրոսաց։ Էջ 677. — Տեառն Ներսեսի Կաթուղիկոսի ասացեալ վասն առ ի Քս. նընջեցելոց. — Ած. անեղ անժամանակ...։ Էջ 690, դատարկ մեծագոյն մասամբ։ Էջ 691. — Կարգ Աւրհնութեանց Յարութեան Տեառն մերոյ Յիսուսի Քրիստոսի։ Էջ 728. — ԴԿ. — Յաղթական քեզ աւրհնութիւնք...։\nՅետնագոյն յիշատակագրութիւն. — Էջ 729, վերը, նոտրագիր անհարթ. — Յիշեայ Տէր զհոգիս Աստուածատուրին, և կենդանի Սառային, Թագուհին, և Մելքոն հանգուցելոյն, Մարթային, և Սարգսին, և տէր Սահակին, նայ ևս հաւասար հին և նոր ննջեցելոցն, հաւասար կենդանեաց հոգիքն յիշեայ Տէր և ողորմեայ, ամէն։ Էջ 730, դատարկ մեծագոյն մասամբ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "148.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2463-refine.json",
+    "pipeline_version": "v1"
+  }
+}

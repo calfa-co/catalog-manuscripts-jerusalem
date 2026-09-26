@@ -1,0 +1,72 @@
+{
+  "id": "J272",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "272",
+  "notice": "272",
+  "volume": "Jerusalem_V2",
+  "title": "ՀԱՐՑՄԱՆՑ ԳԻՐՔ",
+  "date": {
+    "from": "1397",
+    "to": "1397",
+    "display": null
+  },
+  "fields": {
+    "numero": "272",
+    "no_notice": "3",
+    "titre": "ՀԱՐՑՄԱՆՑ ԳԻՐՔ",
+    "date_debut": "1397",
+    "date_fin": "1397",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "850",
+    "dimensions": "27x20x6",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 34 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "փայլուն եւ տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ, սկիզբը եւ վերջը երկուական թերթ, մասն երկաթագիր Աւետարանի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդ մը, էջ 1",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Որպէս ասեն հերձուածողքն զամենայն ինչ ի հարկէ գոլ մարդկան...։ Էջ 20.— Ընդդէմ կորեալ ազգին տանկաց, որք կապեն նեռինն եւ նոր հեթանոսք հերձուածովն Արիոսի եւ Կերինթոսի։ — Հմմտ. Ա. Հատոր, էջ 574։ էջ 62 — Ընդդէմ Հրէից. — Ուրացեալ հրեայքն առարկեն ընդդէմ մեր...։ էջ 66 — Որք զաչս իմաստից յիմանալի ճառագայթիցն խուսափեցին...։ էջ 133 — Առաջին ճառելի եւ անճառելի...։ էջ 172 — Վասն շարժմանց հրեշտակաց. — ՀՑ. Զի՞նչ է հրեշտակաց կայ եւ շարժումն, ըստ Եսայեայ...։ էջ 187 — Յաղագս արարչութեան Այ. եւ վեցօրէից. — Յաղագս ընդդէմ արտաքս աքսորելոյ զարտաքինս...։ էջ 831 — Յիշատակարան. — Արդ ես վերջինս ի ծնունդս եկեղեցոյ եւ տրուպս բանասիրաց Գրիգոր պիտակ անուն խնդրող բանին, բացայայտեցի զբանս Հարցմանց...։ էջ 833 — Հարցմունք Գէորգ վարդապետի եւ Լուծմունք Գրիգորի. — [Գ]իր քոյոյ վսեմամիտ խոհեմութեան...։\nՄանր յիշատակագրութիւնք. — էջ 66 — Յետին նոտրագրով, ստորին լուսանցքին. — Յիշատակ է գիրքս ի դուռն Սբ. Ծնըն[դ]եանն Քի.։ ԾԱՆՕԹ. — Նոյնիմաստ երեք յիշատակագրութիւն եւս կայ. էջ 325, 463 և 850։ էջ 723ա — Յիշատակարան գրոցս եւ զմեղաւոր գծողս յիշեայ եւ Ած. ողորմի ասայ որ եւ քեզ ողորմեսցի իւր միւսանգամ գալուստն ամէն։ էջ 850, վարի լուսանցքին, շեղագիր. — 1831 թուին ես արեւելցի Պետրոս Առեղայս հանդիպեալ ի Սբ. Ծնունդ բազում վիշտս կրեցի ի ձեռս տեղոյս տաճիկ ֆալահներին։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "098.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "099.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "272-refine.json",
+    "pipeline_version": "v1"
+  }
+}

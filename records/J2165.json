@@ -1,0 +1,68 @@
+{
+  "id": "J2165",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2165",
+  "notice": "2165",
+  "volume": "Jerusalem_V7",
+  "title": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2165",
+    "no_notice": "20",
+    "titre": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "96",
+    "dimensions": "31x20x1.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գիծերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 47 տող",
+    "details_ecriture": "նոտրածեւ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ գծազարդ",
+    "etat_conservation": "անբաւարար. թացութենէ վնասուած. թերի",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Յաղագս մեծի սիրոյն զոր Տէր Ած. մեր միշտ ունեցաւ դէպ առ մարդն.— [Ա]մենակարօղն Ած. ի յաւիտենից սահմանեալ առ ի ստեղծել զմարդն...։ Էջ 91ա.— Յաղագս խորհրդականի խոստովանութեան և իւրոյ զօրութեանն.— Ուրախ լերուք եւ ցնծացէք, ով մեղաւորք եւ խնդացէք...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "266.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2165-refine.json",
+    "pipeline_version": "v1"
+  }
+}

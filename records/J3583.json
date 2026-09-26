@@ -1,0 +1,68 @@
+{
+  "id": "J3583",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3583",
+  "notice": "3583",
+  "volume": "Jerusalem_V10",
+  "title": "ՄԵՍՐՈՊ ՄԱՇՏՈՑ",
+  "date": {
+    "from": "1928",
+    "to": "1928",
+    "display": null
+  },
+  "fields": {
+    "numero": "3583",
+    "no_notice": null,
+    "titre": "ՄԵՍՐՈՊ ՄԱՇՏՈՑ",
+    "date_debut": "1928",
+    "date_fin": "1928",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ+237",
+    "dimensions": "19.5x12x2",
+    "mise_en_page": "սեւորակ մելանով, միասիւն. 17 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապոյտ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա.— Տիտղոսաթերթ. Մեսրոպ Մաշտոց, եւ այլն. Հաւաքեց Շ. Գարահիսարցի Յ. Վրդ. Պարոնեան, Առաքել. Ուխտէն Ս. Յակոբեանց, Երուսաղէմ, 1928։ Էջ Բ–Գ, դատարկ։ Էջ Դ.— Փակցուած սեւատիպ նկար. \" Մեսրոպ Մաշտոց \"։ Էջ 1.— Մեսրոպ Մաշտոց.— 1901, Ե.Թ.։ Ալէքսանդրապոլ։ Էջ 61.— Ս. Մաշտոց.— Գառնիկ Ֆնտգլեան, Մանչեստըր (Անգլիա)։ Էջ 100.— Երկու Անմահները.— Եր. Սրմաքէշխանէլեան (Երուխան)։ Էջ 116.— Սահակ ու Մեսրոպ, Գրեց՝ Վարդան Քհն. Արսլանեան.— 26 Հոկտ. 1913, Խարբերդ։ Էջ 152.— Գրերու Արժէքը։ Էջ 159.— Հայ Եկեղեցւոյ Դերը մեր կեանքին մէջ.— Մեսրոպ Արք. Նարոյեան։ Էջ 165.— Սուրբին Աղօթքը.— Սիամանթօ։ Էջ 172, դատարկ։ Էջ 173.— Քրիստոսի Երկրորդ Գալուստը.— Ղեւոնդ Եպս. Դուրեան, 6 Դեկտ. 1927, Մանչեսթը։ Էջ 196.— Քրիստոնէական Միութիւնը եւ Հայ Եկեղեցին։ Էջ 211էն յետոյ սխալմամբ դրած է 218.— Ղեւոնդ Եպս. Դուրեան, 28 սեպտ. 1927, Մանչեսթը։ Էջ 224.— Հայ Եկեղեցւոյ Առաքելականութիւնը.— Տիրայր Ծ. Վրդ., Յունիս 7, 1928, Ֆաուլըր։ Էջ 232–237, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "648.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3583-refine.json",
+    "pipeline_version": "v1"
+  }
+}

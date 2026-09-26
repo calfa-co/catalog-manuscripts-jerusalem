@@ -1,0 +1,68 @@
+{
+  "id": "J3787",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3787",
+  "notice": "3787",
+  "volume": "Jerusalem_V11",
+  "title": "ՆԱՄԱԿԱՆԻ",
+  "date": {
+    "from": "1910",
+    "to": "1910",
+    "display": null
+  },
+  "fields": {
+    "numero": "3787",
+    "no_notice": null,
+    "titre": "ՆԱՄԱԿԱՆԻ",
+    "date_debut": "1910",
+    "date_fin": "1910",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "54",
+    "dimensions": "28x22",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 26 տող",
+    "details_ecriture": "ոչ միատեսակ։ Առանց կողքի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր, ոչ միօրինակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Տիտղոսաթերթ.— Սեւ մատիտով.— Նամակներ Կիլիկիոյ կաթողիկոսութեան վերաբերեալ։ Ս. Էջմիածին, 15 մայիս, 1910, Մեսրոպ Վրդ. Նշանեան։ Էջ 1.— 9 Յունուար 1902, Կ. Պոլսոյ պատրիարք Մաղաքիա Արքեպիսկոպոսէն առ Տ.Տ. Գէորգ Ս. Եպիսկոպոս Երէցեան, պատր. փոխ. Ս. Երուսաղէմի ընտրեալ ի կաթողիկոսութեան Կիլիկիոյ, յԵրուսաղէմատունն։ Էջ 18.— 1902, Յունվար 21, Երուսաղէմատուն. Գ. Եպս. Երէցեանէ առ Տ.Տ. Մաղաքիա Ս. Արքեպիսկոպոս Օրմանեան։ Էջ 25.— 1902, Յունուար 29, Գէորգ Եպս. Երէցեանէ առ Տ.Տ. Մկրտիչ սրբազնակատար Կթղ. ամ. Հայոց...։ Էջ 29.— 1905, դեկտ. 10. Սահակ կաթողիկոսէն Կիլիկիոյ առ Տ.Տ. Մկրտիչ Ա. սրբազնագոյն կթղ. ամ. Հայոց...։ Էջ 33.— 21 Մարտ 1906 Սիս.— Սահակ կաթողիկոսէն Կիլիկիոյ առ Ամեն. Տ.Տ. Մաղաքիա Ս. Արքեպս. եւայլն։ Էջ 37.— 19 Նոյեմ. 1906, Կիլիկիոյ Սահակ Բ. կաթողիկոսէն առ Տ.Տ. Մկրտիչ Ա. Սրբազնագոյն Կթղ. ամ. Հայոց...։ Էջ 41.— Ուխտագիր.— Մուշեղ Ծ. Վարդ. Սերովբեան, առաջնորդ Հայոց Ատանայի եւ վիճակաց.— 28 Հոկտ. 1906, ի Մայրավանս Սսոյ։ Էջ 48.— 26 փետր. 1907 Սիս.— Սահակ կաթողիկոսէն Կիլիկիոյ առ Ամեն. Տ.Տ. Մաղաքիա Ս. Արքեպս. եւայլն։ Էջ 47.— 1907 Մարտ 25.— Սահակ կաթողիկոսէն Կիլիկիոյ առ Տ.Տ. Մկրտիչ Ա. սրբազնագոյն Կթղ. ամ. Հայոց...։ Էջ 51.— 26 Ապրիլի 1907, Ս. Էջմիածին.— Ամ. Հայոց Մկրտիչ Կաթողիկոսէն առ երանաշնորհ Տ. Սահակ Ս. Կաթողիկոս Տանն Կիլիկիոյ...։ Էջ 53.— 25 Մարտ 1907 Սիս.— Սահակ Կաթողիկոսէն Կիլիկիոյ առ Բարձրաշնորհ Տ. Գէորգ սրբազան արքեպս. Սուրէնեանց, նախանդամ սրբոյ սինոտին Արարատեան Մայր – Աթոռոյն, ի Ս. Էջմիածին։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "243.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3787-refine.json",
+    "pipeline_version": "v1"
+  }
+}

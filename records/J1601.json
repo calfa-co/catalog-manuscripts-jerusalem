@@ -1,0 +1,68 @@
+{
+  "id": "J1601",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1601",
+  "notice": "1601",
+  "volume": "Jerusalem_V5",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՅԱՅՏՆՈՒԹԵԱՆ ՅՈՎՀԱՆՆՈՒ",
+  "date": {
+    "from": "1620",
+    "to": "1620",
+    "display": null
+  },
+  "fields": {
+    "numero": "1601",
+    "no_notice": "14",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՅԱՅՏՆՈՒԹԵԱՆ ՅՈՎՀԱՆՆՈՒ",
+    "date_debut": "1620",
+    "date_fin": "1620",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "360",
+    "dimensions": "14×10×3",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 23 տող",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "բաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը եւ վերջը երկուական թերթ, մասն երկաթագիր Աւետարանի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "գլխազարդ իւր սարօք, էջ 17",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4, դատարկ։ Էջ 5.— Ի տիեզերական ժողովոյն կամըս, որ եղեւ յաստուածապահ քաղաքն Կոստանդինուպօլիս. . .։— Գիրքս այս Յայտնութեանս Յովհաննու պատուեցաւ ի մէնջ...։ Էջ 10.— Գլուխք Յայտնութեան։ Էջ 17.— Ի Յայտնութիւնն Յովհաննու սրբո հաւր մեր Անդրէի երանելոյ եպիսկոպոսի Կեսարու...։— Յաստուածային խորհրդական բանիցս անհասութիւն ոք հայելով, մի բանբասեսցէ զմերս համարձակութիւն...։ Էջ 28.— Յայտնութիւն Սրբոյն Յովհաննու Աստուածաբանի։ Ծանօթ.— Յաճախ կը տեսնուին մէկ երկու բառի տեղ բաց ձգուած, առաւելապէս սկիզբի գլուխներուն մէջ։ Էջ 335.— Յիշատակ տառիս գտաւղի տեառն Ներսիսի գերահռչակ վարդապետի, զոր գտեալ ի մեծն Անտիոք, գրեաց զսայ ի լուսաւորութիւն հոգոց։ Էջ 340-359, դատարկ։ Յիշատակագրութիւն.— 1620 Էջ 360, նոտրագիր.— Կատարեցաւ գիրքս ի թվին ՌԿԹ, սեպտեմբեր ամսոյն, ի փառս Քի. Այ. մերոյ, յաւիտեանս, Ամէն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "413.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1601-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J1733",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1733",
+  "notice": "1733",
+  "volume": "Jerusalem_V6",
+  "title": "Տ Օ Ն Ա Ց Ո Յ Ց",
+  "date": {
+    "from": "1637",
+    "to": "1637",
+    "display": null
+  },
+  "fields": {
+    "numero": "1733",
+    "no_notice": "18",
+    "titre": "Տ Օ Ն Ա Ց Ո Յ Ց",
+    "date_debut": "1637",
+    "date_fin": "1637",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "422",
+    "dimensions": "10x7x4.5",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 14 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "ողորկ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": "Ստեփանոս Երէց Մոկացի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը մէկ թերթ, անկիւնաւոր երկաթագիր, մասն Աւետարանի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդ իւր սարօք, էջ 17",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ ։ Էջ 3 .— Քաղոց ամսոց Հայոց ԻԱ, եւ դեկտեմբեր Հոռոմայեցւոց Ի Թ, Քաղս Եբրայեցւոց Ի ԻԳ, Աւետիք է Աննայի եւ Յովակիմայ . . . ։ Էջ 15 .— Տաւնացոյց եւ աւետարանացոյց եւ կարգաւորութիւն եւ հրահանգք տէրունական տօնից . . . ։ Էջ 16, դատարկ ։ Էջ 17 .— Աստուածայայտնութեան Ճըրագալուցի առաջի աւուրն . . . ։ Էջ 159 .— Սրբոյ Զատկին գիշերն հըսկում է . . . ։ Էջ 346 .— Ալէլու Ծնընդեան ։ Էջ 359 .— Ժամամուտներ ։ Էջ 400 .— Երգ պաշտման գիշերի .— Աշխարհ ամենայն . . . ։ Էջ 407-408 .— Պաշտման երգ կիրակէի .— Առաւաւտ լուսոյ . . . ։\nՅիշատակարան Գրչի .— 1637 Էջ 416 .— Փառք . . . ։ Գրեցաւ Տաւնացոյց ի Սուրբն Բեդղեհէմ, ի քաղաքն Դաւթի, ի դուռն Սբ . Ծնընդեան եւ յանբանից սուրբ մսրին, որ զՔս . խանձարրօք պատեցին եւ եդին ի մսուրն ։ Ի թվին ՌՁԶ ամին ձեռամբ սուտանուն Ստեփանոս Մոկացի իրիցուն, որ զանունս ունիմ եւ զգործս ոչ, վայ ինձ մեղաւորիս Ռ բերան ։ Գրեցաւ Տօնացոյցս ի լաւ եւ յընտիր յօրինակէ ։ Որք հանդիպիք տուն տեսանելով կամ աւրինակելով, նայ լի սրտով եւ բոլոր հաւատով բերան] մի ողորմի ասէք ինձ մեղաւորիս եւ Ած . ձեզ ողորմեսցի յաւուր գալըստեան ամէն ։ Էջ 419-422, դատարկ ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "063.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1733-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J1804",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1804",
+  "notice": "1804",
+  "volume": "Jerusalem_V6",
+  "title": "ՏԵՏՐԱԿ ՆԱՄԱԿԱԳՐՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1804",
+    "no_notice": "1",
+    "titre": "ՏԵՏՐԱԿ ՆԱՄԱԿԱԳՐՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "254",
+    "dimensions": "29X19X1.5",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Արժանապատուութեամբ պըսակեալ վսեմափոխ եւ հանճարիմաց շնորհազարդ սուրբ հայրութեան հոգետենչ բաղձանօք և կարօտակէզ սրտիւ ողջոյն սիրոյ խընդութեան...։ Էջ 6–20, դատարկ։ Էջ 21.— Տետրակ Նամակագրութեան կաթուղիկոսի — Առ նորին վեհափառութիւն տեառն Ներսէս սրբազան կաթողիկոսն ամ. Հայոց նուիրի խորին ակնածութիւն։ Էջ 22.— Առ նորին սրբազնութիւն տեառըն Կիրակոս գերերջանիկ պատրիարգըն ընծայի խորին մեծարանօք։ Էջ 25.— Օրինակ գրոյն գրեալ առ սըրբազան Պաղտասար Մետրապօլտն Հայոց Աղուանից որ ի Շուշի։ Էջ 28.— Թուղթ առ սրբազան առաջնորդն Զմիւռնոյ գրեալ ի դիմաց բնակչացն Էօտէմիշու գլխաւորաց։ Էջ 90–100, դատարկ։ Էջ 101.— Սքանչելահրաշ եւ քրիստոսահիմն Սրբոյ Իջման տեղւոյն...։ Էջ 199.— Նորին Գերապատիւ Սրբութեան Տ. Յարութիւն սրբազան արքեպս.ի ողջոյն խանթակաթ ... 1868, մարտ 31, յԵրուսաղէմ։ Էջ 200, դատարկ։ Էջ 201.— Տետրակ Ոտանաւորաց։ Էջ 205.— Թարգմանութիւն ի գաղղիական բնագրէ Հռակլինոսի։ Էջ 213.— Տապանագիր քեռն իմոյ սիրելոյ վախճանելոյ յԷօտէմիշ։ Էջ 214.— Տողք ի վերայ մահուան Տ. Յովհ. Միրզայեան Վանանդեցւոյ բազմարդիւն վարժապետի Մեսրովպեան Ուսումնարանիս ասացեալ յաւուր հանդիսի վարձատրութեան աշակերտաց ի Հայրապետէ Թովմայեան։ Էջ 217–220, դատարկ։\nԷջ 221.— Տետրակ Ճառից Պատրիար– ղաց ։ Վեհափառ տէր մեր սրբազան ։ Էջ 226.— 1882ին Արժ. Գէորգ վարդա– պետին խօսած Աւագ Ուրբաթ աւուր կտակի քարոզն է ։ Էջ 235–254, դատարկ ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "188.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "189.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1804-refine.json",
+    "pipeline_version": "v1"
+  }
+}

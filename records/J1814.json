@@ -1,0 +1,72 @@
+{
+  "id": "J1814",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1814",
+  "notice": "1814",
+  "volume": "Jerusalem_V6",
+  "title": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+  "date": {
+    "from": "1693",
+    "to": "1693",
+    "display": null
+  },
+  "fields": {
+    "numero": "1814",
+    "no_notice": "21",
+    "titre": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+    "date_debut": "1693",
+    "date_fin": "1693",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "48",
+    "dimensions": "27x17.5x1",
+    "mise_en_page": "սկզբնատողերը կամ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 21 տող",
+    "details_ecriture": "սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "բաւարար. նորոգութիւն կրած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": "իւր սարօք, էջ 6",
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Յարութիւն որդի Ամիրճիհանի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր եւ լուսանցազարդ կարեւոր կըտորներու սկիզբը",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1–4, դատարկ։ էջ 5ա.— Ասասցեն ապա Սաղմոս ՃԼԱ, կցորդ.— Քահանայք քո զգեցցին զարդարութիւն...։ էջ 6բ.— Որ զգեցեալ ես զլոյս...։ էջ 20բ.— Հաւատամք ի մի Աստուած ...։\nՅիշատակարան Գրչի .— 1693 էջ 45ա.— Յիշատակ է Խորհրդատետրս Ըստամպօլցի մահտասի Յարութիւնիս, զսա դիր յիշատակ ի հալալ ընչիցն աստուածընկալ Սբ. Գերեզմանն Քրիստոսի, ի դուռն Սբ. Յարութեան, որպէս հրամայէ մարգարէն Եսայի՝ Որ ունիցի զաւակ ի Սիօն եւ ընտանիք յԵրուսաղէմ։ Ով սուրբ պատարագիչ յիշեա մահտեսի Յարութիւնիս, եւ զծնողս իմ Ամիրճիհանն եւ մայր իմ Սառայ, եւ զհանգուցեալ նախնիքս յիշեա Ած. ողորմիով, կամ օրինակէք, եւ կամ հարեւանցի տեսանէք, ասացէք Ած. ողորմի. Ամէն։ Գրեցաւ Խորհրդատետրս թվին ՌՃԽԲին, եւ սեպտեմբերի ԺԱ։ էջ 45բ – 48, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "198.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "199.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1814-refine.json",
+    "pipeline_version": "v1"
+  }
+}

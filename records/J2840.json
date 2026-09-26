@@ -1,0 +1,68 @@
+{
+  "id": "J2840",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2840",
+  "notice": "2840",
+  "volume": "Jerusalem_V9",
+  "title": "ԲԱԽՏԱԳՈՒՇԱԿ (ԱՍՏՂԱԲԱՇԽԱԿԱՆ)",
+  "date": {
+    "from": "1789",
+    "to": "1789",
+    "display": null
+  },
+  "fields": {
+    "numero": "2840",
+    "no_notice": null,
+    "titre": "ԲԱԽՏԱԳՈՒՇԱԿ (ԱՍՏՂԱԲԱՇԽԱԿԱՆ)",
+    "date_debut": "1789",
+    "date_fin": "1789",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "72",
+    "dimensions": "24 X 17",
+    "mise_en_page": "սկզբնատողերը եւ սկզբնաբառերը նարնջագոյն, մնացեալը սեւորակ մելանով, միասիւն, 33-42 տող։ Նոտր շեղագիր մանր անարուեստ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "սրճագոյն թուղթ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, դատարկ անմաքուր։ Էջ 2, վերի լուսանցքին, մէկ տող.— Երեւի թարգմանութիւն պատուելի Գէորգ Դպրի արդէն վախճանելոյ ի Տէր։ — Թվին 1789 մարտի առաջին օրն սկսայ։ Էլմուգատտիմէ րուպու միւնէյյիմէ րէսիմ օլնան հըթութ մագսում վէ մուսթագիմէ վէ սայիր մուլազիմէսի պէեանինտէ տիր։ Էջ 4.— Էլ պապուլ սանի. պու պապտէ գաֆըս իրթիֆային մէյալինի վէ մէյալին գավսինի պիլմէք թարիգի պէեան օլնուր։ Էջ 25.— Պապուլ սանի աշէր ֆիե մարիֆէթի վագթու մադրուպ վէ հըսաէթուլ շաֆախ վէ մադրուպ։ Էջ 51.— Էլ պապուլ սալիս իշրուն ֆիե մարիֆէթի թահվիլի մէսայիլի մէեալիեէ իլա հիսապ։ Էջ 58.— Թվին Քրիստոսի 1789ին փետրվարի 27 օրն աւարտեցաւ այս գիրքս։ Էջ 59.— Պու իրսալէ գաթուլ քուրսիէ ամէլին պէեան իտէր. օթուզ պապ տըր։ Էվվէլքի պապ գաթուլ քուրսիին րուսումին վէ իսիմլէրինին պէեանինտէտիր։ Էջ 60.— Իքինճի պապ քիւրրէի արզ ուզէրինտէ թէ վէճհ իլէ վազը օլունմաֆ կէրէք տիր, անի պէեան իտէր։ Էջ 71.— Օթուզունճի պապ, հէր այէրն ղուրրէսինթէ կիւն օլուր վէ հէր այետա գամարին խուսուֆի վէ շէմսին քուսուֆի օլուր մի, անլէրի պէեան իտէր։ Էջ 72.— Թվին Փրկչին 1789, մարտի 9 օրն աւարտեցաւ գիրքս։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "075.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2840-refine.json",
+    "pipeline_version": "v1"
+  }
+}

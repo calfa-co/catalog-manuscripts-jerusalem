@@ -1,0 +1,68 @@
+{
+  "id": "J2889",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2889",
+  "notice": "2889",
+  "volume": "Jerusalem_V9",
+  "title": "Ղ Ո Ւ Ր Ա Ն (ԱՐԱԲԵՐԷՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2889",
+    "no_notice": null,
+    "titre": "Ղ Ո Ւ Ր Ա Ն (ԱՐԱԲԵՐԷՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "474",
+    "dimensions": "28X19X6",
+    "mise_en_page": "խորագիրները եւ կէտերը կարմիր, մնացեալը սեւ մելանով, միասին, 15 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ հնամաշ։",
+    "etat_conservation": "անբաւարար. վնասուած խոնաւութենէ եւ առաւելապէս ցեցերէ. նորոգութիւն կրած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Յետնագոյն արձանագրութիւն.— 1855 Էջ 474, անհարթ գրով.— Մեկնութիւն Աստուածաշնչի (վրան գծուած եւ Թերքեսը գրուած)․ Գտեալ յումէ եւ իմացեալ 1855 յօդ․ 8, ոչ ըստ վերնոյն է Մեկնութիւն Աստուածաշնչի, այլ տաճկաց Քուրան կոչեցեալ գիրքն է",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "112.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2889-refine.json",
+    "pipeline_version": "v1"
+  }
+}

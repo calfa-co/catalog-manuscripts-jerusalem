@@ -1,0 +1,72 @@
+{
+  "id": "J1848",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1848",
+  "notice": "1848",
+  "volume": "Jerusalem_V6",
+  "title": "ՏԵՏՐԱԿ Ս. ՅԱՐՈՒԹԵԱՆ ԼՈՒՍԱՐԱՐԱՑ",
+  "date": {
+    "from": "1813",
+    "to": "1813",
+    "display": null
+  },
+  "fields": {
+    "numero": "1848",
+    "no_notice": "1",
+    "titre": "ՏԵՏՐԱԿ Ս. ՅԱՐՈՒԹԵԱՆ ԼՈՒՍԱՐԱՐԱՑ",
+    "date_debut": "1813",
+    "date_fin": "1813",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "23",
+    "dimensions": "24x18",
+    "mise_en_page": "խորագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 33 տող։ Նոտր շեղագիր կանոնաւոր",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.—\nՏետրակ Սրբոյ Յարութեան Լուսարարաց : Կանոն եւ սահման արարողութեանց իւրաքանչիւր ազգաց, որք կատարին յերկնահանգէս տաճար Սրբոյ Յարութեան, բացատրեալ համառօտ ծանուցողութեամբ, առ ի պէտս անդր գտեալ լուսարարաց մերազնէից : Աշխատասիրութեամբ տեառն Թադէոս Վարդապետի Պալատեան Կեսարացւոյ յերատեան գեղջէ, ի միաբանութենէ մեծի Աթոռոյն Երուսաղէմի : Հրամանաւ տեառն տեառն Թէոդորոս երջանիկ արքեպիսկոպոսի եւ աստուածապատիւ պատրիարքի Վանեցւոյ : Յամի Տեառն 1813, ի թուին Հայոց ՌՄԿԲ : Ի քաղաքամայրն Երուսաղէմ, ի գերապանծ Աթոռ Սըրբոց Յակոբեանց :\nԷջ 1.— Խրատ հասարակ աւուրց կանոնաց : Էջ 5, դատարկ, ոչ մաքուր : Էջ 6.— Յաղագս Մարմնոյ եւ Արեան Տօնի Լատինացւոց : Էջ 8.— Յաղագս Հոգւոյն Սրբոյ Գալստեան տօնի Յունաց : Էջ 8.— Յաղագս Սրբոյ Խաչվերացի տօնի Յունաց : Էջ 11.— Յաղագս Սրբոյ Գիւտխաչի Տօնի մերոյս Հանդիսի : Էջ 14.— Յաղագս Գալստեան Մեծի նաւուն ի Պօլսոյ.— Յորժամ լուիցէ լուսարարն զգալուստ մեծի նաւուն ի Պօլսոյ ի զգուշութեան կայցէ . զի յետ գալոյ նոցա ի Սբ. Աթոռն եւ զամ . զհարկաւոր գործսն կատարելոյ, օրէն է տանել զնոսա ի Սբ. Յարութեան Տաճարն... : Էջ 15.— Յաղագս Ծաղկազարդին Լատինացւոց : Էջ 16.— Յաղագս Աւուրց Աւագ Շաբաթու Լատինացւոց : Էջ 21.— Յաղագս մերս Ծաղկազարդի եւ Զատկի արարողութեանց :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "248.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "249.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1848-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J1009",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1009",
+  "notice": "1009",
+  "volume": "Jerusalem_V4",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ՄԱՍՆԱԿԻ)",
+  "date": {
+    "from": "1779",
+    "to": "1779",
+    "display": null
+  },
+  "fields": {
+    "numero": "1009",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ՄԱՍՆԱԿԻ)",
+    "date_debut": "1779",
+    "date_fin": "1779",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "84",
+    "dimensions": "20x15",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 29 տող։ Նոտր շեղագիր",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": "Ի–ԻԴ",
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Գրիգոր Դպիր Ձկնաջրցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Այս ձեռագրին միւս մասերը կազմած են ուրոյն հատորներ, 955, 980, եւ 1001 թիւերուն ներքեւ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— Էջ 1.— Տեառն Յոհաննու Օձնեցւոյն Սրբոյ Հայրապետի Հայոց ասացեալ.— Արդ զմեզ յառաջ կոչէ առ ինքն ընդդէմ յառնել երկակաց ոմանց...։— Հմմտ. Տպ. Վենետիկ, 1833, էջ 46։ Բ.— Էջ 3.— Նորին ընդդէմ երևոյթականաց.— Յոյժ տենչալի (եւ) էր եւ փափաքելի, ոչ այլոց զիս եւ ոչ զայլս ինձ լինել թշնամութեան...։— Հմմտ. նոյն, էջ 48։ Էջ 52, դատարկ։ Գ.— Էջ 53.— [Սակս Ժողովոց]։ Կանոն Սբ. Հայրապետին տիեզերալուր Հայոց Մեծաց Յօհաննու Օձնեցւոյն և այլ սբ. հարանցն Հայոց եւ Ասորւոց.— Առաջին ժողովն արար երանելի Հայրապետն մեր Սուրբն Գրիգոր, քսաներորդի ամի կաթողիկոսութեանն իւրում...։ — Հմմտ. Գիրք Թղթոց, էջ 220։ Էջ 65.— ... որպէս երբեմն ի ձեռն Եղրի սփռեալ տարածեցաւ, զոր Տէր հրամայեաց մեզ քակել զորմսն բարկութեան նորին։ Զոր սաստկանալ ամբարշտութեան հերձուածոյն որ յեզրէ տարածեցաւ ընդ բոլոր աշխարհս Հայոց արուեստ կործանման աղանդոյն նորա... Ե օրեայ աւուրբք ընդ պահս սուրբ պասեքին, անբաժանելի եւ անորիշ յօրինելով...։— Հմմտ. թիւ 858։ Դ.— Էջ 77.— Նորին ընդդէմ այնոցիկ որք ապականեն զսուրբ խորհուրդն ի ձեռն խմորոյ եւ ջրոյ.— Ահա յառաջագոյն ծանուցեալ առաքելոցն զապստամբութիւնն հերձուածոյն ի ճշմարիտ հաւատոյն...։— Հմմտ. Գիրք Թղթոց, էջ 234։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "038.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1009-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J604",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "604",
+  "notice": "604",
+  "volume": "Jerusalem_V3",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "604",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "96",
+    "dimensions": "22x17x1",
+    "mise_en_page": "խորագիրները, բնաբանները եւ յաճախ գլխագիրները կարմիր, մնացեալը սեւ մելանով, մասամբ միասիւն եւ մասամբ երկսիւն, 29 տող",
+    "details_ecriture": "եւ նոտր շեղագիր տարբեր գըրիչներէ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, ոչ միատեսակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Յայլմէ Քարոզ ի վասն փառաց արքայութեան, ի բանն Մատթէոսի, թէ Մուտ յուրախութիւն Տն. Քո.— Որպէս ասէ Առաքեալն՝ վարձքն սրբոցն այնպէս է, զոր ակն ոչ ետես...։ Էջ 10ա.— Գրիգորի եռամեծի եւ բանիբուն վարդապետի, ասացեալ վասն ժ բանեան օրինացն, ի սկիզբն բանին որ ասէ. Ես եմ Տէր Ած. Քոյ.— Մարդն ի հոգոյ իմանալոյ եւ ի մարմնոյ զգալոյ է ստեղծեալ...։ Էջ 22ա.— Նորին Գրիգորի ի բանսն հրաժարական. որ ասէ Մի՛ սպանաներ։ Էջ 46բ.— Նորին Գրիգորի Եռամեծի և տիեզերալոյս Վարդապետի Քարոզ վասն Գալստեանն, ի բանն. Զի որպէս փայլակըն...։ Էջ 65, տարբեր գրչէ.— Ասէ իմաստունն, Ոսկի փորձի ի բովս եւ մարդ ընտրի ի նեղութիւնս...։ Էջ 77.— Ասեն իմաստունք թէ ամ. ինչ որ առաւել պատուական է, առաւել ներգործէ...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "023.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "604-refine.json",
+    "pipeline_version": "v1"
+  }
+}

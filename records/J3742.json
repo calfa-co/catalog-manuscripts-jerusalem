@@ -1,0 +1,68 @@
+{
+  "id": "J3742",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3742",
+  "notice": "3742",
+  "volume": "Jerusalem_V11",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3742",
+    "no_notice": "ԻԵ",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Նման է նախորդ հատորին. Էջք 880։",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.– Պատմութիւն Եկեղեցւոյն Աստուծոյ։ Հատոր ԻԵ։ Գիրք [ԿԷ]։ Սբ. Գրիգոր Վկայասէրին մահէն մինչեւ Դաւիթ մոլորեցուցչին ատենը։ Փրկչին 1105 թուականէն մինչեւ 1250։ Էջ 288.– Գիրք [ԿԸ]։ Գրիգոր Է պապին մահուանէն մինչեւ Լատերանու առաջին ժողովքը. 1086էն մինչեւ 1123 թուականը։ Էջ 588.– Գիրք [ԿԹ]։ Լատերանու առաջին ժողովքէն մինչեւ Եւգինէոս երրորդին մահը. եւ Մառոնի եւ Յոյն եկեղեցեաց պատմութիւն։ Փրկչի 1123 թուականէն մինչեւ 1153։ Էջ 879.– Վերջ ԻԵ Հատորոյ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "195.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3742-refine.json",
+    "pipeline_version": "v1"
+  }
+}

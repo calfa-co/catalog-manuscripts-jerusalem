@@ -1,0 +1,72 @@
+{
+  "id": "J2688",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2688",
+  "notice": "2688",
+  "volume": "Jerusalem_V8",
+  "title": "Թ Ա Մ Ի Ր Ա Ս Կ Ո Ւ Ր Ա Ծ Ի Ն",
+  "date": {
+    "from": "1860",
+    "to": "1860",
+    "display": null
+  },
+  "fields": {
+    "numero": "2688",
+    "no_notice": "1",
+    "titre": "Թ Ա Մ Ի Ր Ա Ս Կ Ո Ւ Ր Ա Ծ Ի Ն",
+    "date_debut": "1860",
+    "date_fin": "1860",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "100",
+    "dimensions": "20X14.5X1",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 17 տող",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ։",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Ճակատ. — Թամիրաս Կուրածին, յԱրարատեան Մուզայից զրկեալ ի քնարէ, ի Մոսկով, 1832։ Ի վայելումն տեառն Իգնատիոս Վարդապետի Տակէսեան Պոլսեցւոյ։ Եւ այժմ գաղափարեալ յումեմնէ բարեսիրէ, ի Պօլիս, 1860",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Ա. — Յառաջ բերեն նախնի դիւցաբանք...։ Էջ 3. — Բ. — Լար զրպարտութեան։ Էջ 14. — Գ. — Լար խաբեբայութեան և անամօթութեան։\nԷջ 25 — Ե. — Լար սնապարծութեան։ Էջ 47 — Թ. — Լար զանազան ամբարշտութեանց ։ Էջ 73 — ԺԴ. — Բայց ո՞ւր տարցուք զամբարիշտ զանաստուած և զազղատեաց ձայնդ... ։ Էջ 91-100, դատարկ ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "327.jpg"
+    },
+    {
+      "volume": "Jerusalem_V8",
+      "file": "328.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2688-refine.json",
+    "pipeline_version": "v1"
+  }
+}

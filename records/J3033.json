@@ -1,0 +1,68 @@
+{
+  "id": "J3033",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3033",
+  "notice": "3033",
+  "volume": "Jerusalem_V9",
+  "title": "Ա Ղ Օ Թ Ա Գ Ի Ր Ք",
+  "date": {
+    "from": "1848",
+    "to": "1848",
+    "display": null
+  },
+  "fields": {
+    "numero": "3033",
+    "no_notice": "26",
+    "titre": "Ա Ղ Օ Թ Ա Գ Ի Ր Ք",
+    "date_debut": "1848",
+    "date_fin": "1848",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ժ + 140",
+    "dimensions": "11 X 8 X 1",
+    "mise_en_page": "սեւ մելանով, միասիւն, 10 տող",
+    "details_ecriture": "մեծ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ ոսկեդրուագ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Յօհաննէս Դպիր Վանեցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Ը, դատարկ։ Էջ Թ.— Արդ՝ խնդրեմ ի ձէնջ ընթերցող եղբարք իմ ի Քս. զի ներօղ լիջիք գծող գրոյս, որ տակաւին թերակիրթ եմ եւ համբակ. իսկ եթէ շահեսջիք ի սմանէ՝ արժանի համարել զնուաստս յիշել ի բարին, յիշեալ լիջիք եւ դուք։ Փրկչի թուականին հոկտեմբերին նկարեալ գծագրեցաւ սոյն աղօթամատոյց ձեռագիր Գումար խմբցի փոքր տետրակս ի ձեռն քաղաքաւ Վանեցի եւեթ դպիր տիրացու Յօհաննիսիս, ի Սբ. Երուսաղէմ, ի գահս Սրբոց Յակոբեանց, 1848։ Էջ 1, դատարկ։ Էջ 2.— Ի սոյն կարգ դասեալ՝ իբր ըզմիաշար խորհրդոյ տեսակ՝ ընդ ներբողինի Խաչիս խորհրդոյ, եւ զգովեստ երգաբանութեան Տիրուհոյդ.— Գումարք խմբիցն դասուց երջանկաց...։ Էջ 134–140, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "246.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3033-refine.json",
+    "pipeline_version": "v1"
+  }
+}

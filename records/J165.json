@@ -1,0 +1,68 @@
+{
+  "id": "J165",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "165",
+  "notice": "165",
+  "volume": "Jerusalem_V1",
+  "title": "ԼՈՒՍԱՇԱՒԻՂ, ՈՐ Է ԲԱՑԱՏՐՈՒԹԻՒՆ ՀԱՆԳԱՆԱԿԻՆ",
+  "date": {
+    "from": "ԺԹ. դար",
+    "to": "ԺԹ. դար",
+    "display": null
+  },
+  "fields": {
+    "numero": "165",
+    "no_notice": "1",
+    "titre": "ԼՈՒՍԱՇԱՒԻՂ, ՈՐ Է ԲԱՑԱՏՐՈՒԹԻՒՆ ՀԱՆԳԱՆԱԿԻՆ",
+    "date_debut": "ԺԹ. դար",
+    "date_fin": "ԺԹ. դար",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "178",
+    "dimensions": "31x22x1",
+    "mise_en_page": "սեւ մելանով, միասիւն, 34 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "ստորին",
+    "nb_lignes": null,
+    "reliure": "թոյլ",
+    "etat_conservation": "ոչ վատ",
+    "copiste": "Սահակ Վրդ. Վանեցի, Մ. Ս. Յ.",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Բացատրութիւն Հանգանակի։ Տպուած է ի Կ. Պոլիս, 1848։\nՅիշատակագրութիւնք։ 1.— Էջ 178, լուսանցքին եզերքը.— Յիշեցէք զգծօղն սորին զՎանեցի Սահակ։ 2.— Էջ 178, վարի լուսանցքին վրայ.— Յիշատակ եղի ի հրաշակառոյց Աթոռն սրբոյն Յակոբայ յԵրուսաղէմ, յիշեցէք աղաչեմ ի կեանս եւ յետ մահու զթշուառ Երեմիա Աբեղայ զյետին միաբանս սոյնոյ Աթոռոյ ուխտեալն ի մանկութենէ եւ վարժեալ յոտս սրբազան հօր իմոյ տեառն Պօղոսի Արքեպիսկոպոսի նախկին պատրիարգի Պօլսոյ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "503.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "165-refine.json",
+    "pipeline_version": "v1"
+  }
+}

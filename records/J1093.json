@@ -1,0 +1,72 @@
+{
+  "id": "J1093",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1093",
+  "notice": "1093",
+  "volume": "Jerusalem_V4",
+  "title": "Վ Ե Ց Օ Ր Է Ի Ց Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1093",
+    "no_notice": "5",
+    "titre": "Վ Ե Ց Օ Ր Է Ի Ց Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "214",
+    "dimensions": "19.5 x 15 x 2.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 29 տող",
+    "details_ecriture": "գրեթէ սովորական ։ Կարմըրագիծ զարդագիր եւ լուսանցազարդ իւրաքանչիւր ճառի սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք՝ սկիզբը մէկ թերթ, վերջը՝ տասնչորս",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "էջ 1",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 . — Սրբոյ Բարսղի եպիսկոպոսապետի Կեսարիոյ Կապօդակեցւոյ, Յաղագս\nվեցօրեա Աւուրց. — Լուաք ի գրոց զի ասէ ի սկզբանէ արար Ած. զերկին և զերկիր...։ էջ 23. — Երկրորդ վասն վեցօրեա Աւուրց։ էջ 44. — Ճառ Երրորդ վասն վեցօրեա Աւուրցն։ էջ 144. — Ճառ Եւթներորդ վասն վեցօրեա Աւուր[ց]ն։ էջ 164. — [Ճ]առ Ութերորդ վասն վեցօրեա Աւուրց։ էջ 189. — Ճառ իններորդ վասն վեցօրեա Աւուրց։ էջ 213. — Օրհնութիւն, և գոհութիւն, և բարեբանութիւն Ամենասուրբ Երրորդութեանն յաւիտեանս, յաւիտենից, Ամէն։ Կատարեցաւ աստուածահրաշ առատութիւնըս Սրբոյն Բարսղի։ էջ 214, դատարկ։ Ծանօթ. — Յաջորդ դատարկ էջին վըրայ գրուած կայ. «Ցանկ գրոյս ըստ Այբուբենական կարգի»։ Այսչափ միայն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "165.JPG"
+    },
+    {
+      "volume": "Jerusalem_V4",
+      "file": "166.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1093-refine.json",
+    "pipeline_version": "v1"
+  }
+}

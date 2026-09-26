@@ -1,0 +1,68 @@
+{
+  "id": "J810",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "810",
+  "notice": "810",
+  "volume": "Jerusalem_V3",
+  "title": "ՅԱՂԱԳՍ ԵՕԹՆ ԽՈՐՀՐԴՈՑ ԵԿԵՂԵՑՒՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "810",
+    "no_notice": "1",
+    "titre": "ՅԱՂԱԳՍ ԵՕԹՆ ԽՈՐՀՐԴՈՑ ԵԿԵՂԵՑՒՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "81",
+    "dimensions": "21×15×2",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 21 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ՝ սկիզբը երկու թերթ, վերջը՝ բազում",
+    "colophon": null,
+    "informations_diverses": "Սաւալանեան սապէս ներկայացուցած է. «Յաղագս եօթն խորհրդոց եկեղեցւոյ համառօտ բացատրութեամբ յուսումն աշակերտելոց դիւրիմաց ոճով յօրինեալ ի գիտնոց եւ յաստուածաբանից եկեղեցւոյ մերոյ. օրինակեալ՝ որպէս թուի գրչութեամբ Գաղատացի Սահակ վարդապետի։ Ի վախճան խորհրդոց սկիզբն առնու խօսել եւ յղ. աստիճանաց կարգին, եւ գըրեալ, էջ մի եւ կէս՝ թողու թերի»",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Գլուխ առաջին։ Ի վերայ խորհրդոց եկեղեցւոյ առհասարակ.— Խորհուրդն ընդհանրապէս առեալ լինի նախ փոխանակ իրաց գաղտնեաց...։ Էջ 8.— Գլուխ Բ։ Զի՞նչ է Մկրտութիւնն.— Մկրտութիւնն է՝ լուացումն կամ ընկղմումն ի ջուր ամենասուրբ Երրորդութեան, արդարացուցիչ եւ կանխիչ ըսկըզբնական շնորհաց...։ Էջ 15.— Գլուխ Գ։ Ի վերայ խորհըրդոց Դրոշմին։ Զի՞նչ է դրոշմն.— Դրոշմն է սրբազան խորհուրդ եկեղեցւոյ...։ Էջ 19.— Գլուխ Դ։ Ի վերայ Հաղորդութեան խորհրդոյ։ Զի՞նչ է Հաղորդութիւնն.— Հաղորդութիւնն է խորհուրդ սուրբ եկեղեցւոյ, յոր ընդ տեսակօք հացի եւ գինւոյ պարունակի Մարմին եւ Արիւնն Քրիստոսի...։ Էջ 31.— Գլուխ Ե.— Հաղորդութիւնն տա՞յ զշնորհս։ Էջ 70.— Գլուխ։ Ի վերայ խորհրդոյ կարգին։ Զի՞նչ է կարգն.— Ըստ Դիոնէսիոսի՝ է քահանայութիւն սրբազան, եւ հանճար եւ ներգործութիւն...։ Էջ 80.— Յաղագս բաժանման աստիճանաց եւ ներգործութեան նոցին։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "301.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "810-refine.json",
+    "pipeline_version": "v1"
+  }
+}

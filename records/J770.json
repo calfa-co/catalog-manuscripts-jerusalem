@@ -1,0 +1,68 @@
+{
+  "id": "J770",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "770",
+  "notice": "770",
+  "volume": "Jerusalem_V3",
+  "title": "ՏՐԱՄԱԲԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "770",
+    "no_notice": "1",
+    "titre": "ՏՐԱՄԱԲԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "138",
+    "dimensions": "20.5x15.5x1",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն 30 տող։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապոյտ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Տրամաբանութիւն Փոքր.— Հաւաքումն ոմանց տարակուսական բանից. թիւն առաջին ցուցանէ զթղթահամարն, եւ թիւն երկրորդ՝ զտողն, որպէս երեւի։ Ծանօթ.— Ձախ կողմը կան երկու սիւնակներ ուր նշանակուած են համարները եւ տողերը Կովտեայ Տրամաբանութեան, որմէ ծաղկաքաղ հաւաքուած է ներկայս։ Էջ 67.— Տրամաբանութիւն Մեծ.— Առաջին եզրակացութիւն։ Էջ 81.— Երրորդ եզրակացութիւն։ Էջ 82-3, դատարկ. նոյնպէս էջ 124, եւ 133-8։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "236.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "770-refine.json",
+    "pipeline_version": "v1"
+  }
+}

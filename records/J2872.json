@@ -1,0 +1,68 @@
+{
+  "id": "J2872",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2872",
+  "notice": "2872",
+  "volume": "Jerusalem_V9",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՔԵՐԱԿԱՆՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2872",
+    "no_notice": "8",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՔԵՐԱԿԱՆՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "96",
+    "dimensions": "20.5X15.5X1.5",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 32 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ։ Լաթակազմ խաւաքարտեայ",
+    "types_cahiers": "Ա-Դ",
+    "matiere_principale_id": null,
+    "details_matiere": "դեղնորակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար. նորոգութիւն կրած. վերջը թերի",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1ա.— Յաղագս Քերականութեան Համառօտ Լուծմունք, ի տէր Առաքել Սիւնեաց եպիսկոպոսէ, ի մեկնութիւն Քերականութեանս, յատկութեամբ պարզեալ զխորութեան Քերականին։ Յաղագս նախերգանի Քերականութեան. առաջին որ ասէ Յաղագս Քերականութեան.— Նախ պարտ է գիտել զի ամ. խորայգիր ցուցանէ զասացող գրոցըն, որպէս այն որ ասի Ներածութիւնն Պորփիւրի, եւայլն...։— Հմմտ. թիւ 1468, Ե. Հատոր, էջ 185։ էջ 77ա.— Աղագս Ոտից։ էջ 82ա.— Առաջաբանութիւն Փիլոնի։ Հրց. Որում կատարեցաւ Փիլոն։ Պխ. Պրոխորոն, Պատմոս ի Ջահաւոր քաղաքի յիշել է, թէ Փիլոն ասէ ցՅոհաննէս, Զի՞նչ է Ած.։ Եւ նա ասէ՝ Սէր...։ էջ 96բ.— Հրց. Կալեաց ձեռք թուէին։ Պխ. Կալիաւն ուլոյն ուսուցիչ էր, թուէր թէ պողովն որպէս ձեռօք ծափի տայր...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "095.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2872-refine.json",
+    "pipeline_version": "v1"
+  }
+}

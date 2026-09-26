@@ -1,0 +1,72 @@
+{
+  "id": "J499",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "499",
+  "notice": "499",
+  "volume": "Jerusalem_V2",
+  "title": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ ՔԱՂՈՒԱԾՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "499",
+    "no_notice": "4",
+    "titre": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ ՔԱՂՈՒԱԾՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԴ + 150 + 172",
+    "dimensions": "23 x 16 x 2",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 22 տող։ Նոտր շեղագիր, վայելուչ",
+    "details_ecriture": "գրեթէ սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Գրիգոր Տէյիրմէնճեան",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–ԺԲ, դատարկ։ Էջ ԺԳ, ՃԱԿԱՏ.— Քաղուած Դասառական Աստուածաբանութեան։ Յօրինելոյ ի ժամանակի դասառութեան մետասաներորդ դասուն՝ ի կարգի աշակերտութեան մեծին Մխիթարայ Աբբայ Հօր։\nՀամառօտեալ յընդարձակէն ի ձեռն նուաստ դասատուի աշխատասիրողի զնոյն, ի պէտս սերտողութեան դասատուաց : Յամի Տեառն 1799, Հայոց ՌՄԽԸ : Ի Վենետիկ, ի Վանս Սրբոյն Ղազարու :\nէջ 1.— Քաղուած Առաջին Հատորոյ, այսինքն Ներածութիւն Աստուածաբանութեան : — Ճառ Առաջին : — Յաղագս Ածաբանութեան ընդհանրապէս : — Զի՞նչ իցէ Ածաբանութիւնն ճշմարիտ.— Ածաբանութիւն ըստ վկայելոյ ձայնին, է բան զԱյ. յա՛յտ է թէ զԱյ. ճշմարտէ . . . : — Հմմտ. աստ, թ. 386 : էջ 144–150, դատարկ :\nէջ 1.— Քաղուած Երրորդ Հատորոյ, որ է երկրորդն Տեսականի . Յաղագս Երրորդութեան : — Ճառ Առաջին : — Յաղագս էութեան եւ գոյութեան խորհրդոյ Ամենասուրբ Երրորդութեան : — Գլուխ Ա.— Յաղագս իմաստից բառիցս, Երրորդութիւն, Համագոյ, Անձն, Ենթակայութիւն և Բնութիւն : էջ 137–142, դատարկ : էջ 143.— Մասն ճառիս՝ որպէս կարգ բանիցն ցուցանէ՝ է այսր հեղինակիս, հատուածեալ յընդարձակէն՝ զոր ստէպ յիշի : էջ 153–172, դատարկ :\nՅիշատակագրութիւն.— թկ. 1860 էջ ԺԴ, շեղագիր.— Նուիրեցի ի յիշատակ Թանգարանի վերծանութեան Սրբոյ Երուսաղէմի, յորդորմամբ վերատեսչի նորա Եսայի Վարդապետի.— 1860 յամին, յուլիսի 9.— Մահտեսի Գրիգոր Տէյիրմէնճեան :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "511.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "512.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "499-refine.json",
+    "pipeline_version": "v1"
+  }
+}

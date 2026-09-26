@@ -1,0 +1,68 @@
+{
+  "id": "J2907",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2907",
+  "notice": "2907",
+  "volume": "Jerusalem_V9",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": "1865",
+    "to": "1866",
+    "display": null
+  },
+  "fields": {
+    "numero": "2907",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": "1865",
+    "date_fin": "1866",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "100",
+    "dimensions": "21X14",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 23-31 տող",
+    "details_ecriture": "ոչ միօրինակ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "թղթեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Իշխանութիւնք Հայկազեանց։ Դաս Ա։ Էջ 4.— Դաս Բ։ Յաջորդքն Հայկայ մինչեւ ցԱրամ։ Էջ 6.— Դաս Գ։ Արամ եւ քաջութիւնք նորա։ Էջ 10.— Գլուխ Դ։ Պատերազմն Արայի ընդ Շամիրամայ եւ գործք Շամիրամայ։ Էջ 14.— Դաս Ե։ Սկսեալ ի Պարետայ մինչեւ ցմեծն Տիգրան։ Էջ 17.— Դաս Զ։ Մեծն Տիգրան եւ Քաջութիւնք նորա։ Էջ 19.— Յամի Փրկչին 1865, յունիս 12։ Էջ 20, դատարկ։ Էջ 21.— Արկածք Տելեմաքայ։ Գիրք Ա։ Էջ 47.— Արկածք Տելեմաքայ։ Գիրք Բ։ Էջ 49.— Մաքուր Կիւզարիի, որ գրեցաւ ի հազար ութը հարիւր ի վաթսուն վեցի, յեօթն յունիսի։ Էջ 50, դատարկ։ Էջ 51.— Դաս Ա։ Ժամանակ իշխանութեան Հայկազանց, որ տեւեաց ամս հազար եօթն հարիւր եօթանասուն եւ ինն։ Էջ 52.— Դաս Ա։ Ժամանակն Հայկայ։ Էջ 57.— Դաս Բ։ Ժամանակն իշխանութեան Արմենակայ։ Էջ 60.— Դաս Գ։ Ժամանակն Իշխանութեան Արամայ մինչեւ ցԱնուշաւան։ Էջ 66.— Դաս Դ։ Ժամանակն Իշխանութեան Պարետայ մինչեւ ցՍկայորդի։ Էջ 69.— Դաս Ե։ Ժամանակ եւ Թագաւորութիւն Պարուրա մինչեւ ցԵրուանդ Ա։ Էջ 73-98, դատարկ։ Էջ 99-100.— Գրչափորձեր։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "130.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2907-refine.json",
+    "pipeline_version": "v1"
+  }
+}

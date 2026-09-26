@@ -1,0 +1,72 @@
+{
+  "id": "J910",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "910",
+  "notice": "910",
+  "volume": "Jerusalem_V3",
+  "title": "Մ Ա Շ Տ Ո Ց (ՀԱՅՐԱՊԵՏԱԿԱՆ).-",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "910",
+    "no_notice": "16",
+    "titre": "Մ Ա Շ Տ Ո Ց (ՀԱՅՐԱՊԵՏԱԿԱՆ).-",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "21x15x1.5։ 145",
+    "mise_en_page": "խորագիրները եւ գլխագիրները նարնջագոյն, մնացեալը սեւ մելանով, միասիւն, 21-28 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1, դատարկ : էջ 2ա . — Զանկ յաղագս պէսպէս զանազան պատմայբանութեան հարցն սրբոց : Ծանօթ . — Այս ցանկը տարբեր գրչով եւ մելանով է . վերջը կայ սա փոքր յիշատակագրութիւնը : Գրեցաւ գիրս թվականութեանս Փրկչին ՌՁԺԲ [= 1712]ըն, դեկտեմբերի Թ, ի վայելումն իմս որ եմք երկրէն Կապայկայթովկաց :\nԱ . — էջ 3 . — Կանոն Յորժամ Կաթողիկոս : — [Յ]որժամ հանդեր[ձ]եալ լինին բարձրացուցանել զոք ի պատիւ կաթողիկոսութեան Տանս Հայոց . . . : էջ 36, դատարկ : Բ . — էջ 37 . — Կանոն յորժամ եպիսկոպոս ձեռնադրեն : Կարգ : — [Յ]որժամ հանդերձեալ լինին եպիսկոպոս կացուցանել, զոք, ամ . ժառանգաւորք եկեղեցոյն, բոլոր բնակչօք գաւառին, իրցամբ եւ տանուտիրօք . . . : էջ 95–98, դատարկ : Գ . — էջ 99 . — Գիրք Պօղոսի վասն Յարութեան Մարդկան . — Զի ինքնին Տէր հրամանաւ ի ձայն Հրեշտակապետի եւ փող այ . իջանէ երկնից . . . : էջ 143ա . — Զա(յ)նք յաղուհացից Կիրակէից Քարոզ կարդալ զիւտ : Ծանօթ . — Էջին ներքեւը կայ փոքր յիշատակագրութիւն մը . «Աւգնեայ ինձ ողորմութեամբ քով Սբ . Հոգի Ած, ի Կապայկայթովկացւոյ Եկեղեցւոյ? պաշտօնէի, թվին Տեառն ՌՁԺԲ դկբր .» : Ցանկը կը շարունակուի յաջորդ երկու էջերուն վրայ, որոնց վերջինը փակած է կողքին : Սկիզբի եւ վերջի այս ցանկերը տարբեր թուղթի վրայ են եւ ձեռագրիս պարունակութեան հետ ամենեւին կապ չունին :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "456.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "457.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "910-refine.json",
+    "pipeline_version": "v1"
+  }
+}

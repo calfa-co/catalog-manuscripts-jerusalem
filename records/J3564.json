@@ -1,0 +1,68 @@
+{
+  "id": "J3564",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3564",
+  "notice": "3564",
+  "volume": "Jerusalem_V10",
+  "title": "ԲԺՇԿԱՐԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3564",
+    "no_notice": null,
+    "titre": "ԲԺՇԿԱՐԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "84",
+    "dimensions": "23x17",
+    "mise_en_page": null,
+    "details_ecriture": "այլազան",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "այլազան",
+    "nb_lignes": null,
+    "reliure": "սրճագոյն թուղթ, առաջին երեսին շեղագիր. \"Հաւաքում բժշկական դեղօրայից պէսպէս ցաւոց եւ հիւանդութեանց\"",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–8, սպիտակ թուղթ, դատարկ։ Էջ 9–24, նոտր շեղագիր, տարբեր թուղթ։ Էջ 9.— Բժշկական դեղորայք պէսպէս ցաւոց, որք գտանի ի մարդս. հաւաքեալ եմք ի միւսում Հեքիմարանէ։ Էջ 11.— Վասն մրջմանց։ Էջ 13.— Վասն միջաց ցաւի։ Էջ 15.— Եարայի մէհլեմ։ Էջ 16.— Վասն անողջանալի խոցի։ Էջ 17–24, դատարկ։ Էջ 25–42, տարբեր թուղթ, շեղագիր։ Էջ 25.— Բանջարները չորցընելու կանոն։ Էջ 26.— Լահանայի թուրշի կամ թթուտ։ Էջ 29.— Խիյէրի թթուտ, յատուկ կերպով։ Էջ 30.— Ընդեղէնները խաշելու համար։ Էջ 31–32, վարի կէսը պատռուած։ Էջ 33–46, դատարկ։ Էջ 47–80, թուղթ սպիտակ, նոտր շեղագիր, սեւ մելանով։ Էջ 47.— Երեքօրեայ ջերման մաճունի թէրքիպ։ Էջ 50.— Կապ ջերման յոյժ զօրեղ եւ օգտակար։ Էջ 52.— Ջերմի թէրքիպ գրելոյ։ Էջ 54.— Դեղ վասն միջաց ցաւի։ — Պէլ աղրըսընայ միտէյէ քուվվէթ վէրիր։ — Վասն մայեասիլի հապ։ Էջ 55.— Թարթար սանճըսընայ թէրքիպ։ Էջ 56.— Հազի դեղ։ Էջ 57.— Սարըլըխի դեղ։ Էջ 58.— Աղօթք կապած այր եւ կնոջ։ Էջ 61.— Թուզլու պալղամի թէրքիպ։ Էջ 63.— Վասն պալղամի կակղացնելոյ թէրքիպ։ Էջ 64.— Վասն օձ կլանողաց թէրքիպ։ Էջ 67.— Միջաց ցաւի թէրքիպ։ Էջ 68.— Վասն ականջացաւի թէրքիպ։ Էջ 70.— Վասն դիւահարաց թէրքիպ.— Նախ Սաղմոս ԽԱ. Գլուխն. Որպէս փափաքի եղջերու յաղբերս ջուրցն...։ Էջ 72.— Վասն ատամանց թէրքիպ։ Էջ 73.— Վասն օձ կլանողի թէրքիպ։ Էջ 74.— Օձ կլանողի թէրքիպ.— Առ զբողկն ծեծէ եւ քամէ, եւ առ զջուրն, եւ ընդ ջրոյն զաֆրան խառնէ եւ խմցուր, օձն սատակի Աստուծով եւ ելանէ։ — Օձ խայթեցելոյ թէրքիպ։ Էջ 80.— Ատամնացաւի թէրքիպ։ Էջ 81–84, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "562.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3564-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J1502",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1502",
+  "notice": "1502",
+  "volume": "Jerusalem_V5",
+  "title": "ԿԵՐԱԿՈՒՐ ՔԱՀԱՆԱՅԻՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1502",
+    "no_notice": "6",
+    "titre": "ԿԵՐԱԿՈՒՐ ՔԱՀԱՆԱՅԻՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "184",
+    "dimensions": "15.5x10x1.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 20 տող",
+    "details_ecriture": "սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դըրոշմազարդ",
+    "etat_conservation": "լաւ. լուսանցքները ցեցահար",
+    "copiste": null,
+    "possesseur": "Երուսաղէմացի պատկերահան տիր. Յակոբ (1751)",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4, համարեա դատարկ։ Ա. — Էջ 5. — Ճակատ. — Կերակուր Քահանայից, նախապատրաստական առ սեղան սրբազանի բեմին ածանեցեալ ի լաթինականէ լեզուէ, յամի Տեառն 1677, ի Լէօպօլիս, ի փառս մեծագոյնս Աստուծոյ, եւ երանուհւոյ Կուսին Մարիամու։ Ի վայելումն պատկերահան տիրացու Յակոբին Երուսաղէմացւոյ, ի թուին ՌՄԻն։ Էջ 9. — Յաղագս Արքայականի Արժանապատուութեան Քահանայից։ Էջ 82. — Վախճան Գրքոյս։\nէջ 83-84, դատարկ։ Բ.— Ասացեալ Յակոբայ Պօլսոյ Պատրիարքէն։ Ողբ եւ սուգ վասն մեծի յաւուր խաչելութեան Տեառն մերոյ Յի. Քի.։— Ով ամենաչքնաղ եւ գեղեցիկ հարսդ երկնաւոր փեսային...։ էջ 176-184, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "256.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "257.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1502-refine.json",
+    "pipeline_version": "v1"
+  }
+}

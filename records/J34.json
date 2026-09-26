@@ -1,0 +1,68 @@
+{
+  "id": "J34",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "34",
+  "notice": "34",
+  "volume": "Jerusalem_V1",
+  "title": "ՊԱՏՄ. ԺՈՂՈՎՈՅՆ ՔԱՂԿԵԴՈՆԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "34",
+    "no_notice": "1",
+    "titre": "ՊԱՏՄ. ԺՈՂՈՎՈՅՆ ՔԱՂԿԵԴՈՆԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "300",
+    "dimensions": "38x26x3",
+    "mise_en_page": "սեւ մելանով, երկսիւն, 46 տող",
+    "details_ecriture": "կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք՝ սկիզբը հինգ թերթ, վերջը՝ երկու",
+    "colophon": null,
+    "informations_diverses": "Թոխատցի Յովհաննէս",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— ԳՈՐԾՔ ՔԱՂԿԵԴՈՆԻ ԺՈՂՈՎՈՅՆ։— Սկիզբն Քաղկեդոնի Ժողովոյն։— Յամի տեառն չորս հարիւր յիսուն և մէկ, և ի ներքոյ բժշկութեան տեառն մերոյ Մարկիանոսի մշտնջենաւոր Օգոստոսին, հոկտեմբերի Ը, ժողովեցան ի Քաղկեդոն...։ Էջ 287ա.— Եօթնեւտասներորդ Գործ Քաղկեդոնի Ժողովոյն.— Ի թուականին Քսի. չորս հարիւր յիսուն և մէկին, և ի բժշկութեան տեառն մերոյ Մարկիանոսի մշտնջենաւոր Օգոստոսին, նոյեմբերի մէկ...։ Էջ 296.— Ատենական խօսք Քաղկեդոնի Ժողովոյն առ Մարկիանոս թագաւորն.— Արժան էր ձեր թագաւորութեանն սկիզբն առնել առ խնամատարութիւն հպատակաց ձերոց ի բանիցն Այ. ...։\nՅիշատակարան ընծայողի.— Էջ 300բ, նոտրագիր.— Յիշատակ է այս պատուական գիրքս ի Սբ. յԵրուսաղէմայ և անդ ի դուռն Սրբոյն Յակոբայ, շնորհեալ զսա ի մահտեսի Ոհանէ, և Պատրիարգութեան սբ. քաղաքիս տեառն Կարապետ աստուածաբան վարդապետին։ Ով ոք ընթռնլով կամ օրինակելով յիշեսցէ զիս, զծառայս Այ. զՕհանս, համայն ննջեցելովք, և ով որ զսա պատուեալ մեծարիցէ, զվարձս յաջակողմեան աւազակին առցէ. կամ ով ոք անխնայաբար հայիցէ և կամ գողանալով՝ զվարձս խաչահանողացն և ըզպատիժն Կայենի առցէ։ Հայր մեր։ Թոխատցի պաքմազօղլի մահտեսի Օհաննէ ընծայեալ։ [Կնիք փակագիր]՝ Յոհաննէս։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "168.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "34-refine.json",
+    "pipeline_version": "v1"
+  }
+}

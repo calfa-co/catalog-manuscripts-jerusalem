@@ -1,0 +1,68 @@
+{
+  "id": "J3078",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3078",
+  "notice": "3078",
+  "volume": "Jerusalem_V9",
+  "title": "ԻՐԱՒՈՒՆՔ ՀԱՅՈՑ Ի Ս. ՅԱՐՈՒԹԻՒՆ",
+  "date": {
+    "from": "1888",
+    "to": "1888",
+    "display": null
+  },
+  "fields": {
+    "numero": "3078",
+    "no_notice": null,
+    "titre": "ԻՐԱՒՈՒՆՔ ՀԱՅՈՑ Ի Ս. ՅԱՐՈՒԹԻՒՆ",
+    "date_debut": "1888",
+    "date_fin": "1888",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "94",
+    "dimensions": "19X14X1",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 21 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ, թանձր, գծաւոր",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": "Տեսուչ Մեսրոպ Վարդապետ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Արձանագրութիւն։ Սրբոյ Յարութեան մէջ եղած մեր սեփհական կալուածներն, օտար ազգաց հետ ընկերութեամբ ունեցած տեղերնիս, իրաւունքնիս, հասարակ օրերու եւ հանդիսաւոր օրերուն մէջ եղած արարողութիւնք երեք ազգաց, այն է Հայոց, Յունաց եւ Լատինաց։ Ցուցակ նաեւ կահ կարասեաց ի մէջ տաճարիս գտանելոց։ Էջ 3.— Սրբոյ Յարութեան հասարակ օրերու մէջ մեր, Յունաց եւ Լատինաց ժամահարութեանց որոշեալ միջոցներն եւ սրբազան պաշտամանց կերպերն է։ Էջ 10-11, դատարկ մնացած սխալմամբ։ Յաջորդ էջերը ունին նոյն թուահամարները՝ 10, 11։ Էջ 15.— Սրբոյ Յարութեան Դուռը Բանալու իրաւասութիւն։ Էջ 39.— Արարողութիւն Վարագայ Խաչի Տօնին։ Էջ 54.— Զատկի Ճրագալուցի Օրն։ Էջ 79.— Տումար Սրբոյ Յարութեան Տաճարի եկեղեցական զարդուց, զգեստից, կահուց եւ կարասեաց։ Էջ 85.— Ազդարարութիւն։ Էջ 91-94, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "315.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3078-refine.json",
+    "pipeline_version": "v1"
+  }
+}

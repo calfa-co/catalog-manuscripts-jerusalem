@@ -1,0 +1,68 @@
+{
+  "id": "J1062",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1062",
+  "notice": "1062",
+  "volume": "Jerusalem_V4",
+  "title": "ՎԵՑՕՐԷԻՑ ԳԻՐՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1062",
+    "no_notice": "4",
+    "titre": "ՎԵՑՕՐԷԻՑ ԳԻՐՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "196",
+    "dimensions": "20 x 14 x 1.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը, եւ յաճախ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 33 տող",
+    "details_ecriture": "գրեթէ սովորական",
+    "types_cahiers": "Բ–Ը (էջ 15–182)",
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, սկիզբի եւ վերջի քանի մը թերթերը տարբեր, աւելի նոր",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1–12, դատարկ, էջ 14, տարբեր գրով. — Առաջաբանութիւն Հեղինակիս. — Մի՛ ոք ի քննողաց զրպարտեսցէ զԱստուծոյ զստուգութիւն...։ էջ 15ա. — Ճառք Սրբոյ Բարսղի եպիսկոպոսի Կեսարոյ Կապադովկացո, Յաղագս Զօրեայ աւուրց արարչութեան։ Ճառ Առաջին. — Լուաք ի Գրոց զի ասէ. Ի սկըբանէ արար Ած. զերկին եւ զերկիր...։ էջ 166ա. — Ճառ Իններորդ, Վասն Զօրեա աւուրց արարչութեան. — Սեղան, որ առաջի ձեր կազմեցաւ ընդ առաւօտս աստուածեղէն բանին...։ էջ 182–196, դատարկ։ Ծանօթ. — Վերջին կողքին ներսի կողմը՝ տարբեր գրով. «Ի վայելումն Յովաննէս Վարդապետի»։\nՅետնագոյն յիշատակագրութիւն. — 1861 էջ 13, շեղագիր. — Թանգարանին Երուսաղէմի ի յիշատակ Պետրոսեան Պօղոս վարդապետի ետուն եղբայր իւր Սերոբէ եւ քոյրն Մարիամ, 1861, սեպտ. 14։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "115.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1062-refine.json",
+    "pipeline_version": "v1"
+  }
+}

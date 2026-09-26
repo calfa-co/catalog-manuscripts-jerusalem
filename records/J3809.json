@@ -1,0 +1,68 @@
+{
+  "id": "J3809",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3809",
+  "notice": "3809",
+  "volume": "Jerusalem_V11",
+  "title": "ԵՐԿԱԹԷ ԴԻՄԱԿՈՎ ՄԱՐԴԸ ԵՒ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3809",
+    "no_notice": null,
+    "titre": "ԵՐԿԱԹԷ ԴԻՄԱԿՈՎ ՄԱՐԴԸ ԵՒ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԼԶ+218",
+    "dimensions": "21x18x1",
+    "mise_en_page": "կանաչ թանաքով, միասիւն, 15 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": "Ներսէս Եպս. Գէորգեան",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ, \" Ներսէս եպիսկոպոս, 1876\", էջ Բ։ Այլ կնիք \" Յիշատակ Թանգարանի Սրբոց Յակովբեանց, 1857\", էջ Ա, Գ, Ե, Է, Թ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Դ, դատարկ, կնքեալ։ Նոյնպէս էջ Զ-Ը։ Էջ Ե, տիտղոսաթերթ.— Երկաթէ Դիմակով Մարդը եւ Հայոց Աւետիք Պատրիարքը, գրեց Պ. Մարիոս Թօքէն եւ թարգմանեաց գաղղիական բնագրէն Կ. Ս. Իւթիւճեան, Կ. Պոլիս, ի Տպարանի Մասեաց, 1870։ Էջ Թ. վերի լուսանցքին, տարբեր գրչութիւն.— Ի գրոց Ներսէս Եպս.ի Գէորգեան Ռոտոսցւոյ։ — Յառաջաբան.— 1698 սեպտեմբեր 18ին Փարիզի Պասթիյլ ըսուած բերդը մարդ մը կը տարուի...։ Էջ 1.— Գլուխ, ծնթ. Գաղղիերէն բնագրին մէջ այս գլուխը ԺԱ երորդ է։ Ընդհանուր խորհրդածութիւն Հայոց Աւետիք պատրիարքին դաւով վերցուելուն վրայ...։ Էջ 57.— Գլուխ Բ։ Էջ 88.— Գլուխ Գ։ Էջ 125.— Գլուխ Դ.— Աւետիք նախ նաւարանին բանտերուն մէջ կը փակուի...։ Էջ 182, գծուած, ճեղքուած։ Էջ 177.— Յաւելուած ի Թարգմանչէն։ Էջ 212-218, դատարկ. մասամբ աղտոտուած։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "256.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3809-refine.json",
+    "pipeline_version": "v1"
+  }
+}

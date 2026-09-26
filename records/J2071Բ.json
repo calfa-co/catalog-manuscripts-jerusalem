@@ -1,0 +1,68 @@
+{
+  "id": "J2071Բ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2071Բ",
+  "notice": "2071Բ",
+  "volume": "Jerusalem_V7",
+  "title": "Թ Ո Ւ Ա Բ Ա Ն Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2071Բ",
+    "no_notice": null,
+    "titre": "Թ Ո Ւ Ա Բ Ա Ն Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "604",
+    "dimensions": "21x17x2.5",
+    "mise_en_page": "այլազան",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "այլազան",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ, սկիզբը թերի",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-16. — Զանազան խնդիրներ։ Էջ 17. — 4 տետր. — Հասարակ կոտորակ, խնդիրք յաւելման։ Էջ 33. — 5 տետր. — Բաղադրեալ երեքի կանոն։ Էջ 65. — 7 տետր. — Խնդիրք միութեան, Գ կարգի խնդիրներ։ Էջ 75-78, դատարկ։ Էջ 79. — 8 տետր. — Անանիայի Շիրակունեցւոյ, Յաղագս կատարման համարողութեան եւ կերպից հարցման...։ Հարցումն Առաջին. — Այսպէս լուայ ի հօրէն իմմէ, եթէ ի ժամանակի պատերազմացն Հայոց ընդ Պարսս, սաստիկ քաջութիւնք լինէին ի Կամսարականէն Զաւրակայ, որպէս թէ ամսօրեայ աւուրբք...։ Էջ 92, դատարկ։ Էջ 93. — Խնդիրք միութեան։ Էջ 111. — Թուաբանութիւն խնդիրք յաւելման։ Էջ 129. — 2, տետր խնդրոց։ Յաջորդ երեք թերթերը դատարկ։ Էջ 149. — Խնդիրք Տարբերական համեմատութեան։ Էջ 175. — Ամբողջական թուոց չորս գործողութիւններով լուծուելիք խնդիրներ։ Էջ 191. — Հասարակ կոտորակ։ Էջ 211-222, դատարկ։ Էջ 223. — 7, տետր խնդրոց. — Խնդիրք, բաշխումն համեմատականաց։ Էջ 228-238, դատարկ։ Էջ 239. — Գլուխ Ա.։ Թուաբանութիւն։ Հ. Ի՞նչ է Թուաբանութիւնը։ Պ. Թուաբանութիւնը չափաբանական գիտութեանց այն մասն է, որ թուոց հաշիւ ընելու կանոնները կը սովրեցնէ։ Էջ 335. — Յառաջատութիւն։ Էջ 365. — Նուազական յառաջատութիւն։ Էջ 457. — Գ. Գիրք 1. — Չափական դըրութիւն։ Հ. Ո՞րն է չափական դրութիւնը։ Պ. Չափական դրութիւն կ'ըսուի ազգի մը մէջ գործածուած ամէն տեսակ չափերը, որուն մէջ կը պարունակուին, կշիռ, ստակ և այլն։ Էջ 465. — Ինքնապատկութիւն եւ Արմատ։ Էջ 473. — Խորանարդ Արմատ։ Էջ 519. — Պարզ երեքի կանոն։ Էջ 573. — Առեւտրական. — Ա. տոկոս կամ շահ։ Էջ 583. — Բաղադրեալ տոկոս։ Էջ 595. — Հասոյթ բաղադրեալ տոկոսեօք։ Էջ 599-604, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "158.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2071Բ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

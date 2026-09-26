@@ -1,0 +1,72 @@
+{
+  "id": "J2820",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2820",
+  "notice": "2820",
+  "volume": "Jerusalem_V9",
+  "title": "Մ Ա Շ Տ Ո Ց (ՏԵՏՐԱԿ ԹԱՂՄԱՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2820",
+    "no_notice": "110",
+    "titre": "Մ Ա Շ Տ Ո Ց (ՏԵՏՐԱԿ ԹԱՂՄԱՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ+56",
+    "dimensions": "17.5X11",
+    "mise_en_page": "սեւ մելանով, միասիւն, 17 տող կամ նուազ",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ եւ ծըծող",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ մաշած",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ Ա, շեղագիր, մանիշակագոյն թանաքով.— Զայս մատեանս կը վերաբերի Սարգիս Յակոբեանի, հայրենիք՝ Կիւռէ, 1889, նոյ. 1: էջ Բ–Դ, դատարկ մեծագոյն մասամբ: էջ 1.— Քահանայից.— Յաղագս Թաղման կարգաւորաց այս կանոն կատարի ի սուրբ եկեղեցին...: էջ 10.— Կարգ յարութեան եւ տէրունական աւուրց.— Բանն որ ընդ Հօր յէութեան...: էջ 13.— Կարգ ապաշխարութեան եւ մարտիրոսաց: էջ 19.— Աշխարհականի.— Բանդ Ած. որ ի ծոց Հօր...: էջ 32.— Թաղումն կարճաւորի: էջ 36–37, դատարկ: էջ 38–48, շեղագիր անհարթ, Շարականներ եւայլն: էջ 42.— Կանոն Տղայաթաղի: էջ 49–55, դատարկ: էջ 56, ցորենի հաշիւ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "055.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "056.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2820-refine.json",
+    "pipeline_version": "v1"
+  }
+}

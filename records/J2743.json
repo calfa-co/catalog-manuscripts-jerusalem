@@ -1,0 +1,68 @@
+{
+  "id": "J2743",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2743",
+  "notice": "2743",
+  "volume": "Jerusalem_V8",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՅԱՅՏՆՈՒԹԵԱՆՆ ՅՈՎՀԱՆՆՈՒ",
+  "date": {
+    "from": "1846",
+    "to": "1846",
+    "display": null
+  },
+  "fields": {
+    "numero": "2743",
+    "no_notice": "3",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՅԱՅՏՆՈՒԹԵԱՆՆ ՅՈՎՀԱՆՆՈՒ",
+    "date_debut": "1846",
+    "date_fin": "1846",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Բ+342",
+    "dimensions": "23x16.5x2.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 33-23 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": "Պետրոս Վրդ. Տէր Յովհաննէսեան, Կաճեթցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Կոռնէլիոսի Մեկնութիւն Յայտնութեան, համառօտեալ Սբ. Երուսաղէմի միաբան Անդրիանուպօլսեցի Պօղոս պատրիարքի, գրեալ յԵրուսաղէմ յԱթոռն Սրբոց Յակոբեանց։\nԳլուխ 1. յառաջադրի մակադիրն դըրդոյն, և դրուատական ներբողեանն. . .։— Հմմտ. թիւ 382, Բ. Հատոր, էջ 307։\nԷջ 338-342, դատարկ։\nՅիշատակարան Գրչի. — 1846 Էջ Ա-Բ, տարբեր թուղթ, քչիկ մը աւելի փոքր. յիշատակարանն ալ տարբեր գրքի մը կը վերաբերի։ Էջ Ա. — Օրինակեալ ի Պետրոս վարդապետէ Կաճեթցւոյ Տէր Յովհաննէսեան, զաղափարեալ եղև ի յերկրորդ օրինակէն Կուռնելիոսի Երկոտասան Մարգարէից Մեկնութիւն, ի գերահրաշ առաքելական մայր Աթոռըն Սրբազան Առաքելոցն Սրբոց Յակոբեանց, որ յԵրուսաղէմ, ի պատրիարգութեան տեառն Զաքարիա արքեպիսկոպոսին, յամի Տեառն 1846, ի 10 ապրիլի։ Յամի Տ. եղև վախճան սոյն պատրիարղիս ի սոյն թուոջ։ Էջ Բ, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "389.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2743-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2930",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2930",
+  "notice": "2930",
+  "volume": "Jerusalem_V9",
+  "title": "ՀՈԳԵԲԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2930",
+    "no_notice": "1",
+    "titre": "ՀՈԳԵԲԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "148",
+    "dimensions": "21 X 16 X 1",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 23 տող",
+    "details_ecriture": "սովորական մօտաւորապէս",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խասաքարտեայ, մաշած",
+    "etat_conservation": "գրեթէ բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Հոգեբանութիւն։ Հ.— Ի՞նչ է Տրամաբանութիւնը։ Պ.— Տրամաբանութիւնը արհեստ մի է, որ մարդուս իմացական կարողութիւնը ուղղելու կանոն կու տայ, որով կ'որոշէ ճշմարիտն ու սուտը, ստոյգը ու հաւանականը։ Կամ տրամաբանութիւնը արհեստ մի է, որ կանոններով կ'շտկէ եւ կ'ուղղէ մարդուս բանաւորութիւնը ճշմարտութիւնը գտնելու։ 1 Հ. Ի՞նչ է հոգին։ Պ. Հոգին պարզ էակ մի է որ ունի շատ ներգործութիւններ եւ հանգամանքներ...։ 2 Իմացականութիւն։ Հ. Ի՞նչ է իմացականութիւնը։ Պ. Իմացականութիւնը մտքին այն մասն է, որով մարդս կ'իմանայ, կ'ըմբռնէ, կ'համեմատէ եւ կ'տրամաբանէ։ Էջ 3.— 3.— Զգայութիւն։ Էջ 21.— 11.— Յիշողութիւն։ Էջ 26.— 15.— Թելադրութիւն։ Էջ 43.— Ա.— Շարժութիւնք։ Էջ 77.— Ա.— Բնական Ազդումն։ Էջ 126.— Դ.— Բարոյական զգացողութեանց ներգործութեան միօրինակութիւնը։ Էջ 146.— ...ճշմարտապէս կատարեալ բարոյական կենաց ամենամեծ հիմն ու պահպանութիւնն է։ Էջ 147.— Վերջ Տրամաբանութեանս կամ Հոգեբանութեան։ Էջ 148, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "153.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2930-refine.json",
+    "pipeline_version": "v1"
+  }
+}

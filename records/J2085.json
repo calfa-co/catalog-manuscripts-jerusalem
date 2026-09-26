@@ -1,0 +1,68 @@
+{
+  "id": "J2085",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2085",
+  "notice": "2085",
+  "volume": "Jerusalem_V7",
+  "title": "ՅԱՂԱԳՍ ԵՕԹՆ ԽՈՐՀՐԴՈՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2085",
+    "no_notice": "7",
+    "titre": "ՅԱՂԱԳՍ ԵՕԹՆ ԽՈՐՀՐԴՈՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "548",
+    "dimensions": "22×18×4",
+    "mise_en_page": "խորագիրները և գլխատառերը մասամբ կարմիր, մնացեալը սեւ մելանով, երկսիւն, 27 տող",
+    "details_ecriture": "չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ, վերջին կողքը փճացած թացութենէ։",
+    "etat_conservation": "անբաւարար, վնասուած խոնաւութենէ, մանաւանդ վերջին թերթերը",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Ճակատ.— Գիրք Մեկնութեան Եօթն Խորհրդոց Սրբոյ Եկեղեցւոյ, Առաջին Հատոր. շարադրեցեալ եւ մեկնեալ ի Յակոբայ արհիապանծ եպիսկոպոսէ եւ Աստուածաբան պատրիարքէ Կոստանդնուպօլսոյ, յամի Կենարարին մերոյ եւ Փրկչին 1754, ի թուականիս Հայոց ՌՄԳ-ին, Յունիսի Ժ, ի Կոստանդնուպօլիս արքայազարդ քաղաքի, յերկրորդ պատրիարքութեան իւրում",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Կրթութիւն Աստուածաբանական զխորհրդոցն Եկեղեցւոյ.— Հմմտ. թ. 43, Ա. Հատոր, էջ 158։ Էջ 122բ.— Յաղագս Պատարագի, ի Տասն պրակս բաժանեալ։ Էջ 330ա.— Յաղագս Խորհրդոյ Ապաշխարութեան։ Էջ 500ա.— Գլուխ Երկրորդ.— Յաղագս խոստովանութեան, եւ նորին հարկաւորութեան, ի վեց խնդիրս բաժանեալ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "173.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2085-refine.json",
+    "pipeline_version": "v1"
+  }
+}

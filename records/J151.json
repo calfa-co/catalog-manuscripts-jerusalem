@@ -1,0 +1,68 @@
+{
+  "id": "J151",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "151",
+  "notice": "151",
+  "volume": "Jerusalem_V1",
+  "title": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+  "date": {
+    "from": "1808",
+    "to": "1808",
+    "display": null
+  },
+  "fields": {
+    "numero": "151",
+    "no_notice": "8",
+    "titre": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+    "date_debut": "1808",
+    "date_fin": "1808",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "520",
+    "dimensions": "32 x 22 x 4",
+    "mise_en_page": "սեւ մելանով, միասիւն, 39 տող",
+    "details_ecriture": "անարուեստ ; ՊԱՏՈՒԱԳՐՈՒԹԻՒՆ: սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "պարզ։ Հատորիս ճակատը ի միջի այլոց կը կարդացուի. — «Գերյարգելի Յակոբ կրօնաւորի Արհիեպիսկոպոսի ի կարգէն քարոզչաց։ Բանք Ոսկիականք յաղագս գլխաւոր սրբոց տօնախմբութեանց, զորս հռչակէ եկեղեցին ի հնութենէ, եւ յանթիւ սղալանաց սրբագրեալք եղեն։ Ի ձեռն այլ գերյարգելի կրօնաւորի, որ կոչի Ռուտօլֆոս մականուամբ Կլուդոս ի նոյն կարգէ եւ կրօնէ տօմէնիքեան քարոզողաց։ Նոր նշանախեցիւք եւ թուահամարիւք բանից ի լուսանցս, եւ ամենաճոխ ցանկով իրաց»։ Տարբեր գրչով տող մը. — «Ի վայելումն Կիրակոս նուաստ աբեղայիս Սաղիմացւոյ, ի ՌՄԾԷ թուոյն»։ — Քովը դրոշմուած է նաեւ փոքր կնիքը, փակագրեալ՝ Կիրակոս վարդապետ։ Ապա նախկին գրով կը շարունակուի։ «Հատոր երկրորդ, Ի տպարանի Յօհ. Մարթինի ի ներքոյ նշանի Ոսկիա(կիա)կան գրքոյս, 1687»",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ", էջ 1–499։ Ապայ կուգայ տարբեր գրչով, նոտրագիր, Ցանկ գրքոյս Այբուբենական, էջ 501–504, երկսիւն. էջերը կազմելու ժամանակ ետեւ առաջ դրուած են։ Մնացեալ թերթերը, էջ 505–520, թողուած են բոլորովին դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "442.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "151-refine.json",
+    "pipeline_version": "v1"
+  }
+}

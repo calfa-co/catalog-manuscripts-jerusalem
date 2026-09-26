@@ -1,0 +1,68 @@
+{
+  "id": "J3090",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3090",
+  "notice": "3090",
+  "volume": "Jerusalem_V9",
+  "title": "ՀԱՄԱՌՕՏՈՒԹԻՒՆ ՔԵՐԱԿԱՆՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3090",
+    "no_notice": null,
+    "titre": "ՀԱՄԱՌՕՏՈՒԹԻՒՆ ՔԵՐԱԿԱՆՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "180",
+    "dimensions": "21X12.5X2",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 16 տող կամ նուազ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խստաքարտեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": "Յարութիւն Եղիայեան",
+    "possesseur": "Յարութիւն Եղիայեան",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Համառօտութիւն Քերականութեան, Մասն Ա․ Ներածութիւն։ Գիրերու ձայնին տառ կըսւի, ու անոնց ձեւին գիր կըսւի․․․։ Էջ 3.— Վանկ.— Ձայնաւոր ու բաղաձայն տառերով․ հեգված ու մէկ անգամէն լսված ձայնին՝ վանկ կըսւի․․․։ Էջ 5.— Բառագիտութիւն։ Էջ 16.— Գլուխ Բ։ Դերանուն։ Էջ 24.— Գլուխ Գ։ Բայ։ Էջ 41.— Գլուխ Զ։ Մակբայ։ Էջ 50.— Գլուխ Ը։ Միջարկութիւն։ Էջ 55.— Տէր Բայի եւ բայ։ Էջ 161.— Ծանօթութիւն.— Ածականը աշխարհաբառի մէջ միշտ առաջ կը դրվի, բայց գրաբառի մէջ առաջ ալ՝ ետքն ալ կրնայ դրվիլ։ Էջ 180.— Վերջ։ Յարութիւն Եղիայեան։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "323.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3090-refine.json",
+    "pipeline_version": "v1"
+  }
+}

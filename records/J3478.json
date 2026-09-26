@@ -1,0 +1,72 @@
+{
+  "id": "J3478",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3478",
+  "notice": "3478",
+  "volume": "Jerusalem_V10",
+  "title": "Մ Ա Շ Տ Ո Ց",
+  "date": {
+    "from": "1684",
+    "to": "1684",
+    "display": null
+  },
+  "fields": {
+    "numero": "3478",
+    "no_notice": "1",
+    "titre": "Մ Ա Շ Տ Ո Ց",
+    "date_debut": "1684",
+    "date_fin": "1684",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "528",
+    "dimensions": "22x16x6",
+    "mise_en_page": "խորագիրներ եւ շատ բառեր կարմիր, մնացեալը սեւ մելանով, միասիւն, 17 տող (էջ 45–516)",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ, բաւական թանձր",
+    "nb_lignes": null,
+    "reliure": "հնամաշ, տախտակ կողքեր",
+    "etat_conservation": "համարեա բաւարար, լուսանցքները ցեցակեր",
+    "copiste": "Ֆարանալլահ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": "թարգմանող S.P. Cowe.– 1.– Էջ 517.–",
+    "informations_diverses": "առանձին թերթիկի մը վրայ, շեղագիր.– Մաշտոց, Խորհրդատետր. գրող՝ մահտեսի Աբրահամի որդի Ֆարնալլա քահանայ. որ գրած է Ս. Աստուածածնայ պահոց մէջ ; FINAL COLOPHON:(Garshuni). With the help of the Holy Trinity, Father, Son and Holy Spirit, one God The Book of the Liturgies is completed and finished according to my ability on the first of the month of August at the blessed feast of the saintly lady Shmuni and her seven sons and their teacher Eleazar, on the first day of the fast of the pure lady virgin mother of God, Lady Mary in the year one thousand nine hundred and ninety-five (1995) of the Greeks and according to the reckoning of years of our Lord Jesus Christ to whom be praise, seven thousand, one hundred and ninety-two (7192) years have past since the time of Adam, may he rest in peace; also in the year of Christ one thousand, six hundred and eighty-four (i.e. A.D. 1684). It was written by the erring and weak servant of the servants of God mosthigh a priest in name not in act and wretched sinful servant, submerged in transgression, unable to perform the commandments, whose name does not deserve to be mentioned among created beings, the priest Faraj—ullah son of the deceased pilgrim Ibrahim. He asks every father and brother who beholds these letters not to reproach him for all the faults and mistakes he has committed and implores all mercy and forgiveness for himself, his teachers and his parents both temporal and spiritual and all who have contact with him in word or act. If a mistake is found, correct it and do not blame him as every being is incomplete and imperfect except the blessed and exalted Creator, hallowed be his name. And to God be glory, thanks and praise for ever and ever, world without end, and may His mercy be upon all His creation unto ages of ages. Amen. էջ 518.— (Ասորերէն — Syriac).— Glory to the Father in whose hope is our release, and worship to the Son in whose trust is our peace, praise to the Holy Spirit who strengthens and helps us, remembering Mary, Mother of God, the saints and the faithful departed my father and mother and all who have contact with me in word and act, to God be eternal glory. Amen. (Garshuni — Ասորատառ արաբերէն).— He wrote it for himself to read and study. May God make it to be blessed and may he find pleasure in it by the prayer of Mary Mother of God and of all the saints. Amen, Amen, Amen.\n(Syriac) [By another hand].— Our Father which art in heaven, hallowed be thy name, etc. Amen",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "467.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "468.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3478-refine.json",
+    "pipeline_version": "v1"
+  }
+}

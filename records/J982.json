@@ -1,0 +1,72 @@
+{
+  "id": "J982",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "982",
+  "notice": "982",
+  "volume": "Jerusalem_V3",
+  "title": "ՏՐԱՄԱԲԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": "1838",
+    "to": "1838",
+    "display": null
+  },
+  "fields": {
+    "numero": "982",
+    "no_notice": "2",
+    "titre": "ՏՐԱՄԱԲԱՆՈՒԹԻՒՆ",
+    "date_debut": "1838",
+    "date_fin": "1838",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "242",
+    "dimensions": "20x15x1.5",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 18 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ եւ ծծող",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Մկրտիչ Վրդ. Տէր Մարտիրոսեան, Բաղիշեցի",
+    "possesseur": "Գրիչը",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Հաւաքումն ոմանց տարակուսական բանից եղելոց ի Տրամաբանութեան, 17 : 36։ — Ստորոգական եզրն է՝ որ նշանակէ զսեռ կամ զտեսակ ինչ իրաց... ։ — Հմմտ. թիւ 770 ։\nՅիշատակարան Գրչի. — 1838 էջ 242. — Գաղափարեալ եղեւ յամի Տեառն 1838, յուլիսի 1էն մինչեւ ի 23, ի մէջ Սրբոյ Յարութեան երկնատիպ Տաճարիս, ձեռամբ իմով եւ ի վայելս իմ, գրագիր Մկրտիչ Վարդապետիս Տէր Մարտիրոսեան, Բաղի[շեցւոյ] ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "600.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "601.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "982-refine.json",
+    "pipeline_version": "v1"
+  }
+}

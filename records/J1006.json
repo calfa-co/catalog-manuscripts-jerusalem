@@ -1,0 +1,72 @@
+{
+  "id": "J1006",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1006",
+  "notice": "1006",
+  "volume": "Jerusalem_V4",
+  "title": "ԲԱՆՔ ՅՈՐԴՈՐԱԿԱՆՔ ԱՌ ԳԱՂԱՏԱՑԻՍ",
+  "date": {
+    "from": "1754",
+    "to": "1754",
+    "display": null
+  },
+  "fields": {
+    "numero": "1006",
+    "no_notice": "1",
+    "titre": "ԲԱՆՔ ՅՈՐԴՈՐԱԿԱՆՔ ԱՌ ԳԱՂԱՏԱՑԻՍ",
+    "date_debut": "1754",
+    "date_fin": "1754",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "44",
+    "dimensions": "20x14",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 24 տող",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": "Պօղոս Վրդ. Պետրոսեան, որ հաւանաբար Գրիչն ալ է",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք վերջը եօթ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 — Օգնեա Հոգիդ Սբ. Ած. — Յսի. Քսի. ծառայ եւ հռոմէական սբ. եկեղեցւոյ պաշտօնեայ Հայր Գէորգ Վրդ. Պաղտատեան, կրօնաւոր ի կարգէ Սրբոյ Հօրն մերոյ Անտօնի աբբայի, եւ ձեռնասուն քըսանամեայ աշակերտ Մխիթարայ գերապանծ աբբային...։ Եւ այժմ ձեզ ... ուղղափառաց բնակելոց ի Գաղատիա ողջոյն ...։\nէջ 29–30 պարապ ձգուած է գրչէն հետեւեալ ծանօթագրութեամբ. «Յօրինակին եւս պակասէր թուղթ մի յայս տեղի»։\nՅիշատակարան Հեղինակի.— 1754 էջ 43–44.— Այլ զիս զանարժանս եւ զանպիտան ծառայս ձեր զՀայր Գէորգ Վարդապետն Մխիթարեան, զքարոզիչն Առաքելական, զհեղինակն եւ զշարագրողն այսոցիկ բանից՝ մի՛ մոռանայք ի հաճոյական աղօթս ձեր. զոր առ ի հաստատել ձեռամբ իմով գրեցի, եւ յատուկ կնքովս կնքեցի։ Բայց իբրեւ որդի հնազանդ գերեմ զամենայն զբանս իմ զայսոսիկ ի հնազանդութիւն սուրբ եկեղեցւոյն Քսի. եւ ի դատողութիւն մտաց նորա։— Զնչին եւ անպիտան ծառայ Հայր Գէորգ Վարդապետ Պաղտատեան, յաշակերտաց Մխիթարայ Աբբային։— Գրեցաւ գիրս յամի Տեառն 1754, ի դեկտեմբերի 17։\nՅիշատակագրութիւն Նուիրատուաց .— 1861 Առաջին կողքին ներսի կողմը.—«ըզդրքուկս Պետրոսեան Պօղոս Վարդապետի ի յիշատակ նորին Թանգարանին Երուսաղէմի նուիրեցին եղբայր իւր Սերոբէ եւ քոյրն Մարիամ. 1861, սեպտ. 14»։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "035.JPG"
+    },
+    {
+      "volume": "Jerusalem_V4",
+      "file": "036.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1006-refine.json",
+    "pipeline_version": "v1"
+  }
+}

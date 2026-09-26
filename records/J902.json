@@ -1,0 +1,68 @@
+{
+  "id": "J902",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "902",
+  "notice": "902",
+  "volume": "Jerusalem_V3",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "902",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "128",
+    "dimensions": "21x16x1",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 22 տող ընդհանրապէս։ Նոտր շեղագիր",
+    "details_ecriture": "շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խասաքարտեայ",
+    "etat_conservation": "գրեթէ բաւարար. լուսանցքները ցեցակեր",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Որպէս եւ մեք թողումք մերոց պարտապանաց։ Նախադասութիւն։ Հարկաւոր է թողուլն եղբօր, եթէ կամիմք զի թողցի մեզ։ Այս իսկ է թնութիւնըն, զոր եդ Քրիստոս...։ Ծանօթ.— «Մեկն. տէրունական աղօթից երկար, նուաստ ոճով թարգմանեալ յօտար լեզուէ, որոյ սկիզբն պակասէ մեծ մասամբ» (Սաւալանեան, Ցուցակ, էջ 486)։ էջ 11.— Եւ մի տանիր զմեզ ի փորձութիւն, եւայլն։ էջ 54.— Այլ փրկեայ զմեզ ի չարէ։ էջ 89.— Չորրորդ ընձեռուած յաղագս հրեշտակային ողջունի։ էջ 94, դատարկ։ էջ 95.— Յօհան Ծործորեցւոյն.— Իբրեւ մօտ եղեն յԵրուսաղէմ...։ էջ 99.— Նորին քարոզ տէր Առաքելի, ի բան որ ասէ. Սիրելին ի սենեակ մեր...։ էջ 105.— Քարոզ Պայծառակերպութեան։ էջ 116–128, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "444.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "902-refine.json",
+    "pipeline_version": "v1"
+  }
+}

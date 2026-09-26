@@ -1,0 +1,68 @@
+{
+  "id": "J682",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "682",
+  "notice": "682",
+  "volume": "Jerusalem_V3",
+  "title": "ԱՂԲԻՒՐ ԲԱՂՁԱԼԻ",
+  "date": {
+    "from": "1788",
+    "to": "1788",
+    "display": null
+  },
+  "fields": {
+    "numero": "682",
+    "no_notice": "1",
+    "titre": "ԱՂԲԻՒՐ ԲԱՂՁԱԼԻ",
+    "date_debut": "1788",
+    "date_fin": "1788",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "244",
+    "dimensions": "21.5x14x2",
+    "mise_en_page": "խորագիրները եւ սկզբնաւորութիւնները կարմիր, մնացեալը սեւ մելանով, միասիւն, 24 տող",
+    "details_ecriture": "նոտրակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի։ Կարմրագիծ զարդագիր իւրաքանչիւր գլուխի սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ քանդակազարդ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը եօթ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— Էջ 1 Գիրք որ կոչի Աղբիւր Բաղձալի, Արարեալ ի Յովհաննէս Արհի Եպիսկոպոսէ, Աշակերտի Տեառն Յովհաննէս հրեշտակակրօն Վարդապետի Մոկացւոյ, ի Լիմ Սբ. Անապատն բնակողի, ի փառս Ամենափրկչին, եւ ի յօգուտ Արամեան Ազգիս։ Յամի փրկութեան մերոյ 1788, եւ ի մերումս թուականութեան ՌՄԼԷ, ի մարտի ամսոյ հինգն, եւ զկնի վեց ամաց ելանելոյն իւրոյ ի Պատրիարգութենէ Կոստանդնուպօլսոյ, ի վիճակս Ամասիոյ, ի Մարսուան քաղաքի եղեւ գրումն, եւ սրբագրութիւնն, եւ աւարտումն գրոցս։ Էջ 2.— Յայտ իսկ է գիտնականաց, զի թէպէտ բազում են տեսակք եւ մասունք մեղաց, սակայն չորս են տեսակք մեղանչողաց...։ Էջ 209.— Գլուխ Հնգետասաներորդ.— Մեք ազգս Հայոց, որք ուղիղ դաւանութեամբ ի յերից Սբ. Ժողովոց Սրբազան Հարց մերոց մինչեւ ցայսր եմք ի նոյնութիւն, ամենեւին հետեւող եմք Ած.աշունչ գրոց եւ դաւանութեանց եւ աւանդութեանց Նիկիայու, եւ Կոստանդնուպօլսու, եւ Եփեսոսի Սուրբ Ժողովոց Սրբազան Հայրապետաց...։ Էջ 223.— Վերջաբանութիւն.— Անհուն ողորմութեամբն Այ. ...։ Էջ 227.— Ցանկ Գլխոց Աղբիւր Բաղձալի գրոցս, հանդերձ յատուկ իմացմամբ մտաց բանից մերոցս։ Էջ 231.— Գլուխ ԺԵ.— ... խոստովանիմք եւ ասեմք՝ անբաժանելի միաւորեալ մի բնութիւն ի Քս., եւ զժողովն Քաղկեդոնի ո՛չ ընդունիմք...։ Էջ 232–244, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "141.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "682-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J1496",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1496",
+  "notice": "1496",
+  "volume": "Jerusalem_V5",
+  "title": "ԱՌԱՐԿՈՒԹԻՒՆՔ ԵՒ ԼՈՒԾՄՈՒՆՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1496",
+    "no_notice": "2",
+    "titre": "ԱՌԱՐԿՈՒԹԻՒՆՔ ԵՒ ԼՈՒԾՄՈՒՆՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "310",
+    "dimensions": "15×10×2.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 17 տող",
+    "details_ecriture": "սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–2, դատարկ։ Էջ 3.— Մանաւանդականք Առարկութիւնք որք հաւասարապէս սովորք են լինիլ ի մահմետականաց, յուդայեանց եւ ի հերետիկոսաց արեւելականաց, ըստ կերպի եւ եղանակի հարցման ընդդէմ կաթուղիկեայց ուղղափառաց եւ նոցին իսկ։ Լուծմունք ի հեղինակէ Ֆիպուրեան Միքայէլէ ի Հռոմ։ Տպիւք սրբազանի ժողովոյն սերելութեան հաւատոյն, ի թվին ՌՈՁ։ Մեծաւորաց ակնարկութեամբ.— Հմմտ. թ. 118, Ա. Հատոր, էջ 331։\nէջ 10.— Մասն Առաջին։ Առարկութիւնք մահմետականաց ընդդէմ քրիստոնէից, եւ նոցին լուծմունք։ էջ 42.— Մասն Երկրորդ։ Առարկութիւնք յուդայեանց ընդդէմ քրիստոնէից եւ նոցին լուծմունք։ էջ 75.— Մասն Երրորդ։ Առարկութիւնք հերետիկոսաց արեւելականաց ընդէմ ուղղափառաց կաթուղեաց եւ նոցին լուծմունք։ էջ 302–310, դատարկ կամ գծմծուած։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "249.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "250.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1496-refine.json",
+    "pipeline_version": "v1"
+  }
+}

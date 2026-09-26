@@ -1,0 +1,72 @@
+{
+  "id": "J3695",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3695",
+  "notice": "3695",
+  "volume": "Jerusalem_V11",
+  "title": "ՍԱՂՄՈՍ (Արաբերէն)",
+  "date": {
+    "from": "1820",
+    "to": "1820",
+    "display": null
+  },
+  "fields": {
+    "numero": "3695",
+    "no_notice": "Յ",
+    "titre": "ՍԱՂՄՈՍ (Արաբերէն)",
+    "date_debut": "1820",
+    "date_fin": "1820",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "320",
+    "dimensions": "16x10.5x2.5",
+    "mise_en_page": "խորագիրները եւ կէտերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 18 տող, կանոնաւոր եւ յստակ։ Սեւ ու կարմիր անարուեստ զարդագծեր, էջ 8, 19, 24, 90, 181, 179, 218, 245, 285, 310, գործ Երուսաղէմացի սափրիչ Մուսայի",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հաստարակ",
+    "nb_lignes": null,
+    "reliure": "դրուագեալ, թուլցած",
+    "etat_conservation": "լաւ ընդհանուր առմամբ. ստորին լուսանցքը մասամբ ցեցակեր",
+    "copiste": "Մուսա Հալլաք էլ Գուտսի",
+    "possesseur": "Արութին որդի Յովսեփայ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 2.— Հայր մեր, արաբերէն։ Էջ 4–7, դատարկ։ Էջ 9.— Սաղմոս։ Էջ 19.— Սաղմոս 9։ Էջ 46.— Սաղմոս 24։\nԷջ 90.— Սաղմոս 46։ Էջ 181.— Սաղմոս 70։ Էջ 179.— Սաղմոս 91։ Էջ 218.— Սաղմոս 109։ Էջ 245.— Սաղմոս 119։ Էջ 281.— Սաղմոս 150։ Էջ 293.— Աղօթք Ամբակումայ մարգարէի։ Էջ 311.— Աղօթք Սիմէոնի ծերունւոյն։ Էջ 312.— Հաւատով խոստովանիմ (Արաբերէն)։ Էջ 316, վարը, նոտր շեղագիր անհարթ.— Այս Աղօթք Սրբուն Տեառն Ներսեսի Հայրապետին՝ արափացոյց թարգմանեցաւ ձեռամբ տէրտէր Յեսաին կոչեցելօ Պետրոսի յունաց, յԵրուսաղէմ, ամի Տեառն 1822, ըստ Հայոց ՌՄՀԱ։ Էջ 317.— Դարձեալ արաբերէն Հաւատով խոստովանիմ՝ տարբեր գրչութեամբ։ Յիշատակագրութիւնք (արաբերէն).— 1.— Գրչի. էջ 310.— Աստուծոյ ողորմութեամբ այս օրհնեալ Սաղմոսը լրացաւ մարտ ամսուն, 1820 քրիստոնէական թուականին։ 2.— Թարգմանողի.— էջ 317.— Այս Աղօթքը թարգմանեց Իսա Բետրօ քահանայ, յոյն օրթոտոքս, յԵրուսաղէմ, 1822 ին։ 3.— Ընթերցողի.— էջ 1.— Եուսէֆ էլ Հալէպի էլ էրմէնի, աշակերտ Ս. Յակոբայ քարտուղար Մելքոն Մինասի, կարդացեր է այս գիրքը հիճրի 1240 [= 1824] թուին։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "151.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "152.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3695-refine.json",
+    "pipeline_version": "v1"
+  }
+}

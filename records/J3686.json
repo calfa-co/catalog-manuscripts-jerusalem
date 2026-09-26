@@ -1,0 +1,68 @@
+{
+  "id": "J3686",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3686",
+  "notice": "3686",
+  "volume": "Jerusalem_V11",
+  "title": "ԱՂՕԹԱԳԻՐՔ (ՆԱՐԵԿ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3686",
+    "no_notice": null,
+    "titre": "ԱՂՕԹԱԳԻՐՔ (ՆԱՐԵԿ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ +86",
+    "dimensions": "16.5x11x1",
+    "mise_en_page": "սեւ մելանով, միասիւն, 21–22 տող։ Նոտր շեղագիր անարուեստ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "անհարթ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Բ, դատարկ։ Էջ Գ.— Երանելի Տէր Սուրբ Գրիգոր, դուռն բացեր մեզ հոգեւոր, ռահըս ցուցեր մտ[ա]ց մոլոր, բանիւ քոյին արդիւնաւոր...։ Էջ 1–76.— Նարեկէն առնուած գլուխներ, ԻԷ, ԻԸ, Ը, Խ, ԽԲ, ԽԳ, ԻԴ, Է, ԺԷ, ԼԳ, ԻԶ, ԽԷ, ԾԸ, ԾԲ, ԿԵ, ՁԲ, ՁԳ, ՀԸ, ՁԴ, ԿԸ, ՀԳ։ Էջ 77–80.— Զանազան մանրուք։ Էջ 81–86, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "138.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3686-refine.json",
+    "pipeline_version": "v1"
+  }
+}

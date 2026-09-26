@@ -1,0 +1,68 @@
+{
+  "id": "J2511",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2511",
+  "notice": "2511",
+  "volume": "Jerusalem_V8",
+  "title": "Տ Օ Ն Ա Ց Ո Յ Ց",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2511",
+    "no_notice": "69",
+    "titre": "Տ Օ Ն Ա Ց Ո Յ Ց",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "370",
+    "dimensions": "9x6.5x5",
+    "mise_en_page": "սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 13 տող",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ հնամաշ",
+    "etat_conservation": "համարեա բաւարար. ազդուած խոնաւութենէ եւ վնասուած ցեցերէ",
+    "copiste": "Կարապետ",
+    "possesseur": "տէր Ստեփանոս, որդի Շաքարի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը եւ վերջը մէկմէկ թերթ, անկիւնաւոր երկաթագիր, մասն Աւետարանի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Քաղոց ամսոյ Հայոց ի Ա...։ Էջ 16.— Յայտնութեան ճրագալուցի առաջի աւուրն...։ Էջ 72-73ի միջեւ կտրուած մէկ թերթ։ Էջ 160.— Սրբոյ Զատկի գիշերն հսկումն է...։ Էջ 291.— Խաչվերացի գիշերն հսկումն է...։ Էջ 345.— Աւագ Մեսոդիք։ Էջ 352.— Կարգ Ժամամտերոյն։\nՅիշատակարան Գրչի.— Էջ 369.— Փառք ամենայսուրբ Երրորդութեան Հաւր եւ Որդոյ եւ Սբ. Հոգոյն ամէն։ Արդ գրեցաւ Տաւն(ե)ացուց ձեռամբ սուտանուն Կարապետէ, ի դուռն Լման զՍբ. Գէորքեա զաւրավրին, յիշատակ տէր Ըստեփանոսին եւ ուր ծնող(ե)աց, խաւր Շաքարին եւ մաւր [այսչափ. էջին (370) մնացեալ մասը դատարկ]։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "207.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2511-refine.json",
+    "pipeline_version": "v1"
+  }
+}

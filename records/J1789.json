@@ -1,0 +1,68 @@
+{
+  "id": "J1789",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1789",
+  "notice": "1789",
+  "volume": "Jerusalem_V6",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1789",
+    "no_notice": "18",
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Բ+888",
+    "dimensions": "35x26x8.5",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 43 տող։ Նոտր շեղագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": "Կեսարացի Սարգիս Վարդապետի",
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա. — Զբոլոր գործս զայս նուիրեմ քեզ Հոգի Սուրբ Աստուած...։ — Յիշատակ է Քարոզ Գիրքս Կեսարացի Սարգիս Վարդապետին ի Սբ. Երուսաղէմ։ Էջ Բ, դատարկ։ Էջ 1. — Քարոզ Առաջին. — Պենտեկոստէի Հոգւոյն Սրբոյ գալստեան...։ Էջ 121ա. — Քարոզ ԺԴ. — Չորրորդ Կիրակէին զկնի Վարդավառին...։ Էջ 255ա. — Քարոզ ԼԲ. — Վեցերորդ Կիրակէի զկնի Սրբոյ Խաչին...։ Էջ 391բ. — Քարոզ ԾԱ. — Ի վերայ Սըրբոյն Իգնատիոսի Աստուածազգեաց Հայրապետին Անտիոքայ...։ Էջ 515ա. — Քարոզ ԿԹ. — Ի վերայ ծընընդեանն Յովհաննու Մկրտչին...։ Էջ 671ա. — Քարոզ Ղ. — Չորրորդ Կիրակէի մեծի պահոց, ի վերայ տնտեսին...։ Էջ 849բ. — Քարոզ ՃԺ. — Երրորդ Կիրակէի զկնի զատկին, ի վերայ աշխարհամատրան տաճարին սրբոյ յարութեան...։ Էջ 880բ. — Քարոզ ՃԺԵ. — Էերորդ Կիրակէի զկնի Սրբոյ Զատկին երկրորդ ծաղկազարդին...։\nՅիշատակարան Հեղինակի. — 1758 Էջ 886բ, ստորոտը, մանրատառ. — Ի պարգեւաց Հոգւոյն Սրբոյ աւարտեցաւ Կիրակէից Քարոզգիրքս յամի Տեառն 1758, եւ Հայոց ՌՄԷ, յունիսի ամսոյ ԺԹ, ի տօնի Սրբոյն Յովհաննու Մկրտչի եւ Աթանագինեայ եպիսկոպոսի...։ Էջ 887–888, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "154.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1789-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3692",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3692",
+  "notice": "3692",
+  "volume": "Jerusalem_V11",
+  "title": "ՍԱՂՄՈՍ (թերի)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3692",
+    "no_notice": "80",
+    "titre": "ՍԱՂՄՈՍ (թերի)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "212",
+    "dimensions": "14.5x10x2.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 17 տող",
+    "details_ecriture": "Գլխագիր եւ գլխազարդ կարմրագիծ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "անբաւարար. վնասուած հնութենէ եւ գործածութենէ, նորոգութիւն կրած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Բարձր առնեմ զքեզ, Տէր, զի ընկալար զիս...։ ԻԹ, 1։ Էջ 7, պրակ Ե.— Աւրհնեցից զՏէր յամենայն ժամ...։— ԼԳ, 1։ Էջ 20.— Մի՛ նախանձիր ընդ չարս...։ Էջ 70–71ի միջեւ թերթ ինկած։ Էջ 75.— Ած. մտին հեթանոսք ի ժառանգութիւն քո...։ Էջ 100.— Տէր ապաւէն եղեր մեր...։ Էջ 146.— Սաղմոս ի Դաւիթ.— Խոստովան եղերուք Տեառն զի քաղցր է։ Էջ 203.— Խոստովանութիւն Մանասէի.— Տէր ամենակալ...։ Էջ 212.— Զաքարիայ հաւրն Յովաննու.— Աւրհնեալ Տէր Ած. Իսրայէլի...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "145.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3692-refine.json",
+    "pipeline_version": "v1"
+  }
+}

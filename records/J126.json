@@ -1,0 +1,72 @@
+{
+  "id": "J126",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "126",
+  "notice": "126",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՄԱՐԿՈՍԻ Բ. ՀԱՏՈՐ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "126",
+    "no_notice": "1",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՄԱՐԿՈՍԻ Բ. ՀԱՏՈՐ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "70",
+    "dimensions": "30 X 22 X 1",
+    "mise_en_page": "սեւ մելանով, երկսիւն, 47 տող։ Նոտրը շեղագիր",
+    "details_ecriture": "չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Մեկնութիւն արարեալ Մարկոսի Աւետարանչի, Բարսղի Վարդապետի, Ճոռ կոչեցելոյ։ Գլուխ Թ.— [Հ]արցին ցնա աշակերտքն եւ ասեն. զինչ է այն։ Պարտ եւ արժան էր ամ. հաւատացելոց\nայնքան գիտօղ եւ ծանօթ լինել աստուածային գրոց...։ էջ 63ա — Գլուխ ԺԴ. — Եւ էր զատիկ եւ բաղարջակերք յետ երկուց աւուրց...։ էջ 68բ — [ԺԴ. 13-15] — Երթայք ի քաղաքն, եւ իբրեւ ... անդ պատրաստեսջիք։ Մատթէոս յաւելու թէ ժամանակ իմ մերձեալ է...։ էջ 69բ—70, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "378.jpg"
+    },
+    {
+      "volume": "Jerusalem_V1",
+      "file": "379.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "126-refine.json",
+    "pipeline_version": "v1"
+  }
+}

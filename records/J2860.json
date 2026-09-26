@@ -1,0 +1,68 @@
+{
+  "id": "J2860",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2860",
+  "notice": "2860",
+  "volume": "Jerusalem_V9",
+  "title": "ՅԱՅՏԱՐԱՐՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2860",
+    "no_notice": null,
+    "titre": "ՅԱՅՏԱՐԱՐՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Տետրակ մըն է բաղկացած 24 էջերէ, խորագիրն է. «Ազգօգուտ Յայտարարութիւն Յովակիմայ Եղիազարեան, Յաղագս Համալսարանի Հայոց ի Մոսկով»։ Էջ 2.— Արտահանեալ ի Մոսկով եղեալ կայսերական գազեթէ, որ ի 1817, փետրվարի 28։ Տարեցոյց Առաքինական գործոց։ Յաղագս Ուսումնարանին Հայոց, որ ի Մոսկով։ Էջ 9.— Ազգօգուտ Յայտարարութիւն Յովակիմայ Եղիազարեան առ լուսաւորչակրօն ազգակիցս իւր, ի սակս Եղիազարեան Համալսարանին Հայոց Մոսկովու, ի Մոսկով, ի տպարանի Օգոստեայ Սիմենեանց։ Տիպար պատկերի Համալսարանի շինուածոց Հայոց Ճեմարանի կառուցելոյ արդեամբ պայազատ տոհմին Եղիազարեանց ի Մոսկով, յամի Տեառն 1816։ Որոյ օրինակն վերոյ ասացեալ պատկերին տեսաք ի տպագրեալ տետրակի ի Կողոնիեայ, Ղարահիսար, ի թիւ Փրկչին մերոյ 1823ին, եւ փետրվարի 12ին, առեալ զօրինակն, նուիրակ Սահակ Վարդապետս, Սբ. Երուսաղէմայ միաբան։ Ազգօգուտ Յայտարարութիւն Յովակիմայ Եղիազարեան, Յաղագս Համալսարանին Հայոց Մոսկովու, տպագրեալ հրամանաւ գեր-[ը]նտիր եւ սրբազան կաթողիկոսի ամ. Հայոց տեառն Եփրեմայ։ Էջ 21.— ...Խոնարհ եւ անձնանվէր ծառայ Յովակիմ Եղիազարեան.— ի Յուլիսի 1, ի թուականի Փրկչին 1820, ի Մոսկով։\nԻ թուականի մերում 1878, մայիսի 25, վերստին օրինակեցաւ բնիկ կեսարացի մանկավարժ չնչին ի մահտեսի Կարապետէ։",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "087.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2860-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3223",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3223",
+  "notice": "3223",
+  "volume": "Jerusalem_V9",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3223",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "16։ Պրակ Գ",
+    "dimensions": "43 X 30",
+    "mise_en_page": "սըրճագոյն մելանով, երկսիւն, 41, 42 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": "շեղակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կապոյտ թուղթ",
+    "etat_conservation": "համարեա բաւարար. ազդուած թացութենէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Երկրորդ Կիրակէին յԱւետարանի Մեկնութենէ. Յանառակ որդին, Սբ. Վարդապետի ասացեալ.— Առն միոջ էին երկու որդիք...։ Էջ 4բ.— Երկրորդ երկուշաբաթին, Յովհաննու Մանդակունեցւոյ ասացեալ, վասն քահանայից տեսչութեան ի վերայ ժողովրդեան.— Ես, լի ամ. յանցանօք...։ Էջ 9բ.— Երրորդ երեքշաբաթին, Յովհաննու Մանդակունեցւոյ ասացեալ, վասն բամբասանաց եւ չդատելոյ զվարդապետն.— Մըթերք սգոյ...։ Էջ 13ա.— Երրորդ Չորեքշաբաթին՝ Յովհաննու Մանդակունեցւոյ ասացեալ, վասն Ողորմութեան եւ Աղքատսիրութեան.— Մի ոք տղայական բարուք...։ — Կը մնայ անաւարտ։ Էջ 14–16 դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "545.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3223-refine.json",
+    "pipeline_version": "v1"
+  }
+}

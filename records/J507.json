@@ -1,0 +1,68 @@
+{
+  "id": "J507",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "507",
+  "notice": "507",
+  "volume": "Jerusalem_V2",
+  "title": "Տ Ր Ա Մ Ա Բ Ա Ն ՈՒ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1818",
+    "to": "1818",
+    "display": null
+  },
+  "fields": {
+    "numero": "507",
+    "no_notice": null,
+    "titre": "Տ Ր Ա Մ Ա Բ Ա Ն ՈՒ Թ Ի Ւ Ն",
+    "date_debut": "1818",
+    "date_fin": "1818",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "102",
+    "dimensions": "23 X 17 X 1",
+    "mise_en_page": "սեւ մելանով, միասիւն։ Խորագիրները բոլորգիր, մնացեալը նոտրագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ։ Էջ 1. — Տրամաբանութիւն փոքր. — Հաւաքումն ոմանց տարակուսական բանից։ Էջ 102, ստորոտը. — գաղափարեալ անձնամերձ գրչաւ. 1818, Նոյեմ. 12",
+    "etat_conservation": "լաւ",
+    "copiste": "[Կ. Պոլսեցի Սերովբէ նօտար]",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "525.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "507-refine.json",
+    "pipeline_version": "v1"
+  }
+}

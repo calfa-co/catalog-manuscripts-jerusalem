@@ -1,0 +1,68 @@
+{
+  "id": "J3353",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3353",
+  "notice": "3353",
+  "volume": "Jerusalem_V10",
+  "title": "Մ Ա Շ Տ Ո Ց",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3353",
+    "no_notice": "134",
+    "titre": "Մ Ա Շ Տ Ո Ց",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "238",
+    "dimensions": "18.5X14X3.5",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 18 տող",
+    "details_ecriture": "վարժ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "անբաւարար. վնասուած թացութենէ եւ ցեցերէ. սկիզբը եւ վերջը թերի",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 2.— Քարոզ. Եւ վասն երեխայիս աղաչեսցուք...։ Էջ 34.— Կանով[ն] Համարեն ամ. նընջեցելոց։ Էջ 65–66ի միջեւ երկու էջ մնացած առանց թիւի։ Էջ 78.— Կանովն յորժամ տղայ վախճանի։ Էջ 112.— Կանովն Ոգէհանգիստ առնելոյ...։ Էջ 124.— Կանոն Ջուր Աւրհ[ն]ելոյ։ Էջ 152.— Կանոն Մեծի Հինգշաբաթին Ոտնալուային։ Էջ 182.— Կանովն Խաչ Աւրհնելոյ։ Էջ 190–191ի միջեւ թերթ ինկած։ Նոյնպէս 210–211ի միջեւ։ Էջ 211.— Կանովն Տեառնական Աւրհնելոյ։ Էջ 226.— Մինչ ի յէէն...։ Էջ 226–227ի միջեւ թերթ ինկած։ Էջ 228.— Աւետարան ըստ Մաթէոսի։ Իւղաբեր.։ Էջ 238.— Աւետարան ըստ Ղուկաս.։ Յետնագոյն յիշատակագրութիւնք.— 1.— Էջ 1, ձախակողմեան լուսանցքին, անհարթ գրով.— Յօհան մղտեսի Էղիկեան, յիշատակ Սբ. Կարապետ Եկեղեցւոյ։ Նոյնը կը գտնուի նաեւ էջ 110, լուսանցքի վրայ։ 2.— Էջ 45, աջակողմեան լուսանցքին, մանիշակագոյն թանաքով.— Վարդան Մ. Էղիկեան, յիշատակ Սբ. Կարապետի Եկեղեցւոյ։ 3.— Էջ 4, ձախակողմեան լուսանցքին.— Սեփականութիւն Տուզասարի Ս. Կարապետ եկեղեցւոյն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "232.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3353-refine.json",
+    "pipeline_version": "v1"
+  }
+}

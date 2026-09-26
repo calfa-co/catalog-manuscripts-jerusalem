@@ -1,0 +1,68 @@
+{
+  "id": "J3719",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3719",
+  "notice": "3719",
+  "volume": "Jerusalem_V11",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑԻՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3719",
+    "no_notice": "Ա",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑԻՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "886։",
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Նման է նախորդ հատորին, բայց ոչ այնքան մաքուր. կան շատ ջնջումներ, ինչպէս նաեւ բազում յաւելումներ փոքր թղթիկներով ; Դիտ.— Էջ 142–143ի միջեւ 14 թերթ սխալ իջահամար ունին, կամ բնաւ չունին. մենք թուագրեցինք 142ա–142իը",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Պատմութիւն Եկեղեցւոյն Աստուծոյ։ Հատոր Ա., որ կը պարունակէ Քրիստոսի Տեառն մերոյ եւ առաքելոց ժամանակի պատմութիւնն. որ է Քի. թուականին սկիզբէն մինչեւ 62 թուականը։ Գիրք Ա.— Քրիստոսի Տեառն մերոյ տնօրինական գործքերը, այսինքն ծնունդը, քարոզութիւնը, մահը եւ յարութիւնը. մի– ջոց 33 տարվան։ Էջ 386.— Գիրք Բ.— Քրիստոնէական եկեղեցւոյ հաստատութիւնը։ Հոգւոյն Սրբոյ գալուստէն մինչեւ Գործք Առաքե– լոցի պատմութեան վերջը։ Քի. 33 թուէն մինչեւ 62. 29 տարուան պատմութիւն։ Էջ 886.— Վերջ Երրորդ Հատորոյ [Այս– պէս]։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "184.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3719-refine.json",
+    "pipeline_version": "v1"
+  }
+}

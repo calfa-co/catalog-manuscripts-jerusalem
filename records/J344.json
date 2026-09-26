@@ -1,0 +1,72 @@
+{
+  "id": "J344",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "344",
+  "notice": "344",
+  "volume": "Jerusalem_V2",
+  "title": "Ք Ա Ր Ո Զ Ա Գ Ի Ր Ք",
+  "date": {
+    "from": "1861",
+    "to": "1861",
+    "display": null
+  },
+  "fields": {
+    "numero": "344",
+    "no_notice": "1",
+    "titre": "Ք Ա Ր Ո Զ Ա Գ Ի Ր Ք",
+    "date_debut": "1861",
+    "date_fin": "1861",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "210",
+    "dimensions": "26x17x1",
+    "mise_en_page": "մաս մը խորագիրներ եւ շատ մը բառեր կարմիր, մնացեալը սեւորակ մելանով, միասիւն, 31 տող։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Մկրտիչ Սրկ. Վանեցի, Մ. Ս. Յ.",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— Գիրք Քարոզից, արարեալ Տեառն եւ Տեառն Կիրակոսի Սրբազան Արքեպիսկոպոսի եւ Պատրիարքի Սրբոյ Գահոյս Երուսաղէմի։ Վերստին օրինակեալ ի բուն գաղափարէ ուրումն ի Միաբանական Ուխտէ, ի Վանս Սրբոց Յակոբեանց որ յԵրուսաղէմ, աշխատեալ ձեռամբ յետին եւ ստոր միաբան Վանեցի Մկրտիչ Աւագ Սարկաւագի եւ սպասաւոր Մեսրոբ Վարդապետի։ Ի Հայրապետութեան Սրբոյ Էջմիածնի Տեառն եւ Տեառն Մատթէոսի Սրբազան Կաթուղիկոսի Ամենայն Հայոց։ Եւ ի Պատրիարքութեան Սրբոյ Աթոռոյս Երուսաղէմի Տեառն Յովհաննու մաքրափայլ Սրբազան Արքեպիսկոպոսի։ Եւ ի Պատրիարքութեան Կոստանդնուպօլսոյ Տեառն Սարգսի ազգասէր եւ վսեմարան Սրբազան Եպիսկոպոսի։ Յամի Տեառն 1861 եւ ապրիլի 10. ի Վանս Սրբոց Յակոբեանց օրինակեցաւ։\nԷջ 1.— Քարոզ Կաղանդի Նոր Տարւոյ։ Բնաբան՝ Օրհնեսցի Պսակ տարւոյ քաղցրութեան քո, Սղմս. 64, 14։ Քարոզ Առաջին.— Արքայ մարգարէն Դաւիթ բազում նեղութիւն կրեց Սաւուղի ձեռքէն, լաքին երբոր այս նեղութիւններէն ազատեցաւ խնամօքն Աստուծոյ, եւ հանգստացաւ...։ Էջ 199.— Քարոզ վասն Ծննդեան Մար-"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "254.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "255.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "344-refine.json",
+    "pipeline_version": "v1"
+  }
+}

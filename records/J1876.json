@@ -1,0 +1,72 @@
+{
+  "id": "J1876",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1876",
+  "notice": "1876",
+  "volume": "Jerusalem_V6",
+  "title": "ՆԵՐԱԾՈՒԹԻՒՆ ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԵԱՆ",
+  "date": {
+    "from": "1793",
+    "to": "1793",
+    "display": null
+  },
+  "fields": {
+    "numero": "1876",
+    "no_notice": "2",
+    "titre": "ՆԵՐԱԾՈՒԹԻՒՆ ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԵԱՆ",
+    "date_debut": "1793",
+    "date_fin": "1793",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Բ+372",
+    "dimensions": "19x12x2",
+    "mise_en_page": "խորագիրները, սկզբնաբառերը եւ սկզբնատառերը կարմիր, մնացեալը սեւորակ մելանով, միասիւն, 23 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ ոսկեդրոշմուազ",
+    "etat_conservation": "բաւարար. թացութենէ վնասուած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա.— Յետնագոյն յիշատակագրութիւն։ Էջ Բ, դատարկ։ Էջ 1.— Ներածութիւն Աստուածաբանութեան եւ Ճառ Յաղագս Շնորհացն Քրիստոսի, Համառօտեալ յԱստուածաբանութենէ Պ. Հ. Թովմայի Շարմէսի, յամի Տեառն 1793։ Էջ 2-4, դատարկ։ Էջ 5.— Ներածութիւն Աստուածաբանութեան. վիճաբանութիւն Ա. Յաղագս գիտութեան եւ բաժանման Աստուածաբանութեան.— Աստուածաբանութիւնն ըստ ստուգաբանութեանն անուան է բան զԱստուծոյ ...։ Էջ 271.— Հերետիկոսապետք ԺԵ դարուն.— Ա. Յանսենեանք ...։ Էջ 273.— Վախճան Ա. Հատորին։ Էջ 274-280, դատարկ։ Էջ 281.— Ցանկ, Ճառից. Վիճաբանութեանց, Գլխոց, Եզրակացութեանց եւ Խնդրոց բովանդակ համառօտութեանս։ Էջ 288-294, դատարկ։ Էջ 295.— Ճառ Յաղագս Շնորհացն Քրիստոսի։ Խնդիր Ա. Շնորհքն Քի. ո՞րպէս սահմանի.— Պատասխանեմ.— Պարգեւ գերբնական, ձրի յԱյ. ի ձեռն արդեանցն Քի. ...։ Էջ 345.— Վիճաբանութիւն Բ., Յաղագս Ունակական Շնորհաց։ Էջ 367-372, դատարկ։\nՅիշատակագրութիւնք. Ա.— Գրչի.— 1821 Էջ 366, վարը, շեղագիր.— Վերստին ղաղափարեցաւ ի գրչէ ոմեմնէ, 1821, յուլիս 28, ի Պօլիս, ի հայրապետութեան եփԳ.— Մ. Վրդ. Մուրատեանի.— 1876 Էջ Ա, շեղագիր.— Շարակարգեալ է սոյն մատեան պապական մոլեկրօնութեամբ, ի զգուշութիւն որոց նշանակեցի.— Մ. Վ. Մուրատեան։ Նուիրեմ թանգարանին, Երուսաղէմ.— Մ. Վ. Մուրատեան, 1876, մայիս 31ին։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "297.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "298.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1876-refine.json",
+    "pipeline_version": "v1"
+  }
+}

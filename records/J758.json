@@ -1,0 +1,68 @@
+{
+  "id": "J758",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "758",
+  "notice": "758",
+  "volume": "Jerusalem_V3",
+  "title": "ԶԾՆՆԴԵՆԷ ԱՍՏՈՒԱԾԱԾՆԻՆ",
+  "date": {
+    "from": "1621",
+    "to": "1621",
+    "display": null
+  },
+  "fields": {
+    "numero": "758",
+    "no_notice": "1",
+    "titre": "ԶԾՆՆԴԵՆԷ ԱՍՏՈՒԱԾԱԾՆԻՆ",
+    "date_debut": "1621",
+    "date_fin": "1621",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "172",
+    "dimensions": "21x16.5x1",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 35 տող։ Նոտր շեղագիր",
+    "details_ecriture": "սովորականէն քիչ մը աւելի։ Թըղթակազմ։ ; ԳԻՐ: երեք ի հեղինակէ յարգելի եղբօր Պետրոսի Փիքոսի Թռէվլոյ, ի կարգէն քարոզողաց սրբազան աստուածաբանութեան վարդապետէ եւ ուսուցչէ եւ ի մայրաքաղաքի Հռոմայու առ եբրայեցիս քարոզչէ։ Ի Հռոմ, առ ընթեր Ստեփաննոսի Փաւլինոսի տպագրողի յամի 1621։ — 1751։ — Հրամանաւ մեծաւորաց։ Էջ 151.— Գիրք Երրորդ։ Գլուխ Առաջին։ Էջ 167.— Ցանկ Գլխոց։ Էջ 168, ստորոտը.— Գիրք Ած.ածնի Կուսին ընդդէմ Հրէից, Գիրք 3, թարգմանեցեալ ի Ղուկասու Վարդապետէ Խարբերթացւոյ ըստ խնդրոյ արհի եւ պանծալի Պետրոս Եպիսկոպոսին Յերապօլսոյ, յամի 1772",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Ճակատ, էջ 3.— Զծննդենէ Աստուածածնի ընդ[դէ]մ Հրէից",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "223.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "758-refine.json",
+    "pipeline_version": "v1"
+  }
+}

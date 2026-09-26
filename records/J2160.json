@@ -1,0 +1,68 @@
+{
+  "id": "J2160",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2160",
+  "notice": "2160",
+  "volume": "Jerusalem_V7",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2160",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "170",
+    "dimensions": "30×20×1",
+    "mise_en_page": "խորագիրները եւ սկզբնատողերը մասամբ կարմիր, մնացեալը սեւ մելանով, միասիւն, 28–30 տող։ Նոտր շեղագիր",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "անարուեստ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ, «Կիրակոս Վարդապետ Մարգարեան, 1889», էջ 3, 17",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Քարոզ Առաջին։ Բնաբան։ Վասն այնորիկ իմաստութիւնն Աստուծոյ ասաց. Առաքեցից ի նոսա մարգարէս և առաքեալս և ի նոցանէ, և այլն (Ղուկ. 11.49)։ Մասն միակ.— Շնորհակալութիւն մեծ՝ բանականս ազգ արդարեւ պարտ է հատուցանել բարերարին Աստուծոյ...։ Էջ 4.— Քարոզ Երկրորդ։ Էջ 14.— Քարոզ Երրորդ։ Յաղագս երից ամաց ընծայեցման Տեառն ի տաճարն։ Էջ 18.— Քարոզ չորրորդ։ Յաղագս Աւետեաց Սրբոյ Կուսի մօր Տեառն։ Էջ 45.— Քարոզ հինգերորդ։ Յաղագս տարեմտին։ Օրհնեսցի պսակ տարւոյ քաղցրութեան քոյ։ Մասն առաջին.— Ի կատարիլ տարւոյն՝ եօթն ինչ հարկաւոր է մեզ առնել ...։ Էջ 152.— Քարոզ Ժ։ Յաղագս Քառասնօրեայ Գալստեան Տեառն ի տաճարն։\nՅիշատակագրութիւնք.— 1. Էջ 1, ստորին լուսանցքին.— ԶԳէորդ նուաստ եպիսկոպոս Եւդոկիոյ որ քաղաքաւ Զմիւռնացի։ 2. Սկիզբի դատարկ թուղթին վրայ, մանիշակագոյն թանաքով, շեղագիր.— Նուէր ի գրատուն Ս. Աթոռոյս ի Տ. Կիրակոս վարդապետէ Մարգարեան Սեբաստացւոյ, 1901 Օգոստոս 28։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "263.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2160-refine.json",
+    "pipeline_version": "v1"
+  }
+}

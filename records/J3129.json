@@ -1,0 +1,68 @@
+{
+  "id": "J3129",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3129",
+  "notice": "3129",
+  "volume": "Jerusalem_V9",
+  "title": "ՇԱՐԱԿԱՆՔ (ՀԱՅԿ. ՁԱՅՆԱԳՐՈՒԹԵԱՄԲ)",
+  "date": {
+    "from": "1896",
+    "to": "1896",
+    "display": null
+  },
+  "fields": {
+    "numero": "3129",
+    "no_notice": "Բ",
+    "titre": "ՇԱՐԱԿԱՆՔ (ՀԱՅԿ. ՁԱՅՆԱԳՐՈՒԹԵԱՄԲ)",
+    "date_debut": "1896",
+    "date_fin": "1896",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "370",
+    "dimensions": "28 X 22 X 2.5",
+    "mise_en_page": "սեւ մելանով, միասիւն. եօթ տող ձայնանիշ եւ ներքեւը եօթ տող գրութիւն",
+    "details_ecriture": "յստակ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "դեղնորակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ նորադրոշմ",
+    "etat_conservation": "լաւ",
+    "copiste": "Վաղարշ Տ. Մարկոսեան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը ութ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Մնկ. Դկ. Պետրոսի եւ Պօղոսի Սրբազան Առաքելոց. — Որ արփիահրաշ...։ Էջ 7. — Համբարձի նոցին, Դկ. — Որ անպարագիրն է յէութեան...։ Էջ 171. — Կանոն Դաւթի Մարգարէին եւ Յակոբայ Առաքելոյն. — Յաղթող գըտաւ ...։ Էջ 181. — Կանոն Սրբոյն Ստեփաննոսի Նախավկային։ Էջ 190. — Օրհնութիւն Որդոցն Որոտման։ Էջ 201. — Կանոն Մծբնայ Հայրապետին։ Էջ 210. — Հարց Ծննդեան Ա. Աւուրն։ Էջ 239. — Կանոն Վարագայ Խաչի։ Էջ 246-364, դատարկ։ Էջ 365. — Ցանկ Ստեղեաց։ Մանկունք, ԲՁ-ԴԿ։ Էջ 366. — Համբարձիք. ԲՁ-ԴԿ։ Ապա ըստ իջաթիւի, էջ 163-239։ Էջ 367-370, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "365.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3129-refine.json",
+    "pipeline_version": "v1"
+  }
+}

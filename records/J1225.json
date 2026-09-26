@@ -1,0 +1,68 @@
+{
+  "id": "J1225",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1225",
+  "notice": "1225",
+  "volume": "Jerusalem_V4",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԵՐԳՈՑ ԵՐԳՈՅՆ",
+  "date": {
+    "from": "1426",
+    "to": "1426",
+    "display": null
+  },
+  "fields": {
+    "numero": "1225",
+    "no_notice": "11",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԵՐԳՈՑ ԵՐԳՈՅՆ",
+    "date_debut": "1426",
+    "date_fin": "1426",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "460",
+    "dimensions": "17x13x5",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 13 տող",
+    "details_ecriture": "սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բամպակեայ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ. նորոգութիւն կրած",
+    "copiste": null,
+    "possesseur": "Թովմա Վրդ. Մեծոփեցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4, գրչափորձեր, եւայլն։ Էջ 5. — Մեկնութիւն Երգերգոցի հոգեխառն իմաստայպատում առն Սողովմոնի արքաի Իսրայէղի, զոր ասացեալ է Տեառն Գրիգորի ներանձնաւոր քահանաի եւ հոգեշնորհ վարդապետի, որդւոյ տեառն Խոսրովա, զոր քրիստոսասէր արքայն Գուրգէն սակս իւրոյ աստուածերկիւղութեանն և ընթերցասէր գոլով, ցանկացեալ այսմ տառի մեծաւ աղաչանաւք եւ խնդրուածովք, եւ մեկնեալ զառակս փեսաին եւ հարսին, որ բացայայտի մեկնութեամբ ի Քս. եւ յեկեղեցի. — Հրամանք քրիստոսասէր թագաւո-"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "391.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1225-refine.json",
+    "pipeline_version": "v1"
+  }
+}

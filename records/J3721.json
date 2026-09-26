@@ -1,0 +1,68 @@
+{
+  "id": "J3721",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3721",
+  "notice": "3721",
+  "volume": "Jerusalem_V11",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑԻՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3721",
+    "no_notice": "Գ",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑԻՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Նման է նախորդ հատորին. էջք 1082։",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Պատմութիւն Եկեղեցւոյն Աստուծոյ, Հատոր Գ։ Գիրք Ե։ Անտոնինոս Պիոս կայսերութեան սկիզբէն մինչեւ Սեւերիոսի կայսերութեան սկիզբը։ Քի. 189 թիւէն մինչեւ 198 թիւը։ Էջ 120–187ի միջեւ կը պակսի 16 էջ, պրակ 9. տեղը դրուած է մէկ թերթ ճերմակ թուղթ։ Էջ 169.— Գիրք Զ։ Սեւերիոսի կայսերութեան սկիզբէն մինչեւ Գաղղոսի եւ Վոլուսիանոսի կայսերութեան սկիզբը, որ է Քի. 198 թուականէն մինչեւ 252 թուականը։ Էջ 496.— Գիրք Է։ Գաղղոսի եւ Վոլուսիանոսի կայսերութեան սկիզբէն մինչեւ մեծին Կոստանդիանոսի կայսերութիւնը։ Քի. 252 թուականէն մինչեւ 306։ Էջ 550–558, չորս էջ լման գծուած ջնջուած։ Էջ 838–849, տասնեօթ էջ լման գծուած ջնջուած։ Էջ 1082.— Վերջ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "185.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3721-refine.json",
+    "pipeline_version": "v1"
+  }
+}

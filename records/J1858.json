@@ -1,0 +1,68 @@
+{
+  "id": "J1858",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1858",
+  "notice": "1858",
+  "volume": "Jerusalem_V6",
+  "title": "ԾԱՆՈՒՑՈՒՄՆ ՍՐԲԱԶԱՆ ՏԵՂԵԱՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1858",
+    "no_notice": "1",
+    "titre": "ԾԱՆՈՒՑՈՒՄՆ ՍՐԲԱԶԱՆ ՏԵՂԵԱՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "62",
+    "dimensions": "19x14",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւորակ մելանով, միասիւն, 18 տող",
+    "details_ecriture": "յստակ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, դատարկ։ Էջ 2.— Հայրապետական նկար, սեւ մատիտով։ Էջ 3.— Ծանուցումն ի վերայ Գլխադրի։ Նախերգանք.— Շնորհք ամենասուրբ տնօրինական տեղեաց...։ Էջ 14.— Ծանուցումն ի վերայ Ծննդեանն Քրիստոսի, որ ի մէջ այրին։ Նախերգանք։ Էջ 24.— Ծանուցումն ի վերայ Գլխադրին։ Նախերգանք։ Էջ 37.— Ծանուցումն Սրբազան Տեղեաց։ Նախերգանք։ Չորրորդ Բանտի։ Էջ 39.— Ի վերայ Հանդերձ Բաժանման։ Էջ 40.— Ի վերայ Գիւտ Խաչի։ Էջ 42.— Ի վերայ Փշեայ պսակ տեղւոյն։ Էջ 44.— Ի վերայ Սբ. Գողգոթայի։ Էջ 48.— Եւ ի վերայ Լուսաբուղխ Գերեզմանին Քրիստոսի.— Ամ. իրաց վախճանն է գովելի...։ Էջ 52-62, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "262.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1858-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2112",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2112",
+  "notice": "2112",
+  "volume": "Jerusalem_V7",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Ւ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2112",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Ւ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "144 + 128",
+    "dimensions": "21.5 X 13.5 X 1",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 21 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական գրեթէ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապոյտ",
+    "nb_lignes": null,
+    "reliure": "հինցած",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 — Յաղագս Հաւաքաբանութեան — Այն ազգն է միշտ քաջահմուտ խոհեմ եւ առաքինի, որ յարաժամ նախ քան զամենայն իրական գործունէութիւնս իւրոյ սեփական մարմնաւոր ազգութեան, զաստուածպաշտութեան համբուրելի կրօնս դաստիարակեալ ըստ անձէ գործով ըստ Տեառն բանի առնել եւ ուսուցանել, մեծ կոչիլ յարքայութեան երկնից...։ Էջ 6 — Կրկին կանոն հաւաքաբանութեան։ Էջ 11 — Մակածութիւն։ Էջ 39 — Կանոն հեզնութեան եւ կշտամբանաց։ Էջ 55 — Բարձրագոյն Ամենապատիւ հայր ցանկալի ի Քս. 1855, Փետր. 18։ Էջ 66 — Ձեւք բառից, Յաղագս կրկնութեան. 1855, Յունիս 16։ Էջ 112 — Մակադանչութիւն։ մաստասիրել. — Հողմն հարաւոյ հնչէր բուրաստան...։ Էջ 120–128, դատարկ։\nԷջ 140 — Բացադարձութիւն. — 13. — Զարթիր, զարթիր, Ո՛ հայր այգեաց...։ Էջ 143–144, դատարկ։\nԺ Ո Ղ Ո Վ Ա Ծ Ո Ւ (Կրօնական) Էջ 1 — Ծանուցումն ի վերայ Սբ. Գըլխադրին։ Էջ 11 — Ծանուցումն ի վերայ Գլխադրին։ Էջ 16 — Ծանուցումն ի Սբ. Ծնունդ Քրիստոսի։ Էջ 22 — Ծանուցումն ի վերայ Սբ. Ծընընդեանն Քրիստոսի։ Էջ 28 — Քարոզ Ողջունի. — Կարգաւորներուն առաջին պարտաւորութիւնն այս է, որ տեղ մը գացած ժամանակը իրեն առաջին խօսքն այս ըլլայ, Ողջոյն ձեզ...։ Էջ 41 — Քարոզ Վերացման Խաչի։ Էջ 63 — Ծանուցում ի Վանս Ասորոց։ Էջ 86 — Ձօն մաղթանաց ուղերձագրութեան տօնի շնորհաւորութեան անուան Ղուկաս Վարդապետի սուրբ հօր իմոյ...։ ... Ն. Ծ. Մարտիրոս Վարդապետ, 1855, Հոկ. 12, ի Ռեմլէ։ Էջ 107 — Քարոզ նուիրակութեան մնաք բարեաւ ասելոյ։ Էջ 111 — Քարոզ Գալստեան։ Էջ 126–128, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "198.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2112-refine.json",
+    "pipeline_version": "v1"
+  }
+}

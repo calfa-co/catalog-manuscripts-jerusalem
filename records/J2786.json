@@ -1,0 +1,68 @@
+{
+  "id": "J2786",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2786",
+  "notice": "2786",
+  "volume": "Jerusalem_V8",
+  "title": "ԿՐԹՈՒԹԻՒՆ ՔՐԻՍՏՈՆԷԱԿԱՆ",
+  "date": {
+    "from": "1901",
+    "to": "1901",
+    "display": null
+  },
+  "fields": {
+    "numero": "2786",
+    "no_notice": null,
+    "titre": "ԿՐԹՈՒԹԻՒՆ ՔՐԻՍՏՈՆԷԱԿԱՆ",
+    "date_debut": "1901",
+    "date_fin": "1901",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "112+44",
+    "dimensions": "21x13.5x1.5",
+    "mise_en_page": "սևորակ մելանով, միասիւն, 39 տող, կամ նուազ։ Մանր շեղագիր մաքուր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ։",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Մինաս Վրդ. Ամերիկեան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Ճակատ.— Պու Գիրք օլ տուր քի Քրիստոնէական հաւատքըմըզա իգթիզալը կէրէք օլան պիր գաչ էօյրէնիլէճէքլէր տիր։ Հայճա պիլմէյէն քրիստոնեա եղբայրլարըմըզ իչիւն թիւրքճէ շարադրել օլունտու ՌՃՂԱ, 1742 տէ, վէ ատընը Կրթութիւն Քրիստոնէական տէմիշլէր։ Օրինակել էթտի Մինաս վարդապետ Ամերիկեան 1901, Երուսաղէմտէ, Փետրվար 25, անառակ կիւրակէսինտէ պաշլատը, վէ խիթամընա եէթիշտիրմէք Րապպ Յիսուսա միւթաճ տըր",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1.— Օգնեա Հոգի Սուրբ։ Հայճա պիլմէյէն քրիստոնեա եղբայրլարըմըզա պիր գաչ իգթիզալը էօյրէնիլէճէքլէր ինշա օլունտու։ էջ 105.— Ֆիհրիսթ։\nէջ 112.— Գրասթը Ճէտիտէ.— Ֆիհրիսթ.— Ա-ԺԶ Գլուխներ։ էջ 1.— Ա.— Ալլահ եարատան։ էջ 21.— ԺԶ.— Եէնի Տիւնեա։ էջ 22.— Մահշէր Կիւնիւ։ էջ 43.— Պու տախի Եումկ Կէճէլէրինին պէշինճիսինտէն ալընմա տըր։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "435.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2786-refine.json",
+    "pipeline_version": "v1"
+  }
+}

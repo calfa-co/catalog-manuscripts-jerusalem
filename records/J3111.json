@@ -1,0 +1,68 @@
+{
+  "id": "J3111",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3111",
+  "notice": "3111",
+  "volume": "Jerusalem_V9",
+  "title": "ԳԻՐՔ ՃԱԿԱՏԱՄԱՐՏՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3111",
+    "no_notice": "7",
+    "titre": "ԳԻՐՔ ՃԱԿԱՏԱՄԱՐՏՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ+186",
+    "dimensions": "22.5X15.5X2",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 20 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ հնամաշ։ Առաջին կողքին ներսի կողմը փակցուած պիտակին վրայ կը կարդացուի. «Նուիրեալ Տիգրան Գազազեանէ ի Մատենադարանն Առաքելական Աթոռոյ Սրբոց Յակոբեանց յԵրուսաղէմ 22 Յնվր. 1926»",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա.— Յառաջաբանութիւն շարադրողի սոյն գրքոյս.— Օրհնեալ է Հայր եւ Որդին եւ Սբ. Հոգին ճշմարիտ մի Աստուածութիւնն ...։— Հմմտ. թիւ 388, Բ. Հատոր, էջ 311։ Էջ Զ, դատարկ։ Էջ 1.— Զծածուկ խորհուրդսն այժմ բացայայտեալ։ Գլուխ Առաջին.— Վասն արեան քրիստոնէից...։ Էջ 42.— Գլուխ Երկրորդ.— Վասն նախահարցն ասէ...։ Էջ 69.— Գլուխ Երրորդ։ Էջ 100.— Գլուխ Չորրորդ.— Աստանօր յայտնաբանէ...։ Էջ 183.— Յայտարարութիւն ինչ վասն գրքոյս ի թարգմանչէն։ Էջ 186, դատարկ. վարի կէսը կտրուած։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "344.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3111-refine.json",
+    "pipeline_version": "v1"
+  }
+}

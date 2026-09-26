@@ -1,0 +1,68 @@
+{
+  "id": "J3556",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3556",
+  "notice": "3556",
+  "volume": "Jerusalem_V10",
+  "title": "ՔՐԻՍՏՈՆԷԱԿԱՆ",
+  "date": {
+    "from": "1881",
+    "to": "1881",
+    "display": null
+  },
+  "fields": {
+    "numero": "3556",
+    "no_notice": null,
+    "titre": "ՔՐԻՍՏՈՆԷԱԿԱՆ",
+    "date_debut": "1881",
+    "date_fin": "1881",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "45",
+    "dimensions": "23x16.5",
+    "mise_en_page": "խորագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, ձախը հայերէն, աջը արաբերէն, 21, տող, կարմիր գիծերու միջեւ։ Նոտր շեղագիր յստակ",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "սրճագոյն թուղթ, առաջին երեսին շեղագիր, \"Համառօտ քրիստոնէական, Հայ-Արաբերէն, 1881\"",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը մէկ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Տիտղոսաթերթ.— Քրիստոնէական հաւաքեալ յումեմնէ բանասիրէ համառօտաբար վասն մանկանց անվարժից կամ թերավարժից, ի թուականիս Հայոց այս ՌՄԼԲ, յունվարի Ա։ Տպագրեցեալ ի տպարանի Պետրոսեան Ստեփանոսի։ Եւ այժմ թարգմանեալ ի հայերէն լեզուէ յարաբացի լեզու ձեռամբ անարժան եւ մեղսաթաթաւ տիրացու Գասպարի որդի Յովսէփու ոսկերչի Տէր Խաչատուրեան, յօգտութիւն մանկանց արաբացւոց լուսաւորչադաւանք ի մայրաքաղաքին Բերիոյ, յամի Տեառն 1881, ի մարտի ԻԳ։ Էջ 1ա.— Մասն Առաջին։ Ա.—Հարց.—Դու քրիստոնեա՞յ ես։ Պատասխանի.—Այո՛ քրիստոնեայ եմ։ Բ.— Զի՞նչ է նշանն քրիստոնէից։ Պատ.—Սուրբ եւ պատուական խաչն քրիստոսի։ Էջ 3ա.—Մասն Երկրորդ։ Ա.— Հարց.— Այս յերից անձանց մի անձն մարդացա՞ւ։ Պատ.— Այո մարդացաւ։ Էջ 8ա.— Մասն Երրորդ։ Ա.—Հարց.—Սուրբ եկեղեցի ասել զի՞նչ ասել է։ Էջ 22ա.— Վերջ։ Էջ 23ա.— Դաւանութիւն Ուղղափառ Հաւատոյ.—Խոստովանիմք եւ հաւատամք...։ Էջ 27ա.— Աղօթք իւրաքանչիւրոց անձանց հաւատացելոց ի Քս. զոր արարեալ է Տեառն Ներսեսի Հայոց Կաթողիկոսի.— Հաւատով խոստովանիմ...։ Էջ 36ա.—Աղօթք Մանասէի Թագաւորին.—Տէր ամենակալ...։ Էջ 41ա.—Աղօթք զօրաւորք ասացեալ Սրբոյն Գրիգորի Նարեկացւոյն.— Որդի Աստուծոյ Կենդանւոյ...։ Էջ 44–45, համարեա դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "553.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3556-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J1646",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1646",
+  "notice": "1646",
+  "volume": "Jerusalem_V5",
+  "title": "Մ Ա Շ Տ Ո Ց",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1646",
+    "no_notice": "36",
+    "titre": "Մ Ա Շ Տ Ո Ց",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԶ+448։ Պըրակաթիւք անկանոն. Ա–Ե (էջ 1–130), Ա– Բ (131–174), ԺԴ–ԺԵ (177–226), Ա–Ժ (227– 448)",
+    "dimensions": "13X9X5.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մընացեալը սեւ մելանով, միասիւն, 13, 14 տող",
+    "details_ecriture": "սովորական գրեթէ։ Նարնջագոյն լուսանցազարդ, էջ 72, 176, 222",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ թանձր",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ գծազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք վերջը երեք թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր, լուսանցազարդ եւ խորան, էջ 1",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ Ա-Դ, դատարկ մեծագոյն մասամբ։ էջ Ե-ԺԲ, նոտրագիր, քանի մը շարականներ։ էջ ԺԳ-ԺԶ, դատարկ։\nէջ 1.— Կանոն Մկրտութեան։ էջ 70.— Կանոն Պսակ դնելոյ։ էջ 105.— Կանոն Թաղ վերացնելոյ։ էջ 123.— Կանոն երկրորդ պսակի առնել։ էջ 129-130, դատարկ։ էջ 131-175, նոտրագիր։ էջ 131.— Կանոն Հոգեհանգիստ առնել մեռելոց։ էջ 200.— Կանոն Աւրհնութիւն յաղի։ էջ 206-210, դատարկ։ էջ 211.— Աւրհնութիւն հատի, եւ պատարագի։ էջ 222.— Գանձ Թաղման ննջեցելոց, ի յԱռաքել Վարդապետէ.— Այսաւր եհաս հրաման։ էջ 223.— Կանոն Տեառնական Աւրհնենելոյ։ էջ 250.— Կանոն Աւազան Աւրհնելոյ։ էջ 262.— Կանոն նաւակատեաց եկեղեցւոյ, պղծել Տաճարի յանաւրինաց, եւ շարժեալ սեղանոյ վերըստին հաստատել։ էջ 316.— Կանոնն ապաշխարող առնելոյ։ էջ 373.— Կանոնն Մեծի Հինգշաբաթին զապաշխարողսն արձակելոյ։ էջ 429.— Կանոն Սկի եւ Մաղզմա Աւրհնել։ էջ 430.— Կանոն զարմտիս, սերմն եւ շեղջ եւ զհնձան աւրհնել։ էջ 439.— Կանոն հանդերձեղէն սպաս աւրհնել։ էջ 445.— Աղաւթք որ ի կերակուրն միայն է պղծեալ։ էջ 448, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "484.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "485.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1646-refine.json",
+    "pipeline_version": "v1"
+  }
+}

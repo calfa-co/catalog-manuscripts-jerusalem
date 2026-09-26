@@ -1,0 +1,72 @@
+{
+  "id": "J2824",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2824",
+  "notice": "2824",
+  "volume": "Jerusalem_V9",
+  "title": "ՏՈՄԱՐ ՆՆՋԵՑԵԼՈՑ",
+  "date": {
+    "from": "1792",
+    "to": "1860",
+    "display": null
+  },
+  "fields": {
+    "numero": "2824",
+    "no_notice": null,
+    "titre": "ՏՈՄԱՐ ՆՆՋԵՑԵԼՈՑ",
+    "date_debut": "1792",
+    "date_fin": "1860",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "32x21x2: Էջք 156: Հանգամանք բաւարար. մասամբ ցեցակեր: Թուղթ հասարակ անփայլ: Գրութիւն սեւ մելանով, միասիւն, 35 տող կամ նուազ: Շեղագիր: Համառօտագրութիւնք բաւական առատ: Կաշեկազմ խաւաքարտեայ դրոշմազարդ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, դատարկ: Էջ 7.— Սարգիս Վրդ. Հաճեցի՝ նուիրակ Տիգրանակերտի եւ Պարսկաստանու, ի դարպասնութեան հանգեաւ:— 1850, Դեկ. 11: Էջ 9.— 1859, Յնվ. 27.— Եփրեմ Վրդ. ... Հաճեցի...:\n1859, Յնվ. 29. — Մեսրոպ Վրդ. Կարապետեան, Գալըճնեանց, Տիգրանակերտցի . . . : Էջ 11-76, դատարկ: Էջ 74-75ի միջեւ կան կտրուած թերթերու արմատներ: Էջ 77. — 1847, Յնվ. 31. — Շապին Ղարահիսարցի Կիւրեղ Օհանեան: 1847, Նոյմ. 15. — Իւսկիւտարցի Մինաս Եալտըզճի, որ եկեալ էր ոսկեզօծել զխաչկալսն եկեղեցւոյ: 1848, Փտր. 17. — Սղերտցի Թովմաս դերձակ, յարբեցութենէ մեռաւ, առանց զղջման եւ հաղորդութեան, վասնորոյ եւ առանց ննջեցելոց կարգի կատարման թաղեցաւ՝ սոսկ հոգւոցիւ: Էջ 84-147, դատարկ: Էջ 148-152, սիւնակներ գծուած բայց ոչ կիրարկուած: Էջ 154-155ի միջեւ կան կտրուած թերթերու արմատներ: Էջ 153-156, դատարկ գրեթէ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "058.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "059.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2824-refine.json",
+    "pipeline_version": "v1"
+  }
+}

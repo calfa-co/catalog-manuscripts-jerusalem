@@ -1,0 +1,68 @@
+{
+  "id": "J1080",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1080",
+  "notice": "1080",
+  "volume": "Jerusalem_V4",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԱՂԵՔՍԱՆԴՐԻ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1080",
+    "no_notice": "4",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԱՂԵՔՍԱՆԴՐԻ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "20 x 15 x 1",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 25 տող",
+    "details_ecriture": "գրեթէ սովորական",
+    "types_cahiers": "60",
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ ։ Կազմի ժամանակ թուղթերը սխալ զետեղուած են",
+    "etat_conservation": "լաւ . թղ . 26 եւ 28 վարէն մաս մը կըտրուած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Թղ . 1ա . — Պատմութիւն մեծի աշխարհակալին Աղեքսանդրի Մակեդոնացւոյն՝ վարուցն եւ քաջութեանն . — Իմաստունքն Եգիպտացւոց՝ երկրի եւ ծովու չափոյ հասեալ, եւ զերկնից աստեղս թըւեալ, աւանդեցին ամ . աշխարհի . . . ։ Ծանօթ . — Սոյն ձեռագիրը «կը պարունակէ Աղեքսանդրի Պատմութեան շատ համառոտ բնագիր մը եւ կաֆաներ, նոտրագրուած սեւագեղով ։ Թուական չունի ։ Կաֆաներու բնագիրը համընթաց է Բ . օրինակին» (Սիոն, 1953, էջ 163) ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "142.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1080-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J1384",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1384",
+  "notice": "1384",
+  "volume": "Jerusalem_V5",
+  "title": "Տ Ո Մ Ա Ր Ա Գ Ի Տ Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1384",
+    "no_notice": "1",
+    "titre": "Տ Ո Մ Ա Ր Ա Գ Ի Տ Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "104",
+    "dimensions": "16X11X1.5",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը նարնջագոյն, մնացեալը սեւ մելանով, միասիւն, 19 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ։ Լաթակազմ խաւաքարտեայ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–6, դատարկ, նոր թուղթ։ Էջ 7.— Զինճիֆիրէ ներկի նուկին Գ ղռշ. կը ծախվի եթէ շինես...։ — Կեսարիա քաղաքն է այս գինս։ Էջ 8.— Ամիսք եւ տոմարք Հայոց։ Էջ 9.— Տոմար Հայոց.— Զկրկնակ ամսոց այսպէս արայ, կալ զնաւասարդի ամիսն...։ Էջ 35.— Արդ իմ եղբարք, զի մեք առաջին մեկնիչն որ արարաք, ժ մտօք ցուցաք, որ կարծիք սուտ է՝ թէ լուսինն պիտի բոլորի և այլ ոչ խոռի։ Եւ որպէս ասացաք, այսպէս եւ ականատես եղաք ամիս յայսմիկ, որ էր թուականս ՊԿԵ [=1416], եւ էր ամս այս կատարեալ լուսին...։ — Հմմտ. թիւ 1244, Դ. Հատոր, էջ 401։ Էջ 40.— Թուական ամ. ազգաց այսպէս արա։ Էջ 48.— Վասն Դարուց.— Առաջին դարն, Յենովք անմահութիւն փոխեցաւ...։ Էջ 75.— Տոմար Հռոմայեցոց.— Թըւական այսպէս արա...։ Էջ 101.— Առաջաւորաց Բարեկենդան գտանելո։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "051.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1384-refine.json",
+    "pipeline_version": "v1"
+  }
+}

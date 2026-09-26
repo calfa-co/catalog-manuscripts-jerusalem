@@ -1,0 +1,68 @@
+{
+  "id": "J3586",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3586",
+  "notice": "3586",
+  "volume": "Jerusalem_V10",
+  "title": "ՊԱՏԵՐԱԶՄԸ",
+  "date": {
+    "from": "1985",
+    "to": "1985",
+    "display": null
+  },
+  "fields": {
+    "numero": "3586",
+    "no_notice": null,
+    "titre": "ՊԱՏԵՐԱԶՄԸ",
+    "date_debut": "1985",
+    "date_fin": "1985",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "667",
+    "dimensions": "19.5x13.5x3.5",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "եւայլն ըստ նախորդին",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "շատ լաւ",
+    "copiste": "եւայլն ըստ նախորդին",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ա. Շիտանեան, Պատերազմը, Պատմական Վէպ։ Սօֆիա, Տպար. Պ. Պալըգճեան, 1929։ Էջ 3.— Տպագրեալէն ընդօրինակեց Յ. Վ. Պարոնեան, Առաք. Ուխտէն Ս. Յակոբեանց, Երուսաղէմ, 1985։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "650.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3586-refine.json",
+    "pipeline_version": "v1"
+  }
+}

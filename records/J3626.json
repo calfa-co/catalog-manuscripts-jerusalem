@@ -1,0 +1,68 @@
+{
+  "id": "J3626",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3626",
+  "notice": "3626",
+  "volume": "Jerusalem_V11",
+  "title": "ԱՒԵՏԱՐԱՆ. մեծ. 40.15x30 սմ. համակ արծաթապատ, մագ. երկաթագիր.",
+  "date": {
+    "from": "1734",
+    "to": "1734",
+    "display": null
+  },
+  "fields": {
+    "numero": "3626",
+    "no_notice": "118",
+    "titre": "ԱՒԵՏԱՐԱՆ. մեծ. 40.15x30 սմ. համակ արծաթապատ, մագ. երկաթագիր.",
+    "date_debut": "1734",
+    "date_fin": "1734",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "060.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3626-refine.json",
+    "pipeline_version": "v1"
+  }
+}

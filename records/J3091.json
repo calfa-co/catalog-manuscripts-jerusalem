@@ -1,0 +1,68 @@
+{
+  "id": "J3091",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3091",
+  "notice": "3091",
+  "volume": "Jerusalem_V9",
+  "title": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": "1894",
+    "to": "1894",
+    "display": null
+  },
+  "fields": {
+    "numero": "3091",
+    "no_notice": "1",
+    "titre": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+    "date_debut": "1894",
+    "date_fin": "1894",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "140. սխալմամբ կրկնուած են էջ 21 եւ 63",
+    "dimensions": "20.5×16",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 18-20 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: չափաւոր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "դեղնորակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Գերմանիկցի մը",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ. «Սամուէլ Վրդ. Կիրակոսեան», էջ 1, 52",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Սահման. 1.— Ճարտասանութիւնը կամ աւելի պարզ Ճարտարախօսութիւնը բնութեան մէկ ձիրքն է, տրուած մարդիկներէն որոշեալ անհատներու. այս է պատճառը, որ ամէն ցանկացող՝ ճարտարախօս չը լինիր։ Էջ 2.— Մասն Ա.— Գիւտ։ Էջ 35.— Մասն Երկրորդ.— Ճոխաբանութիւն։ Էջ 83.— Մասն Երրորդ.— Դասաւորութիւն։ Էջ 122.— Ատենական Հանդէս։ 124.— Ատենական հանդէս ըսելով պէտք է իմանալ դատաստանական ատեան մի...։ Էջ 124.— Վերջ։ 1894 յունիս 28. Գերմանիկցի մը։ Էջ 125-140, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "324.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3091-refine.json",
+    "pipeline_version": "v1"
+  }
+}

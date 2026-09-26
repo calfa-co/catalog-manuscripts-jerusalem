@@ -1,0 +1,68 @@
+{
+  "id": "J408",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "408",
+  "notice": "408",
+  "volume": "Jerusalem_V2",
+  "title": "ՄԵԿՆ. ՀՌՈՎՄԱՅԵՑՒՈՑ ԹՂԹՈՅՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "408",
+    "no_notice": "3",
+    "titre": "ՄԵԿՆ. ՀՌՈՎՄԱՅԵՑՒՈՑ ԹՂԹՈՅՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "748",
+    "dimensions": "24 X 17 X 4",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 27 տող",
+    "details_ecriture": "շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Մեկնութիւն յամենայն ընթերցուածս Սրբոյն Պօղոսի։ Էջ 3.— Յառաջաբանութիւն գերազանցութեանց Սրբոյն Պօղոսի։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "363.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "408-refine.json",
+    "pipeline_version": "v1"
+  }
+}

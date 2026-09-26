@@ -1,0 +1,68 @@
+{
+  "id": "J1186",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1186",
+  "notice": "1186",
+  "volume": "Jerusalem_V4",
+  "title": "ՄԷՅՎԷ ԽԻԼԱՍԷՍԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1186",
+    "no_notice": "1",
+    "titre": "ՄԷՅՎԷ ԽԻԼԱՍԷՍԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "130",
+    "dimensions": "19X12.5",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 20 տող։ Նոտր շեղագիր",
+    "details_ecriture": "սակաւ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Տ. Սաւալանեան ներկայացուցած է սապէս. «Հերքումն գրոց Գաղատացի Տէվրիշեան Պօղոս Վարդապետի ի կարգէ ուխտին Լիբանանու. իսկ հերքողն է ի Մխիթարեանց, որ տաճկական լեզուաւ հերքելով զվարդապետութիւնս նորին յայտ յանդիման կացուցանէ զհերետիկոսական միտս նոցին եւ պախարակէ զժողով կարտինալացն Հռովմայ որոց հրամանաւ տպեալ է գիրքն Հոգելից Պտուղ անուամբ։ Իսկ ըզսոյն մատեան կոչէ հեղինակն Մէյվէ Խիւլասէսի, որով ապացուցանէ զուղղափառութիւն Եկեղեցւոյն Հայոց» (Ցուցակ, էջ 634— 635)",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Մէյվէ Խիւլասէսի։ Քի Տէվրիշ օղլունուն եափտըղը Հոգելից Պտուղ նամինտէ օլան քիթապը խիլասէ իտէր.— Նէ մութլու սանա էրմէնիեան միլլէթի քի, սէն ուլքուտա, պաղթըն չալըմատայ. զիրա չօղալտը ուղղափառ քարոզիչլէր, չօղալտը քիթապ թէլիֆ էտէնլէր, վէ պասմա էթտիրէնլէր...։ Էջ 3.— Քիթապըն աննընտաքի եազըլան, Պութիթապըն իսմի, Հոգելից Պտուղ տէյու թէսմիէ իթմիշ. տէյիլքի րուհ իլէն տօլմուշ մէյվէ, իլլա՝ եաղըշլըղիլէ միւլէմմա չիւրիւք մէյվէ...։ Էջ 95.— Նէթիճէի քէլամ.— Ճիւմլէնին մալիւմի տիր քի, պունուն էմսալի պազի ֆրէնկլէնմիշ հայ կարդաւորլար...։ Իշտէ Հայոց Եկեղեցիին վարդապետութիւնը պու նէթիճէի քէլամտա պազը էրմէնիճէ պիլմէյէն քրիստոնեայլէրէ քապա թիւրքճէ իլէն մուխթասարիճէ պիլտիրտիք. ազտան չօք աղնայասընըզ. վէսսէլամ։ Էջ 123, տարբեր գրով.— Զաս Մխիթարեանք ընդդէմ Լիբանանցւոց գրեալ են ի Կոստանդնուպօլիս։ Էջ 124—130, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "312.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1186-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2080",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2080",
+  "notice": "2080",
+  "volume": "Jerusalem_V7",
+  "title": "Մ Ի Ւ Ֆ Ր Է Տ Ա Թ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2080",
+    "no_notice": "1",
+    "titre": "Մ Ի Ւ Ֆ Ր Է Տ Ա Թ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "18.5 x 14 x 2 : Էջք 292 : Հանգամանք շատ լաւ : Գրութիւն՝ խորագիրները եւ սկզբնատառերը կարմիր , մնացեալը սեւ մելանով , ոսկեգոյն շրջանակի մէջ , դրուածքը միասիւն է , սակայն էջը վերէն վար բաժնըւած ոսկեգոյն զոյգ գիծերով , 20 տող : Նոտրագիր վարժ : Կազմ կիսակաշի խաւաքարտեայ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 . — Ղազէլլէրտէն վէ պէտտէլէրտէն սէրիզա օլմուշ միւֆրէտաթ : . . . : Միւֆրէտ : Մէքթէպ կէօրմէմիշ նէրտէն կէօրսիւն էտէպ , Էշէկին պաշինէ ալթուն քիւլահ գօսան՝ կինէ մէքթէպ կինէ մէքթէպ : Էջ 48 , դատարկ : Նոյնպէս 62 , 67 , 68 : Էջ 49 . — Կարճառօտ ասութիւնք : Տօսթ իսթէրսէն Ալլահ եիթէր , տէվլէթ իսթէրսէն գանաաթ եիթէր , զէվգ իսթէրսէն օգումագ եիթէր : Էջ 51 . — Բուայայի : Պօղազլանըր պէշ օն գօճուն , սէվինիր պիւպիւթիւն սօհուն , իւչ կիւնէտէք պիթէր տիւնիւն , պունտէն ղիեատէ , քիշիեէ օհուն օլմազ : Էջ 69 . — Էմսալի Լէվնի չէլէպի : Էջ 99 . — Թէքէրնամէ Հասան Չէլէպինինկ : Էջ 139 . — Թէրնիպէնտի Ալի Չէլէպի : Էջ 158 . — Թախմիսի Աշըգ Էօմէր : Էջ 188 . — Միւստէսէսի Շէրիֆ Էֆէնտի : Էջ 192 . — Միւստէմէնի վահշի , որ շինեցեալ է ի վերայ տէր կօմիտասին . — Գօմա օլ մաղլըմըն ահըն , դալապիթ զանը նի խարէպ . . . : Էջ 219 . — Իլահիեաթ : Էջ 247 . — Ղազէլի : Էջ 248 . — Ղազէլի Սալիհ Էֆէնտի , թախմիսի վէյսի : Էջ 284-86 , դատարկ , թէեւ գծուած : Էջ 287ա . — . . . . . . . . . . . . . . . որ է ասել ցանկ : Էջ 291-292 , դատարկ , թէեւ գծուած նախորդներուն պէս :\nՅետնագոյն յիշատակագրութիւն . — 1838 Էջ 81 , ստորոտը , տարբեր գրչէ . — Յիշատակ է Երուսաղէմի միաբան Անդրիանուպօլսեցի նախկին պատրիարք մեծի Պօլսոյ Պօղոս սրբազան արքեպիսկոպոսի ձեռնասուն աշակերտ , Չօրլուցի Տէր Կարապետեան նըւիրակ հանգուցեալ Երեմիա շնորհազարդ վարդապետին , ի դուռն Սրբոց Յակոբեանց մայր աթոռոյն ամ . Հայոց , 1838 , սեպտ . 8 :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "167.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2080-refine.json",
+    "pipeline_version": "v1"
+  }
+}

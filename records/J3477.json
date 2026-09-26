@@ -1,0 +1,68 @@
+{
+  "id": "J3477",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3477",
+  "notice": "3477",
+  "volume": "Jerusalem_V10",
+  "title": "Ճ Ա Ռ Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3477",
+    "no_notice": "1",
+    "titre": "Ճ Ա Ռ Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "397",
+    "dimensions": "24x15.5x6.5",
+    "mise_en_page": "սեւ մելանով, կան կարմիրով խորագրեր եւ բառեր։ Երկսիւն, 32–34 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "անբաւարար. վնասուած կրակէ, ջուրէ, հնութենէ եւայլն. սկիզբը եւ վերջը թերի",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Առանձին թուղթի վրայ, շեղագիր.– Երուսաղէմի Ասորւոց Ապտուլ Նուր եպիսկոպոսը կը նուիրէ Ս. Յակոբայ Վանուց 1876ին սոյն ձեռագիրն որ է Վարք Սրբոց եւ Ճառք Կիւրղի Աղեքսանդրացւոյ։ Հմմտ. էջ 4, ձախակողմեան լուսանցքի յիշատակագրութիւնը (Ասորերէն) ; ԾԱՆՕԹՈՒԹԻՒՆ: S.P. Cowe ի կողմէ տրուած.– Ձեռագրիս մէջ Վարք Սրբոց չկայ։ Մէկ գիրք է, Ճառք Կիւրղի Աղեքսանդրացւոյ, Հնգամատենի Մեկնութեան ճառեր. «Յաղագս Հոգւով եւ ճշմարտութեամբ Երկրպագութեան եւ Ծիսի»։ Բաղկացած է 17 Ճառերէ։ Առաջին հինգ ու կէս ճառերը կէս կը մնայ։ Ենթադրութեամբ գրուած՝ Ձեռագիրը 7–8 դարերէն աւելի յետոյ ընդօրինակուած պէտք է ըլլայ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "467.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3477-refine.json",
+    "pipeline_version": "v1"
+  }
+}

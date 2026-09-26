@@ -1,0 +1,68 @@
+{
+  "id": "J2772",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2772",
+  "notice": "2772",
+  "volume": "Jerusalem_V8",
+  "title": "Լ Ո Ւ Ս Ա Ն Կ Ա Ր Չ Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2772",
+    "no_notice": "1",
+    "titre": "Լ Ո Ւ Ս Ա Ն Կ Ա Ր Չ Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "406",
+    "dimensions": "24.5×16×2",
+    "mise_en_page": "շեղագիր այլազան, միասիւն, 29 տող կամ նուազ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4, դատարկ։ Էջ 5. — Տեսութիւն. — Ամենէն յառաջ այնպէս ընելու է, որ շամպը նուարին աղօտ ապակին ճիշտ այն տեղն դրուած լինի, ուր որ զգայուն ապակին պէտք է դրուիլ...։ Էջ 28-32, դատարկ։ Էջ 33. — Քոթոն Ազօթիզ կամ Քոթոն լուծական։ Էջ 49. — Նէկադիֆ. — Ընդհանուր խօսք ապակի մաքրելու։ Էջ 65. — Գոլլոտիօնի ծեփին զգայունութիւնը պահպանելու միջոցը։ Էջ 73. — Փոխանցում Ալպիւմինէ թղթի վրայ նէկաթիֆ պատկերի։ Էջ 75. — Երկրորդ Մասն։ Փողիղիֆք։ Էջ 117. — Լուսանկարչութեան մէջ կիր առնուած քիմիական նիւթեր։ Էջ 122-406, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "414.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2772-refine.json",
+    "pipeline_version": "v1"
+  }
+}

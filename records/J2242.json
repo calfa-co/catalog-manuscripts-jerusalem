@@ -1,0 +1,68 @@
+{
+  "id": "J2242",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2242",
+  "notice": "2242",
+  "volume": "Jerusalem_V7",
+  "title": "ՏՈՄԱՐԱԿԱՆ ԱՂԻՒՍԱԿՆԵՐ (Բ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2242",
+    "no_notice": "6",
+    "titre": "ՏՈՄԱՐԱԿԱՆ ԱՂԻՒՍԱԿՆԵՐ (Բ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "28",
+    "dimensions": "36 x 24 x 1",
+    "mise_en_page": "գոյնզգոյն մելաններով, բառեր՝ նոտրագիր, թըւանշաններ եւրոպական եւ արաբական",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ. — Հմմտ. թ. 2186։ Մէջը կայ աւելի փոքր տետրակ մը գըրուած սեւորակ մելանով, միասին, 30 էջ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-3, դատարկ։ Էջ 4, վերի լուսանցքին. — Ճէտվէլի թասիհի իշթիմայ վէ իստիքպալ վէ քիւլլիւ նազարէթ։ — Ստորոտը. — Լուսինն թէ անցեալ իցէ քան զարեգակն՝ ի կէս աւուր ժամուն հան ....։ Էջ 11. — Ծնու[ն]դ լուսնոյ ժամաւն եւ կենդանակերպիւն մուտ այսր...։ Էջ 13. — Ճէտվէլի քիւսիւֆի զամէր թէվափուսի րապի Ավրահամ Զաքուրօ. — Հմմտ. թ. 2240։ Էջ 18-25. — Շէմսի սանէ տէվրի 136 սէնէ, հէր պիր տէվիր պիր կիւն 20 թաթիէ թարխ օլաճախ։ Էջ 26-28, դատարկ։\nՓոքր տետրակի. — Էջ 3. — Խրատ գործածութեան Զիճին։ Գլուխ Ա. — Զիճն գլխաւորաբար ուսանիլ տայ մեզ զչորս ինչ, այս է՝ զծնունդ լուսնի, զլրումն լուսնի, զխաւարումն լուսնի, եւ զխաւարումն արեգական։ Արդ զծնունդն եւ զլրումն լուսնի կարես գտանել այսու եղանակաւ։ Նախ պարտիս մտանել յաղիւսակս լուսնի. — Յօդուած Ա. — Յաղիւսակս լուսնի այսպէս կարես մտանել, նախ՝ առ ի ձեռն զթուականն փրկչին՝ յորում ես, եւ ապա հան ի նմանէ զթիւն՝ յորում շինեցաւ Զիճն, եւ ի յաւելուած թիւն որոնեա՛ 31, որ է շրջան մի, եւ որ ինչ յաւելանայ՝ նշանակեա ի ներքոյ զայս օրինակ։ Թիւ Փրկչական 1818 Թիւ շինման Զիճին հանելի 1472 և այս է յաւելուած թիւ, յորում գտանի 346 շրջան 11 եւ յաւելանայ թիւ 5 Եւ վասն յաւելեալ 5 թուոյն՝ պարտիս մտանել ի հինգերորդ աղիւսակն լուսնի...։ Էջ 7. — Յօդուած Բ. — Յաղագս մտանելոյ յաղիւսակ արեգական...։ Էջ 12. — Յաղագս խաւարման լուսնի։ Էջ 15. — Յաղագս խաւարման Արեգական։ Էջ 18-24, դատարկ։ Էջ 25. — Խրատ վասն գործածութեան հրէից տօմարին։ Էջ 27-30, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "372.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2242-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3077",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3077",
+  "notice": "3077",
+  "volume": "Jerusalem_V9",
+  "title": "ԿՏԱԿ ՄԵԾԻ ՈՒՐԲԱԹՈՒ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3077",
+    "no_notice": null,
+    "titre": "ԿՏԱԿ ՄԵԾԻ ՈՒՐԲԱԹՈՒ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "34",
+    "dimensions": "20X15",
+    "mise_en_page": "խորագիրները եւ ըսկզբնատողերը կարմիր, մնացեալը սեւորակ մելանով, երկսիւն, 32–34 տող, կարմիր գիծերու միջեւ։ Նոտր շեղագիր մանր",
+    "details_ecriture": "առատ",
+    "types_cahiers": "Ա–Բ միայն",
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": "չունի",
+    "etat_conservation": "անբաւարար. հնութենէ աղտոտուած եւ վնասուած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Ողբ եւ Սուգ վասն Մեծի Աւուր Խաչելութեան Տեառն մերոյ Յի. Քի. ասելով ի դէմ Սբ. Եկեղեցւոյն.— Ով ամենաչքնաղ եւ գեղեցիկ հարսնդ երկնաւոր փեսային, ով Սբ. Եկեղեցի, զիարդ կեաս ի մէջ մեծի անտանելոյ տրտմութեան...։— Հմմտ. աստ, թիւ 3031։\nԷջ 5ա.— Կտակ Խաչելութեան Քի. Այ. մերոյ.— Ով օր դառնութեան եւ սգոյ, ով գիշեր կսկծալի եւ ողբալի...։— Հմմտ. նոյն։ Էջ 34ա.— Այսօր եկայք երկինք եւ երկիր...։— Ա–Ն։\nՅետնագոյն յիշատակագրութիւն.— Էջ 4ա, անհարթ գրով.— Խաչելութեան կտակս ի քաղաքիս Կարին տիրացու Ալէքսանին վայելումն, Ամէն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "314.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3077-refine.json",
+    "pipeline_version": "v1"
+  }
+}

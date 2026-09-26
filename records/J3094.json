@@ -1,0 +1,68 @@
+{
+  "id": "J3094",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3094",
+  "notice": "3094",
+  "volume": "Jerusalem_V9",
+  "title": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3094",
+    "no_notice": "5",
+    "titre": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "270",
+    "dimensions": "20 X 14 X 1",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 22–25 տող",
+    "details_ecriture": "մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Վիպասանութիւն։ Հարց.— Ի՞նչ է Վիպասանութիւնը։ Պատասխան.— Վիպասանութիւնը գործուած կամ իբր գործուած իրաց յայտարարութիւնն է...։ Էջ 7.— Գլուխ Ա.— Պէտք Ճարտասանութեան։ Էջ 13.— Յաղագս Ճարտասանութեան։ Էջ 67.— Վախճան Մասին Առաջնոյն։ Էջ 68.— Մասն Երկրորդ։ Յաղագս Գիւտի։ Էջ 128.— Վերջ Ներքին եւ Արտաքին Տեղեաց։ Էջ 129.— Մասն Գ.— Տրամադրութիւն։ Էջ 235.— Տաղաչափութիւն։ Էջ 259–270, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "326.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3094-refine.json",
+    "pipeline_version": "v1"
+  }
+}

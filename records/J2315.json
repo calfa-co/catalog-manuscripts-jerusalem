@@ -1,0 +1,72 @@
+{
+  "id": "J2315",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2315",
+  "notice": "2315",
+  "volume": "Jerusalem_V7",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ԿՐՕՆԱԿԱՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2315",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ԿՐՕՆԱԿԱՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "316",
+    "dimensions": "16 X 11 X 3.5",
+    "mise_en_page": "ամբողջովին սև մելանով, միասիւն, 18-21 տող",
+    "details_ecriture": "անհարթ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ անարուեստ",
+    "etat_conservation": "բաւարար. լուսանցքները ցեցակեր",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2. Հատուած՝ կրօնական բովանդակութեամբ։ Էջ 3-6. դատարկ։ Էջ 7-10.— Հատուած՝ կրօնական բովանդակութեամբ։ Էջ 11-12. դատարկ, բացի հետեւեալ երկտողէն. «Յիշատակ է ի դուռն Սբ. Յակոբայ որ յԵրուսաղէմ»։ Էջ 13.— Եւ գիտելի է, զի երեք է սրբութիւն աղօթից...։ Էջ 41-42. դատարկ մեծագոյն մասամբ։ Էջ 43.— Արդ օրէնքն Այ. դարձուցանէ զմեզ ի չար ճանապարհէն սատանայի...։ Էջ 133.— Արդ իմաստունն Սողոմոն խրատէ զծնօղս...։ Էջ 255.— Այս է ճշմարիտ սահման ուղղափառութեան...։\nէջ 297 — Եւ յուսահատութիւնն է ծանրագոյն եւ անթողլի մեղք...։ էջ 307-308, դատարկ։ էջ 309-316 — Հատուած՝ կրօնական բովանդակութեամբ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "459.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "460.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2315-refine.json",
+    "pipeline_version": "v1"
+  }
+}

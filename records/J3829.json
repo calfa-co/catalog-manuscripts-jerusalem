@@ -1,0 +1,68 @@
+{
+  "id": "J3829",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3829",
+  "notice": "3829",
+  "volume": "Jerusalem_V11",
+  "title": "ՃԱՌՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3829",
+    "no_notice": null,
+    "titre": "ՃԱՌՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "82 +42",
+    "dimensions": "17x11.5x1",
+    "mise_en_page": "ըսկըզբնատողերը եւ գլխագիրները կարմիր, մնացեալը մութ սրճագոյն եւ սեւ մելաններով, միասիւն, 21, 20 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": "նոտրակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆ: սովորական գրեթէ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ ոսկեդրուագ",
+    "etat_conservation": "բաւարար",
+    "copiste": "Տիր. Յօհաննէս Իզմիրցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը եւ վերջը մէկական թերթ. վերջինին վրայ, մեր գրով, \"1968, Հկտ. 8\"",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— Էջ 1.— Նորին երանելուն Ներսեսի Տարսօնի Եպիսկոպոսի ասացեալ բարեբանութիւն ներբողական գովութեամբ ի Համբարձումն Տեառն Յի. Քի. յերկինըս.— Ցնծա այսօր հարսն ողջախոհ եկեղեցի հեթանոսաց...։ Յիշտ. գրչի.— Էջ 82, ստորոտը.— Անարժան Իզմիրցի մահտեսի տիրացու Յօհաննէսըս գրեցի, որ վայելեմք հօգեոր հընչմամբ։\nԲ.— Էջ 1.— Աղօթք սրբոյն Ներսիսի Լամբրոնացւոյ ասացեալ ի փառս Ամենասուրբ Հոգւոյն.— Ստիպիմ ի սիրոյ սրտիս բաղձանաց...։ Յիշտ. Գրչի.— Էջ 42, ստորոտը.— Իզմիւռնացի հանգուցեալ մահտեսի Յարութիւն, կօղակից մահտեսի Աննա, Յակոբ եւ Հռոփսիմէ, ըզհանցանաց նոցա թողութիւն արասցես, ո՜վ Հոգի Սբ. Ած.։ Ձեռամբ անարժան տիրացու Յօհաննէս։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "285.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3829-refine.json",
+    "pipeline_version": "v1"
+  }
+}

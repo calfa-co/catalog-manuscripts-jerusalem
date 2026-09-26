@@ -1,0 +1,68 @@
+{
+  "id": "J575",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "575",
+  "notice": "575",
+  "volume": "Jerusalem_V2",
+  "title": "ԲՆԱԶԱՆՑԱԿԱՆ ՎԻՃԱԲԱՆՈՒԹԻՒՆՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "575",
+    "no_notice": "1",
+    "titre": "ԲՆԱԶԱՆՑԱԿԱՆ ՎԻՃԱԲԱՆՈՒԹԻՒՆՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "68",
+    "dimensions": "22.5x17",
+    "mise_en_page": "սկզբնաւորութիւնները և գլխագիրները մասամբ կարմիր, մնացեալը սեւ մելանով, միասիւն, 30 տող։ Նոտր շեղագիր",
+    "details_ecriture": "չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Իմաստասիրական վիճաբանութիւնք ոմանք, որք պատկանին առ գիտութիւն մեղաֆիսիդային, որ թարգմանի Համարնաբանութիւն։ Յոյժ ի յերկար տարածիւր բանն, եթէ կամէաք մի ըստ միոջէ տեսանել եւ քննել զամ. վիճաբանութիւնս համաբնաբանութեան. սակս այսորիկ ի բաց կալով ի խորին խրթնագունիցն, դրան արասցուք միայն յաղագս այնոցիկ որք մանաւանդ յարմարին խելամտութեան համբակացունից եւ են պիտանացուք վասն պահելոյ զգիտութիւն բնաբանութեան եւ աստուածաբանութեան։ Հինգերորդ վիճաբանութիւն, Յաղագս ճշմարտութեան եւ ստութեան ներգործութեանց մտաց։ Առաջին խնդիրք։ Ոչ ասացի առաջին վիճաբանութիւն, այլ և երորդ. վասնզի զայլ Դ յառաջագոյն վիճաբանութիւնս համաբնաբանութեան, այսինքն, յաղագս ընդհանրին, յաղագս մտածութեան, յաղագս առընչութեան, եւ յաղագս ունակութեանց, յառաջ բերաք եւ եդաք ի միւս տպեալ հատորին, սակս որոյ պարտ է մեզ այսուհետեւ քննել զմնացեալսն, եւ նախ ճառել յաղագս ճշմարտութեան եւ ստութեան ներգործութեանց մտաց։ ... Էջ 33.— Յաղագս էակի եւ էութեան։ — Վեցերորդ Վիճաբանութիւն.— Միթէ բան էակին հրաժարի ի տարբերութեանց իւրոց։ Առաջին խնդիրք։ — Նախ դիտելի է զի էակ ասի՝ որ ինչ է արտաքոյ ոչնչի...։ Էջ 59.— Յաղագս գերազանցական միութեան ճշմարտութեան եւ բարութեան էակի։ — Վեցերորդ եւ յետին խնդիրք։ Էջ 67.— ... եւ այսպէս տեսակ ցանկայ նիւթոյ բնական ցանկութեամբ զի է կատարիչ իւրեան։ Վերջ Մեղաֆիզիքային այսինքն Համաբնաբանութեան։ Էջ 68, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "622.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "575-refine.json",
+    "pipeline_version": "v1"
+  }
+}

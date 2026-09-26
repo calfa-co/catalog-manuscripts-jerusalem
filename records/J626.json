@@ -1,0 +1,72 @@
+{
+  "id": "J626",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "626",
+  "notice": "626",
+  "volume": "Jerusalem_V3",
+  "title": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+  "date": {
+    "from": "1819",
+    "to": "1819",
+    "display": null
+  },
+  "fields": {
+    "numero": "626",
+    "no_notice": "5",
+    "titre": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+    "date_debut": "1819",
+    "date_fin": "1819",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԼԴ+488",
+    "dimensions": "21.5×16.5×3.5",
+    "mise_en_page": "սեւ մելանով, միասիւն, 21 տող",
+    "details_ecriture": "շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Գ.— Ճակատ.— Գիրք որ կոչի Անտառ Նորագոյն Մըտածմանց հիմնեալ ի հեղինակութեան Սբ. Գրոց, ի Սրբոց Հարց եւ այլոց վարդապետաց եկեղեցւոյ, յարմարացուցանելի\nամենից լուր աւուրց կիրակէից ի մէջ տարւոյն եւ հասարակ տօնից, ի յարգելի տէր Աղէկսանդր Գալամօթոյ կոչեցեալ պատւոյ։ Թարգմանեցեալ ի յիտալական լեզուէ ի հայկական բարբառ, ի Ղուկասու Վարդապետէ Խարբերթացւոյ յամի Փրկչին 1741ին։ Յորմէ համառօտեցաւ առանց այլայլելոյ զմիտս բնագրին ձեռամբ Անդրիանուպօլսեցի Պօղոս զերիմաստ Վարդապետի, ի միաբանութենէ գերագահ Աթոռոյն Երուսաղէմի ամենից Հայոց, ի յարքայանիստ քաղաքն Կոստանդնուպօլիս, ի վէքիլարանն Սրբոյն Սաղիմայ։ Հուսկ յետոյ եղեւ օրինակեալ ջանիւք եւ աշխատութեամբ Սրբոյ եւ Մեծի Աստուածադիր Գահոյս Երուսաղէմի Սրբոց Յակոբեանց երջանիկ Առաքելոցն, բնիկ միաբան Վանցի Վարդապետի, ի վայելս իւրումն անձին, ի վերադիտողութեան Տեառն Գաբրիէլի գերերջանիկ Պատրիարքի ամենից Հայոց։ Ի թուականութեան ՌՄԿԸին եւ մայիսի Գին։ — Հմմտ. Բ. Հատոր, Թիւ 494։ Էջ Դ–ԼԴ, դատարկ։ Էջ 1.— Գլուխ Ա։ Յաղագս Սիրոյն Այ. առ Մարդս.— Նախ քան զստեղծանելն Այ. զաշխարհ...։ Էջ 431.— Գլուխ ԿԶ։ Յաղագս փառացն արքայութեան.— Բազում մակադիր են արքայութեան ի Սբ. Գիրս...։ Էջ 441–450, դատարկ։ Էջ 451.— Կտակ.— Ով Տէր իմ Յս. յոր խոնարհեցար անպատում փառաց...։ Էջ 467.— Յառաջաբանութիւն Չարչարանաց Տեառն մերոյ Յիսուսի Քրիստոսի.— Ի մէջ ամ. շարժառիթ պատճառաց...։ ... Երթայք յինէն անիծեալք ի հուրն յաւիտենից։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "050.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "051.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "626-refine.json",
+    "pipeline_version": "v1"
+  }
+}

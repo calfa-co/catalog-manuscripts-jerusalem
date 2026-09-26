@@ -1,0 +1,68 @@
+{
+  "id": "J3483",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3483",
+  "notice": "3483",
+  "volume": "Jerusalem_V10",
+  "title": "Ս Ա Ղ Մ Ո Ս",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3483",
+    "no_notice": null,
+    "titre": "Ս Ա Ղ Մ Ո Ս",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Date: Original 15th century Ms.; fols. 1—8 on paper from the 19th century. Vellum, codex (except for the folios 1—8 on paper); 26.5x17.5 cm; 200 folios. Full binding in 20th century Card—board and two fly leaves at the beginning and the end. Fols. 1—93 and 186—196 Single columns; fols. 94—185 double columns; 28—32 lines per column; Ms. partly stained and soiled and in good to fair condition. The writing is legible throughout.",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Title: The Psalter. 1) fols. 1—8. Psalms 18—33 (in part) on paper. 2) fols. 9—83a. Psalms 33 (in part) — Psalm 151. 3) fols. 83b—93a. The Song of the Prophets or The Fifteen Morning Odes. 4) fols. 94—157 and 177b—185. A lectionary for various occasions containing short prayers and numerous passages or portions taken from the NT. with rubrics. 5) fols. 158—177. Weddase Maryam with additional prayers to Mary.\nAdditonal Content. 1) fol. 93b. A sketch of a drawing of Hanna, mother of Samuel. 2) the name Zar'a Krestos appears on fols. 117b. 118b. 119. 145—154 etc. written by a different hand of possibly the same period — written on erased space. 3)... 4) fols. 186—192. A calendar of the memorial festivals for prophets, apostles, bishops, martyrs, and saints, for the year (13 months). 5) fol. 193a. A short prayer for protection form various dangers of fire, lightening, sword, etc. 6) fols. 193b—197a. A table of calendar calculation for some major festivals (e.g., Passover) on which dates they fall for about 85 years, with a concluding note at the end. 7) fol. 197a. A late and poor hand on a list of objects (possibly belonging to the church where the Ms. was deposited at one time). 8) fols. 197b and 198b. A similar list by a different hand...: 9) fols. 199b and 200a. Pen trial. 10) fols. 198a, 199a, 200b. Blank."
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "472.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3483-refine.json",
+    "pipeline_version": "v1"
+  }
+}

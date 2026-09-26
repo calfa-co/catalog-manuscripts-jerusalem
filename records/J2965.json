@@ -1,0 +1,72 @@
+{
+  "id": "J2965",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2965",
+  "notice": "2965",
+  "volume": "Jerusalem_V9",
+  "title": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1889",
+    "to": "1889",
+    "display": null
+  },
+  "fields": {
+    "numero": "2965",
+    "no_notice": "4",
+    "titre": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": "1889",
+    "date_fin": "1889",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ+234",
+    "dimensions": "20 X 14 X 1",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 21 տող",
+    "details_ecriture": "վարժ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": "Վահան Վրդ. Քէշիշեան (1889, Յուլիս 16)",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Բ, Դ, դատարկ։ Էջ Գ.— Վահան Վրդ. Քէշիշեան, 1889, յուլիս 16։ Էջ 1.— Հ.— Ի՞նչ է Վիպասանութիւնը։ Պ.— Վիպասանութիւն է գործուած կամ իբր գործուած իրաց յայտարարութիւնը...։ — Հմմտ. նախորդ ձեռագիրը։ Էջ 7.— Պէտք ճարտասանութեան։ Հ.— Ի՞նչ է Պէտքը։ Էջ 12.— Յաղագս ճարտասանութեան։ Հ.— Ի՞նչ է Ճարտասանութիւնը։ Էջ 63.— Յաղագս Գիւտի։ Հ.— Ի՞նչ է Գիւտը։ Էջ 140.— Գործածութիւն Վիպասանութեան։ Էջ 198.— Ատենական Հանդէս։ Էջ 205.— Հ.— Ի՞նչ է Տաղաչափութիւնը։ Էջ 226–234, դատարկ։ Էջ 232–233ի միջեւ կը մնան արմատները՝ կտրուած բազմաթիւ թերթերու։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "176.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "177.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2965-refine.json",
+    "pipeline_version": "v1"
+  }
+}

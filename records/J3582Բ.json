@@ -1,0 +1,72 @@
+{
+  "id": "J3582Բ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3582Բ",
+  "notice": "3582Բ",
+  "volume": "Jerusalem_V10",
+  "title": "ԶՕՐԱՎԱՐ ԱՆԴՐԱՆԻԿ",
+  "date": {
+    "from": "1928",
+    "to": "1928",
+    "display": null
+  },
+  "fields": {
+    "numero": "3582Բ",
+    "no_notice": "Բ",
+    "titre": "ԶՕՐԱՎԱՐ ԱՆԴՐԱՆԻԿ",
+    "date_debut": "1928",
+    "date_fin": "1928",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ը+540",
+    "dimensions": "20x12.5x4",
+    "mise_en_page": "եւայլն ըստ նախորդին",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "եւայլն ըստ նախորդին",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "եւայլն ըստ նախորդին",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Բ, Դ, Զ–Է, դատարկ։ Էջ Գ.— Բ. Հատոր Էջ Ե.— Զօր. Անդրանիկ, Հաւաքեց Շ. Գարահիսարցի Յ. Վրդ. Պարոնեան, Առաքել. Ուխտէն Ս. Յակոբեանց, Երուսաղէմ, 1928։ Էջ Ը.— Փակցուած լուսանկար, ներքեւը գրուած՝ Զօր. Անդրանիկ Օզանեան։ Էջ 1.— Անդրանիկին երգը.— Կովկասի քաջե՛ր, խմբեր կազմեցէք...։ Էջ 8.— Զօր. Անդրանիկի մահը եւ"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "640.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "641.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3582Բ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

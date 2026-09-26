@@ -1,0 +1,68 @@
+{
+  "id": "J3876",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3876",
+  "notice": "3876",
+  "volume": "Jerusalem_V11",
+  "title": "ՏԵՏՐ ՁԱՅՆԱԳՐՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3876",
+    "no_notice": null,
+    "titre": "ՏԵՏՐ ՁԱՅՆԱԳՐՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "80",
+    "dimensions": "25X15X1",
+    "mise_en_page": "սեւորակ մելանով, 6 տող, լոկ ձայնանիշեր։ Լաթակազմ, առաջին կողքին դրոշմուած Musique, վերջինին՝ Had i, Nouri, Haleb.",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հնգագիծ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, վերի լուսանցքին.— Պաթութա։ — Առաջին տողին.— սօլ, լա, սի, տօ, րէ։ Էջ 2, առաջին տողին.— տօ, րէ, մի, ֆա, սօլ։ Էջ 3, առաջին տողին.— ֆա, սօլ, լա, սի, տօ։ Էջ 4, առաջին տողին.— սի, տօ, րէ, մի, ֆա։ Էջ 5, առաջին տողին.— մի, ֆա, սօլ, լա, սի։ Էջ 6.— առաջին տողին.— լա, սի, տօ, րէ մի։ Էջ 7–16. լոկ ձայնանիշեր։ Էջ 17, վերի լուսանցքին ձայնափոխութեան նշաններ՝ արաբատառ անուններով։ Նոյնպէս եւ յաջորդ էջին։ Էջ 19–35, լոկ ձայնանիշեր։ Էջ 36.— վերի լուսանցքին՝ Հիճազ։ Նոյնպէս էջ 37։ Էջ 38–44, լոկ ձայնանիշեր։ Էջ 45–46, վերի լուսանցքներուն արաբատառ նշումներ եղանակներու։ Նոյնպէս էջ 50–51, 53, 55–57։ Էջ 47–49, լոկ ձայնանիշեր։ Նոյնպէս էջ 52, 54, 58–80։ Էջ 80, ստորին լուսանցքին, շեղագիր մէկ տող.— Պու մէքօրտը նօթա մուալլիմի Բէնեամին ինատ էթմիշ տիր։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "343.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3876-refine.json",
+    "pipeline_version": "v1"
+  }
+}

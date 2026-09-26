@@ -1,0 +1,72 @@
+{
+  "id": "J199",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "199",
+  "notice": "199",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆ. ԵՐԳՈՑ ԵՐԳՈՅՆ",
+  "date": {
+    "from": "1748",
+    "to": "1748",
+    "display": null
+  },
+  "fields": {
+    "numero": "199",
+    "no_notice": "1",
+    "titre": "ՄԵԿՆ. ԵՐԳՈՑ ԵՐԳՈՅՆ",
+    "date_debut": "1748",
+    "date_fin": "1748",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "540",
+    "dimensions": "30 x 22 x 6",
+    "mise_en_page": "խորագիրները, բնաբանները եւ գլխագիրները մասամբ կարմիր, մնացեալը սեւ մելանով, երկսիւն, 31 տող",
+    "details_ecriture": "վարժ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ տոկուն",
+    "nb_lignes": null,
+    "reliure": "զարդատիպ փայտեայ, քիչ մը թուլցած",
+    "etat_conservation": "լաւ",
+    "copiste": "Յովհաննէս դպիր Պոլսեցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— Մեկնութիւն Երգոց Երգոյն, արտադրեցեալ ի սրբոյն Բեռնարդոսէ Գլարավալլենսոյ աբբայէ, թարգմանեցեալ ի լատինական բարբառոյ ի հայկական բարբառ ի Ղուկասու Վարդապետէ Խարբերթացւոյ ի զուարճութիւն եւ ի պայծառութիւն հայկազնեան, ըստ խնդրոյ Ղուկասու որդի տիրացու Ստեփաննոսի Կոստանդնուպոլսեցւոյ, ի յիշատակ իւրն, եւ ծնողացն, ի փառս ամենամեծին Աստուծոյ։ Էջ 1.— Մեկնութիւն Բեռնարդոսի ի վերայ Երգոց, Բան. 1։ Էջ 534.— Ցանկ Գրքոյս։ Էջ 539.— Յիշատակարան Գրքոյս.— Մեկնութիւնս այս որ է ի վերայ Երգոց Երգոյն Սողոմոնի, մեկնեալ ի սրբոյն Բեռնարդոսէ գերազանց վարդապետէ, եւ պանծալի եպիսկոպոսէ ի լատինական բարբառ, եւ ի լատինականէ թարգմանեցեալ եղեւ ի հայկական բարբառ ի Ղուկասու Վարդապետէ Խարբերթացւոյ արդեամբ եւ գոյիւք տիրացու Ստեփաննոսի նօտարի Կոստանդնուպօլսեցւոյ, յամի Տեառն 1748ին, եւ ի հայոց թուին ՌՃՂԷին, ի նոյեմբերի ամսոյ 3ին, ի փառս ամենամեծին Աստուծոյ, եւ ի պատիւ ամեներանեցելոյ միշտ Կուսին\nՄարիամու, ի վայելումն ազգիս Հայոց, եւ ի յօգուտ բանասիրաց. որք ընթեռնուք եւ թէ յօրինակէք յիշեսջիք զվերոյ գրեալ թարգմանօղս, եւ զսիրով սրտի խնդրօղն գրքոյս, եւ որք յիշէք յիշեալ լիջիք ի միւսանգամ գալստեան Փրկչին, ամէն:\nԵւ վերստին գաղափարեցեալ եղեւ ձեռամբ անպիտան եւ մեղսամած Յօհաննէս չնչին դպրէ Կոստանդնուպօլսեցւոյ, յամի Տեառն 1749, ի մայիսի ամսոյ 8ին: Մաղթեմ յիշել միով Հայր մերիս, որ եւ յիշօղքդ յիշեալ լիջիք ի Քրիստոսէ, ամէն:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "586.jpg"
+    },
+    {
+      "volume": "Jerusalem_V1",
+      "file": "587.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "199-refine.json",
+    "pipeline_version": "v1"
+  }
+}

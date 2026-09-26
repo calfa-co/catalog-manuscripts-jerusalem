@@ -1,0 +1,72 @@
+{
+  "id": "J123ա",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "123ա",
+  "notice": "123ա",
+  "volume": "Jerusalem_V1",
+  "title": "ՀԱՒԱՔԱԾՈՅ ԸՆՏԻՐ ԱՍԱՑՈՒԱԾՈՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "123ա",
+    "no_notice": "1",
+    "titre": "ՀԱՒԱՔԱԾՈՅ ԸՆՏԻՐ ԱՍԱՑՈՒԱԾՈՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "312",
+    "dimensions": "31 x 22 x 2",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, երկսիւն, 2–64 տող, կան նաեւ շատ սիւնակներ անգիր ամենեւին։ Նոտր շեղագիր",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "անարուեստ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Ըստ Սաւալանեանի, «Հաւաքմունք բանից եւ առածից յարտաքին եւ ի Սբ. Գրոց, ամփոփեալ ընդ իւրաքանչիւր տառիւք այբուբենական կարգաւ։ Գործ վերջնոց վարդապետաց ի միաբանութենէ Սբ. Աթոռոյս։ Բաժանի յի հատորս» (Ցուցակ, էջ 98)",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–5 — Ի Ծնունդն Քրիստոսի։ Էջ 6–8 — Ի Մկրտութիւնն Քրիստոսի։ Էջ 9–10 — Յութօրէս՝ յԱնուանակոչութիւնն Քրիստոսի։ Էջ 11 — Ի Քառասնօրեայ Գալուստն։ Էջ 12–15, դատարկ։ Էջ 16–20 — «Յովհան» վերնագրուած, բայց հազիւ մէկ սիւնակ գրուած, մնացեալը դատարկ։ Էջ 21 — Ա. շաբաթ Մեծի Պահոց։ Էջ 24 — Բ. շաբաթ Մեծի Պահոց Անառակին։ Էջ 36 — Չրդ. շաբաթ՝ Ծաղկազարդին։ Էջ 46 — Աւագ եշ. ի խորհուրդ Հաղորդութեան։ Էջ 58 — Ի Յարութիւնն Քրիստոսի։ Էջ 67 — Ի Համբարձումն Քրիստոսի։ Էջ 70 — Ի Հոգին Սուրբ։ Էջ 76 — Ի Սբ. Եկեղեցին։ Էջ 82 — Ի Վերափոխումն Կուսին։ Էջ 89 — Ի Սբ. Խաչն աստուածընկալ։ Էջ 97 — Ի Յովհաննէս Մկրտիչ։ Էջ 128 — Առ Հրեշտակս։ Էջ 148 — Աստուած։ Էջ 151 — Ագահութիւն։ Էջ 152 — Ադամ։ Էջ 153 — Ազատութիւն։ Էջ 159 — Աղքատութիւն։ Էջ 160 — Աղօթք։\nէջ 203 — Աւետարան։ էջ 205 — Բաղձանք։ էջ 217 — Գալուստ Քրիստոսի։ էջ 253 — Երջանկութիւն։ էջ 271 — Ժամ եւ ժամանակ։ էջ 298 — Ծերութիւն։ էջ 300 — Ծուլութիւն։ էջ 301 — Ցանկ։ էջ 302-307 — Այլ ցանկ այբուբեն կարգաւ։ — Ագահութիւն, 151։...։ Օրհնութիւն, 521։ էջ 308-312, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "376.jpg"
+    },
+    {
+      "volume": "Jerusalem_V1",
+      "file": "377.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "123ա-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J1018",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1018",
+  "notice": "1018",
+  "volume": "Jerusalem_V4",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՂՈՒԿԱՍՈՒ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1018",
+    "no_notice": "5",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՂՈՒԿԱՍՈՒ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ՄՀԱ",
+    "dimensions": "20x13x3",
+    "mise_en_page": "խորագիրները, բնաբանները եւ սկզբնատողերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 29 տող",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք՝",
+    "colophon": null,
+    "informations_diverses": "սկիզբը երկու թերթ, իսկ վերջը մէկ թերթ թուղթ եւ մէկ թերթ մագաղաթ ; ԿՆԻՔ: բոլորշի սեւադրոշմ, «Է։ Յի․ Քի․ Ծառայ Եսաի Վարդապետ», էջ Բ, լս․",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ Բ․ — Ցանկ Աւետարանին Քաղուածու։ էջ դ․ — Նուաստ եւ յետին աշակերտի Մաթէոս եռամեծացն Յովաննու եւ Գրիգորի աշխատասիրեաց, հաւաքումն բանից յԱւետարանէն Ղուկասու, եւ քարոզ յոլովք ի վայելումն մանկանց Հայաստանեաց․ — ուսումն յընդունել զխրատս հոգէշահս։ Յորժամ սկսանի ընթեռնուլ զգիրս սուրբս, չորս կերպիւ այսանէ․․․։ — Հմմտ․ թիւ 643։\nՅիշատակարան Հեղինակի․ — էջ մկէ․ — Արդ ես վերջինս սպասաւորաց բանին եւ տրուպս բանասիրաց Մատթէոս քահանայ․․․։ էջ մկը․ — Զի՞նչ է նախատօնակն զոր առնեմք տէրունական տօնից յերեկորեայն, իսկ սրբոցն ոչ այսպէս․․․։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "058.JPG"
+    },
+    {
+      "volume": "Jerusalem_V4",
+      "file": "059.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1018-refine.json",
+    "pipeline_version": "v1"
+  }
+}

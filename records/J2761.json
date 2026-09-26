@@ -1,0 +1,68 @@
+{
+  "id": "J2761",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2761",
+  "notice": "2761",
+  "volume": "Jerusalem_V8",
+  "title": "Կ Ա Ր Գ   Թ Ա Ղ Մ Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2761",
+    "no_notice": null,
+    "titre": "Կ Ա Ր Գ   Թ Ա Ղ Մ Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "52",
+    "dimensions": "18x12.5",
+    "mise_en_page": "սևորակ մելանով, միասիւն, 16 տող",
+    "details_ecriture": "նոտրակերպ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "ճերմակ և կապոյտ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Կարգ Թաղման Ննջեցելոց, Կրօնաւորաց, Աշխարհականաց, Արանց և Կանանց",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Կանոնագլուխ Կարգաւորի Թաղման։ Էջ 3. — Կանոնագլուխ Աշխարհականի Թաղման։ Էջ 36. — Կանոն Տղայի Թաղման։ Էջ 50. — Վասն հրաժարելոյ անձանց ննջեցելոց՝ զՏէր աղաչեսցուք։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "404.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2761-refine.json",
+    "pipeline_version": "v1"
+  }
+}

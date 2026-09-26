@@ -1,0 +1,72 @@
+{
+  "id": "J2084",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2084",
+  "notice": "2084",
+  "volume": "Jerusalem_V7",
+  "title": "Ք Ե Ր Ա Կ Ա Ն Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1869",
+    "to": "1869",
+    "display": null
+  },
+  "fields": {
+    "numero": "2084",
+    "no_notice": "1",
+    "titre": "Ք Ե Ր Ա Կ Ա Ն Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": "1869",
+    "date_fin": "1869",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ + 146",
+    "dimensions": "23 X 15 X 2.5",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 24 տող",
+    "details_ecriture": "կանոնաւոր եւ մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Կարապետ Միքայէլեան, Թալասցի",
+    "possesseur": "Կարապետ Միքայէլեան, Թալասցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա—Բ, դատարկ։ Էջ Գ.— Քերականութիւն, տետրակ, Հայկազեան, Յուլիս 25 ինտէ, Թալասլը Հաճը Մքայէլեան Կարապետ, ի Սուրբ յԵրուսաղէմ, 1869։ Էջ Դ, դատարկ։ Էջ Ե.— ՅԵրուսաղէմ, Սբ. Յակոբ, Թալասլը Մքայէլեան Կարապետ, թիւ 1869, յիլիս 8ին։ Էջ Զ, դատարկ։ Էջ 1.— Քերականութիւն։ Հ. Ի՞նչ է քերականութիւնը։ Պ. Քերականութիւնը արհեստ մըն է որ շիտակ խօսիլ, ուղիղ կարդալ, եւ անսխալ\nդրել կը սովրեցնէ : էջ 5 — Յօդուած Ա. — Պարագայն անուանց : էջ 11 — Յօդուած Բ. — Միջակ անուն : էջ 44 — Գլուխ Ը. — Միջարկութեան վրայ : էջ 48 — Մասն Երկրորդ : Համաձայնութիւն Մասանց Բանի : էջ 70 — Վեցերորդ, պատմական հոլով : էջ 97 — Գլուխ Ե, Յօդուած Ը : Յատկացուցիչ եւ յատկացեալ : էջ 104 — Գլուխ Է, Յօդուած Ժ : Դերբայ : էջ 108 — Վերջ Համաձայնութեան : էջ 109-116 . դատարկ :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "172.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "173.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2084-refine.json",
+    "pipeline_version": "v1"
+  }
+}

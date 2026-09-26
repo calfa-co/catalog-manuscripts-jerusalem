@@ -1,0 +1,68 @@
+{
+  "id": "J1561",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1561",
+  "notice": "1561",
+  "volume": "Jerusalem_V5",
+  "title": "Մ Ա Շ Տ Ո Ց (Թերի)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1561",
+    "no_notice": "33",
+    "titre": "Մ Ա Շ Տ Ո Ց (Թերի)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "186",
+    "dimensions": "15x10x2",
+    "mise_en_page": "խորագիրները, սկզբնա– տողերը եւ գլխատառերը կարմիր, մնացեա– լը սեւ մելանով, միասիւն, 16 տող։ Բոլոր– գիր վարժ",
+    "details_ecriture": null,
+    "types_cahiers": "Գ– ԺԱ",
+    "matiere_principale_id": null,
+    "details_matiere": "տո– կուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ, քայքայուած մասամբ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր եւ լուսան– ցազարդ Կանոններու սկիզբը",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 .— ... եւ ապա տացէ քահանայն զաջ ձեռըն հարսին յաջ ձեռն փեսային եւ ասէ .— Ըստ աստուածային հրամանին, զոր ետ Ած. նախնեացն, ես՝ այս անուն քհ. զայս հարսըն տամ քեզ այժմ ի հնազան– դութիւն, տէ՞ր ես...։ Էջ 3 .— Եւ ապա ասեն զերգս աւրհնու– թեան .— Ամենազօր Տէր թագաւոր թագա– ւորաց...։ Գ .— Էջ 45–46 .— Կանոն Պսակ վերա– ցուցանելոյ։ Դ .— Էջ 51–52 .— Կանոն Հաղորդ տա– լոյ։ Ե .— Էջ 60–61 .— Կանոն Թաղման . յորժամ զամ. ննջեցեալսն ի Քս. յուղարկեն։ Զ .— Էջ 107 .— Եւ առաւօտուն երթան ի գերեզմանն...։ Է .— Էջ 123 .— Կանոն Է աւուրն...։ Ը .— Էջ 138 .— Կանոն Տղաբաղին։ Թ .— Էջ 173 .— Այգոյն երթան ի գե– րեզմանն։ Ժ .— Էջ 180 .— Կանոն ոգէհանգիստ առնելոյ, կամ Պատարագ մեռելոյ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "350.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1561-refine.json",
+    "pipeline_version": "v1"
+  }
+}

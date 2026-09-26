@@ -1,0 +1,68 @@
+{
+  "id": "J2449",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2449",
+  "notice": "2449",
+  "volume": "Jerusalem_V8",
+  "title": "Մ Ա Շ Տ Ո Ց",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2449",
+    "no_notice": "96",
+    "titre": "Մ Ա Շ Տ Ո Ց",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "224",
+    "dimensions": "15.5 x 10.5 x 3",
+    "mise_en_page": "խորագիրները, գլխագիրները և տեղ տեղ սկզբնատողերը կարմիր, մնացեալը սև մելանով, միասիւն, 17 տող",
+    "details_ecriture": "(էջ 15-84), նոտրագիր անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական գրեթէ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ ընդհանուր առմամբ, բայց լուսանցքները ոչ մաքուր, հաւանաբար իւղի ազդեցութեամբ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, նոտրագիր. — Մասնակի ցանկ։ Էջ 2, դատարկ, անմաքուր։ Էջ 3-4, կարմիր նոտրագիր ցանկ. — ԱԻԵ գլուխներ։ Էջ 5-9, նոտրագիր անհարթ. — Կանոն պղծեալ ջրոյ։ Էջ 10, դատարկ։ Էջ 11-14, նոտրագիր. — Եւ իբրև լցան աւուրք սրբութեան նորա . . . ։ Էջ 15-64. — Աւետարանական հատուածներ. — Ա-Ի գլուխներ։ Էջ 65-76, դատարկ։ Էջ 77. — ԻԱ. — Կանոն Մկրտութեան։ Էջ 94. — Ի վերայ ջրոյն տեառնագրէ խաչիւ. — Խորտակեսցին ի նշանէ խաչի քո ամ. ընդդիմակաց զօրութիւնքն . . . ։ Էջ 111. — ԻԲ. — Կանոն Հաղորդ տալուն։ Էջ 122. — ԻԳ. — Օրհնութիւն Աղի։ Էջ 124, դատարկ։ Էջ 125. — ԻԴ. — Կանոն Ջուր Օրհնել Աստուածային Յայտնութեան։ Էջ 135. — Օրհնութիւն Ջրու, Բարսղի Կեսարացու։ Էջ 158. — Յորժամ ջուր խաչալուա անես՝ զրօրհնեին գրքերն կարդա . . . ։ Էջ 159-162, տարբեր թուղթ, ետքէն աւելցուած, կազմէն դուրս կը մնայ։ Էջ 166. — Աղօթ վասն Երաշտի։ Էջ 169-176, դատարկ։ Էջ 177. — ԻԵ. — Կանոն Թաղման։ Էջ 221. — Յանուն Այ. Գիր գանի և ամենայն ազգի ազգի ցաւոց և խոցի, Աստուծով բժշկի. — Ծառ մի կայր ի մէջ երկրի . . . ։ Էջ 224, անհարթ գրով. — Մեծ շահ է աղօթել մտացն . . . ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "129.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2449-refine.json",
+    "pipeline_version": "v1"
+  }
+}

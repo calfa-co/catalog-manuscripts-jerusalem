@@ -1,0 +1,68 @@
+{
+  "id": "J1481",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1481",
+  "notice": "1481",
+  "volume": "Jerusalem_V5",
+  "title": "Շ Ա Ր Ա Կ Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1481",
+    "no_notice": "15",
+    "titre": "Շ Ա Ր Ա Կ Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "730",
+    "dimensions": "15×10.5×6",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 23 տող",
+    "details_ecriture": "եւ խաղագրութիւն սովորական։ Կարմրագիծ զարդագիր եւ լուսանցազարդ իւրաքանչիւր կանոնի ըսկիզբը, տեղտեղ հանդերձ գլխազարդով։ Կարմրագիծ խորանազարդ իւր սարօք, էջ 5, 267։ Լուսանցքի մանրանկար, գունաւոր, էջ 72, 86, 109, 188",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "անբաւարար. աջակողմեան վարի անկիւնը փճացած որդերու եւ առաւելապէս թացութեան պատճառաւ",
+    "copiste": "Աստուածատուր Դպիր",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը եւ վերջը երկուական թերթ, լատիներէն, գոթական տառերով",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4, գրչափորձերով ծածկուած, կամ դատարկ։ Էջ 5. — Երգեցէք որդիք Սիովնի երգ նոր...։ Էջ 72. — Կանոն Տեառն ընդ առաջին։ Էջ 86. — Կանոն Սրբոյն Ստեփանոսի Աւրհնութեան։ Էջ 109. — Կանոն Յովնանու Մարգարէին։ Էջ 188. — Կանովն Սրբոյն Գրիգորի Լուսաւորչին։ Էջ 267. — Այսաւր յարեաւ ի մեռելոց ...։ Էջ 720-730, դատարկ։ Յիշատակագրութիւն Գրչի. — Էջ 679. — Զփծուն գրչի, Աստուածատուր դպրի, աշակերտ բանի, առաջի դրի, որ մակ անուամբ Խուլ կոչի, ի լաւ ընտիր օրինակի, որ յայսմ տառի. անմեղադիր լերուք ով եղբայրք սղալանաց գրիս։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "219.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1481-refine.json",
+    "pipeline_version": "v1"
+  }
+}

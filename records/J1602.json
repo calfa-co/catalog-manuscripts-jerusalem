@@ -1,0 +1,76 @@
+{
+  "id": "J1602",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1602",
+  "notice": "1602",
+  "volume": "Jerusalem_V5",
+  "title": "ՀԱՐԱՆՑ ՎԱՐՔ (ՄԱՍՆԱԿԻ)",
+  "date": {
+    "from": "1625",
+    "to": "1625",
+    "display": null
+  },
+  "fields": {
+    "numero": "1602",
+    "no_notice": "24",
+    "titre": "ՀԱՐԱՆՑ ՎԱՐՔ (ՄԱՍՆԱԿԻ)",
+    "date_debut": "1625",
+    "date_fin": "1625",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "502",
+    "dimensions": "13.5×9.5×5",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասին, 16 տող",
+    "details_ecriture": "սովորական գրեթէ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեա, դրոշմազարդ",
+    "etat_conservation": "բաւարար։ Լուսանցքները ցեցահար թեթեւօրէն",
+    "copiste": "Եսայի Աբեղայ",
+    "possesseur": "մահտասի Սարգիս",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, դատարկ։ Էջ 2 . — Եւ հովիւք էին ի տեղոջն յայնմիկ բացաւթեագք . . . ։ Էջ 5 . — Միածին Որդի եւ բանդ Աստուած . . . ։ Էջ 6 . — Ասէ երանելի մարգարէն Եզեկիէլ . Անաւրէն եթէ դարձցի յանաւրէնութենէ իւրեանց զոր արար . . . ։ Ծարաւի ես, ես աղբեւր կենաց քաղցրաբուխ եւ անուշահարան Ած. ողորմի ասացէք, Ած. զձեզ յիշէ ի միւսանգամ գալըստեանն ամէն: Արդ գրեցաւ գիրքս ի յաթոռս Ըստաթեւ ի թվականութիւն Հայոց ՌՀԴ: Որք հանդիպիք սմա կարդալով, Ած. ողորմ [Շարունակութիւնը կը պակսի՝ յաջորդ թերթը ինկած ըլլալով]։ Էջ 499–502, տարբեր թուղթ. առաջինը կը պարունակէ քանի մը մանրուք. երկրորդը դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "413.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "414.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "415.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1602-refine.json",
+    "pipeline_version": "v1"
+  }
+}

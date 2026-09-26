@@ -1,0 +1,68 @@
+{
+  "id": "J3252",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3252",
+  "notice": "3252",
+  "volume": "Jerusalem_V10",
+  "title": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3252",
+    "no_notice": "226",
+    "titre": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "20 X 15 X 7.5: Էջք 628: Հանգամանք համարեա բաւարար. մասամբ ազդըւած թացութենէ. նորոգութիւն կրած. դարձեալ կարօտ նորոգութեան: Մագաղաթ չորշորակ: Գրութիւն՝ սկզբնատողերը եւ գլխատառերը ոսկեգոյն, մնացեալը սեւ մելանով, երկսիւն, 19 տող: Բոլորգիր ընտիր: Համառօտագրութիւնք սովորական: Գունաւոր ոսկեխառն զարդագիր եւ լուսանցազարդ հատուածներու սկիզբը. զարդերէն ոմանք վնասուած կազմի ժամանակ, ոմանք պատռուած հանուած, իսկ քանի մը հատ ալ կարով վերստին ամրացուած: Խորանազարդ իւր սարօք, էջ 3, 177, 289, 479: Կաշեկազմ տախտակեայ դրոշմազարդ հնամաշ. ատենօք օժտուած արծաթէ զարդերով եւ ակերով, որոնցմէ այժմ կը մնան առաջին երեսին կէս խաչ երեք քարերով, ներքեւըը խաչելութեան բարձրաքանդակ պատկեր. խաչեալին աջ կողմը Տիրամայրը եւ ձախին Յովհ. Աստուածաբան, ըստ յունարէն արձանագրութեան: Վերջին կողքին վրայ մընացած են քանի մը արծաթ գամեր: Պահպանակ մագաղաթեայ սկիզբը երկու թերթ, անկիւնաւոր երկաթագիր, կրօնական բովանդակութեամբ: Պահպանակներուն միջեւ հինգ թերթ հին թուղթ, մեծապէս վնասուած, պարունակութիւն՝ Թուղթ Եւ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "054.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3252-refine.json",
+    "pipeline_version": "v1"
+  }
+}

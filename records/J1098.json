@@ -1,0 +1,72 @@
+{
+  "id": "J1098",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1098",
+  "notice": "1098",
+  "volume": "Jerusalem_V4",
+  "title": "ՔԱՐՈԶԳԻՐՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1098",
+    "no_notice": null,
+    "titre": "ՔԱՐՈԶԳԻՐՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "180",
+    "dimensions": "20x15x2",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ տէրունական անունները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 30 տող։ Նոտր շեղագիր",
+    "details_ecriture": "բաւական առատ ; ՈՒՂՂԱԳՐՈՒԹԻՒՆ: յոյժ թերի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "սեւակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ, բացի մրոտ կողքէն",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–2, դատարկ։ Էջ 3ա — Այս դաւանութիւնս ընդ ծագումն լոյսոյն...։ Էջ 7–14, դատարկ։ Ա.— Էջ 15ա — Սրբազան Առաքեալն Պօղոս գու գրէ Հռօմայեցոց, ԺԳ Գլխ. Է հմ. թէ. Արդ հատուցէք ամենեցոյն զպարտըս, որում զհարկ զհարկսն...։ Բ.— Էջ 22ա — Երանելոյն Անանիայի Հայոց վարդապետի, Ի խորհուրդ Յօնանու մարգարէին...։ Գ.— Էջ 37 — Պատմէ զբան իւր Յակոբայ...։ Դ.— Էջ 40 — Քարոզ հինգերորդ, ի վերայ տօնի եկեղեցւոյ...։ Ե.— Էջ 60ա — Քարոզ վասն Ծննդեան...։ Զ.— Էջ 79բ — Նախ Սիօն կոչեցաւ...։ Է.— Էջ 109ա — Յայլմէ Քարոզ վասն փառաց արքայութեան, ի բանն Մատթէոսեան Աւետարանին, որ ասէ. Մուտ ուրախութիւն Տեառն քո...։ Ը.— Էջ 121ա — Պատվելի քահանայից, հոգայբարձուաց հոգոց, եւ հովուաց բանեղէն հօտին Քրիստոսի, խոնարհութեամբ զեկուցումն.— Զոր պահանջէր Ած. յսկիզբն ստեղծայգործութեան...։ Թ.— Էջ 143ա — Յաղագս Արտասուաց թէ որքան օգուտ ունին եւ զօրութիւն։ Ժ.— Էջ 157ա — Բացից զբերան մըտաց եւ առից զհոգի շնորհաց, մարգարէն նախայձայնեաց, եւ ես ընդ նմին գոչեմ...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "173.JPG"
+    },
+    {
+      "volume": "Jerusalem_V4",
+      "file": "174.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1098-refine.json",
+    "pipeline_version": "v1"
+  }
+}

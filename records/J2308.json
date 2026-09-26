@@ -1,0 +1,68 @@
+{
+  "id": "J2308",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2308",
+  "notice": "2308",
+  "volume": "Jerusalem_V7",
+  "title": "Ն Կ Ա Տ Ո Ղ Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2308",
+    "no_notice": null,
+    "titre": "Ն Կ Ա Տ Ո Ղ Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "41",
+    "dimensions": "17×10",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 19-21 տող։ Նոտր շեղագիր մաքուր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 — Պրակ երկրորդ։ Նկատողութիւն։ Գլուխ Ա.։ Յաղագս նկատողութեան թէ զի՞նչ, եւ ո՞ր նորայն բաժանումն. — Առաջի մատն մանկան փունջ մի կաճեայ ի վարդից եւ ի շահոքրամ ծաղկանց...։ Էջ 11 — Գլուխ Բ։ Վրիպակք նկատողութեան։ Էջ 16 — Գլուխ Գ։ Խոշք եւ ընդդիմակք նկատողութեան։ Էջ 19 — Գլուխ Դ — Միջոցք սատարելոյ նկատողութեան։ Էջ 41 — Ցանկ — Ա-Դ Գլուխներ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "451.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2308-refine.json",
+    "pipeline_version": "v1"
+  }
+}

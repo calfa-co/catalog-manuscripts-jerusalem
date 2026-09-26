@@ -1,0 +1,68 @@
+{
+  "id": "J3625Ա",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3625Ա",
+  "notice": "3625Ա",
+  "volume": "Jerusalem_V11",
+  "title": "ԲՈՒՐԱՍՏԱՆ ԽՆԿՈՑ, Ա.",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3625Ա",
+    "no_notice": null,
+    "titre": "ԲՈՒՐԱՍՏԱՆ ԽՆԿՈՑ, Ա.",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "792",
+    "dimensions": "36x23.5x6",
+    "mise_en_page": "սեւ մելանով, եռասիւն 58 տող, կարմիր գիծերու միջեւ։ Նոտր շեղագիր, մանր եւ մաքուր",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ, հաւկթաձեւ, \"Ուսումնարան Մայր Եկեղեցւոյ \", էջ 1, 792։ Հմմտ.— Համաբարբառ, 1895, Երուսաղէմ, էջ Ե",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Աբբայ հայր, ամ. ինչ քեզ, Մրկս. 14, 36։ Աբբայ հայր, Այսուհետեւ չես. Գղտց. 4, 6։ Էջ 244ա.— Բաաղ, այն է կար. Յեսու. 18, 14։ Բաաղ, այն է քաղաք յարիմայ, Յեսւ. 15,9։ Էջ 742բ.— Կա' զգիր քո, եւ, Ղւկս. 16, 7։ Էջ 792գ.— զ Կոթողս քո, եւ մերկասցեն, Եզկլ. 16, 39։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "064.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3625Ա-refine.json",
+    "pipeline_version": "v1"
+  }
+}

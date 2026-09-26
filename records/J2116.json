@@ -1,0 +1,72 @@
+{
+  "id": "J2116",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2116",
+  "notice": "2116",
+  "volume": "Jerusalem_V7",
+  "title": "Տ Օ Ն Ա Ց Ո Յ Ց",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2116",
+    "no_notice": "32",
+    "titre": "Տ Օ Ն Ա Ց Ո Յ Ց",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "21 x 15.5 x 1.5 : Էջք 148 : Հանգամանք լաւ : Թուղթ հասարակ : Գրութիւն ամբողջովին սեւ մելանով, երկսիւն, 32—34 տող : Նոտր շեղագիր : Համառօտագրութիւնք յոյժ առատ : Թղթակազմ անարուեստ : Ստացող՝ Ահարոն Վարդապետ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա . — Ճրագալոյծի գիշերն հրսկում է . . . : Էջ 90բ — Երրորդ Կիրակի տօն է Վարագայ Սբ . Խաչին . . . : Էջ 113, դատարկ : Էջ 114ա . — Հանգիստ Երանելոյն Յոհաննու Առաքելոյն Աւետարանչի . — Էր ընդ եղբարս . . . : Էջ 118ա . — Կարգ Ջուր Օրհնեացն . . . : Էջ 120ա . — Աւրհնութիւն Ջրոյ զոր ասացեալ է Սրբոյն Բարսղի Կեսարացւոյն : Էջ 127բ . — Աղօթք արձակման ապաշխարողաց, Հինգշաբթի : Էջ 143բ . — Խրատ Երանելոյն Յոհաննու Վարդապետին որ մականուն Պլուզ կոչի, արարեալ բան վասն սիրոյ :\nէջ 147բ — Աղաւթք ի վերայ իւղոյն...։ էջ 148բ, դատարկ։\nՅիշատակագրութիւն.— էջ 1, աջակողմեան լուսանցքին, երկու տող.— Յիշատակ է սուրբ գիրքս, էրզրում– ցի մահտեսի Աւետիսին եւ իւր ծնողացն, եւ ամենայն ննջեցելոցն, ի Սբ. Երուսաղէմ, ի դուռն Սբ. Փրկչայ եկեղեցւոյն. եւ ընթեր– ցողդ զողորմին, ամէն։\nԻսկ ստորին լուսանցքին գրուած է «Ա– հարոն Վարդապետին»։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "202.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "203.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2116-refine.json",
+    "pipeline_version": "v1"
+  }
+}

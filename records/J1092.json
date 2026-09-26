@@ -1,0 +1,68 @@
+{
+  "id": "J1092",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1092",
+  "notice": "1092",
+  "volume": "Jerusalem_V4",
+  "title": "Մ Ա Շ Տ Ո Ց (ՄԱՍՆԱԿԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1092",
+    "no_notice": "18",
+    "titre": "Մ Ա Շ Տ Ո Ց (ՄԱՍՆԱԿԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "94",
+    "dimensions": "20x15",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխագիրները երբեմն կարմիր, մնացեալը սեւ մելանով, միասիւն, 29 տող",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 . — Կարգ Սրբազնագոյն Մկրտութեան երախայից։ Էջ 19 . — Կանոն Կուսի Պսակին։ Էջ 28 . — Կանոն զպսակն վերցնելոյ։ Էջ 30 . — Կանոն Երկրորդ Պսակի։ Էջ 32 . — Կարգ Թաղման ննջեցելոց Աշխարհականաց, արանց եւ կանանց։ Էջ 54 . — Կանոն մեծի այգուց կատարելոյ։ Էջ 60 . — Կանոն մեծի եօթն աւուր կատարելոյ։ Էջ 63 . — Կանոն Տղայաթաղ կատարելոյ։ Էջ 78 . — Կանոն Տղայի Այգուց կատարելոյ։ Էջ 82 . — Կանոն Տղայի եօթնաւուր, կամ Քառասնաւուր, կամ Տարելից կատարելոյ։ Էջ 83 . — Գանձ համօրէն ննջեցելոց, Առաքել Վարդապետի ասացեալ . — Այսօր էհաս հրաման յարարչէն . . . ։ Էջ 84 . — Ողբ համօրէն ննջեցելոց . — Ով քահանայք եւ վարդապետք աստուածաբան . . . ։ Էջ 85 . — Ողբ համօրէն ննջեցելոց . — Ես գիտէի թէ յաշխարհս ինձ մուլք էր տըված . . . ։ Էջ 87 . — Ողբ համօրէն ննջեցելոց . — Ես զիս ղըրի հազար տարու . . . ։ Էջ 88 . — Ողբ ի վերայ փոքր տղայոց, իբր ի բերանոյ մօրն . — Եկայք սիրելիքդ ամէն, զեղկելի զերիս ողբացէք . . . ։ Էջ 89 . — Ողբ ի վերայ ղարիպ մեռելի . — Ղարիպին կեանքն է լալի ողբերգական . . . ։ Էջ 90 . — Պաղտասար Դպրի ի Ողբս . — Պարտաւորեալ զերիս խըղճալի . . . ։ Էջ 93 . — Նորին ասացեալ ի վերայ մանկանց . — Պայծառագոյն որդեակ իմ սիրուն . . . ։ — Պ ա ղ տ ա ս ա ր Դ պ ր ի ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "165.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1092-refine.json",
+    "pipeline_version": "v1"
+  }
+}

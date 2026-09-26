@@ -1,0 +1,68 @@
+{
+  "id": "J2394",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2394",
+  "notice": "2394",
+  "volume": "Jerusalem_V8",
+  "title": "ՔԵՐԱԿԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": "1713",
+    "to": "1713",
+    "display": null
+  },
+  "fields": {
+    "numero": "2394",
+    "no_notice": "11",
+    "titre": "ՔԵՐԱԿԱՆՈՒԹԻՒՆ",
+    "date_debut": "1713",
+    "date_fin": "1713",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "226",
+    "dimensions": "15x10x2",
+    "mise_en_page": "խորագիրները, սկզբնատողերը և գլխատառերը կարմիր, մնացեալը սև մելանով, միասիւն, 20 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի",
+    "types_cahiers": "Ա-Խ",
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ, մասամբ քակուած",
+    "etat_conservation": "լաւ. լուսանցքի ցեցահարութիւն աննշան. առաջին պրակին առաջին թերթը կը պակսի",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Սիմէօնի Վարդապետի Ջուղայեցւոյ արարեալ Քերականութիւն ըստ լեզուի մերում Հայկազանց.— [Ք]երականութիւն է գիտութիւն տառից և ասութեանց...։ Էջ 74, դատարկ, անմաքուր։ Նոյնպէս էջ 122։ Էջ 123.— Յաղագս կիրառութեան, որ է Շարադրութեան, Հատոր Երկրորդ։ Էջ 213, 216, 217, 218, մանր հատուածներ։ Էջ 214—215, 219—226, դատարկ։\nՅիշատակարան Գրչի.— 1713 Էջ 211, վարը.— Փառք...։ Եղև գրաւ գրեցման Քերականութեանս ընթվոջն որ այսպիսաբար համարի. Ըստ այնմ զի քառն է տասնաբար, մինչ յեօթն է տալով համար, կրկնի նոյնն գոլ բարդաբար, հարիւր մերժի երկու լեալ յար։ Իսկ պարզաբար ասելով ՌՃԿԲ, փետրվարի ներքսանում, և քառոջ նաւուր, երկրորդում երկրորդի շաբաթու պահոցն քառասնորդաց, ձեռամբ յոգնամեղ և բազմասխալ ուրումն դպրի։ Արդ որք հանդիպիք սըմա, օրինակելով կամ ընթեռնլով, ներեցէք թիւրութեանս իմոյ, սիրելիք։ Իսկ և միով Հայր մերիւ զամենայնիւ տպիտանս, և զծնօղս իմ, յիշատակել ի մաքուր աղօթս ձեր մի՛ զանդաղիք. և դուք որք յիշէքդ՝ յիշեցեալք լիջիք ի Քրիստոսէ յուսոյն մերմէ ի յետնումն աւուր, ամէն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "049.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2394-refine.json",
+    "pipeline_version": "v1"
+  }
+}

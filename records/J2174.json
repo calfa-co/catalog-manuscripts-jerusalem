@@ -1,0 +1,68 @@
+{
+  "id": "J2174",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2174",
+  "notice": "2174",
+  "volume": "Jerusalem_V7",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2174",
+    "no_notice": "2",
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ + 1096",
+    "dimensions": "21 X 16 X 6",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 27 տող։ Նոտր շեղագիր վարժ",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ փայլուն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ նորադրոշմ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ փակագիր, «Ք. Ծ. Դաւիթ Եպիսկոպոս, 1848», էջ 1, ստորին լուսանցքին",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Բ, դատարկ։ Էջ Գ. — Բան առ բարեմիտ ընթերցօղս ....։ Էջ 1. — Քարոզք Քառասնորդական Պահոց բոլոր աղուհացից, ասացեալք ի գերիմաստ վարդապետէ Հայր Անտօն Վիլիրայ կոչեցելոյ ի Յիսուսեան կարգէ. — Հմմտ. թ. 2074։ Էջ 266. — Քարոզ տասներրորդ. — Յաւուր երկրորդ Կիւրակէին Պահոց։ Էջ 558. — Քարոզ քսաներրորդ. — Յաւուր հինգ շաբաթի Երրորդ Կիւրակէի։ Էջ 583. — Քարոզ քսան եւ միերրորդ. — Յաւուր ուրբաթի երրորդ կիւրակէի։ Բանն Աստուծոյ առանց պտղոյ. — Հմմտ. թ. 2075։ Էջ 806. — Քարոզ երեսներրորդ։ Էջ 1012. — Քարոզ քառասուն եւ միերրորդ։ Յաւուր երեքշաբաթի զկնի Զատկին։ Էջ 1037. — Ցանկ եւ ցուցակ նշանաւոր իրաց սրբոյ մատենիս, հանդերձ թղթահամարօք նորին, դասակարգեալ այբբենական ոճիւ։ Էջ 1088. — Միտք բնաբանից ի յանդիման երես թղթոյն եղելոց։ Էջ 1089. — Ցանկ բոլոր բնաբանից այսր Քարոզագրքոյ։ Էջ 1092-1096, համարեա դատարկ։\nՅետնագոյն յիշատակագրութիւն. — 1857 Էջ 1, ստորին լուսանցքին, տարբեր գըրով. — Ետու որդւոյ մերոյ Երեմիա վարդապետին ի վայելս, 1857, ի Սեպտեմբեր 1։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "276.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2174-refine.json",
+    "pipeline_version": "v1"
+  }
+}

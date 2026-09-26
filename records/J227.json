@@ -1,0 +1,68 @@
+{
+  "id": "J227",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "227",
+  "notice": "227",
+  "volume": "Jerusalem_V1",
+  "title": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ (Թերի)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "227",
+    "no_notice": "14",
+    "titre": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ (Թերի)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "466, ըստ նոր իջահամարի",
+    "dimensions": "29 x 21 x 4",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 37 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "էջ 3–162 կապտորակ, էջ 163–466 ճերմակ",
+    "nb_lignes": null,
+    "reliure": "հասարակ, փայտեայ",
+    "etat_conservation": "լաւ, բայց ըսկիզբը եւ վերջը թերի",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1–2, դատարկ, պահպանակ։ էջ 3.— Դ. պրակն է, ուրեմն կը պակսին Ա–Գ պրակները, 46 էջ՝ նախկին իջահամարով։ էջ 4.— Ճառ Բ.։ Թէ որպէս նմանեցուցանի երանելին Ամբրոսիոս մեղուի, առիւծու եւ մեղեր։ էջ 154–162, դատարկ։ էջ 163.— Յաղագս Աւետման Սբ. Աստուածածնին։ ԾԱՆՕԹ.— Նախապէս ունեցած է առանձին իջահամար եւ պրակաթիւ, ըստ որում ա պրակին առաջին էջն է սա։ էջ 371.— Ճառ[ք] գեղեցիկք արտահանեալք ի զանազան բանից սբ. գրոց յաղագս սրբոց որք ընդ բովանդակ տարին պատահին։ Արարեալ ի յարգելի յառնէ Յակօբայ Վորակեան, ի կարգէ քարոզչաց, երբեմն Արքեպս.է յանուացոց որք եւ սկսանին երջանկորէն։ Յաղագս Սրբոյն Անդրէի Առաքելոյն։ ԾԱՆՕԹ.— Նախապէս ունեցած է առանձին իջահամար, 1–64։ Վերջին երկու պրակներու իջաթիւերը նոր դրուեցան։ էջ 465.— Ճառ Գ.։ Յաղագս չորից կացութեանց երանելւոյն Սեդբեստրոսի, և թէ որպէս յամենեսին ի նոսա հաճոյ եղեւ Այ.։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "630.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "227-refine.json",
+    "pipeline_version": "v1"
+  }
+}

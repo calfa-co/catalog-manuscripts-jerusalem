@@ -1,0 +1,68 @@
+{
+  "id": "J878",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "878",
+  "notice": "878",
+  "volume": "Jerusalem_V3",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՅՈՎՆԱՆՈՒ",
+  "date": {
+    "from": "1785",
+    "to": "1785",
+    "display": null
+  },
+  "fields": {
+    "numero": "878",
+    "no_notice": "3",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՅՈՎՆԱՆՈՒ",
+    "date_debut": "1785",
+    "date_fin": "1785",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "90",
+    "dimensions": "21.5x17x1",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 30-38 տող",
+    "details_ecriture": "սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Կիրակոս Աբղ. Ատանացի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։ Էջ 3. — Մեկնութիւն Մարգարէութեանն Յօնանու։ Արարեալ Տեառն Եփրեմայ Վարդապետի Սսեցւոյ՝ յաշակերտէ եւ յեղբօրորդւոյ Տեառն Գաբրիէլի գերահանճար կաթողիկոսի՝ ի խնդրոյ Տեառն Թէոդորոսի Վարդապետին Սսեցւոյ, ի թուին Հայոց ՌՄԺԸ [= 1769]։ Իսկ օրինակեցաւ եղեւ սա՝ ամենանուաստ Կիրակոս թարմատար յաբեղայէ Ատանացւոյ, ի թուաբերութեան արամեանս տոհմի ՌՄԼԴ [= 1785], եւ յուլ. եօթներորդ աւուր, ի հայրապետութեան Տեառն Թէոդորոս գերամաքուր եւ գերավսեմ կաթողիկոսի։\nՅառաջաբանութիւն. — Եւ արդ՝ գրէ աստուածայինն առաքեալ առ հողեծին զաւակն իւր եւ առ մտերիմ աշակերտն Տիմօթէոս...։ Էջ 10. — Գլուխ Առաջներրորդ. — Եւ եղեւ բան Տեառն առ Յօնան որդի Ամաթեայ՝ եւ ասէ...։ Էջ 81. — Արդ ընկալ զայս դուզնաքեայ աշխատութիւնս մեր եղբայր Թէոդորոս եւ Այցելու մեծին Անտիոքայ...։ Էջ 84-90, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "397.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "878-refine.json",
+    "pipeline_version": "v1"
+  }
+}

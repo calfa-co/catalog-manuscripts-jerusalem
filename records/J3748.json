@@ -1,0 +1,72 @@
+{
+  "id": "J3748",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3748",
+  "notice": "3748",
+  "volume": "Jerusalem_V11",
+  "title": "ՕՐԱԳՐՈՒԹԻՒՆ",
+  "date": {
+    "from": "1924",
+    "to": "1924",
+    "display": null
+  },
+  "fields": {
+    "numero": "3748",
+    "no_notice": null,
+    "titre": "ՕՐԱԳՐՈՒԹԻՒՆ",
+    "date_debut": "1924",
+    "date_fin": "1924",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Նման է նախորդին ըստ ամենայնի։",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Օրագրութիւն Մեսրոպ Վ. Նշանեանի Կ. Պոլսեցւոյ։ 1924։ Յունուար 4 Ուր.— Ժամը 9.30ին Կ. Պոլսոյ նախորդ պատրիարք Տ. Զաւէն Արքեպս. Տէր Եղիաեան Գահիրէէն ժամանեց Երուսաղէմ։\nԷջ 8.— Յունուար 23 Դշ.— Գիշերը ժամը 8ին ֆրանսական հիւանդանոցին մէջ հոգին աւանդեց Պարսկա Հնդկաստանի նախկին առաջնորդ Տ. Սահակ Արքեպս. Այվատեան Պոլսեցի...: Աղթամարի Կաթ. Տեղապահ Եզնիկ Ծ. Վրդ. Ներկարարեան ժամանեց: Էջ 9.— Յունուար 24.— Տ. Բաբգոմ եպս. Գուշակեան ժամանեց Գահիրէէն: Էջ 88.— 1924 Սեպտ. 20 Շբ.— Առտուն յետ ժամերգութեան Իջման Սուրբ Սեղանին առջեւ ծնրադիր չորս վարդապետներս մեր երդմնագրերը կարդացինք, ու խաչն ու աւետարանը համբուրեցինք, եւ ստորագրեցինք...: Էջ 104.— Հոկտ. 5 Կիր.— Հրաժեշտ առնելով Առաջնորդէն գացինք Երեւանի կայարանը եւ ժամը 11ին գնացքը ճամբայ ելաւ: Երեկոյեան ուշ ատեն հասանք Ալէքսանդրապոլի կայարանը: Էջ 111.— Հոկտ. 19 Կիր.— Այսօր հինգերորդ օրն է որ Պոլսոյ առջեւ ենք, ու շոգենաւին մէջ բանտուած կը մնանք...: Էջ 124.— Նոյ. 11 Գշ.— Արեւածագին հասանք Լիւզի կայարանը... ժամը 9,30 գնացքը հասաւ Երուսաղէմի կայարանը...: Մեր Երուսաղէմէն մեկնումն ու վերադարձը, Օգոստոս 5 — Նոյեմբեր 11, տեւեց 98 օր: Էջ 128.— Նոյ. 20 Դշ.— Տ. Բաբգէն եպս. Կիւլէսէրեան Ամերիկայէն ժամանեց Երուսաղէմ եւ իրեն բնակութեան յատկացուեցաւ Դարպասատունը: Էջ 181.— 1924 Սեպտ. 21ին մեր եպիսկոպոս ձեռնադրութեան օրը պաշտօնական սեղանի ժամանակ խօսուած բաժակաճառն է Մեսրոպ եպս.ի կողմէ: Էջ 185.— 1924 Նոյեմբեր 11ին մեր Երուսաղէմ ժամանած օրը հետեւեալը խօսեցայ Ս. Յակոբեանց Տաճարին մէջ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "201.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "202.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3748-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3064",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3064",
+  "notice": "3064",
+  "volume": "Jerusalem_V9",
+  "title": "ԹԱՄԻՐԱՍ ԿՈՒՐԱԾԻՆ",
+  "date": {
+    "from": "1846",
+    "to": "1846",
+    "display": null
+  },
+  "fields": {
+    "numero": "3064",
+    "no_notice": "2",
+    "titre": "ԹԱՄԻՐԱՍ ԿՈՒՐԱԾԻՆ",
+    "date_debut": "1846",
+    "date_fin": "1846",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "82",
+    "dimensions": "16.5X11",
+    "mise_en_page": "սեւորակ մելանով, միասին, 20-22 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "թանձր թուղթ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— Թամիրաս Կուրածին, յԱրարատեան Մուզայից զրկեալ ի քնարէ։ Ի 1846, յունի. 11, ի Մայր Վարժարանն Կարնոյ։\nէջ 1.— Նախ յառաջ բերեն նախնի դիւցաբանք...։ էջ 3.— Լար զրպարտութեան։ էջ 46.— 9.— Ձանձրացեալք ի հալածել զինքնակալած ամբարիշտսդ...։ էջ 69.— 14.— Բայց ո՞ւր տարցուք զանբարիշտ, զանաստուած եւ զազգատեաց ձայնսդ...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "303.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3064-refine.json",
+    "pipeline_version": "v1"
+  }
+}

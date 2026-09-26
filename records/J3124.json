@@ -1,0 +1,68 @@
+{
+  "id": "J3124",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3124",
+  "notice": "3124",
+  "volume": "Jerusalem_V9",
+  "title": "ՅՈՎՍԵՓԱՅ ԳԵՂԵՑԿԻ ԶՐՈՅՑՔ ԸՆԴ",
+  "date": {
+    "from": "1849",
+    "to": "1849",
+    "display": null
+  },
+  "fields": {
+    "numero": "3124",
+    "no_notice": null,
+    "titre": "ՅՈՎՍԵՓԱՅ ԳԵՂԵՑԿԻ ԶՐՈՅՑՔ ԸՆԴ",
+    "date_debut": "1849",
+    "date_fin": "1849",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "236",
+    "dimensions": "25 X 21 X 1.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 32 տող",
+    "details_ecriture": "վարժ։ Անկազմ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "անբաւարար. վերջը թերի",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Յովսեփայ Գեղեցկի Զրոյցք ընդ Ասանեթայ ամուսնոյ իւրոյ։ Ներածութիւն. — Ամենամաքուր եւ չքնաղ բարք եւ սրբասուն վարք գեղեցկին Յովսեփայ՝ յայտնի է...։ Հմմտ. թիւ 1866, Զ. Հատոր, էջ 265։ Էջ 2. — Գիրք Առաջին։ Գիշեր Ա։ Ասանէթ. — Աղաչեմ պատմեա ինձ, եթէ ո՛ւր են հայրենիք քո...։ Էջ 233. — Գիշեր յիսներորդ վեցերորդ։ Ասանէթ. — Զի՞նչ խորհուրդք էին նոցա ի գիշերիս։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "362.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3124-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J119",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "119",
+  "notice": "119",
+  "volume": "Jerusalem_V1",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ՄԵԾԻՆ ՊԵՏՐՈՍԻ",
+  "date": {
+    "from": "1767",
+    "to": "1767",
+    "display": null
+  },
+  "fields": {
+    "numero": "119",
+    "no_notice": "1",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ՄԵԾԻՆ ՊԵՏՐՈՍԻ",
+    "date_debut": "1767",
+    "date_fin": "1767",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԲ + 550",
+    "dimensions": "32 X 20 X 5",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 32 տող",
+    "details_ecriture": "անհարթ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ։ Յաճախ կ՚երեւին գծուած և սրբագրուած բառեր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ։ Գըրիչ՝ Թարգմանիչը",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ անարուեստ։ Բնագրէն դուրս, տարբեր թուղթի վրայ կան, մէկ փոքր քարտէս, էջ 172-3, նկար մը, 186-7, և զինուորական յատակագիծ մը, 314-5, տպագրեալ, յունարէն լեզուով",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա.— Յառաջաբանութիւն.— Որ ոք խորհի ստուգիւ զընդհանուր պատմութիւնն աշխարհի, դիւրաւ տեսանէ, որ երկինն կամեցաւ ցուցանել յերկիր ընդ ժամանակս ժամանակս զոմանս բարձրախոհս և զգերազանց հոգիս...։ Էջ 1.— Գիրք Պետրոսի Մեծի ինքնակալին Ռուսիայի, Հօրն Հայրենւոյն։ Քաղեալ ի զանազան յիշատակարանաց ի Կալլիայ և ի Յօլլանդիայ տպագրեցելոցն, և թարգմանեալ ի յիղալականէն ի պարզ հռոմայական լեզուն, հանդերձ յաւելմամբ, և բազում ջանիւք ուղղագրեալ ի պատուելի Աղեքսանդրոս Քանկէլլարիոսէ, իսկ այժմոյս փոխեալ ի հայկական բարբառ յամի շնորհաց 1767, և ի յունիսի 25, ի Կոստանդնուպօլիս, ի տիրացու Մելքիսէթէ Պալաթցւոյ։ Էջ 2.— Կեանք Պետրոսի Մեծին։ Գիրք Առաջին։ Էջ 43.— Գիրք Երկրորդ։ Էջ 140.— Վարք Պետրոսի Մեծին։ Գիրք Երրորդ։ Էջ 225.— Գիրք Չորրորդ։ Էջ 294.— Կեանք Պետրոսի Մեծին։ Գիրք Հինգերորդ.— Մինչեւ ցայժմ ետես Մեծն Պետրոս զերեսս բաղդին որ ծիծաղէր ի յօգնութիւն իւրեան...։ Էջ 440.— Վարք Պետրոսի Մեծին։ Գիրք Վեցերորդ։ Էջ 540.— Յաղագս սկզբան դարձի Ռուսսացն առ քրիստոնէական հաւատն։ Էջ 548-550, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "349.jpg"
+    },
+    {
+      "volume": "Jerusalem_V1",
+      "file": "350.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "119-refine.json",
+    "pipeline_version": "v1"
+  }
+}

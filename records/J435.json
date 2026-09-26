@@ -1,0 +1,68 @@
+{
+  "id": "J435",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "435",
+  "notice": "435",
+  "volume": "Jerusalem_V2",
+  "title": "ԽՐԱՏ ՄԻԱՆՁԱՆՑ ԵՒ ԱՆԱՊԱՏԱԿԱՆԱՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "435",
+    "no_notice": "2",
+    "titre": "ԽՐԱՏ ՄԻԱՆՁԱՆՑ ԵՒ ԱՆԱՊԱՏԱԿԱՆԱՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "34. առաջին 5 թերթերու լուսանցքներուն կտորներ փակցուած են. միւսները տարբեր թուղթ են",
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": "ԻԲԻԳ։ Կարմրադիծ լուսանցազարդք, է 1, 4, 5, 11, 19, 21",
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Հմմտ. նախորդին հետ որուն մէկ մասը կազմած է նախապէս",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— էջ 1.— Ի կամս Այ. մարդասիրին եւ ի նախախնամութիւն Սրբոյ Երրորդութեանն, որ է գոյացուցիչ Հայր եւ Որդի եւ Սբ. Հոգի։ Այս են բանք ճշմարտութեան Սբ. Հօրն Յոհաննու Աստուածաբանի, զոր ասացեալ է վասն միանձանց եւ անապատականաց, զոր ազդեաց ի նմա Հոգին Սբ.։— Թողութիւն շնորհեայ եղբայր, զի եղի ի մտի իմում սկսանել ի գիրս յայս, եւ զարհուրեցայ յոյժ վասն անգիտութեան իմոյ...։ — Հմմտ. աստ, թ. 300 (ԾԹ)։ Բ.— էջ 21.— Անտոնի մեծի սրբոյ անապատականի խրատ ճգնաւորաց։ Ի նորին վարուցն է.— Յաւուր միում եկին ոմանք առ Անտոն...։ Գ.— էջ 31.— Յոհաննու որ ետ զձեռագիրն ի Քէ. տուեալ.— Միայնակեաց մի Անտիոքացի գնաց ի Սբ. Քաղաքն յԵէմ. աղօթել...։ էջ 34, կնիք եւ մանր յիշատակագրութիւն եղծուած։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "413.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "435-refine.json",
+    "pipeline_version": "v1"
+  }
+}

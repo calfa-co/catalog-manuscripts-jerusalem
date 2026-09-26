@@ -1,0 +1,68 @@
+{
+  "id": "J1518",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1518",
+  "notice": "1518",
+  "volume": "Jerusalem_V5",
+  "title": "ՔՐԻՍՏՈՆԷԱԿԱՆ (ԹԻՒՐՔԵՐԷՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1518",
+    "no_notice": "1",
+    "titre": "ՔՐԻՍՏՈՆԷԱԿԱՆ (ԹԻՒՐՔԵՐԷՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "80",
+    "dimensions": "15.5x11x2.5",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 19 -21 տող։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ քայքայուած",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Քրիստոնէական Վարդապետութիւն։ Ս.— Սէն քրիստոնեամըսըն։ Ճ.— Պէլի, քրիստոնեայըմ մէվլայ լութֆիլէ։ Էջ 22.— Աստուածաշունչ պատմութիւնու, տիւնեանըն եարատըլմասընտան Իսրայէլ միլլէթինին Երուսաղէմէ տախիլ օլմասընայ հատար։ Էջ 44.— Աւետարանըն պիրազ իլազըմլը գարլարընըն մեկնութիւնլարըտըր։ Էջ 68.— Քաղաքավարութիւն.— Եղբայր, նէ տիր քաղաքավարութիւն, վէ նէ տիր օնուն պաշլըճայ քարուլարը։ Էջ 77-80, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "279.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1518-refine.json",
+    "pipeline_version": "v1"
+  }
+}

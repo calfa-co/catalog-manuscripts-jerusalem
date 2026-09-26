@@ -1,0 +1,68 @@
+{
+  "id": "J2816",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2816",
+  "notice": "2816",
+  "volume": "Jerusalem_V9",
+  "title": "ԾԱՂԻԿՔ ՀԱՐԱՆՑ ՎԱՐՈՒՑ",
+  "date": {
+    "from": "1895",
+    "to": "1895",
+    "display": null
+  },
+  "fields": {
+    "numero": "2816",
+    "no_notice": null,
+    "titre": "ԾԱՂԻԿՔ ՀԱՐԱՆՑ ՎԱՐՈՒՑ",
+    "date_debut": "1895",
+    "date_fin": "1895",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "21X13.5X1.5: Էջք Ը+244: Հանգամանք շատ լաւ: Թուղթ փայլուն: Գրութիւն մանիշակագոյն թանաքով, միասիւն, 21 տող: Շեղագիր մաքուր: Համառօտագրութիւնք սովորական: Կազմ կիսակաշի խաւաքարտեայ նորադրոշմ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Ե, դատարկ: Էջ Զ.— Աւետիս Վարդապետի անձնական գիրքերէն, նուիրուած Ս. Աթոռոյս Թանգարանին, 1913: Էջ Է.— Ծաղիկք Հարանց Վարուց, որու մէջ կը պարունակին Հարանց Վարքէն առնըւած Սբ. Հայրերու հոգեշահ խրատներէն ու պատմութիւններէն քանի ընտիր հատուածներ. նաեւ Սբ. Նեղոսի քաջընտիր խրատները: Գրաբառէն՝ աշխարհաբառ լեզուով ու համառօտ ոճով գրուած: Գրեաց Աւետիս Վարդապետ Յովհաննէսեան, Մշոյ Խասգեղցի, նախկին միաբան Կըտուց Անապատի, եւ այժմ՝ Սրբոց Յակովբեանց Երուսաղէմի, 1895, ի Բեթլէհէմ: Էջ Ը, դատարկ: Էջ 1.— Ազդ.— Առաքինութեանց ծաղիկներու անուշահոտութիւններ բուրող...: Էջ 3–4, դատարկ: Էջ 5.— Ծաղիկք Հարանց Վարուց.— Զըղջումն ու Արտասուք: Էջ 9.— Պահեցողութիւն: Էջ 103.— Հնազանդութիւն: Էջ 177.— Տասներկու ճգնաւորաց առաքինութիւնները: Էջ 185.— Ազդ.— Առաջիկայ հոգեշահ խըրատներուն հեղինակն Աբբայ Նեղոս՝ Սբ. Յովհան Ոսկեբերանի աշակերտն էր...: Էջ 186, դատարկ: Էջ 187.— Սբ. եւ պատուական Հայր Նեղոսի խրատները.— Ա.— Որովայնամոլութիւն .— Պտղաբերութեան սկիզբը՝ ծաղիկն է, եւ առաջինի գործերուն՝ պահոց ժուժկալութիւնը...: Էջ 214.— Ը.— Ամբարտաւանութիւն.— Ամբարտաւանութիւնը կատաղի ախտ մի է եւ փուքով ուռած...: Էջ 223.— Ցանկ: Էջ 232, դատարկ: Էջ 233–244, սեւ մելանով, բոլորգիր.— Գեր. Տ. Եղիշէ Եպիսկոպոսի նորաձեւ շարադրած Այսօր անճառը.— Ա.— Անճառ լոյսին ծագումն այսօր...:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "052.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2816-refine.json",
+    "pipeline_version": "v1"
+  }
+}

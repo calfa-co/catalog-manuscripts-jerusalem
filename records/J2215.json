@@ -1,0 +1,72 @@
+{
+  "id": "J2215",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2215",
+  "notice": "2215",
+  "volume": "Jerusalem_V7",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2215",
+    "no_notice": "7",
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "438",
+    "dimensions": null,
+    "mise_en_page": "խոշորագիրները, բնաբանները, եւ սկզբնատողերը կարմիր, մնացեալը սեւորակ մելանով, միասիւն, 36-43 տող",
+    "details_ecriture": "Համառօտագրրութիւնք առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Մատլ 33 x 24 x 3",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։ Էջ 3. — Քարոզ Առաջին։ Բնաբան։ Վասըն այնորիկ իմաստութիւնն Աստուծոյ ասաց. Առաքեցից ի նոսա մարգարէս և Առաքեալս և ի նոցանէ սպանանիցեն եւայլն (Ղուկաս ԺԱ, 49)։ Մասն միակ. — Շնորհակալութիւն մեծ՝ բանականս ազգ արդարեւ պարտէ՝ հատուցանել բարերարին Աստուծոյ...։ Էջ 6. — Քարոզ Երկրորդ։ Յաղագս անարատի յղութեան Սրբուհոյ Մօրն Այ. ի ծնողաց։ Էջ 15. — Քարոզ Երրորդ։ Յաղագս երից ամաց ընծայեցման Մօր Տեառն ի Տաճարն։ Էջ 18. — Քարոզ Չորրորդ։ Յաղագս Աւետեաց Սրբոյ Կուսին Մօր Տեառն։ Էջ 45. — Քարոզ Հինգերորդ։ Յաղագս Տարեմտին։ Էջ 63. — Քարոզ Վեցերորդ։ Սբ. Ծննդեանն Քի.։ Էջ 87. — Քարոզ Եօթներորդ։ Յաղագս Մկրտութեան Քի. Այ. մերոյ։ Էջ 93. — Քարոզ Ութերորդ։ Յաղագս փրկաւէտ թլփատութեան Քի. Այ. մերոյ։ Էջ 100. — Քարոզ Իններորդ. — Յաղագս Յոհանու։ Էջ 290. — Քարոզ ԻԲ։ Յաղագս Ղազարու Յարութեան շաբաթու։ Էջ 429. — Քարոզ ԼԹ։ Յաղագս սրբալոյս իւղոյն Մեռոնի...։ Էջ 433. — Նորին շարադրողի գրոյս է ասացեալ առ Հոգին Սբ. ...։ — Պետք համայնից հոգի անհուն...։ — Պ ե տ ր ո ս։ Էջ 434. — Կատարեցաւ առաջին հատոր գործոյս ի փառս Հոգւոյն Սրբոյ, ի խնդրոյ սրբոյ աթոռոյս Էջմիածնի նորընծայից ոմանց բանասիրաց։ Էջ 435-438, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "333.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "334.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2215-refine.json",
+    "pipeline_version": "v1"
+  }
+}

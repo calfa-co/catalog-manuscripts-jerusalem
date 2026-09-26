@@ -1,0 +1,68 @@
+{
+  "id": "J3710",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3710",
+  "notice": "3710",
+  "volume": "Jerusalem_V11",
+  "title": "ՊԱՏՄ. ՀՐԿԻԶՄԱՆ Ս. ՅԱՐՈՒԹԵԱՆ ՏԱՃԱՐԻ (1808)",
+  "date": {
+    "from": "1808",
+    "to": "1808",
+    "display": null
+  },
+  "fields": {
+    "numero": "3710",
+    "no_notice": null,
+    "titre": "ՊԱՏՄ. ՀՐԿԻԶՄԱՆ Ս. ՅԱՐՈՒԹԵԱՆ ՏԱՃԱՐԻ (1808)",
+    "date_debut": "1808",
+    "date_fin": "1808",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "35x24: Էջք 36: Հանգամանք համարեա բաւարար: Թուղթ հասարակ: Գրութիւն սեւ մելանով, միասիւն, 38 տող: Շեղագիր, ոչ միեւնոյն գրչէ: Համառօտագրութիւնք առատ: Կողք թղթեայ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "1.- Պատմութիւն Ս. Յարութեան Տաճարի հրկիզման յաւուրս Թէոդորոսի պատրիարքի Վանեցւոյ, 1801, սեպտ. 29.- Կիսատ: Դիտ.- 1801 Թէոդորոսի ընտրութեան թուականն է, հրդեհը պատահած է 1808, սեպտեմբերի վերջը: Էջ 1.- Իբրեւ լցաւ բովանդակեալ չափ մեղաց մերոց...: 2.- Պատմութիւն աստուածահրաշ իմն իրաց յաղագս ազատութեան Սրբոց Յակոբեանց առաքելական նախագահ Աթոռոյն Երուսաղէմի, ընկալեալ ի ծերունածաղիկ պատուամեծար մահտեսի տէր Մելքոն գերըն. տէր քահանայէ Պալատու Ս. Եկեղեցւոյն, 1832, Մարտ: Էջ 33.- Ի ժամանակի պատրիարքութեան Սրբոյ Աթոռոյն Երուսաղէմի տեառն Գրիգորի Շղթայակիր անուանեալ Սրբազան Վեհապետի...: Էջ 36.- Յիշատակագրութիւն.- 1832 Գրեցաւ յամի Տեառն 1832, ի ՌՄՁԱ, յամսեան Մարտի, ի Պօլու, մինչ էի տարագիր անդանօր հանդերձ երկու որդւովք, տէր Պաղտասարիւ եւ տէր Ստեփանիւ, ես՝ նուաստ տէր Մելքոնս Պօլսեցի:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "175.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3710-refine.json",
+    "pipeline_version": "v1"
+  }
+}

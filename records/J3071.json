@@ -1,0 +1,68 @@
+{
+  "id": "J3071",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3071",
+  "notice": "3071",
+  "volume": "Jerusalem_V9",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ՆՈՐ ՈՒԽՏԻ",
+  "date": {
+    "from": "1870",
+    "to": "1870",
+    "display": null
+  },
+  "fields": {
+    "numero": "3071",
+    "no_notice": "1",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ՆՈՐ ՈՒԽՏԻ",
+    "date_debut": "1870",
+    "date_fin": "1870",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "274",
+    "dimensions": "20X14X1.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 25 տող",
+    "details_ecriture": "սակաւ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "անարուեստ",
+    "etat_conservation": "բաւարար",
+    "copiste": "Սարգիս Ստեփանեան Թալասցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Պատմութիւն Նոր Ուխտի։ Ա.— Զաքարիա եւ Եղիսաբէթ, Ղուկ. Ա.5։ Հերովդէսի թագաւորութեան ժամանակ, Յուդայի մի փոքրիկ եւ լեռներու մէջ շինուած քաղաքի մէջ կը բնակէր Զաքարիա անունով մի բարեպաշտ քահանայ, իւր Եղիսաբէթ կնոջը հետ միասին...։ Էջ 65.— ԻԹ.— Հիւանդը Պրոպատիկէ Աւազանի մօտ։ Էջ 68ին կը յաջորդէ 79, ըստ երեւոյթին սխալմամբ թուագրուած։ Էջ 79.— Մի քանի խրատական անցքեր։ Էջ 269.— ՃԸ.— Երուսաղէմի Աւերումն։ Էջ 271.— ՃԹ.— Հայեցուած Քրիստոնէական եկեղեցւոյ վիճակի վրայ Առաքեալներէն յետոյ։ Էջ 274.— Վերջ։ Ստորոտը գրչէն՝ Սարգիս Ստեփանեան Թալասցի 1870 մայիս 12։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "310.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3071-refine.json",
+    "pipeline_version": "v1"
+  }
+}

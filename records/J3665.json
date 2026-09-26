@@ -1,0 +1,68 @@
+{
+  "id": "J3665",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3665",
+  "notice": "3665",
+  "volume": "Jerusalem_V11",
+  "title": "ՏԱՂԱՐԱՆ",
+  "date": {
+    "from": "1809",
+    "to": "1809",
+    "display": null
+  },
+  "fields": {
+    "numero": "3665",
+    "no_notice": null,
+    "titre": "ՏԱՂԱՐԱՆ",
+    "date_debut": "1809",
+    "date_fin": "1809",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "14",
+    "dimensions": "28.5x18.5",
+    "mise_en_page": "սեւ մելանով, միասիւն, 26 տող կամ նուազ, սեւ գիծերու միջեւ։ Նոտր շեղագիր մաքուր",
+    "details_ecriture": "սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "թղթեայ, առաջին թերթը դատարկ",
+    "etat_conservation": "լաւ",
+    "copiste": "Մկրտիչ Վրդ. Երեւանցի, Մ.Ս.Յ.",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ոգեալ ի Մկրտիչ վարդապետէ Երեւանցւոյ, ի միաբանութենէ Սբ. Երուսաղէմի, ի գոյն յարմար ձեւովին, թուին ՌՄԾԸ, ի Տփխիս քաղաքի, ի դառն պանդխտութեան, ի սէր Սբ. Երուսաղիմայ.— Ի յազգմանէ Արարչին, արարչին, լոյս շնորհաց ծագեալ սրտին...։— ի Մ կ ր տ ի չ վ ա ր դ ա պ ե տ է ո գ ե ա լ ։ Էջ 5.— Ասացեալ ի Մկրտիչ վարդապետէ առ Սբ. Աստուածածինն, եւ գոյնն լսել պիտոյ է.— Կոյս Մարիամ Աստուածածին Սրբուհի...։— Կոյս Մարիամ։ Էջ 6.— Ի Մկրտիչ վարդապետէ ասացեալ տաղ ի գոյն Արիք եղբարքին, Առ Սբ. Յակովբեանս եւ պանծալի Աթոռն նոցին.— Ի գալստեան Հոգւոյն Սրբոյ զարդ զգեցան ...։— Ի Մ կ ր տ ի չ Վ ա ր դ ա պ ե տ է ։ Էջ 9.— Տաղ ասացեալ ի Պետրոս Վարդապետէ Ղափանցւոյ.— Առաւօտեան քաղցր եւ անոյշ հովերըն...։ Էջ 14.— Զբացմանէ վարդին զմայլումն սոխակին ոգեալ ի նուաստ անձնէ Յօհաննէս Արամելէքեան Թիֆլիզեցւոյ ի գոյն Սարի Ղղին, 1805 ամի։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "103.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3665-refine.json",
+    "pipeline_version": "v1"
+  }
+}

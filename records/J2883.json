@@ -1,0 +1,68 @@
+{
+  "id": "J2883",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2883",
+  "notice": "2883",
+  "volume": "Jerusalem_V9",
+  "title": "ՍԱՂՄՈՍԱՐԱՆ (ԵԹՈՎՊԵՐԷՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2883",
+    "no_notice": null,
+    "titre": "ՍԱՂՄՈՍԱՐԱՆ (ԵԹՈՎՊԵՐԷՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Paper and vellum, codex; 22.1 x 15.5 cm; 199 folios; full binding; wooden boards covered with black leather having geometrical designs on them. Fols. 5-112 and 120-186 single columns, and the rest double columns; 25-35 lines per column; Ms. in good condition; the vellum part which is much older is preserved well except for the fact that the first 88 Psalms are missing and completed later on paper; slightly stained throughout and with holes in several folios, particularly all the leaves in the paper section.",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Title: The Psalter. 1) fols. 1-67. Psalms 1-88 (part) written in 19th century hand, on paper. 2) fols. 68-101. Psalms 88 (part)-151 written in early fifteenth century hand, on vellum. 3) fols. 102-112: The Songs of the Prophets or the Fifteen Morning Odes of the Ethiopic Psalter from the 15th century vellum except fols. 102-103 which are 18th century hand on paper. 4) fols. 137-148a. Weddase Maryam and Porch of Light (with rubrics) for the seven days of the week followed by the lectionaries including portions of the New Testament. Headpieces on fol. 137 in red colour, on fols. 148a and 158b in red and black colours, and ending with decorated punctuation (more elaborate than similar decorated punctuations throughout) on fol. 170 in red and black. 5) fols. 180b-186a. Song of Songs also with decorated punctuations. The original ending which is missing is substituted for on paper on the paper fol. 186.\nAdditional Content. 1) fols. 1-4; 127b; 186b-187; Blank. 2) fols. 113-127. Kidan Zanageh (Morning Covenant) and prayers with homiletical portions, from the Gospels, Acts, and the Epistles. On fol. 113a top there is a headpiece with a cross in it in red, yellow, and black colours. 3) fols. 128-136. Night prayer with homiletical prayers from the Gospels, Acts, and the Epistles. Also with a similar headpiece on fol. 128. 4) fols. 170b-180a. Mawas'et. Liturgical chants for the different festivals, with their rubrics, also with decorated punctions, the most elaborate one on fol. 180a in red and black. 5) fols. 188a-198b. A prayer opening with the Trinitarian formula and \"make us worthy, O Lord, to open our mouths in order to praise Thee with a pure heart...\" and consisting of various petitions written for a person called Yohannes whose name has been filled in by the original hand in red colour. 6) fols. 198b-199b. A fragment of a prayer for the forgiveness or remission of sins. Տես էջ 182-183։— Ձեռագրիս թղթեայ թերթերուն լուսանցքները մեծապէս վնասուած են որդերէ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "108.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2883-refine.json",
+    "pipeline_version": "v1"
+  }
+}

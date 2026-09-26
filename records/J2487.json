@@ -1,0 +1,68 @@
+{
+  "id": "J2487",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2487",
+  "notice": "2487",
+  "volume": "Jerusalem_V8",
+  "title": "Տ Օ Ն Ա Ց Ո Յ Ց",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2487",
+    "no_notice": "46",
+    "titre": "Տ Օ Ն Ա Ց Ո Յ Ց",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "256",
+    "dimensions": "15×10×2.5",
+    "mise_en_page": "սկզբնատողերը և գլխատառերը կարմիր, մնացեալը սև մելանով, միասիւն, 19 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ. խոնաւութենէ և ցեցերէ վնասուած չափաւորապէս",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սևադրոշմ, հաւկթաձև, անծանօթ տառերով, էջ 136, ձախակողմեան լուսանցքին",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր և լուսանցազարդ գլխաւոր տօներուն սկիզբը ; ԽՈՐԱՆԱԶԱՐԴ: կամ գլխազարդ իւր սարօք, էջ 9, 89, 199",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Քաղոց ամսոյ Հայոց ԽԱ, և դեկտեմբերի Հռոմայեցւոց ԻԲ...։ Էջ 8, դատարկ։ Էջ 9. — Աստուածայայտնութեան Ճրագալուցի աւուր գիշերն...։ Էջ 34. — Իսկ զԳալստեան Աստուածորդոյն քառասնօրեայ ի տաճարն...։ Էջ 44. — Բուն Բարեկենդանի կիրակի գիշերն փոխէ զձայն ի վերջ...։ Էջ 52. — Ծաղկազարդի գիշերն հսկում է...։ Էջ 89. — Սբ. Զատկի գիշերն հսկումն է...։ Էջ 101. — Նոր Կիրակի գիշերն հսկումն է...։ Էջ 113. — Պենտեկոստէի գիշերն հսկումն է...։ Էջ 137. — Եւթներորդ կիրակիի Վարդավառ է, գիշերն հսկում է...։ Էջ 149. — Փոխման Աստուածածնի գիշերն հըսկումն է...։ Էջ 161. — Սեպտեմբերի Լ տօն է ծըննդեան ամենօրհնեալ Սբ. Կուսին...։ Էջ 164. — Սբ. Խաչի Վերացման գիշերն հըսկումն է...։ Էջ 199. — Թագաւորք Ապաշխարութեան։ Էջ 209-256, նոտր շեղագիր անարուեստ։ Էջ 222. — Աւագ Տօներին. — Այսօր դասք հրեշտակաց...։ Էջ 225. — Ժամամուտք ըստ կարգի աւուրց պահոց և տօնից տէրունականաց և ամ. սրբոց։\nՄանր յիշատակագրութիւն Գրչի. — Էջ 88, ստորոտը. — Ով դասք պաշտօնէից, յիշեսջիք ի մաքրափայլ յաղօթս ձեր ըզգծողս, և դուք յիշեալ լիջիք։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "181.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2487-refine.json",
+    "pipeline_version": "v1"
+  }
+}

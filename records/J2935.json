@@ -1,0 +1,68 @@
+{
+  "id": "J2935",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2935",
+  "notice": "2935",
+  "volume": "Jerusalem_V9",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (Դ. ՀԱՏՈՐ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2935",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (Դ. ՀԱՏՈՐ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "283-578",
+    "dimensions": "23X16X2",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 24 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ. առաջին կողքի երեսին կը կարդացուի. «Գիրք Քարոզից, որ արարեալ է ի Տիմոթէոս Եպս. Սափրիզեանէ, Հատոր 4»",
+    "etat_conservation": "բաւարար",
+    "copiste": "Հեղինակը",
+    "possesseur": "Հեղինակը",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը մէկ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 283.— Քարոզ 42։ Կաղանդ։ Սկիզբն է այսօր քրիստոնէական ամաց ամսոց եւ աւուրց, որոյ վասն կը շնորհաւորէ եկեղեցին զմեզ զամենեսին...։ Էջ 338.— Քարոզ 50։ Վերափոխումն Սբ. Աստուածածնի։ Էջ 406.— Քարոզ 60։ Խորագիտութիւն։ Էջ 515.— Քարոզ 81։ Յարութիւն Քի. Զատիկ։ Էջ 531.— Քարոզ 84։ Կաղանդ։ Այսօր Փրկչական ամաց, ամսոց, եւ աւուրց սկիզբի օրն լինելուն քրիստոսական Սբ. Եկեղեցին կը շնորհաւորէ զձեզ եւ զմեզ ...։ Էջ 576.— Քարոզ 91։ Ի վերայ Վերափոխման Տիրամօր Կուսի։ Էջ 577-578.— Ցանկ Քարոզից։ Գլուխներ 42-90։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "156.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2935-refine.json",
+    "pipeline_version": "v1"
+  }
+}

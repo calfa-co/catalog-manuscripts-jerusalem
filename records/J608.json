@@ -1,0 +1,68 @@
+{
+  "id": "J608",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "608",
+  "notice": "608",
+  "volume": "Jerusalem_V3",
+  "title": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "608",
+    "no_notice": "21",
+    "titre": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "214",
+    "dimensions": "22x16x1.5",
+    "mise_en_page": "խորագիրները, սկզբնաւորութիւնները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 28 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ։ Իւրաքանչիւր քարոզի սկիզբը կարմրագիծ մեծ զարդագիր։ Կարմրագիծ գլխազարդ, էջ 13ա, 15ա",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "հաւկթաձեւ, սեւադրոշմ, փակագիր, «Կարապետ Վարդապետ, 1829», էջ 207բ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 3ա.— Քարոզ յաղագս ողջոյն տալոյ հաւատացելոցն եւ հաւատով ընդունողաց.— Զկնի ամենազօր փրկագործ մարմնառիճ տնօրէնութեանն Քս.ի...։ Էջ 13ա.— Բանք Ոսկիականք եւ գեղեցկագոյնք ի զանազան Սբ. Գրոց.— Ի բոլոր ժամանակս տարւոյ շարադրեցեալ եւ արարեալ ի գրոց գերազանց աստուածաբանութեանց վարդապետէ եղբայր Յակոբէ Վօռաճինոյ...։ Էջ 14բ.— Մեկնութիւն յառաջաբանութեան, Առաջին կամ գալստեան Տեառն։ Ա.— Էջ 15ա.— Յորժամ Թագաւոր ոք կամ իշխան...։ ԾԶ.— Էջ 197ա.— Մինչդեռ նա զայս խօսէր ահա իշխան մի = Մատ. 9, 18 =։ Էջ 205ա.— Ի վերայ Բանք Ոսկիականճ գրքոյն ցանկ շինեալ։ Էջ 208-214, դատարկ, բացի 209էն, ուր կայ նոտրագիր քանի մը տող, «Բուսայիտա իմաստնոյ քաղւածոյ, յաղագս կազմութեան մարդոյ»։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "026.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "608-refine.json",
+    "pipeline_version": "v1"
+  }
+}

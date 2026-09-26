@@ -1,0 +1,68 @@
+{
+  "id": "J323",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "323",
+  "notice": "323",
+  "volume": "Jerusalem_V2",
+  "title": "ՆԱԽՆՈՒԹԻՒՆ ՀԱՅԿԱԶԵԱՆ ԼԵԶՈՒԻՆ",
+  "date": {
+    "from": "1818",
+    "to": "1818",
+    "display": null
+  },
+  "fields": {
+    "numero": "323",
+    "no_notice": "1",
+    "titre": "ՆԱԽՆՈՒԹԻՒՆ ՀԱՅԿԱԶԵԱՆ ԼԵԶՈՒԻՆ",
+    "date_debut": "1818",
+    "date_fin": "1818",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ՃԺ",
+    "dimensions": "26 x 19 x 1",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 19–23 տող։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— Էջ Ա. Խնդիր նորագիւտ եւ նորալուր յաղագս անմայր նախնութեան արարատեան արամեան հայկազեան լեզուին, զոր վեհապատիւ եւ վսեմափառ աստուածաբան Պօղոս վարդապետիդ եւ պատրիարքիդ հայոց ընծայէ նուիրէ մատուցանէ Կոստանդնուպոլսեցի Պետրոս Վարդապետն Մուրատճայեան։ Ի մայրաքաղաքն Նէապոլիս, յամի Տեառն ՌՄԺԸ, յուլիսի ԼԱ։\nԷջ Գ.— Յառաջաբանութիւն ի վերայ խնդրոյս.— Արդարեւ վարկանելով զմտաց իմոց զզօրութիւնս առ ի բացայայտել զսոյն զայս խնդիր ամենեւին տկարս, եւ պաշտպանելոյ այնքանւոյ մեծի արժանաւորութեան նորա բնաւին անկարս, թէ սակս հանգամանաց նորին խոչիւք խթովք յօդեցեալ դժուարութեանց, եւ թէ սակս սկզբնաւորելոյ ի հասակի արդէն ծերութեան՝ յիշողականին անզօրութեան, ապաքէն յերկբայս եւ ի տարակոյս զանձն իմ տեսանէի...։\nՅիշատակագրութիւն.— Էջ ՂԷ.— Սրբազան հօր մերոյ՝ յորոյ անուն ընծայի գիրքս՝ բերաւ ի Ղալաթիա՝ յԱբրապկերցի Պարոն Թորոս անուն յուսումնականէ ումեմնէ վարժելոյ յԵւրոպեանս հրահանգ, աշակերտելոյ երբեմն ի Սբ. Եջմ. առ ոտս նորին Սրբազնութեան։— 1821—։\nԷջ Ը.— Յիշատակ է Էջմի միաբան Անդրիանուպօլսեցի նախկին պատրիարքի մեծին Պօլսոյ՝ Պօղոս Սրբազան Արքեպս.ին ձեռնասուն աշակերտ Չօրլուցի Տէր Կարապետեան նուիրակ հանգուցեալ Երեմիա շնորհազարդ վարդապետին, ի դուռն Սրբոց Յակոբեանց Մայր Աթոռոյն Ամ. Հայոց։ Թվին 1838, Սեպ. 6։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "211.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "323-refine.json",
+    "pipeline_version": "v1"
+  }
+}

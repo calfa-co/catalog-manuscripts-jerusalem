@@ -1,0 +1,68 @@
+{
+  "id": "J1161",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1161",
+  "notice": "1161",
+  "volume": "Jerusalem_V4",
+  "title": "ՀԵՐՔՈՒՄՆ ՎԱՀԱՆ ՀԱՒԱՏՈՅ ԳՐՈՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1161",
+    "no_notice": "5",
+    "titre": "ՀԵՐՔՈՒՄՆ ՎԱՀԱՆ ՀԱՒԱՏՈՅ ԳՐՈՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "19x13x1: Էջք 112: Հանգամանք շատ լաւ: Թուղթ հասարակ: Գրիչ՝ Անդրէաս Վրժ. Փափազեան: Գրութիւն ամբողջովին սեւ մելանով, միասիւն, 23 տող: Շեղագիր: Համառօտագրութիւնք առատ: Լաթակազմ խաւաքարտեայ: Դատարկ թուղթք սկիզբը եւ վերջը մէկմէկ թերթ: Ծանօթ.— «Հերքումն Վահան Հաւատոյ Գրոցն Մ. Վ. Չամչեան՝ ի Գոլէճցւոց, օրինակեալ ձեռամբ Անդրէաս Վարժապետի Փափազեան Կ. Պոլսեցւոյ եւ դասատուի ի Մեսրոպեան Դպրոցին Զմիւռնիոյ, եւ նըւիրեալ Թանգարանին Սբ. Յակոբայ ի Տ. Հ. Թ. Սաւալանեանցէ Զմիւռնացւոյ դիւանադպրի Սրբոյ Աթոռոյս յամի 1861» (Տ. Սաւալանեան, Ցուցակ, էջ 628)",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Շարունակութիւն կամ Հաստատութիւն յառաջագոյն գրեալ մերումս տեսարանի, կամ, Յայտնի ապացոյց նոր հերձուածող լինելոյ Վ. Հ. Մ. Չամչեանց եւ բոլոր Միաբանութեան իւրոյ, քաղեալ ի բուն ձեռագիր գրուածոյ իւրոյ՝ զոր իբր հրաշիւք ձըգեցաք ի ձեռս մեր յամի 1815, մարտի 4: Էջ 103.— Ի վերայ վերջին Օծման: Էջ 111.— Յօդ. Դ.— Թէ զանցառութիւն վերջին օծման՝ ոչ այնչափ գայթակղեցուցանել կարէ...: Էջ 112, դատարկ:\nՅիշատակագրութիւն.— 1861 Սկիզբի դատարկ թուղթին երկրորդ երեսին.— Նուիրէ ի յիշատակ Թանգարանին Ս. Յակոբեանց յԵէմ. Տ. Հ. Թ. Սաւալանեանց, 1861: Նոյնը կը գտնուի նաեւ առաջին էջի լուսանցքին՝ մասամբ կտրուած:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "281.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1161-refine.json",
+    "pipeline_version": "v1"
+  }
+}

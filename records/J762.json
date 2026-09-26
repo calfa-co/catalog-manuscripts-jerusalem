@@ -1,0 +1,68 @@
+{
+  "id": "J762",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "762",
+  "notice": "762",
+  "volume": "Jerusalem_V3",
+  "title": "ՅԱՂԱԳՍ ԵՐԿՆ. ՔԱՀԱՆԱՅԱՊԵՏՈՒԹԵԱՆՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "762",
+    "no_notice": "9",
+    "titre": "ՅԱՂԱԳՍ ԵՐԿՆ. ՔԱՀԱՆԱՅԱՊԵՏՈՒԹԵԱՆՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "672",
+    "dimensions": "21x14.5x4",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մնացեալները սեւ մելանով, միասիւն, 27 տող",
+    "details_ecriture": "կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "փայլուն",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "գեղեցիկ, էջ 8",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիրք եւ լուսանցազարդք գլուխներու սկիզբը ; ԽՈՐԱՆԱԶԱՐԴ: էջ 9",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 3. — Գիրք Սրբոյն Դիոնէսիոսի Արիսպագացւոյ, Յաղագս Երկնայնոց Քահանայապետութեանց։ — Յառաջաբանութիւն Գրոցս. — Նախ քան զձեռնարկել ի բողութիւնս արժան վարկանիմ...։ Էջ 9. — Ամենայն տուրք բարիք...։ Էջ 667. — Պատմութիւն Սրբոյն Դիոնէսիոսի։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "227.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "762-refine.json",
+    "pipeline_version": "v1"
+  }
+}

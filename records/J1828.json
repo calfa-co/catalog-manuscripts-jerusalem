@@ -1,0 +1,68 @@
+{
+  "id": "J1828",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1828",
+  "notice": "1828",
+  "volume": "Jerusalem_V6",
+  "title": "ՎԱՐՔ ՈՍԿԵԲԵՐԱՆԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1828",
+    "no_notice": "3",
+    "titre": "ՎԱՐՔ ՈՍԿԵԲԵՐԱՆԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "232",
+    "dimensions": "21.5x16x2",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 27 տող",
+    "details_ecriture": "առատ։ Կարմիր կապոյտ զարդագիր գլուխներու սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դըրոշմազարդ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": "մահտեսի Սիմէոն",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը եւ վերջը երկուական թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Ցանկ Գրքոյս։— Ա-Կ Գլուխներ։ Էջ 4ա.— Պատմութիւն Սրբոյն Յոհաննու Ոսկեբերանին, Կոստանդինուպօլսոյ եպիսկոպոսի եւ տիեզերաց լուսաւորչի, ծընընդեան սննդեան եւ գեղեցիկ քաղաքավարութեան։ Յաղագս Նախերգանի գրոյս. Գլուխ Ա.։— Ամենեքեան որք ի հնումն գրողք եղեն ...։ Էջ 121ա.— Յաղագս զրպարտութեանն Իսիդորոսի քահանային եւ այլոցն՝ զոր արար Թէոփիլոս։ Գլուխ ԼԱ.— Յայնժամ Ակակիոս եպս. Բերիայ քաղաքին...։ Էջ 229բ.— Յաղագս յիշատակարանի գրոյս եւ թարգմանութեան նորին։ Գլուխ Կ .— Յամի հազարերորդի, հարիւրերորդի, Աստուծոյ մերոյ Տն. Յի. Քի. գալստեանն...։ Էջ 231-232, դատարկ։ Յիշատակագրութիւն, սկիզբի դատարկ թերթին վրայ, անհարթ գրով.— Յօհան Ոսկի բարանին Վարքն յիշատակ է մահտեսի Սիմէօնին...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "218.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1828-refine.json",
+    "pipeline_version": "v1"
+  }
+}

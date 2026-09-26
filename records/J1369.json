@@ -1,0 +1,68 @@
+{
+  "id": "J1369",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1369",
+  "notice": "1369",
+  "volume": "Jerusalem_V5",
+  "title": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1369",
+    "no_notice": "Տ",
+    "titre": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "16.5 x 11 x 2 : էջք 190 : Հանգամանք անբաւարար . վնասուած ցեցերէ : Թուղթ հասարակ : Գրութիւն՝ խորագիրները, սկզբնատողերը եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 21 տող : Նոտրագիր վարժ : Համառօտագրութիւնք սովորական գրեթէ : Կաշեկազմ տախտակեայ դրոշմազարդ քայքայուած",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ . էջ 1 . — Համառօտ ճարտասանութիւն . դիւրին ոճիւ, եւ վայելուչ օրինակաւ : Շարագրեցեալ աշխատասիրութեամբ տեառն Մխիթարայ վարդապետի Սեբաստացւոյ Աբբայ Հայր կոչեցելոյ . . . : Յամի Տեառն 1753, ի Վէնէտիկ, մեծաւորաց ակնարկութեամբ :\nՍտորին լուսանցքին, անհարթ գրով — Թադէոս Վարդապետին է : Շնորհեցի սիրելւոյն իմոյ Յօհաննէս Վարդապետին, յաւուր տօնախմբութեան իւրոյ, 1794, դեկտեմբերի 28ին :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "022.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1369-refine.json",
+    "pipeline_version": "v1"
+  }
+}

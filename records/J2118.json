@@ -1,0 +1,72 @@
+{
+  "id": "J2118",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2118",
+  "notice": "2118",
+  "volume": "Jerusalem_V7",
+  "title": "Ա.— ՄԵԿՆՈՒԹԻՒՆ ՅԱՅՏՆՈՒԹԵԱՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2118",
+    "no_notice": "6",
+    "titre": "Ա.— ՄԵԿՆՈՒԹԻՒՆ ՅԱՅՏՆՈՒԹԵԱՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "238",
+    "dimensions": "21x16x2",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, էջ 1–162 միասիւն, էջ 163–237 երկսիւն, 25—44 տող։ Նոտր շեղագիր մանր",
+    "details_ecriture": "չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "բաւարար. բայց լուսանցքները ցեցահար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— ՄԵԿՆ. ՅԱՅՏՆՈՒԹԵԱՆ\nէջ 1.— Տեառն Ներսիսի Հայոց Կաթուղիկոսի Տարօն քաղաքի ոգեալ զայս բանս. — Արդ՝ գտեալ է զգիրս անդ ի մի վանորէիցն Հոռոմոց, որում անունն էր Պեթիաս, առ ոմն արգելական միայնակեաց, որոյ անունն Վասիլ կնքեալ...։ էջ 2.— Ի տիեզերական ժողովոյն կա-"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "203.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "204.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2118-refine.json",
+    "pipeline_version": "v1"
+  }
+}

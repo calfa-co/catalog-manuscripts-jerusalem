@@ -1,0 +1,68 @@
+{
+  "id": "J1678",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1678",
+  "notice": "1678",
+  "volume": "Jerusalem_V5",
+  "title": "Ա.— Ք Ե Ր Ա Կ Ա Ն Ո Ւ Թ Ի Ւ Ն (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1678",
+    "no_notice": "11",
+    "titre": "Ա.— Ք Ե Ր Ա Կ Ա Ն Ո Ւ Թ Ի Ւ Ն (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "292",
+    "dimensions": "13×8×3.5",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 23 տող",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բամբակեայ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ ընդհանուր առմամբ. տեղտեղ ցեցակեր. նորոգութիւն կրած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը երկու թերթ՝ մասն երկաթագիր Աւետարանի, վերջը մէկ թերթ՝ անկիւնաւոր երկաթագիր՝ մասն Աւետարանի, հանդերձ հնադրոշմ լուսանցազարդով։ Նաեւ մէկ թերթ նոր թուղթ՝ սկիզբը, ուր կը տեսնուի նոտրագիր. «Յիշատակ է Քերականութիւնս Սահակին»",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "ՔԵՐԱԿԱՆՈՒԹԻՒՆ էջ 1.— Յաղագս Քերականութեան.— Քերականութիւն է հմտութիւն . . . որք ի քերթողաց եւ ի շարադրաց իբրու բազում անգամ ասացելոցն, եւ մասունք են նորա վեց...։ էջ 32.— Յաղագս Ոտից։ էջ 33-34, նոր թուղթ. մասամբ դատարկ։\nՀՄՌ. ՏԵՍ. ՔԵՐԱԿԱՆԻ էջ 35, նոտրագիր.— Ես տիրացու Սահակս գնացի։ էջ 36.— Նուաստ Վարդապետի Յոհանիսի Ծործորեցոյ արարեալ Համառօտ Տեսութիւն Քերականին.— Միշտ բաղձանք բանին բ(ա)նաւորեալ է յոգիս բանականաց ...։ էջ 76.— Յաղագս Վերծանութեան։ էջ 88.— Յաղագս Ոլորակի։ էջ 100.— Յաղագս Հագներգութեան .— Հագներգութիւնս ոչ է ի հարկաւոր մասանց արուեստիս որպէս եւ այլքն, այլ ի կրթութիւն մանկանց դրեցաւ...։ էջ 132-133, դատարկ մնացած։ էջ 246.— Յաղագս Նախադրութեան։ էջ 254-255ի միջեւ մէկ թերթ կըտրուած։ էջ 273.— Յաղագս Առոգանութեան։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "555.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1678-refine.json",
+    "pipeline_version": "v1"
+  }
+}

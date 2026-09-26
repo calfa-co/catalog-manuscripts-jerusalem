@@ -1,0 +1,68 @@
+{
+  "id": "J2072",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2072",
+  "notice": "2072",
+  "volume": "Jerusalem_V7",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2072",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "462",
+    "dimensions": "20x15x2.5",
+    "mise_en_page": "այլազան, սեւորակ մելանով, միասիւն",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, ոչ միաձեւ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–2, դատարկ։ Էջ 3 — Համառօտ Աստուածաբանութիւն։ 1. Հ. Ի՞նչ է Աստուածաբանութիւնը։ Պ. Աստուածաբանութիւնն է ուղղափառ եկեղեցիէն Աստուծոյ վրայօք քննուած եւ ճառուած այն ճշմարտութիւնները, որք զԱստուած կը ծանուցանեն մեզի։ Էջ 19 — Ի վերայ շնորհաց։ Էջ 43–48, դատարկ։ Էջ 134 — Հ.— Արդեօք ամբարշտի արդարանալն սքանչելի՞ք է։ Էջ 135–148, դատարկ։ Էջ 149 — Համառօտ Աստուածաբանութիւն։ 1. Հ.— Զի՞նչ է Աստուածաբանութիւնը — Հմմտ. վերեւ էջ 3։ Էջ 173 — Հ.— Արդեօք ամբարշտի արդարանալն սքանչելի՞ք է։... Ծանօթ. Գրչի ստորագր.— Այս խընդիրներն Յարեթի Աստուածաբանութենէն համառօտուած է յեր. 137–163.— Հմմտ. էջ 134 սոյն ձեռագրի։ Էջ 174–176, դատարկ։ Էջ 177 — Հ.— Ի՞նչ է Տրամաբանութիւնը։ Պ. Տրամաբանութիւնը արուեստ մ'է, որ մարդուս իմացական կարողութիւնն ուղղելու կանոն կը տայ, որով կ'որոշէ ճշմարիտն ու սուտը...։ Էջ 215 — Պարզ և յօդուածոյ կարողութիւն կամ հանգամանք մտաց։ Էջ 224 — Տրամախոհութիւն։ Էջ 225–232, դատարկ։ Էջ 233 — Զգացողութիւն։ Էջ 333 — Վերջ։ Էջ 334, դատարկ։ Էջ 335 — 2 Տետր Ճարտասանութեան։ Գլուխ Դ., Ձեւք բառից։ Էջ 356 — Մասն Բ։ Յաղագս Գիւտի։ Էջ 412 — Գլուխ Դ։ Վերջաբանութիւն։ Էջ 443–462, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "159.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2072-refine.json",
+    "pipeline_version": "v1"
+  }
+}

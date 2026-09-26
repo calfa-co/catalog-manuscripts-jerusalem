@@ -1,0 +1,68 @@
+{
+  "id": "J2810",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2810",
+  "notice": "2810",
+  "volume": "Jerusalem_V9",
+  "title": "Ե Ր Գ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2810",
+    "no_notice": null,
+    "titre": "Ե Ր Գ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "857",
+    "dimensions": "15X9X3.5",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 14 տող",
+    "details_ecriture": "մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը ութ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Աղերս.— Արի Աստուած հարցն մերոց...։ — Սիմէօն Կաթուղիկոս։ Էջ 46.— Ակոռիին Խորհուրդը.— Ակոռիին մեծ կարասին բոլորտիքն են բազմեր...։ — Հ. Վ. Զագըճեան։ Էջ 148.— Վրէժք, ի Շաւարշական դաշտին .— Բամ, փորոտան բարձռաստ բմբիւնք...։ Էջ 177.— Նազլուի Սուգը.— Գարունքը բացվել ա, դաշտեր կանաչել...։ — Խ. Աբովեան։ Էջ 205.— Զեփիւռ Մանկանց.— Դու փափկաթեւ մանկիկ զեփիւռ...։ Էջ 241.— Կիլիկիա (թարգմանօրէն ըստ վերնոյն).— Երբոր բացուին դըռներն յուսոյ...։ — Ն. Ռուսինեան։ Էջ 374.— Հայրենիք.— Իմ Հայրենիք զիս կը կանչէ...։ — Ա. Հայկունի։ Էջ 444.— Հայոց Աղջիկներ.— Հայոց աղջիկներ, ձեր հոգուն մատաղ...։ Էջ 525.— Երգ Հայրենի (թարգմանօրէն). — Մինչդեռ յուսով խայտայ բնութիւն...։ — Մ. Պէշիկթաշլեան։ Էջ 537էն յետոյ սխալմամբ գրուած է 539։ Էջ 778.— Մտերիմ ընկեր.— Բարի գեղեցիկ առաքինի ընկերը մարդուն...։ Էջ 780, տարբեր գրչութիւն.— Ընդ ողջամբ Վերադարձ Ամենապատիւ Տ. Տ. Վեհապետեան Յարութիւն Ս. Հօր մերոյ ի Ս. Սաղիմ. Նուագ Խնդութեան.— Հընչեսցեն արդ ի լար ի խինդ հրճուական...։ — Հայկական ձայնագրութեամբ։ Էջ 782–809, դատարկ։ Էջ 810.— Ցանկ՝ Այբուբենի կարգով։ Էջ 840–857, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "048.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2810-refine.json",
+    "pipeline_version": "v1"
+  }
+}

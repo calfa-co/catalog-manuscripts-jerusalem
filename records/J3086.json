@@ -1,0 +1,68 @@
+{
+  "id": "J3086",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3086",
+  "notice": "3086",
+  "volume": "Jerusalem_V9",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3086",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "186",
+    "dimensions": "19.5×13.5×1",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 19-26 տող",
+    "details_ecriture": "այլազան",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— Քարոզգիրք։ Այլեւայլ խօսուածները։ Էջ 1.— Գերապատիւ Սրբազան Հայր եւ Արգոյ հանդիսականք։ Էջ 5.— Գերապատիւ Սրբազան Հայր.— Ի սերկեան աւուրս...։ Էջ 8, դատարկ։ Էջ 9.— Կտակ.— Յանուն Հօր եւ Հոգւոյն Սրբոյ.— Ո՛վ սոսկալի մոռացութեանս, ո՛վ զարհուրելի սխալանացս, տարակուսութիւն մը զիս պատեց, սիրելիք. վասնզի իմ սովորութենէն խոտոր ընթացայ, իմ բերնիս շարունակ հնչուած երեքանձեայ Երրորդութեան մէկը չկրցայ յիշել, յիշեցի Հայր, յիշեցի Հոգին, բայց ո՞ւր է Որդին...։ Էջ 59.— Ծանուցումն Սբ. Գէորգայ։ Էջ 68.— Ծանուցումն Սբ. Գլխադրին։ Էջ 81.— Յաղագս Սբ. Գլխադրին։ Էջ 83.— Վասն Սբ. Գլխադրին։ Էջ 85.— Ի Սբ. Գողգոթայ։ Էջ 90.— Յաղագս Սբ. Բանտին։ Էջ 103.— Ի Փուշ Պսակն։ Էջ 108.— Յաղագս Սրբոյ Ծննդեան։ Էջ 125.— Վասն Կենսատու Գերեզմանին։ Էջ 147.— Կտակ ի վերայ Մեծին Ուրբաթու.— Ո՛վ գիշեր ահաւոր եւ գիշեր երջանիկ...։ Էջ 171.— Վասն Կենսատու Գերեզմանին Քի.։ Էջ 173.— Վասն Սբ. Գլխադրին։ Էջ 177.— Ի Փուշ Պսակն։ Էջ 179-183, դատարկ։ Էջ 184.— Ցանկ։ Էջ 186, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "321.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3086-refine.json",
+    "pipeline_version": "v1"
+  }
+}

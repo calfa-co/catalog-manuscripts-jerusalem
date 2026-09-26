@@ -1,0 +1,72 @@
+{
+  "id": "J3658",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3658",
+  "notice": "3658",
+  "volume": "Jerusalem_V11",
+  "title": "ՔԻԹԱՊԻ ՇԱՀԻՏԻ (Տպած)",
+  "date": {
+    "from": "1696",
+    "to": "1696",
+    "display": null
+  },
+  "fields": {
+    "numero": "3658",
+    "no_notice": null,
+    "titre": "ՔԻԹԱՊԻ ՇԱՀԻՏԻ (Տպած)",
+    "date_debut": "1696",
+    "date_fin": "1696",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "72",
+    "dimensions": "21x17",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 16 տող",
+    "details_ecriture": "մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "դեղնորակ",
+    "nb_lignes": null,
+    "reliure": "թղթեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Քիթապի Շահիտի օլտու նամի տար, թիւրքիտէն թէրճիւմէ օլտու եատիկեար։ Լուղաթ թիւրքի վիւ ֆարսիյլէ միւլլէմմա, իսէվի արֆիյլէ օլտու միւճէլլա...։ Սէն պին եիւզ վիւ գըրք պէշ\nօլտու պէս, եազըճը Ովանէս եէթէր սէօզիւ քէս։ Էջ 2–4, դատարկ։ Էջ 5.– Սաչըն վէ լէյլի եիւզիւն այ– էթի նուր, րուխուն ալնըկտատըր նուրիւն ալա նուր, Մէֆայլիլիւն մէֆայլիլիւն ֆէ– ուլիւն Հէզէջ մահզուֆի տիւրիւր ա– նա էյ նուր։... Էջ 18.– Պահրի էվվէլ, Պէյթ 11։ Էջ 15.– Իքինճի գըթա. Պէյթ 12։ Էջ 27.– Օթուզունճի գըթա. Պէյթ 7։ Էջ 42.– Իյիրմինճի գըթա. Պէյթ 7։ Էջ 54.– Իյիրմի ետինճի գըթա. Պէյթ 141։ Էջ 72.– Հիսապ իւզրէ էյիթ մըսրատէն ջումար, գալտը սէնտէն շահիտի նէվ եատիկար, ֆայլաթիւն ֆայլաթիւն ֆա– յիլաթ, Պու քիթապի էօյրէն իչ ապի հայաթ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "096.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "097.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3658-refine.json",
+    "pipeline_version": "v1"
+  }
+}

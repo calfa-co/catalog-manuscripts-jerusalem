@@ -1,0 +1,68 @@
+{
+  "id": "J65",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "65",
+  "notice": "65",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՍԻՐԱՔԱՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "65",
+    "no_notice": "3",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՍԻՐԱՔԱՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "1422",
+    "dimensions": "35 x 24 x 10",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 45–57 տող։ Նոտր շեղագիր",
+    "details_ecriture": "շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": "Հեղինակը",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Ըստ Սաւալանեանի «է ինքնագիր գաղափարն, առանց յիշատակարանի և թուականի։ Ի լուսանցսն ի բազում տեղիս ունի սրբագրեալ, կամ յաւելեալ իմաստս յիւրմէ» (Ցուցակ. էջ 55)",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1.— Էկլեսիաստիկոս։ Մեկնութիւն Բարոյական Փիլիսոփայութեան Յեսուայ Որդւոյ Սիրաքայ։ Գլուխ Առաջին։ Հասարակօրէն բաժանումն, և ցուցակ նշանաւոր իրաց գլխոյս։ էջ 1397.— Գլուխ ԾԱ.— Աղօթք Յեսուայ որդւոյ Սիրաքայ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "226.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "65-refine.json",
+    "pipeline_version": "v1"
+  }
+}

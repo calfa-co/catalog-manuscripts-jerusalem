@@ -1,0 +1,68 @@
+{
+  "id": "J239",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "239",
+  "notice": "239",
+  "volume": "Jerusalem_V1",
+  "title": "Ա. — ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "239",
+    "no_notice": "16",
+    "titre": "Ա. — ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ը + 376",
+    "dimensions": "29 x 20 x 3",
+    "mise_en_page": "խորագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 41 տող",
+    "details_ecriture": "մանըրկեկ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ ընդհանրապէս. ստորին լուսանցքէն ցեցակեր",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "կրկնատեսակ էջ 1 եւ 370",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա. 1. — Ցանկ Առաջին Հատորի առաջին մասին այբուբենական։ Էջ 1ա. — ԲանՔ Ոսկիականք եւ գեղեցկագոյնք . . . ։ Էջ 1բ. — Առաջին կիրակէի Գալստեան Տն. ։ Էջ 371ա. — Ցանկ Գրքոյս։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "666.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "239-refine.json",
+    "pipeline_version": "v1"
+  }
+}

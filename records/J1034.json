@@ -1,0 +1,72 @@
+{
+  "id": "J1034",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1034",
+  "notice": "1034",
+  "volume": "Jerusalem_V4",
+  "title": "ՅԱՂԱԳՍ ԵՕԹՆ ԽՈՐՀՐԴՈՑ ԵԿԵՂԵՑՒՈՅ",
+  "date": {
+    "from": "1713",
+    "to": "1713",
+    "display": null
+  },
+  "fields": {
+    "numero": "1034",
+    "no_notice": "1",
+    "titre": "ՅԱՂԱԳՍ ԵՕԹՆ ԽՈՐՀՐԴՈՑ ԵԿԵՂԵՑՒՈՅ",
+    "date_debut": "1713",
+    "date_fin": "1713",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "204",
+    "dimensions": "20x14x1.5",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 21 տող։ Նոտր շեղագիր",
+    "details_ecriture": "սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ փայլուն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ։",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "ՃԱԿԱՏ — Էջ 1 Աստուածաբանութիւն — Յաղագս Քահանայագործութեանց Եկեղեցւոյն Քրիստոսի։ Շարադրեցեալ ի վարդապետէ ումեմնէ, ի մէջ բանտին Ֆռանկստանայ։ — Թուին Քրիստոսի ՌՁԺԷ, իսկ Հայոց ՌՃԿԲ։\nԷջ 2.— Սքանչելի եղեւ գիտութիւն քո յիս, Տէր, զօրացաւ եւ ոչ հանդարտեմ սմա։ ...։ Մի ոք զարմասցի, որ զթուականն Քրիստոսի չորս տարի աւելի եդաք ի վերոյ՝ քան զթուականն լատինացւոց, զի այժմ ամ. իմաստունք Ֆռանկոզաց այնպէս համարեն։\nԷջ 4.— Ճշմարիտ մեկնութիւն եօթն քահանայագործութեանց, ըստ վարդապետութեան Աստուածաշունչ Գրոց։ Գլուխ Ա.։ Ըսկիզբն Մեկնութեանս։ Համար Ա.։\nԷջ 12.— Գլուխ Բ.։ Յաղագս Եօթն Քահանայագործութեանց։\nԷջ 15.— Գլուխ Գ.։ Յաղագս Մկրտութեան.— Հրամայեաց Ած. ի մէջ օրինաց իւրոց...։ Էջ 45.— Գլուխ Թ.։ Յաղագս Կնքոյ։ Էջ 54.— Գլուխ ԺԱ.։ Յաղագս Հաղորդութեան։ Էջ 147.— Գլուխ ԻԵ.։ Յաղագս չորրորդ քահանայագործութեան, որ է օծումն կամ ձեռնադրութիւնն ապաշխարողաց եւ հիւանդաց։ Էջ 169(բ.) — Գլուխ ԻԷ.։ Յաղագս հինգերորդ քահանայագործութեան, որ է օծումն ննջեցեալ քահանայից։ Էջ 173.— Գլուխ ԻԸ.։ Յաղագս վեցերորդ քահանայագործութեան, որ է ձեռնադրել զկարգաւորս։ Էջ 191.— . . . Ուրեմն կոյր հնազանդութիւնն է ճշմարիտ, եւ մի [Այսպէս կանգ կ'առնէ, էջին մնացեալ մասը դատարկ, ինչպէս նաեւ յաջորդները]",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "075.JPG"
+    },
+    {
+      "volume": "Jerusalem_V4",
+      "file": "076.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1034-refine.json",
+    "pipeline_version": "v1"
+  }
+}

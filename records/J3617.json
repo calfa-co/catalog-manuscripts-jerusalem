@@ -1,0 +1,72 @@
+{
+  "id": "J3617",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3617",
+  "notice": "3617",
+  "volume": "Jerusalem_V11",
+  "title": "ԱՐՁԱՆԱԳՐՈՒԹԻՒՆՔ ԵՐԱԺՇՏԱԿԱՆ ՅԱՆՁՆԱԽՄԲԻ",
+  "date": {
+    "from": "1878",
+    "to": "1875",
+    "display": null
+  },
+  "fields": {
+    "numero": "3617",
+    "no_notice": null,
+    "titre": "ԱՐՁԱՆԱԳՐՈՒԹԻՒՆՔ ԵՐԱԺՇՏԱԿԱՆ ՅԱՆՁՆԱԽՄԲԻ",
+    "date_debut": "1878",
+    "date_fin": "1875",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "56 ; ԷՋՔ: 44",
+    "dimensions": null,
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 35-46 տող ; ԳՐՈՒԹԻՒՆ: մանիշակագոյն թանաքով, միասիւն, 21-32 տող",
+    "details_ecriture": "Բ. Տետրակ.— Ծաւալ 34x21",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Երկու տետրակներ զետեղուած թղթապանակի մը մէջ։ Ա. Տետրակ.— Ծաւալ 37x25",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա, Տետրակ.— Էջ 1, վերը.— Արձանագրութիւնք Երաժշտական Յանձնախմբին, 1878, ապրիլ 22, ի Ղալաթա։ Ներքեւը սեւ մատիտով.— Երկու տետրակներու մէջ բովանդակուած, ընդ ամէնը 29 թուղթ կամ 59 էջք, կը պարունակէ արձանագրութիւնները ԾԷ նիստերու եւ յաւելուածական երեք նիստերու, որոնք սկսած են 1878 ապրիլ 22ին\nեւ վերջացած՝ 1875 օգոստոս 22ին։ Մեր խնդրանքին վրայ Պ.Ե. Տնտեսեան, հանգուցեալ մեծանուն երաժշտագէտ Ե. Տնտեսեանին որդին, մեր տրամադրութեան տակ դրաւ այս երկու տետրակները, Ս. Աթոռոյս Ձեռագրաց Մատենադարանին մէջ պահուելու եւ ի հարկին օգտագործուելու համար ուսումնասիրութեանց առթիւ։ 22 յունիս, 1986, Երուսաղէմ, Պատրիարքարան։ Պ.Ե. Թորգոմ Արքեպս.։\nԷջ 8.— Երաժշտական Յանձնախումբ։ Ուսումնական Խորհուրդը որոշեց որ եկեղեցական երաժիշտ դասատուաց քննութեանը համար նոյն իսկ դասատուաց կողմանէ Յանձնաժողով մը կազմուի եւ նոյն Յանձնաժողովը քննէ դասատուաց արժանիքը. ուստի Յանձնաժողով մը կազմուեցաւ 12 անձերէ բաղկացեալ, որք են...։ Էջ 54.— ԽԸ նիստ. 75 ապրիլ 25։\nԲ. Տետրակ.— Էջ 1.— Նիստ ԽԹ. 75 մայիս 2։ Ներկայք.—Եղիա էֆէնտի Տնտեսեան Ալեքսան » Գրիգորեան Ռէթէոս » Փափազեան։ Էջ 5.— Յուլիս 17, 1875. նիստ ԾԶ։ Էջ 6.— Օգոստոս 22։ Էջ 7–44, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "053.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "054.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3617-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3577",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3577",
+  "notice": "3577",
+  "volume": "Jerusalem_V10",
+  "title": "ԱՐՀԵՍՏԱԳԻՏԱԿԱՆ ԾԱՆՕԹՈՒԹԻՒՆՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3577",
+    "no_notice": null,
+    "titre": "ԱՐՀԵՍՏԱԳԻՏԱԿԱՆ ԾԱՆՕԹՈՒԹԻՒՆՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "24, կողքերը ներառեալ",
+    "dimensions": "84x22",
+    "mise_en_page": "սեւ մելանով, միասիւն, 33, 34 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապոյտ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–2, դատարկ։ Նոյնպէս էջ 4։ Էջ 3.— Զհասուն պտղոց որ առ երկրորդումն ցքւոյ վերաբերելոց։ Շերպէթ վասն քաղցրացուցանելոյ զօղին։ Էջ 5.— Զհասուն պտղոց որ առ երկրորդումն ցքւոյ վերաբերելոց, գրի աստ յայտնի։ Շերպէթ վասն քաղցրացուցանելոյ զօղին։ Էջ 6.— Օղի Շէֆտալիի։ Էջ 7.— Յաղագս դեղնագոյն մինայի։ Էջ 8.— Յաղագս Ոսկեջրոյ։ Էջ 9.— Արծաթն Ճերմակացուցանել։ Էջ 11.— Վասն Սօվութ Եալտըզի։ Էջ 13.— Կերպ կազմելոյ փոշի ինչ որով կարելի է առանց հրոյ արծաթաջրել։ Էջ 15.— Կերպ ինչ ոսկեզօծ առնելոյ զերկաթեայ անօթս։ Էջ 18.— Յաղագս մինէ շինութեան։ Էջ 19.— Զինճիֆրէ։— Վասն ժանգառ շինելու։— Վասն զրմզ շինելու։ Էջ 21.— Որպէս կազմեն ծխանելի մոմն։ Էջ 23–24, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "576.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3577-refine.json",
+    "pipeline_version": "v1"
+  }
+}

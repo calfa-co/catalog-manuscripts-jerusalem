@@ -1,0 +1,68 @@
+{
+  "id": "J455",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "455",
+  "notice": "455",
+  "volume": "Jerusalem_V2",
+  "title": "Ա Ւ Ե Տ Ա Ր Ա Ն (ԹԻՒՐՔԵՐԷՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "455",
+    "no_notice": "1",
+    "titre": "Ա Ւ Ե Տ Ա Ր Ա Ն (ԹԻՒՐՔԵՐԷՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "522",
+    "dimensions": "24 x 18 x 2.5",
+    "mise_en_page": "սկզբնաւորութիւնները և գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 27 տող",
+    "details_ecriture": "վարժ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 . — Գլուխ Առաջին . — Քիթպ Իսայ էլ Մեսիհին, տօղտուղու նայ վէլէտ Տաւուտ, վէլէտի Իպրահիմ ։ Իպրահիմ տօղուրտու Իսակը, Իսակ տօղուրտու Եագուպի . . . ։ Ծանօթ . — Ձախակողմեան սիւնակները պարապ ձգուած են ։ Աջակողմեան սիւնակներուն կից նշանակուած են համարաթիւերը ։ Էջ 151 . — [Սրբոյ Աւետարանիս ըստ Մարկոսի] . — Ինճիլին Իսա էլ Մէսիհ իսլնուլլահըն ։ Էջ 247բ . — Քի չօգլար միւրատ էտտիլէր թէրթիպ էթմէկէ մէնագիպի օլ ումուր իչին . . . ։ Էջ 417բ . — . . . տայնէթ իտէ ալէմի, էլլէ իխլաս օլու ալէմ օնուն իլէ ։ Ծանօթ . — Պրակները սխալ դրուած են կազմի ժամանակ, ուստի Յովհաննու Աւետարանին սկզբնաւորութիւնը ետեւ մնացած է ։ Հատորս ոչ իջաթիւ ունէր եւ ոչ պրակահամար ։ Էջ 433բ . — Գատիմտէն իտի քէլամէթ վէ քէլամէթ ալլահտա իտի, վէ ալլահ իտի օլ քէլամէթ ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "450.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "455-refine.json",
+    "pipeline_version": "v1"
+  }
+}

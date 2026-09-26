@@ -1,0 +1,68 @@
+{
+  "id": "J2975",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2975",
+  "notice": "2975",
+  "volume": "Jerusalem_V9",
+  "title": "Հ Ա Ւ Ա Ք Ա Ծ Ո Յ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2975",
+    "no_notice": null,
+    "titre": "Հ Ա Ւ Ա Ք Ա Ծ Ո Յ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԸ + 488",
+    "dimensions": "20 X 13.5 X 2",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 20 տող",
+    "details_ecriture": "սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Ը, դատարկ։ Էջ Թ.— Ցանկ նիւթոց։ Էջ ԺԸ, դատարկ։ Էջ 1.— Հաւաքածոյ.— «Ուղղերձ Նոր Տարւոյ առ Սրբ. Պատրիարք»։— Ի դիմաց ժառանգաւորաց Գաբրիէլ Կարապետեան, Խարբերդցի, 1869, Յունվար 1, յԵրուսաղէմ։ Էջ 6.— Երգ շնորհաւորութեան Նոր Տարւոյ.— Այսօր ընդ մուտ նորոգ տարւոյս...։ — Աշակերտ ժառ. Վարժ. Մելքոն Յակովբեան, Թրակացի։ Էջ 8.— Ի սգալի մահ Տիգրան Յարութիւնի Տէտէեան զՄիւռնացւոյ.— Արտասուեցէք, ո՛ հայկազունք, մեր կորուստը թանկագին...։— Սարկաւագ Մկրտիչ Տ. Ս. Տիգրանակերտցի։ Էջ 171.— Ազնիւ Մանուհիք.— Ոչինչ այնքան հրճուալի է ինձ...։— Տիկին Թագուհի Մաղաքեան, 1883, սեպ. 4։ Էջ 184.— Նկարագրութիւն Թաղման.— Իսահակ արքեպիսկոպոս Բաբերդցի լուսարարապետ եւ գանձապահ Ս. Աթոռոյս, կաթուածահար առ Տէր փոխուեցաւ մարտի 15-ին...։ Էջ 206.— Նամակաց վերջաւորութեան օրինակներ։ Էջ 213.— Մայտա։ Էջ 221.— Խօսեցեալ ի կաճառս ընկերութեան Համազգեաց.— Ժամանակը իր թեթեւ ընթացքին մէջ, առանց կենալու փախչելու վրայ է միշտ...։ Էջ 238.— Ի նորակերտ ժողովարանն Համազգեաց խօսեցեալ.— Մկրտիչ Պէշիկթաշեան։ Էջ 275.— Ատենախօսութիւն Գեր. Սուքիաս Վարդապետի Պարոնեան, յազգային եկեղեցւոջ ի ժամ պատարագի, ի Մանչեստը քաղաք, Անգլիա։ Էջ 297.— Ս. Յակոբ խասթախանէսի։ Էջ 343.— Կամպէդդայի մահուան տարեդարձը։ Էջ 348.— Պատճէն բացման ճառին Ս. Պատրիարք Հօր, 1883, մայիս 27։ Էջ 355.— Ուսումնասիրութիւն մը կանանց վրայ։ Էջ 482.— Ահա ժամանակ.— Զարթիք Հայկայ մանկունք, զարթիք, զձեզ խնդրէ ձեր Հայրենիք...։ Էջ 485–488, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "184.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2975-refine.json",
+    "pipeline_version": "v1"
+  }
+}

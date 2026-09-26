@@ -1,0 +1,68 @@
+{
+  "id": "J3366",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3366",
+  "notice": "3366",
+  "volume": "Jerusalem_V10",
+  "title": "ՇԱՂԿԱՊՔ ԱՍՏՈՒԱԾԱԲԱՆԱԿԱՆՔ",
+  "date": {
+    "from": "1747",
+    "to": "1747",
+    "display": null
+  },
+  "fields": {
+    "numero": "3366",
+    "no_notice": null,
+    "titre": "ՇԱՂԿԱՊՔ ԱՍՏՈՒԱԾԱԲԱՆԱԿԱՆՔ",
+    "date_debut": "1747",
+    "date_fin": "1747",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "240",
+    "dimensions": "16.5 X 10.5 X 1.5",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 25 տող, կարմիր գիծերու միջեւ։ Նոտր շեղագիր մանր",
+    "details_ecriture": "չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ։ Տարբեր դատարկ թուղթք սկիզբը եւ վերջը երեքական թերթ",
+    "etat_conservation": "լաւ",
+    "copiste": "Կեփաս Դպիր",
+    "possesseur": "Ադամ Վարդապետ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ, «Պետրոս Եպս. Սեբաստի», էջ 6",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Տիտղոսաթերթ.— Շաղկապք Աստուածաբանականք Պրոկղի Դիադոխոսի այսինքն փոխանորդի Պղատոնական իմաստասիրի։ Բացերեւ լուծմամբ մեկնեալ ի Սիմէօնէ Գառնոյ Եպիսկոպոսէ։ էջ 1.— Սիմէօնի Գառնոյ Եպիսկոպոսի արարեալ Մեկնութիւն Գրոցն Պրոկղի։ Յառաջաբանութիւն թարգմանողի։ էջ 4.— Ցանկ Գրոցս։ էջ 7.— Պրոկղի Դիադոխոսի, Պղատոնական Իմաստասիրի Շաղկապք Աստուածաբանականք։ Հատորք ՄԺԱ։ էջ 229-230, դատարկ։ էջ 231.— Նկատումն Արիստոտելի։ էջ 235-240, դատարկ։\nՅիշատակարան Գրչի.— 1747 էջ 228, վարը, բոլորգիր նոտր.— Գրեցաւ ձեռամբ ապիկար չնչին Դպրի Կեփաս կոչեցելոյ ի վայելումն Ադամ Վարդապետին ստացեալ արդեամբք իւրովք, թվին ՌՃՂԶին, սկիզբն տարոյն աւարտեցաւ։\nՅետնագոյն յիշատակագրութիւն.— 1893 էջ 6, շեղագիր.— Ես Պետրոս Եպիսկոպոս Սեբաստիոյ կտակեմ զայս իմ մատեան յաթոռն Ս. Նշան Վանուց։ Իւրացնել համարձակողն պարտաւոր եւ անիծեալ լիցի յատենի Աստուծոյ։ 1893, Սեբաստիա։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "253.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3366-refine.json",
+    "pipeline_version": "v1"
+  }
+}

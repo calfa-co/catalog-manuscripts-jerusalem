@@ -1,0 +1,68 @@
+{
+  "id": "J2714",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2714",
+  "notice": "2714",
+  "volume": "Jerusalem_V8",
+  "title": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+  "date": {
+    "from": "1869",
+    "to": "1869",
+    "display": null
+  },
+  "fields": {
+    "numero": "2714",
+    "no_notice": "8",
+    "titre": "ԱՆՏԱՌ ՆՈՐԱԳՈՅՆ ՄՏԱԾՄԱՆՑ",
+    "date_debut": "1869",
+    "date_fin": "1869",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "256",
+    "dimensions": "26x20x1.5",
+    "mise_en_page": "սև մելանով, միասիւն, 25-27 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապոյտ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Յարութիւն Վրդ. Աղէքսանդրուպոլսեցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Սէր Աստուծոյ։ Գլուխ Ա.— Յաղագս սիրոյն Աստուծոյ դէպ առ մարդն. — Նախ քան ստեղծանելն Աստուծոյ զաշխարհ՝ անհուն իմաստութեամբ իւրով նախատեսեալ զանկումն մարդոյ...։ Էջ 6.— Գլուխ 2.— Յաղագս սիրոյ, զոր պարտ է ունիլ մարդոյ առ Աստուած։ Էջ 240.— Գլուխ 56.— Յաղագս փառաց արքայութեան.— Բազում մակադիր են արքայութեան ի Սբ. Գիրս...։ Էջ 247.— Յաղագս ցանկի գլ[խ]ոց իւրաքանչիւր քարոզից.— Յաղագս սիրոյն Այ. դէպ առ մարդն...։ Էջ 250-256, դատարկ։\nՅիշատակարան Գրչութեան.— 1869 Էջ 246, ստորոտը, տարբեր գրով.— 1869, մայիս 9, ի Ս. Երուսաղէմ, գրեաց զայս մատեան՝ Կտուց Անապատի Սբ. Կարապետի Վանուց միաբան՝ Աղէքսանդրուպոլսեցի Յարութիւն շնորհազարդ վարդապետ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "358.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2714-refine.json",
+    "pipeline_version": "v1"
+  }
+}

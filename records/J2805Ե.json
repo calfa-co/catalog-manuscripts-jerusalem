@@ -1,0 +1,72 @@
+{
+  "id": "J2805Ե",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2805Ե",
+  "notice": "2805Ե",
+  "volume": "Jerusalem_V9",
+  "title": "Ո Ւ Ղ Ե Գ Ր Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1868",
+    "to": "1870",
+    "display": null
+  },
+  "fields": {
+    "numero": "2805Ե",
+    "no_notice": "1",
+    "titre": "Ո Ւ Ղ Ե Գ Ր Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": "1868",
+    "date_fin": "1870",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ+522",
+    "dimensions": "20 X 14 X 2.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 24 տող",
+    "details_ecriture": "մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Սարգիս Սրկ. Գէորգեան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "հաւկթաձեւ, մանիշակագոյն թանաքով, բոլորգիր. «Յիշատակ Թանգարանի Սրբոց Յակովբեանց, 1857», էջ Ա, 1",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Ե, դատարկ։ Էջ Զ, մանիշակագոյն թանաքով.— Կը նըւիրեմ Հինգ Հատոր ուղեւորական Նօթերս Սրբոց Յակոբեանց Վանուց Ձեռագրաց Թանգարանին, որք նուիրակ(ան)ութեանս երեք ամսեայ շրջանին գրած եմ.— Յովհաննէս Վրդ. Գ. Մեծիփեկեան Պրուսացի, 1910 մարտ 18, Երուսաղէմ։\nԷջ 1.— 1870, Տումար Հինգերրորդ՝ Ճանապարհորդութիւն Ներսէս Մայրագոյն Վարդապետ Գէորգեան Թրակացի եւ Աւագ Սարկաւագ Սարգիս Գէորգեան Պրուսացւոյ ի Հնդկաստան։\nՅուլիս 1, օր Չորեքշաբթի...։ Սովորութիւն Պանկալցոց ի կալնուլ լուսնին։ Էջ 91.— Տեղեկութիւն Կալկաթու Նազարեթայ Եկեղեցւոյն Հայոց։ Էջ 189.— Օրինակ կտակաթղթի։ Էջ 194.— Հարաւային գաւիթ Սբ. Աստուածածնայ Եկեղեցւոյն Մադրասու գտեալ տապանագիրք, առաւել իբր արժան դատեալըս որոշեալ օրինակեցաք։ Էջ 267.— Անգղիացւոց թերթ ի Մադրաս քաղաքիս։ Էջ 272.— Ծանօթութիւն զկտակէ Սարգիս Ծատուր Աղավելոյ ստացեալ ի կառավարչէ"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "026.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "027.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2805Ե-refine.json",
+    "pipeline_version": "v1"
+  }
+}

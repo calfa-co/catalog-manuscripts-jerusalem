@@ -1,0 +1,68 @@
+{
+  "id": "J752",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "752",
+  "notice": "752",
+  "volume": "Jerusalem_V3",
+  "title": "ԻՄԱՍՏԱՍԻՐԱԿԱՆ ՎԻՃԱԲԱՆՈՒԹԻՒՆՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "752",
+    "no_notice": null,
+    "titre": "ԻՄԱՍՏԱՍԻՐԱԿԱՆ ՎԻՃԱԲԱՆՈՒԹԻՒՆՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "168",
+    "dimensions": "21.5x15.5x1.5",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 25 տող։ Նոտր շեղագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ գծազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— Էջ 1.— Իմաստասիրական վիճաբանութիւնք ոմանք որք պատկանին առ գիտութիւն Մեդափիսիքային որ թարգմանի Համաբնաբանութիւն։ Յոյժ ի յերկար տարածիւր բանն եթէ կամէաք մի ըստ միոջէ տեսանել եւ քննել զամ. վիճաբանութիւնս Համաբնաբանութեան. սակս այսորիկ ի բաց կալով ի խորին խրթնագունիցն, զբան արասցուք միայն յաղագս այնոցիկ որք մանաւանդ յարմարին խելամտութեան համբակագունից, եւ են պիտանացու վասն շահելոյ զգիտութիւն բնաբանութեան եւ Ածաբանութեան։ Յաղագս ճշմարտութեան եւ ստութեան ներգործութեանց մտաց։ Հինգերորդ վիճաբանութիւն։ Առաջին խնդիրք։ Ոչ ասացի առաջին վիճաբանութիւն, այլ հինգերորդ...։ ... Էջ 65.— Յաղագս ենթակայութեան գոյացական էակի։ Բ.— Էջ 88.— Իմաստասիրական վիճաբանութիւնք ֆիսիքային գիտութեան որ թարգմանի բնաբանութիւն։ Շարակարգեալ ի կարգէ թէադինոսաց Կղեմէս աստուածաբան վարդապետէ։ Յաղագս առարկեալ ենթակայի բնաբանութեան, եւ յաղագս սկզբանց բնական իրաց։ Առաջին վիճաբանութիւն։ Թէ զի՞նչ իցէ առարկեալ ենթակայ բնաբանութեան։ Առաջին խնդիրք։ — Հմմտ. աստ, թիւ 713, Է։ Էջ 162-8, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "216.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "752-refine.json",
+    "pipeline_version": "v1"
+  }
+}

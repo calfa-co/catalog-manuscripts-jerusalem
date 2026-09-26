@@ -1,0 +1,68 @@
+{
+  "id": "J851",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "851",
+  "notice": "851",
+  "volume": "Jerusalem_V3",
+  "title": "Ա.— ԱՆԱԼՈՃԻԱ",
+  "date": {
+    "from": "1744",
+    "to": "1744",
+    "display": null
+  },
+  "fields": {
+    "numero": "851",
+    "no_notice": "6",
+    "titre": "Ա.— ԱՆԱԼՈՃԻԱ",
+    "date_debut": "1744",
+    "date_fin": "1744",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "582",
+    "dimensions": "21x16x4",
+    "mise_en_page": "գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 26, 27 տող",
+    "details_ecriture": "չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— ԱՆԱԼՈՃԻԱ.— 6 Ճակատ, էջ 1.— Անալօճիայ, այսինքն Համեմատութիւն Հնոյ եւ Նորոյս Կտակի, յորում նախ կացութիւն Հնոյ Կտակին, յետոյ համակամութիւն, յարմարութիւն եւ միաբանութիւն ընդ Նորոյս Կտակի մեկնաբանի։ Շարագրեցեալ նախ ի Մարտինոսէ Պէքանեան յաստուածաբան վարդապետէ ի Յիսուսեան կարգէ լեզուաւ լաթինականաւ, եւ անտի թարգմանեցեալ ի հայկական լեզու, ի Պետրոսէ վարդապետէ Թիֆլիզցւոյ։ Ի Վէնէտիկ, յամի Տեառն 1714, եւ Հայոց 1163։ Ի փառս ամենամեծին Աստուծոյ եւ ի պարծանս Սրբոյ Եկեղեցւոյ։ Էջ 16.— Առաջդեցութիւնք ի թարգմանչէ։ Էջ 449-450, դատարկ։ Բ.— Էջ 451.— Սրբոյն Թօմայի Աղւինացւոյն հրեշտակականի վարդապետին, զնախագիտութենէ եւ զնախասահմանութենէ։ Ընձեռուած Յառաջաբանութեան.— Ըստ խնդրոյ եւ աղաչանաց ձերոց սիրելիք եղբայրք...։— Հմմտ. թիւ 760։ Էջ 484, դատարկ։\nԳ.— ՎԱՐԴԱՊԵՏՈՒԹԻՒՆ ՃՇՄԱՐՏՈՒԹԵԱՆ.— 6 Պ. Վրդ. Թիֆլիզեցի Ճակատ, էջ 485.— Գիրք որ կոչի Վարդապետութիւն ճշմարտութեան, որով իմաստնա[նա]լով մարդ՝ ճանաչէ զմոլորութիւն իւր, եւ եղանի իմաստուն եւ զգաստ։ Շարագրեցեալ ի Պետրոսէ Վարդապետէ Թիֆլիզեցւոյ, յամի Տեառն 1722, ի Վէնէտիկ։— Հմմտ. թիւ 552։ Էջ 486.— Բան առ ընթերցօղսն.— Զամս ոմանս կացայ ի քաղաքն Բօլօնեա...։ Էջ 568.— Վարդապետութիւն Տասներորդ։ Էջ 577.— Վախճան։— Յամի Տեառն 1744։ Էջ 578.— Ցանկ Գրոյս։ Էջ 579-582, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "364.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "851-refine.json",
+    "pipeline_version": "v1"
+  }
+}

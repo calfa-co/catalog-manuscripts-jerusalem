@@ -1,0 +1,72 @@
+{
+  "id": "J3209",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3209",
+  "notice": "3209",
+  "volume": "Jerusalem_V9",
+  "title": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3209",
+    "no_notice": "212",
+    "titre": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "536",
+    "dimensions": null,
+    "mise_en_page": "սկզբնատողերը եւ գըլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 21 տող",
+    "details_ecriture": "կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական գըրեթէ։ Կարմրաներկ զարդագիր եւ լուսանցազարդ հատուածներու սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ, կռնակը ոսկետառ «Նոր Կտակարան»",
+    "etat_conservation": "բաւարար. ազդուած թացութենէ. նորոգութիւն կրած",
+    "copiste": "Խաչատուր",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "Սբ. Մարկոս էջ 170, Սբ. Ղուկաս 266, Ս, Յովհաննէս եւ Պրոխորոն 428",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Զեթուն ՌՃԽԵ = 1696\nՆԿԱՐԱԳՐՈՒԹԻՒՆ. — Ծաւալ 14 X 9.5 X 4",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "խորանազարդք իւր սարօք, էջ 15, 171, 267, 429",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Դատարկ էջեր. 1, 4, 5, 8, 9, 12, 13։ Կանոնի տախտակներ, էջ 2, 3, 6, 7, 10,"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "530.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "531.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3209-refine.json",
+    "pipeline_version": "v1"
+  }
+}

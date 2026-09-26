@@ -1,0 +1,68 @@
+{
+  "id": "J2540",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2540",
+  "notice": "2540",
+  "volume": "Jerusalem_V8",
+  "title": "ԲԱՑԱՅԱՅՏՈՒԹԻՒՆ ԲԱՆԻՑ Ս. ԳՐ. ՆԱՐԵԿԱՑՒՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2540",
+    "no_notice": "2",
+    "titre": "ԲԱՑԱՅԱՅՏՈՒԹԻՒՆ ԲԱՆԻՑ Ս. ԳՐ. ՆԱՐԵԿԱՑՒՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "164։ Պրակըք Ի—ԻԶ",
+    "dimensions": "15.5x10.5x1.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը և գլխատառերը կարմիր, մնացեալը սև մելանով, միասիւն, 23 տող։ Նոտր շեղագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ գծազարդ, հինցած",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։ Էջ 3. — Բացայայտութիւն բանից սուրբ հօրն մերոյ Գրիգորի Նարեկացւոյ. ի խորոց սրտէ խօսք ընդ Աստուծոյ. — Հինգ ճառն. կաճառս, ԼԾ. հոյլս կամ ժողովս։ Եօթն ճառըն. հեշտածինք են, ԼԺ. զի լայն է որ տանի ի կորուստն...։ Հմմտ. Թիւ 318, Բ. Հատոր, էջ 177, ԺԴ։ Էջ 119. — Ժամահարին. — ՂԲ. — Աղաչանս ընդ թարգմանութեանս. աղօթք է սա և գոհաբանութիւն և մեկնութիւն ժամահարին ...։ Էջ 127. — Միւռոնին. — ՂԵ. — Աղօթք թարգմանօրէն վասն սրբալոյս մեռոնին. աղօթք առ սուրբ մեռոնն, որ է Յիսուս...։ Էջ 158. — ...Սոսկականացն. որ միաձի լինի և աղքատ զի մի ի զրկանս անկանիցի, կամ յաւա [այսպէս կանգ առած. յաջորդ էջերը 159-164, կը մնան դատարկ]։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "247.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2540-refine.json",
+    "pipeline_version": "v1"
+  }
+}

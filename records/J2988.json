@@ -1,0 +1,68 @@
+{
+  "id": "J2988",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2988",
+  "notice": "2988",
+  "volume": "Jerusalem_V9",
+  "title": "ՔԵՐԱԿԱՆՈՒԹԻՒՆ (ԳՐԱԲԱՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2988",
+    "no_notice": "2",
+    "titre": "ՔԵՐԱԿԱՆՈՒԹԻՒՆ (ԳՐԱԲԱՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "200",
+    "dimensions": "19 X 14 X 1",
+    "mise_en_page": "մանիշակագոյն թանաքով, միասիւն, 19-21 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը չորս թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Հ.— Ի՞նչ է Քերականութիւնը։ Պ.— Քերականութիւնը շիտակ խօսելու, ուղիղ կարդալու եւ անսխալ գրելու արուեստըն է։ Հ.— Խօսք ինչո՞վ կը շինուի։ Պ.— Խօսք, որ բան ալ կ'ըսուի, կը բաղկանայ բառերէ, բառը վանկէ, վանկ ալ գըրէ. Հմմտ. աստ, թիւ 2822։ Էջ 3.— Անուն։ Գլուխ Ա։ Հ.— Ի՞նչ է անունը։ Պ.— Անունը այն մասն բանին է, որ բանի մը ինչ կամ ինչպէս ըլլալը կը յայտնէ...։ Էջ 5.— Պարագայք Անուան։ Էջ 37.— Ի՞նչ է բայը։ Էջ 61.— Խոնարհումն Անկանոն Բայից։ Էջ 74.— Գլուխ Դ։ Դերբայ։ Էջ 76.— Գլուխ Ե։ Նախադրութիւն։ Էջ 94.— Մասն Բ։ Համաձայնութիւն։ Էջ 96.— Գլուխ Ա։ Տէր Բայի։ Էջ 127.— Գլուխ Գ։ Ածական ընդ Գոյականի։ Էջ 142.— Գլուխ Զ։ Խնդիր եւ Խնդրառու։ Էջ 151.— Գլուխ Է։ Յարաբերական եւ Յարաբերեալ։ Էջ 156.— Գլուխ Ը։ Դիմորոշ Յօդ։ Էջ 159.— Գլուխ Թ։ Նախդիր։ Էջ 164.— Յաւելուած։ Գլուխ Ա։ Ձեւաւոր Շարադրութիւն։ Էջ 174.— Գլուխ Բ։ Վերծանութիւն։ Էջ 177.— Վերջ։ Էջ 178-200, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "194.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2988-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J2879",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2879",
+  "notice": "2879",
+  "volume": "Jerusalem_V9",
+  "title": "ԱՒԵՏԱՐԱՆ ՅՈՎՀԱՆՆՈՒ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2879",
+    "no_notice": null,
+    "titre": "ԱՒԵՏԱՐԱՆ ՅՈՎՀԱՆՆՈՒ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Vellum, codex of the 16th or 17th century; 6.5 X 6 inches; 66 folios; full binding; wooden board covers; 2 columns; 15-17 lines per column. Ms. generally in good condition but slightly stained throughout and holes in a few folios.",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Title: Gospel of John. 1) fols. 1-66a. The Gospel of John opening with the usual blessing formula and concluding with the remarks that “the sermon of John, the son of Zabdewos, the apostle, one of the twelve apostles, which was written in the Greek language to the people of Ephesus, thirty years after the ascension of Jesus in flesh into heaven, and in the sixth year of Tiberius...”.\nAdditional Content. 1) fol. 66a. A note cursing anyone who steals or erases the book. 2) fol. 66b. A short magical prayer and prescription. Տես էջ 186-187:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "106.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2879-refine.json",
+    "pipeline_version": "v1"
+  }
+}

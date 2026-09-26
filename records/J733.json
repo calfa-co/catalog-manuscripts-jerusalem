@@ -1,0 +1,68 @@
+{
+  "id": "J733",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "733",
+  "notice": "733",
+  "volume": "Jerusalem_V3",
+  "title": "ՅԱՂԱԳՍ ՄԻՈՒԹԵԱՆ ԵԿԵՂԵՑՒՈՅ",
+  "date": {
+    "from": "1817",
+    "to": "1817",
+    "display": null
+  },
+  "fields": {
+    "numero": "733",
+    "no_notice": "2",
+    "titre": "ՅԱՂԱԳՍ ՄԻՈՒԹԵԱՆ ԵԿԵՂԵՑՒՈՅ",
+    "date_debut": "1817",
+    "date_fin": "1817",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "136։ Հանմանք շատ լաւ",
+    "dimensions": "22x17.5x1.5",
+    "mise_en_page": "սեւ մելանով, միասիւն, 22 տող։ Նոտր շեղագիր",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կրկնատեսակ՝ կապոյտ եւ գորշ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ։",
+    "etat_conservation": null,
+    "copiste": "Յովհաննէս Քհնյ. Զմիւռնիացի",
+    "possesseur": "Յովհաննէս Քհնյ. Զմիւռնիացի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Ճակատ.— Կարճառօտ Մեկնութիւն Կաթուղիկէ Եկեղեցւոյն, արտահանեալ յԱծ.աշունչ Գըրոց և ի բանից Սբ. Հայրապետաց և Ած.աբան Վարդապետաց, Աշխատասիրութեամբ և ջանիւք Կոստանդնուպօլսեցի Դպրի միոյ, ի դիտապետութեան իմաստափառ եւ Սրբազան Աղէքսանդր Կաթուղիկոսին, ինքնագլուխ եւ տիեզերական Եպիսկոպոսապետին ամ. Հայոց։ Ի յամի Փրկչին 1707, եւ ի Հայոցս ՌՃԾԶ, ի Փարիզ մայրաքաղաքին Ֆրանցայու։\nԻսկ ի յամի Փրկչին ի 1817, ի Սեպտմ. 1, նորոգ ընդօրինակեալ ի ձեռն իմ, յողնամեղ Տէր Յօհան մեղսամած ապարդիւն քահանայիս, որ եմ անարժան սպասաւոր եւ աւելածու Սրբոյն Ըստեփաննոս Եկեղեցւոյ յԻզմիւռնոյ, ի վայելս անձին իմոյ եւ իմայնոցն, ի Դպրատունն Զմիւռնիոյ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Կարճառօտ Մեկնութիւն Կաթուղիկէ Եկեղեցւոյն.— Անհնարին աղէտք եւ անտանելի թշուառութիւնք՝ որք ի վաղուց հետէ պատառեն եւ գիշատեն զհայկական եկեղեցին Քի. ...։\nԷջ 66.— Պատասխանի առ քանի մի հարցմունս Կոստանդնուպօլսեցի եղբարց ի վերայ յառաջադրեալ մեկնութեան։ Յուղարկեալ էի օրինակ մի...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "198.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "733-refine.json",
+    "pipeline_version": "v1"
+  }
+}

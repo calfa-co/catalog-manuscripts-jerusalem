@@ -1,0 +1,68 @@
+{
+  "id": "J3727",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3727",
+  "notice": "3727",
+  "volume": "Jerusalem_V11",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑԻՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3727",
+    "no_notice": "Ը",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑԻՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Նման է նախորդ հատորին. էջք 882։",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Պատմութիւն Եկեղեցւոյն Աստուծոյ։ Հատոր Ը։ Սբ. Գրիգոր Աստուածաբանի Կոստանդնուպօլիս եպս. ըլլալէն մինչեւ Սրբոյն Ամբրոսիոսի մահը. 880էն մինչեւ 897։ Գիրք ԺԸ։ Սբ. Գրիգոր Աստուածաբանին Կոստանդնուպօլսի եպս. ըլլալէն մինչեւ Սրբոյն Դամասոսի մահը։ 880 թուէն մինչեւ 884։ Էջ 202.— Քննութիւնք ի ԺԸ գիրս։ Էջ 811.— Գիրք ԺԹ։ Սրբոյն Դամասոսի մահուանէն մինչեւ Սբ. Գրիգոր Աստուածաբանին մահը։ 884էն մինչեւ 891։ Էջ 589.— Քննութիւնք ի ԺԹ գիրս։ Էջ 590.— Գիրք Ի։ Կապուայ ժողովքէն մինչեւ Սրբոյն Ամբրոսիոսի մահը։ 891էն մինչեւ 897։ Էջ 805.— Քննութիւնք ի Ի գիրս։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "188.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3727-refine.json",
+    "pipeline_version": "v1"
+  }
+}

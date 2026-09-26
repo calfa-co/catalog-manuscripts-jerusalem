@@ -1,0 +1,68 @@
+{
+  "id": "J1708",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1708",
+  "notice": "1708",
+  "volume": "Jerusalem_V6",
+  "title": "Շ Ա Ր Ա Կ Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1708",
+    "no_notice": "89",
+    "titre": "Շ Ա Ր Ա Կ Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "564",
+    "dimensions": "12x8x5.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 18–20 տող",
+    "details_ecriture": "կրճատեալ։ Կարմրաներկ գլխազարդ իւր սարօք, իւրաքանչիւր ձայնի սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բամպակեայ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "բաւարար . լուսանցքները մասամբ ցեցահար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը եւ վերջը երկուական թերթ, անկիւնաւոր երկաթագիր, ահա քանի մը տող . «Յայնժամ Եսեբիոս ասէ ցիս . Կիպրիանէ, մի յուսահատիր, եղիցի լուծումն այնմ ամենայնի վասն ոչ գիտելոյն քո . վասնորոյ ունիս տեղի ապաշխարութեան . . .»",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "էջ 1",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 . — ԱՁ . — Երգեսցուք երգ նոր Աստուծոյ փրկչին մերոյ . . .։ Հմմտ . թ . 1535։ Էջ 56 . — Երգեցէք Տեառն երգ նոր . . .։ Էջ 107 . — Աւրհնեսցուք զՏէր . . .։ Էջ 160 . — Փարաւոն հանդերձ կառաւք ընկղմեցաւ . . .։ Էջ 212 . — Աւգնական ընդունելի . . .։ Էջ 276–277, դատարկ մնացած։ Էջ 293 . — Երգեցէք Տեառն երգ նոր . . .։ Էջ 349 . — Աւրհնեսցուք զՏէր . . .։ Էջ 439 . — ԴԿ . — Յաղթական քեզ աւրհնութիւնք . . .։ Էջ 561–564, համարեա դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "032.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1708-refine.json",
+    "pipeline_version": "v1"
+  }
+}

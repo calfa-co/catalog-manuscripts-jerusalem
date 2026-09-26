@@ -1,0 +1,68 @@
+{
+  "id": "J684",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "684",
+  "notice": "684",
+  "volume": "Jerusalem_V3",
+  "title": "ՀԵՐՔՈՒՄՆ ՎԱՀԱՆ ՀԱՒԱՏՈՅ ԳՐՈՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "684",
+    "no_notice": "3",
+    "titre": "ՀԵՐՔՈՒՄՆ ՎԱՀԱՆ ՀԱՒԱՏՈՅ ԳՐՈՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "21.5x16.5x1; էջ 190: Հանգամանք շատ լաւ: Թուղթ միջակ: Գրութիւն՝ համարագրերը եւ չակերտները կարմիր, մնացեալը սեւորակ մելանով, միասիւն, 24 տող: Նոտր շեղագիր կանոնաւոր: Համառօտագրութիւնք գրեթէ սովորական: Կազմ խաւաքարտեայ: Դատարկ թուղթ սկիզբը մէկ թերթ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1.— Շարունակութիւն կամ հաստատութիւն յառաջագոյն գրեալ մերումս տեսարանի, կամ, Յայտնի ապացոյց նոր հերձուածող լինելոյ վերապատուելի հայր Միքայէլի Չամչեանց եւ բոլոր միաբանութեան իւրոյ, քաղեալ ի բուն ձեռագիր գրուածոյ իւրոյ, զոր իբր հրաշիւք ձգեցաք ի ձեռս մեր. յամին 1815, Մարտ 4: — Հմմտ. Բ. Հատոր, էջ 596:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "143.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "684-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J512",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "512",
+  "notice": "512",
+  "volume": "Jerusalem_V2",
+  "title": "ՄԵԿՆ. ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "512",
+    "no_notice": "5",
+    "titre": "ՄԵԿՆ. ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "114",
+    "dimensions": "23 x 17 x 1.5",
+    "mise_en_page": "խորագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 28 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Սաւալանեանի Ցուցակին համաձայն «գրեալ յԵէմ ի յամի 1822» (էջ 327)",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Բան առ բարեմիտ ընթերցօղս\nյաղագս առաջիկայ առակացս. — Կանխաբարբառ եւ հոգիահրաշ նախապատմող բանին Սբ. Աւետարանիչն Մատթէոս... : — Հմմտ. աստ, էջ 408։ էջ 6. — Ձերում ազնուութեան ծառայ պատրաստական, Պետրոս Աղամալեան, Նախիջեւանեան նահանգին որով եղև պատճառ գրքոյս արարման։ էջ 7. — Ոտանաւոր գրքոյս շինողի ի վերայ անուան իւրոյ։ Յորդորակ առակաւոր բանին Քրիստոսի. — Պարտ է մարդոյ գիտել զիմաստ եւ զհանճար, որով անճար պահու յինքեան զտցէ զճար։ ...։ — Պետրոսի Վարդապետի։ էջ 107. — Ցանկն է։ էջ 108–114, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "529.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "530.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "512-refine.json",
+    "pipeline_version": "v1"
+  }
+}

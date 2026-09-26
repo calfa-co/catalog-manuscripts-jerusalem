@@ -1,0 +1,68 @@
+{
+  "id": "J2182",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2182",
+  "notice": "2182",
+  "volume": "Jerusalem_V7",
+  "title": "ՀԱՐՑՄԱՆՑ ԳԻՐՔ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2182",
+    "no_notice": "15",
+    "titre": "ՀԱՐՑՄԱՆՑ ԳԻՐՔ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "840",
+    "dimensions": "19 X 15 X 6",
+    "mise_en_page": "խորագիրները, սկզբնատողերը և գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 20-27 տող",
+    "details_ecriture": "ոչ միատեսակ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ",
+    "types_cahiers": "ԻԵ + Է + Դ",
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, ոչ նոյնատեսակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ, գծազարդ, հնամաշ",
+    "etat_conservation": "լաւ, բայց լուսանցքները թեթեւօրէն ցեցակեր",
+    "copiste": "միջին մասին՝ Վաղիկ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "գլխազարդ իւր սարօք, հատորներու սկիզբը։ Կարմրադիծ նկար՝ Խորան վկայութեան յանապատին Սինէական, էջ 703",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1-2, համարեա դատարկ։ էջ 3 — Այս գինչ է գլխօսք բանք բոլոր գրոցս. — Ա-ԽԱ գլուխներ։ էջ 5 — Յառաջաբան գրոյն. աւրհնեալ է Աստուած։ էջ 15 — Առաջին հատոր։ էջ 308 — Յաղագս Աստուածաբանութեան Սրբոյն Դիոնէսիոսի։ էջ 361, գիրք կը փոխուի։ էջ 458, դատարկ։ Նոյնպէս յաջորդ էջին մեծագոյն մասը։ էջ 495 — Սկիզբն Եդ Գրոց Հարցմանցըս։ Յաղագս լինելութեան մարդոյն։ էջ 578, դատարկ։ էջ 579 — Վեցերորդ հատոր Հարցմանց։ էջ 744, դատարկ։ էջ 745, գիրք դարձեալ կը փոխուի. — Եւթներորդ հատոր Հարցմանցն։ էջ 829 — ...եւ աստանօր կատարումն Հին Կտակարանաց, եւ Էդ Հատորի Հարցմանցս, ի փառս Քի. Այ. մերոյ աւրհնեալն յաւիտեանս յաւիտենից ամէն։ էջ 830 — Է մահուչափ մեղքն եւ անիծեալ դոխակերքն իւր։ էջ 830-840, դատարկ։\nՄանր յիշատակագրութիւն Գրչի. — էջ 388, նոտրագիր. — Հոգի Սբ. աւգնեա տառակոյս եւ անարժան սպասաւորի Տեառն Աստուծոյ, մեղաւոր Վաղիկիս, աղաչեմ զքեզ, բարերար արժանի արա զանարժանս ի անկ անել։\nՅետնագոյն յիշատակագրութիւն. — էջ 828, ստորին լուսանցքին, նոտրագիր տարբեր. — Յիշատակ է Հարցմանց Գիրքըս Ղնիմեցի Մարտիրոս վարդապետին, Սբ. Երուսաղէմայ, ի դուռն Սբ. Յակոբայ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "294.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2182-refine.json",
+    "pipeline_version": "v1"
+  }
+}

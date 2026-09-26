@@ -1,0 +1,68 @@
+{
+  "id": "J2880",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2880",
+  "notice": "2880",
+  "volume": "Jerusalem_V9",
+  "title": "ՍԱՂՄՈՍԱՐԱՆ (ԵԹՈՎՊԵՐԷՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2880",
+    "no_notice": null,
+    "titre": "ՍԱՂՄՈՍԱՐԱՆ (ԵԹՈՎՊԵՐԷՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Vellum, 16th century codex; 15.2 x 14cm; 222 folios; full binding; wooden board covers; fols. 5-196 single columns and the rest double; 16 lines per column; Ms. generally in good and legible condition, but slightly soiled throughout.",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Title: The Psalter. 1) fols. 5-168b The Psalms. 2) fols. 169a-186a: The Songs of the Prop-hets (i.e. Ecclesiastical Canticles). The “nine and six” morning odes and pra-yers (as they are called in this manuscript), with their respective rubrics. 3) fols. 186a-196a: The Song of Songs. 4) fols. 197a-217b: Weddasse Maryam to-gether with Porch of Light.\nAdditional Content. 1) fols. 1b-2b and 4. A theological allegorical treatise: the Church means a reservoir, the Ark means Christ, etc., in Amharic. 2) fol. 196a. A story of a miracle of Mary (a different pen). 3) fols. 217b-218a.- A short salam to Gabra-Manfas Geddus. 4) fols. 218b-219a. A story about the sorrows of Mary. 5) fols. 219a-220a. “Be glad”.- a song to Mary (different pen). 6) fols. 3 and 220b-221b. Another short prayer to Mary. 7) fol. 222a-b. Trial of the pen. Տես էջ 180-181:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "106.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2880-refine.json",
+    "pipeline_version": "v1"
+  }
+}

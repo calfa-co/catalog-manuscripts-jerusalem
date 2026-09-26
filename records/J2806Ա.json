@@ -1,0 +1,72 @@
+{
+  "id": "J2806Ա",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2806Ա",
+  "notice": "2806Ա",
+  "volume": "Jerusalem_V9",
+  "title": "Օ Ր Ա Գ Ր ՈՒ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1854",
+    "to": "1854",
+    "display": null
+  },
+  "fields": {
+    "numero": "2806Ա",
+    "no_notice": null,
+    "titre": "Օ Ր Ա Գ Ր ՈՒ Թ Ի Ւ Ն",
+    "date_debut": "1854",
+    "date_fin": "1854",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "80",
+    "dimensions": "20.5×15",
+    "mise_en_page": null,
+    "details_ecriture": "Առանց կողքի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— 1854, յունվար 1։ Էջ 4.— Ապրիլ 9, ուր.— Գիշերիս հսկման տրտմութեան Կտակն սգոյ խօսեցաւ Աբրահամ Վրդ. Չորլուցի։ Էջ 17.— Նոյեմբեր 28, կիր.— ԶԴամասկոսի նախկին տեսուչ ... Մարաշցի Մկրտիչ Վարդապետն բերին յԵրուսաղէմ պահակ միւպաշիրով առ բդեշխն, բդեշխն յանձնեաց Սբ. Վանուցս, զոր ըստ հրամանի սրբազան պատրիարքին Յօհաննու եդին ի սենեակ թարգմանատան ի ներքոյ փական եւ արգելման։ Էջ 20.— Դեկտեմբեր 25 Շբ.— Բերիացի (տիրացու Սահակն, որ ընդ մեզ սարկաւագ\nեղեւ 1842, եւ ի 1843 վրդ. եղեւ, եւ 1844 գաւազանի իշխանութիւն էառ, եւ յօծմանն կոչեցաւ) Երեմիա Վրդ. հանգեաւ ի Տէր, ժաւ 10 եւ կէսին։ Ձեռն. մեր ի Զաքարիա սրբազան պատրիարքէ։ էջ 21–80, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "027.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "028.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2806Ա-refine.json",
+    "pipeline_version": "v1"
+  }
+}

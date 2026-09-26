@@ -1,0 +1,72 @@
+{
+  "id": "J1094",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1094",
+  "notice": "1094",
+  "volume": "Jerusalem_V4",
+  "title": "ԳԻՐՔ ՀՈԳԵԱՑ ԵՒ ՀՐԵՇՏԱԿԱՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1094",
+    "no_notice": "3",
+    "titre": "ԳԻՐՔ ՀՈԳԵԱՑ ԵՒ ՀՐԵՇՏԱԿԱՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "892",
+    "dimensions": "19x13x6",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 23, 27 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի։ Կարմրագիծ զարդագիր եւ գլխազարդ էջ 512. զարդագիր, լուսանցազարդ եւ խորանազարդ էջ 17",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "դեղնորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": "Գրիգոր Երեւանցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4, դատարկ ընդհանրապէս։ Էջ 5. — Համառօտ Հաւաքումն Յաղագս Հոգւոյ Բանականին, Յառաջաբանութիւն գրոյս։ Էջ 17. — Գլուխ Առաջին։ Յաղագս էութեան հոգւոյն, Յեօթն Պրակս բաժանեալ։ Առաջին պրակք։ Թէ հոգին ոչ է մարմին։ Էջ 510. — Համառօտ տեսութիւն Յաղագս Հրեշտակաց։ Էջ 512. — Գլուխ Առաջին։ Յաղագս Գոյացութեան Հրեշտակաց ընդարձակապէս առեալ, ի հինգ պրակս բաժանեալ։ Պրակք Առաջին։ Էջ 885. — Յիշատակարան Թարգմանչի. — Վասնզի առաջին թարգմանութիւն գրոցս Յաղագս մարդկային հոգւոյն, եւ հրեշտակաց էր յոյժ ապականեալ եւ այլափոխեալ...։ Էջ 886. — Գծագրեցաւ ձեռամբ յոգնամեղ Գրիգորի Երեւանցւոյ։ Էջ 887-892, դատարկ մեծագոյն մասամբ։ Յիշատակագրութիւնք. — 1. — Էջ 511, նոտր շեղագիր. — Այս Գիրք Հոգեաց Թովմայի Աքուինացւոյն, է ստացուած Ալեքսանեան Աւետիսին։ 2. — Էջ 4, շեղագիր. — Ընծայեաց Ս. Աթոռոյս զՀոգեաց եւ զՀրեշտակաց գիրս, Զմիւռնացի Պրն. Կոստան Տէր Գասպարեան յուխտաւորութեան իւրում, 1867, մայիս 1։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "166.JPG"
+    },
+    {
+      "volume": "Jerusalem_V4",
+      "file": "167.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1094-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J106բ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "106բ",
+  "notice": "106բ",
+  "volume": "Jerusalem_V1",
+  "title": "Նախորդին Երկրորդ Հատորն է։ Նը-",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "106բ",
+    "no_notice": null,
+    "titre": "Նախորդին Երկրորդ Հատորն է։ Նը-",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1004բ. — Գլուխ ԻԵ, Համար 13․ Որքան մեծ է եթէ ոք գտանէ զիմաստութիւն և զգիտութիւն, այլ ոչ է դեր քան զերկիւղած Տեառն։ Էջ 1905բ. — Գլուխ ԾԱ, Համար 38․ Գործեցէք զգործս ձեր նախ քան զժամանակ․ և տացէ ձեզ զվարձ ի ժամանակի իւրում։\nԷջ 1907բ. — Ոտանաւոր սակս Մեկնութեան բարոյականի փիլիսոփայութեան մեծի իմաստնոյն Սիրաքայ, շարահիւսեալ յումեմնէ յետնեալ բանասիրէ Եսայեայ Ռօստաբէ Կոստանդնուպօլսեցւոյ, սրբագրութեամբ գծագրողի մատենիս։\nՄատեան տենչալի՝ առըն ըղձական, մեծին Սիրաքայ տիպ Սողոմոնեան, մեկնաբանելով վեհըն պատուական, Յակոբ Պատրիարք գերըզգօնական։ Տաղըս յօրինեաց՝ տողիւ կըշռական, յամէն Համարի վերջըն աւարտման, խորին իմացմամբ՝ Ոիւրով պարզական․ Յակոբ Պատրիարք՝ Ոերհուն չափաբան։ Արծիւ սըրատես՝ անբարբ Որկստման, Բանին Միածնի՝ զէտ Արեգական, ճառեալ ըզնմանէ՝ անըսկըզբնական, Յակոբ Պատրիարք՝ խո՛ր Աստուածաբան։ Յարմար պատմութեամբ ներվայելչական, յարացոյց բերեալ ապացուցական, ըստ տրամաբանից որ կանոնական․ Յակոբ Պատրիարք՝ նո՛ւրբ իմաստնաբան։ Անքուն աշխատմամբ ներգիշերական, ըզբազում գըրեանս որ շարագրական, թողեալ յիշատակ ազգիս Հայկական, Յակոբ Պատրիարք՝ զագար Պետական։ Սակաւ ներբողեան որ դրուատական, յիմոյս պիտակէ Քարտուղարական, Եսայի կոչմամբ՝ ներփիւզանդական, խընդրեմ ոչ եղծել մինչեւ յաւիտեան։\nէջ 1908ա, անհարթ գրով.— Ի վայելումն սբ. Սիրաքայ Մեկնութիւնն Աբրահամ վարդապետն, թ. 1815։\nՆոյն էջին մնացեալ մասը և յաջորդ երեսը, որ վերջինն է, կը մնան դատարկ, և ծածկուած որդերէ ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "336.jpg"
+    },
+    {
+      "volume": "Jerusalem_V1",
+      "file": "337.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "106բ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

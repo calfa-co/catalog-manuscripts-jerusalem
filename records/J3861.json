@@ -1,0 +1,68 @@
+{
+  "id": "J3861",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3861",
+  "notice": "3861",
+  "volume": "Jerusalem_V11",
+  "title": "ՑՈՒՑԱԿ ԳՐՉԱԳԻՐ ՄԱՏԵՆԻՑ",
+  "date": {
+    "from": "1742",
+    "to": "1742",
+    "display": null
+  },
+  "fields": {
+    "numero": "3861",
+    "no_notice": null,
+    "titre": "ՑՈՒՑԱԿ ԳՐՉԱԳԻՐ ՄԱՏԵՆԻՑ",
+    "date_debut": "1742",
+    "date_fin": "1742",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "286",
+    "dimensions": "20.5x16x2",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 20 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ ; ՈՒՂՂԱԳՐՈՒԹԻՒՆ: տկար",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.– Ցուցակ Գրչագիր Մատենից, թիւ 1–1742։ Էջ 2, դատարկ։ Էջ 3.– 1.– Ճառ[ը]նտիր. մեծ, միածալ, բոլորագիր, բարակաթուղթ, Դ. Հատոր (1417).– Հմմտ. թիւ 3846։ 2.– Մեկնութիւն Կաթ. Թուղթոց. Սարգիս Շնորհալի, մեծադիր, բոլորգիր, թուղթ. (1338)։ Էջ 89.– 1741.– Շարական։ 1742.– Կարգաւորութիւնք եւ հրահանգ տէրունական տօնից։ Էջ 90–286, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "326.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3861-refine.json",
+    "pipeline_version": "v1"
+  }
+}

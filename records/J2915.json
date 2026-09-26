@@ -1,0 +1,72 @@
+{
+  "id": "J2915",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2915",
+  "notice": "2915",
+  "volume": "Jerusalem_V9",
+  "title": "Կ Ա Ր Գ  Թ Ա Ղ Մ Ա Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2915",
+    "no_notice": "3",
+    "titre": "Կ Ա Ր Գ  Թ Ա Ղ Մ Ա Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Թ + 187",
+    "dimensions": "16.5 X 10 X 1.5",
+    "mise_en_page": "սեւ մելանով, միասիւն, 15 տող, բայց յաճախ նուազ",
+    "details_ecriture": "նոտրակերպ մաքուր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ ոսկեզօծ երիզներով",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Դ, դատարկ։ Էջ Ե.— Ցանկ։ Չորս Գլուխ։ Էջ Զ–Ը, դատարկ։ Էջ Թ.— Կարգ Թաղման Կարգաւորաց։ Էջ 21.— Յաղագս ննջեցելոց Աշխարհականաց։ Էջ 27.— Կարգ Աշխարհականաց Թաղման ի Տէրունի աւուր։ Էջ 98.— Կարգ Աշխարհաթաղի ի հասարակ աւուր։ Էջ 103, դատարկ։ Էջ 104.— Կանոն Տղայաթաղի։ Էջ 161–177, դատարկ։ Էջ 178.— Զարհուրեալ դողացաւ, տես երես 60...։ Էջ 179–187, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "138.jpg"
+    },
+    {
+      "volume": "Jerusalem_V9",
+      "file": "139.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2915-refine.json",
+    "pipeline_version": "v1"
+  }
+}

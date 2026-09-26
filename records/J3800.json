@@ -1,0 +1,68 @@
+{
+  "id": "J3800",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3800",
+  "notice": "3800",
+  "volume": "Jerusalem_V11",
+  "title": "ԵԿԵՂԵՑԱԿԱՆ ԵՐԳԵՑՈՂՈՒԹԻՒՆ.— Ը.",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3800",
+    "no_notice": null,
+    "titre": "ԵԿԵՂԵՑԱԿԱՆ ԵՐԳԵՑՈՂՈՒԹԻՒՆ.— Ը.",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "124",
+    "dimensions": "ըստ նախորդներուն",
+    "mise_en_page": "նման նախորդներուն",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "նման նախորդներուն",
+    "etat_conservation": "լաւ",
+    "copiste": "Լեւոն Մ. Զիւլիւկիւրեան",
+    "possesseur": "Սմբատ Եպս. Գազազեան, համաձայն հետեւեալ տպագիր պիտակին, որ փակցուած է տիտղոսաթերթին ներսի կողմը։ \" Ի գրոց Տ. Սմբատ Ս. Եպս. Գազազեանի, հանգուցեալ միաբանակցին մերոյ, եղաւ յիշատակ իւրեան, յետ վախճանի նորին, ի Կիւլպէնկեան Մատենադարան Առաք. Աթոռոյս Սրբոց Յակոբեանց, յԵրուսաղէմ, ՌՅՁԴ-1985\"",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Կոչումն Քահանայութեան.— Նայեաց ի մեզ...։ Էջ 8.— Քահանայաթաղի.— Պատրաստ արարեր...։ Էջ 8.— Կանոնագլուխ ԱՁ.— Դատեա Տէր...։ Էջ 20.— Ս. Խորհրդոյ արարողութիւնն՝ վերաբերելով։ Էջ 80.— Սրբասացութիւն Աւագ Հինգշաբաթի։ Էջ 86.— Տաղ Ջուր Օրհնութեան (Բէնճիկեան).— Այսօր ձայնըն հայրական...։ Էջ 88.— (Պէսթէնիկեար) Շարունակութիւն.— Ով զարմանալի...։ Էջ 40.— Խորհուրդ խորին...։ Էջ 46.— Մեղեդի Յարութեան (Սվահան).— Այսօր հարսըն լուսոյ...։ Էջ 58.— Մեղեդի Յարութեան (Աճէմ աշրան).— Այսօր ողբան...։ Էջ 66.— Մեղեդի Ծննդեան (րաստ)։ Էջ 76.— Մեղեդի եւ Տաղ Վարդավառի.— Այսօր ցընծայ լեառըն Թափօր...։ Էջ 109.— Ուր ես մայր իմ քաղցր եւ անուշ...— Բառերը։ Էջ 111.— Այլ եւ այլք.— Ցանկ։ Էջ 118-124, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "251.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3800-refine.json",
+    "pipeline_version": "v1"
+  }
+}

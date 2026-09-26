@@ -1,0 +1,68 @@
+{
+  "id": "J492",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "492",
+  "notice": "492",
+  "volume": "Jerusalem_V2",
+  "title": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+  "date": {
+    "from": "1678",
+    "to": "1678",
+    "display": null
+  },
+  "fields": {
+    "numero": "492",
+    "no_notice": "8",
+    "titre": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+    "date_debut": "1678",
+    "date_fin": "1678",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "38",
+    "dimensions": "23 x 17 x 1",
+    "mise_en_page": "հրահանգները, սկզբնաւորութիւնները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 23 տող",
+    "details_ecriture": "վարժ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բամպակեայ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "ոչ գոհացուցիչ, որդերէ վնասուած, նորոգութիւն կրած",
+    "copiste": "Յակոբ երէց",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "գլխատառք եւ լուսանցազարդք, էջ 10, 12, 16, 19, 21, 22",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 3 . — Քահանայք քո զգեցցին զարդարութիւն . . . ։ Էջ 4բ . — Աւրհնք արկանելոյ սպաս եկեղեցւոյ . . . ։ Էջ 5–8, նոր թուղթ, աւելի փոքրադիր, նոտր գրով . — Որ զգեցեալ ես զլոյս որպէս հանդերձ . . . ։ Էջ 9ա . — Ցնծասցէ անձն իմ ի Տէր . . . ։ Էջ 10ա . — Ամենակալ Ած . բարերար . . . ։ Էջ 13 . — . . . Որ բազմեալ հանգչի, . . . եւ . . . որ ի կողահոս . . . , պարբերութիւնները աւելցուած են լուսանցքներու վրայ, նոտր գրով ։ Ծանօթ . — Չունի «Զի ողորմած»էն առաջ դրուած «Օրհնեա՛ Տէր»ը, էջ 17բ ։ Էջ 18ա . — Եւ ասեն զՀաւատամքն ըստ հրահանգին . իսկ մեք փառաւորեսցուք–ը լուսանցքի վրայ, նոտրագիր ։ Ծանօթ . — «Խաղաղութեամբ քով Քս . Փրկիչ մեր» աղօթքին վերջաւորութեան դրուած «Ամէն»էն առաջ կայ «Դպիր», էջ 18բ ։ Էջ 20 . — . . . Եւ ասէ բազկատարած զաղաւթս ի ծածուկ ։ — Տէր Ած . զօրութեանց եւ արարիչ ամ . լինելութեանց . . . ։ Ծանօթ . — Վերջին աւետարանը չունի ։\nՅիշատակագրութիւն . — Թկ . 1678 Էջ 37 . — Ով սբ . պատարագող յիշեա զՅակոբ երէցս եւ զմայր իմ . Թվին ՌՃԻԷ դեկտեմբեր ամսոյ իա, պատկեր օրն շաբաթ, յանկ ելաւ տետրակս ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "502.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "492-refine.json",
+    "pipeline_version": "v1"
+  }
+}

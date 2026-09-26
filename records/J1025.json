@@ -1,0 +1,68 @@
+{
+  "id": "J1025",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1025",
+  "notice": "1025",
+  "volume": "Jerusalem_V4",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՄԱՐԿՈՍԻ (Բ. ՀԱՏՈՐ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1025",
+    "no_notice": "13",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՄԱՐԿՈՍԻ (Բ. ՀԱՏՈՐ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "320",
+    "dimensions": "20x15x2.5",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 25 տող։ Նոտր շեղագիր",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապոյտ",
+    "nb_lignes": null,
+    "reliure": "կարմրակաշի խաւաքարտեայ դրոշմազարդ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը հինգ, վերջը ինը թերթ",
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ փակագիր. «Կիրակոս Վարդապետ, 1256» [= 1807], էջ 318",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Երկրորդ Հատոր Մեկնութեան Սրբոյ Աւետարանին Մարկոսի, ասացեալ ի Ճոն Բարսեղ Վարդապետէ Հայոց։ Գլուխ Թ. համար 10։\nՅիշատակագրութիւն. — 1824 Էջ 318. — Սբ. Երուսաղէմացի նուաստ Կիրակոս Եպիսկոպոս ստացայ զգիրքս ի վայելս անձին իմոյ, եւ յետագայ եղբարց հոգեշնորհ բարունեաց Սրբոյ Աթոռոյս Երուսաղէմի միաբանից, յամի 1824, ի Սբ. Երուսաղէմ։ Էջ 319–320, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "063.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1025-refine.json",
+    "pipeline_version": "v1"
+  }
+}

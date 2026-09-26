@@ -1,0 +1,68 @@
+{
+  "id": "J3211",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3211",
+  "notice": "3211",
+  "volume": "Jerusalem_V9",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3211",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "74",
+    "dimensions": "30 X 19 X 1",
+    "mise_en_page": "խորագիրները, ըսկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, երկսիւն, 43 տող, կարմիր գիծերու միջեւ։ Նոտր շեղագիր վարժ",
+    "details_ecriture": "առատ։ Թըղթակազմ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "անբաւարար. վնասուած թացութենէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Առաջին կողքին ներսի կողմը երկու տող, տարբեր գրչութեամբ. «Թարգմանութիւն Քարոզիցս ի պարսկաց լեզուէ ի Հայս, ի 1331 թիւն Տեառն մերոյ»։ Էջ 1.— Քարոզելոյ եւ ուսուցանելոյ.— Գրեալ է ի Մատթէոսի վերջն. Երթայք քարոզեցէք...։— Վարդապետք ասեն թէ անպատշաճ է զգիտութիւնս խնայել եւ ոչ բաշխել այլոց վասն բազում պատճառի։... Վասնզի օտար լեզուով որ ոչ գիտեի կատարեալ՝ թարգմանեցի, այսինքն պարսիկ լեզուով ի հայս։ Էջ 12ա.— Քարոզ Աղօթից.— Յորժամ յաղօթս կայցէք...։ Էջ 18բ.— Այլ Քարոզ.— Հայր մեր որ յերկինս, Ղուկ. 11։ Էջ 24բ.— Քարոզ Դատաստանի։ Էջ 30ա.— Այլ Քարոզ Դատաստանի։ Էջ 36ա.— Քարոզ Խոստովանութեան։...։ — Այլ Քարոզ Խոստովանութեան։ Էջ 37բ.— Այլ Քարոզ Յաղագս Խոստովանութեան։ Էջ 43ա.— Այլ Քարոզ Վասն Խոստովանութեան։ Էջ 48ա.— Քարոզ Աւետեաց Աստուածածնին։ Էջ 57բ.— Այլ Քարոզ Աւետեաց Աստուածածնին։ Էջ 64.— Գիրք Վասն Բանին մարմնացելոյ ասացեալ։— Կը մնայ անաւարտ։ Էջ 68–70, դատարկ։ Էջ 71–74, կապոյտ թուղթ։ Էջ 71, տարբեր գրչութիւն.— Ցանկ Քարոզից եւ բնաբանից նոցա.— 11 Գլուխ։ Էջ 72–74, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "532.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3211-refine.json",
+    "pipeline_version": "v1"
+  }
+}

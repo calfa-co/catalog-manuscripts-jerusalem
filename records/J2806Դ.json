@@ -1,0 +1,68 @@
+{
+  "id": "J2806Դ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2806Դ",
+  "notice": "2806Դ",
+  "volume": "Jerusalem_V9",
+  "title": "Օ Ր Ա Գ Ր Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1860",
+    "to": "1860",
+    "display": null
+  },
+  "fields": {
+    "numero": "2806Դ",
+    "no_notice": null,
+    "titre": "Օ Ր Ա Գ Ր Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": "1860",
+    "date_fin": "1860",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "280",
+    "dimensions": "19 X 14 X 1.5",
+    "mise_en_page": "սեւ մելանով, շեղագիր։ Լաթակազմ խաւաքարտեայ",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ի 1860, յունվար 1, ուր.։ Էջ 253.— Դեկտեմբեր 21, Դշ.— Ի գիշերիս ժամ 10ին էջքն իջոյց յաջ կողմն սրբազան պատրիարգին մերոյ։ Իսկոյն լատինաց վանուց բժիշկն եկեալ արիւն էառ յաջ թեւոյն ...։ Էջ 255.— Դեկտեմբեր 23, ուր.— ...թէպէտ եւ բազումս աշխատեցաք յառողջութիւն դարձուցանել, այլ ոչինչ կարացաք, քանզի յերեկոյին ի մտանելն արեգական ժամ 12ին աւանդեաց զպատուական հոգին։ Որոյ հոգին Տէր լուսաւորեսցէ։ Յետ վախճանման սրբազան պատրիարգ հօր լուացին եւ զկարգ կատարեցաք եւ եդաք ի գիշերիս յեկեղեցին։ Էջ 256.— Դեկտեմբեր 24, շբ.— ...Եսայի վրդ. եղբայրն կամեցաւ զպատկեր հանգուցելոյն առնուլ։ Վասնորոյ հանին զմարմինն ի դագաղէն ի բակն եւ նստել ետուն յաթոռն ոսկեզօծ, երկիցս վեղարօք էառ եւ գաւազանով եւ նշանով, եւ երկիցս զգեստաւորեալ թագիւ եւայլն...։ Էջ 273-280, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "029.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2806Դ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

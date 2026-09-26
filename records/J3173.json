@@ -1,0 +1,68 @@
+{
+  "id": "J3173",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3173",
+  "notice": "3173",
+  "volume": "Jerusalem_V9",
+  "title": "ՄԵԿՆ. ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3173",
+    "no_notice": "25",
+    "titre": "ՄԵԿՆ. ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "106",
+    "dimensions": "25 X 18 X 1",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 32 տող, սեւ գիծերու միջեւ։ Նոտրակերպ շեղագիր վարժ",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը հինգ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Յաղագս Տեսական Հաւատոյ։ Գըլուխ Ա։ Էջ 3.— Յաղագս Հաշտութեան։ Գլուխ Բ։ Էջ 9.— Առակ Սերմանացանին։ Գլուխ Դ։ Էջ 45.— Աւարտ Մատթէոսեան Առակաց։ Էջ 61.— Յաղագս Անառակ Որդւոյն։ Գըլուխ ԻԴ։ Էջ 70.— Յաղագս Մեծատան եւ Տնտեսին։ Գլուխ ԻԵ։ Էջ 88.— Զարքայութենէ Տեառն մերոյ։ Գլուխ Լ։ Էջ 94.— Վերջ։ Էջ 95.— Ցանկ Գլխոց Մատենիս.— Ա–Լ Գլուխներ։ Էջ 96–106, դատարկ։ Յետնագոյն յիշատակագրութիւն.— 1893 Սկիզբի դատարկ էջին վրայ, կարմրատառ .— Ի տէր Մովսէս Քահանայէ Ժամակոչեան՝ Յարութիւն Սրկ. Կիւլէսէրեանի, 1893, սեպտեմբեր 19, Այնթապ։ Յիշատակարանիկ 1923ի փակցուած առաջին կողքին, թիւ 44։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "466.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3173-refine.json",
+    "pipeline_version": "v1"
+  }
+}

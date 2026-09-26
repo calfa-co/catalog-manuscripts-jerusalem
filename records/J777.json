@@ -1,0 +1,68 @@
+{
+  "id": "J777",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "777",
+  "notice": "777",
+  "volume": "Jerusalem_V3",
+  "title": "ԺՈՂՈՎԱԾՈՅ (ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "777",
+    "no_notice": null,
+    "titre": "ԺՈՂՈՎԱԾՈՅ (ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "142",
+    "dimensions": "21x15.5x1.5",
+    "mise_en_page": "խորագիրները, սկզբնաւորութիւնները եւ յաճախ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 27 տող",
+    "details_ecriture": "սովորականէն քիչ մը աւելի ; ՈՒՂՂԱԳՐՈՒԹԻՒՆ: թերի",
+    "types_cahiers": "Դ-Ժ",
+    "matiere_principale_id": null,
+    "details_matiere": "թանձըր",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": "գլուխներու սկիզբը",
+    "initiales": null,
+    "enluminures_marginales": "գլուխներու սկիզբը",
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ սկիզբը եւ վերջը մէկ մէկ թերթ, բոլորգիր, Աւետարանի մասն",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 3բ .— Քարոզ ի բան Յոհանու որ ասէ...։ Էջ 32ա .— Քարոզ ի բան Սողոմոնի որ ասէ. ողորմի աղքատին փոխ տայ Այ. ...։ — Այսպէս հրամայեն վարդապետք եկեղեցո...։ Էջ 48ա .— Քարոզ ի բան Յեսայի որդո Սիրաքա իմաստասիրի բան շահեկան խրատ հոգո.— Նախ պարտ է գիտել զի մահու աւրն զկատարածին ծա[ծ]կեալ է Ած. ... որ եւ արժանի արասցէ Քս. Ած. զմեղսամած եւ զներկեալ ոգի եւ տառապեալ անձն հողո' հաւասար զԱլիքսան երէցն եւ զամ. հաւասար ժողովուրդս կրղց. (էջ 53ա)։ Էջ 93ա .— Աշխարհագրութիւն, ըսկիզբը թերի.— զՔեռիոնս կղզին, եւ իբրեւ զլետ դա ...։ Էջ 95ա .— Ղարս քաղաքն յԱնու երկիրն է, Վանանդ Կարուց էր Ղէվոնդ վարդապետն...։ Էջ 101բ .— Այս են աշխարհք եւ գաւառք Հայոց զոր փոքր ի շատէ գրեաց ոք զպութութին։ Իսկ ի կողմանէ Պարսից սկսեալ յարեւելից, նախ Զինումաչին եւ Խայթայ քաղաքն...։ Էջ 106ա .— Պատմութիւն եւ խրատ Խիկարա իմաստասիրի...։ Էջ 132բ .— Յաղագս խոստովանութեան...։ Էջ 137ա .— Այս են ուխտատեղիք որ կան սրբոց մարմինք ի Կոստանդնուպօլսի։ Էջ 140բ .— Վասն ժամանակաց գրոց մի ըստ միոջէ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "246.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "777-refine.json",
+    "pipeline_version": "v1"
+  }
+}

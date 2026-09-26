@@ -1,0 +1,72 @@
+{
+  "id": "J2382",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2382",
+  "notice": "2382",
+  "volume": "Jerusalem_V8",
+  "title": "Ս Ա Ղ Մ Ո Ս",
+  "date": {
+    "from": "1671",
+    "to": "1671",
+    "display": null
+  },
+  "fields": {
+    "numero": "2382",
+    "no_notice": "61",
+    "titre": "Ս Ա Ղ Մ Ո Ս",
+    "date_debut": "1671",
+    "date_fin": "1671",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "496",
+    "dimensions": "10×7×3.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը և ըսկզբնատառերը կարմիր, մնացեալը սև մելանով, միասիւն, 18 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "անբաւարար. նորոգութիւն կրած. որդերէ վնասուած",
+    "copiste": null,
+    "possesseur": "Թումեկ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "թղթեայ ըսկիզբը մէկ թերթ, դատարկ մեծագոյն մասամբ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, վերը, նոտր շեղագիր.— Յիշատակ է ի դուռն Սբ. Յակոբայ որ յԵրուսաղէմ։ Երանեալ է այր...։ Էջ 52.— Երկինք պատմեն զփառս Աստուծոյ...։ Էջ 112.— Մի՛ նախանձիր ընդ չարս...։ Էջ 289.— Տէր ապաւէն եղեր մեր...։ Էջ 344.— Խոստովան եղերուք Տեառն զի քաղցր է...։ Էջ 402.— Աւրհնութիւն Աստիճանաց.— Ի նեղութեան իմում ես առ Տէր կարդացի...։\nԷջ 475.— Խոստովանութիւն Մանասէի. — Տէր ամենակալ...։ Էջ 484.— Հաւատով խոստովանիմ...։\nՅիշատակարան Գրչի.— 1671 Էջ 494.— Փառք ամենասուրբ Երրորդութեանն և միասնական Աստուածութեանն Հօր և Որդւո ւ Հոգւոյն Սրբոյ այժմ և անզրաւ յաւիտենիւ ամէն։ Որ ետ կարողութիւն տկարիս և անարժանիս, զառածելոյս և մեղաւորիս, սուտանուն դծողիս, հասանել յաւարտ աստուածախօս և լուսազարդ տառիս, որ կոչի Սաղմոսարան։ Շնորհիւ Տեառն սկսա և ողորմութեամբ նորին կատարեցի զաստուածաշունչ գիրս, ի թվականիս Հայոց ՌՃԻ ամին, ի դառն և ի նեղ ժամանակիս, յորում նեղիմք ի հարկապահանջութենէ յանօրինաց, քանզի ևս քան զևս սաստկանա բռնութիւն և նեղութիւն ի վերա աշխարհիս ևս առաւել ազգիս Հայոց, վասն ծովացեալ մեղաց։ Արդ՝ որք հանդիպիք աստուածաշունչ սուրբ տառիս՝ սաղմոս ասելով, յիշեցէք ի մաքրափայլ յաղօթս ձեր զԹումեկն և զազգայինսն իւր յերկնից սուրբ յարքայութիւնն, ամէն։ Էջ 496, դատարկ, անմաքուր։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "034.jpg"
+    },
+    {
+      "volume": "Jerusalem_V8",
+      "file": "035.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2382-refine.json",
+    "pipeline_version": "v1"
+  }
+}

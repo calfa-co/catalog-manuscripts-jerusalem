@@ -1,0 +1,68 @@
+{
+  "id": "J933",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "933",
+  "notice": "933",
+  "volume": "Jerusalem_V3",
+  "title": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "933",
+    "no_notice": "6",
+    "titre": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "604",
+    "dimensions": "20x14x4",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 23 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր, լուսանցազարդ եւ խորան, էջ 5, 190",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։ Էջ 3-4, Ցանկ։ Էջ 5.— Քանզի գերազանցութիւն աստուածաբանական ճըշմարտութեանն է նըշոյլ վերին ճառագայթի, լուսաւորիչ մըտաց...։ Էջ 7.— Գիրք Առաջին Յաղագս Աստուածաբանութեան։ Նախ թէ է Աստուած։ Էջ 80.— Յաղագս Ստեղծման Էից։ Էջ 190.— Յաղագս Չարին Առհասարակ։ Էջ 269.— Յաղագս Հրեշտակական Ողջունին։ Էջ 345.— [Յաղագս] Սկզբնական Շընորհացն։ Էջ 454.— Սկիզբն Վեցերորդ Գրոց. Յաղագս Խորհրդոց։ Էջ 542.— Սկիզբն Եօթներորդ Գրոցն. Վասն կատարածի Աշխարհի։ Էջ 597.— Թուելոյ Զերկնային Խընդութեանց.— Յետ ամենեցուն? համառօտաբար թուեսցուք զերկնային խնդութիւն, ոչ զեղականսն որ ընդ սեռիւն, այլ զսեռս եղականացն. քանզի այնքան են մասնաւոր խնդութիւնքն...։ Էջ 600-604, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "489.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "933-refine.json",
+    "pipeline_version": "v1"
+  }
+}

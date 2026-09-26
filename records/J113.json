@@ -1,0 +1,72 @@
+{
+  "id": "J113",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "113",
+  "notice": "113",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԴԱՆԻԷԼԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "113",
+    "no_notice": "1",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԴԱՆԻԷԼԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "246",
+    "dimensions": "31 x 20 x 2",
+    "mise_en_page": "սեւ մելանով, երկսիւն, 43-37 տող",
+    "details_ecriture": "շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ քանդակազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք՝ սկիզբը երկու, վերջը երեք թերթ",
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ, «Սամուէլ վարդապետ», էջ 11 լս.",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ճակատ.— Մեկնութիւն Սրբոյն Դանիէլի Մարգարէի՝ Սրբոյ Մարգարէութեանն, արարեալ ի Կուռնելիոսէ Ալափիտէ լատին վարդապետէ ի կարգէն Յիսուսեան։ Եւ անտի թարգմանեցեալ ի Հայ բարբառ ի Ղուկասու բազմաթարգման և աստուածաբան վարդապետէ Խարբերթացւոյ։ Հրամանաւ և արդեամբ Ղազարու վարդապետին և եպիսկոպոսին Պոնտոսի, և հարազատի Տեառն Յոհաննէսի Պատրիարքին Կոստանդնուպօլսոյ, և աստուածաբան վարդապետին, և սրբազան առն Աստուծոյ։ Ի թւին Փրկչին 1745։\nԷջ 3.— Մեկնութիւն ի Դանիէլ Մարգարէն։— Յառաջաբանութիւն.— Դանիէլ ազնիւ մարգարէ, մարգարէանայ մասն ինչ զդիպուածոց չորից պետութեանցն աշխարհի, այսինքն, Բաբիլոնացւոց, Պարսկաց, Յունաց, և Հռոմայեցւոց...։\nԷջ 11ա.— Գլուխ Առաջին։ Շար Գլխոց։— Դանիէլ մանուկն, ընդ երից մանկանց ընկերաց ի Բաբիլոն ածեալ, անդ սընուցանի, և վարժի, զի թագաւորին մերձենայցէ...։\nէջ 242բ.— Գլուխ 12, Համար 2.— Եւ բազում ի նոցայն որք ննջեն, և այլն, յառնելոց են։\nէջ 264բ.— ... Եւ մի՛ երբէք մեռանիցին. զկրաւորականն առնու Եսայեայ վերջին գլուխն, 24 համար, զի անդ [Շարունակութիւնը չկայ, կը մնայ թերի]։\nՅետնագոյն յիշատակագրութիւն.— 1835\nէջ 11, ստորին լուսանցքին, շեղագիր անհարթ.— Սրբոյ Աթոռոյս միաբան Պօլսցի Սամուէլ վարդապետն որ ի Հնդիկս նուիրակ գնացեալ, և անդ վախճանեցաւ ի 1834 ապր. որոյ հոգին Տէր լուսաւորեսցէ. սա նորին յիշատակն է Սրբոյ Աթոռոյս՝ որ յԵրուսաղէմ։ 1835 յունվար։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "344.jpg"
+    },
+    {
+      "volume": "Jerusalem_V1",
+      "file": "345.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "113-refine.json",
+    "pipeline_version": "v1"
+  }
+}

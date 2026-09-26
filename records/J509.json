@@ -1,0 +1,68 @@
+{
+  "id": "J509",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "509",
+  "notice": "509",
+  "volume": "Jerusalem_V2",
+  "title": "Ք Ա Ր Ո Զ Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "509",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "64",
+    "dimensions": "23X18",
+    "mise_en_page": "սեւ մելանով, միասիւն։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "դեղնորակ։ Լաթակազմ խաւաքարտեայ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1 — Քարոզ Աւագ Ուրբաթու.— Բնաբան. «Յանդիման եղեն թագաւորք երկրի. եւ իշխանք ժողովեցան...։ — Ա.— Այսօր թէպէտ իշխանք աշխարհիս այսորիկ միաբանին...։ — Ի գաղղիական բնագրէ։ էջ 17 — Կտակ եւ Ողբ Ուրբաթու Մեծի՝ ի Մահն Քրիստոսի.— Յիտալական բնագրէ համառօտեալ.— Ցնծացէք մեղաւորք, ցնծացէք եւ ուրախ լերուք...։ էջ 29–36, դատարկ։ էջ 37 — Ի նուիրիլ իւր յեպիսկոպոսական աստիճան.— Ճառ Ա.— Նախանձելի համագումարումդ...։ էջ 48–64, դատարկ։ Ծանօթ.— Ըստ Սաւալանեանի «Թարգմանեալ է ի Յովհ. Պատուելւոյ Տերոյենց» (Ցուցակ, էջ 326)։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "527.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "509-refine.json",
+    "pipeline_version": "v1"
+  }
+}

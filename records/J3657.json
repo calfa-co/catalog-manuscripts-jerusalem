@@ -1,0 +1,68 @@
+{
+  "id": "J3657",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3657",
+  "notice": "3657",
+  "volume": "Jerusalem_V11",
+  "title": "ԺՈՂՈՎԱԾՈՅ (Կրօնական)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3657",
+    "no_notice": null,
+    "titre": "ԺՈՂՈՎԱԾՈՅ (Կրօնական)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "82",
+    "dimensions": "23x16",
+    "mise_en_page": "սեւ մելանով, միասիւն, 33—37 տող։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "թղթեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ասէ Տէրն. չիք ինչ ծածուկ՝ որ ոչ յայտնեսցի, եւ գաղտնի՝ որ ոչ ծանիցի.— Ապա ուրեմն ամ. որ է գաղտնի՝ գալոց է ի յայտ...։ Էջ 8.— Բանք ի վերայ աղօթից ասացեալ.— (Հրց.) Զի՞նչ են աղօթք։ (Պտս.) Աղօթքն է վերածումն մտաց առ Ած. ...։ Էջ 17.— Յաղագս ճշմարիտ եկեղեցւոյն Քի.— Զի՞նչ է աւետարանական եւ առաքելական եկեղեցին...։ Էջ 19.— Յաղագս Ծոմապահութեան.— Իմտի նէ՞ տերսինիզ՝ պու շիմտիքի պահք տետիկինիզ՝ Մովսէսին սաքլատըղը՞ մը տըր...։ Էջ 21.— Յաղագս Հաղորդութեան՝ զոր սահմանեաց Տէրն ի Սբ. Վերնատան.— Արդ տեսցուք՝ թէ զի՛նչ արար Տէրն ի Վերնատան...։ Էջ 81—82, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "096.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3657-refine.json",
+    "pipeline_version": "v1"
+  }
+}

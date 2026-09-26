@@ -1,0 +1,68 @@
+{
+  "id": "J86",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "86",
+  "notice": "86",
+  "volume": "Jerusalem_V1",
+  "title": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+  "date": {
+    "from": "1807",
+    "to": "1807",
+    "display": null
+  },
+  "fields": {
+    "numero": "86",
+    "no_notice": "6",
+    "titre": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+    "date_debut": "1807",
+    "date_fin": "1807",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ժ 430",
+    "dimensions": "32x21x3",
+    "mise_en_page": "սեւ մելանով, երկսիւն, 41 տող։ Նոտր շեղագիր՝ մանր և կանոնաւոր",
+    "details_ecriture": "չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": "Կիրակոս Աբղ. Երուսաղէմացի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ, փակագիր, «Կիրակոս վարդապետ, 1256» [=1807]",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Զ, դատարկ։ Էջ Է.— Ճակատ.— Բանք Ոսկիականք և Գեղեցկագոյնք . զանազան Սուրբ Գրոց վարդապետութեամբ յարդարեալ և ճոխացուցեալ։ Ի բոլոր ժամանակս տարւոյն։ Շարադրեալ... ի ... Յակոբէ Վոռաճինոյ...։ Թարգմանեցեալ յիտալական լեզուէ ի հայկական բարբառ ի Ղուկասու վարդապետէ Խարբերթացւոյ, խնդրանօք և ծախիւք Յարութիւն Արքեպիսկոպոսի աշակերտի Տն. Յովհաննու Պատրիարգի Կ. պոլսոյ, ընդ հովանեաւ Սբ. Աստուածածին Եկեղեցւոյ։ Յամի Տեառն 1736, ի Կոստանդնուպօլիս։\nԻ վայելումն նուաստ ծառայի Տն. Սբ. Երուսաղէմացի Կիրակոս յետին աբեղայիս, ի յԱնդրիանուպօլիս քաղաքի, ի թուին ՌՄԾԶ [=1807]։ Ի ՌՄՀԹ [=1830], յունվարի ԺԲին, իմով ձեռամբ ընծայեցի սիրելագոյն եղբօր որդւոյ իմոյ՝ հեղափայլ Տեառն Գէորգայ դերիմաստ վարդապետին Ռօմանցւոյ, ի յԵգիպտոս քաղաքի։\nԷջ 1.— Առաջին Կիւրակէի Գալստեան Տեառն։ Էջ 391ա.— Ցանգ բանից և քարոզից պարունակեցելոց հայսմիկ գրքեան։ Էջ 399ա.— Այբուբենական Ցանկ։ Էջ 410-430, դատարկ։\nՅիշատակագրութիւն Ստացողի.— Էջ 390բ, ստորոտը.— Անդրիանուպօլսոյ Առաջնորդ Տեառն Միքայէլ երջանկազարդ Արքեպիսկոպոսի աշակերտ՝ Կիրակոս նուաստ աբեղայս Սաղիմացի, որդի Մնացականի Ջուլֆայեցւոյ, ստացայ զգիրքս ի վայելս ինձ և յետագայ բարեմիտ եղբարց։ Ընթերցողք և կամ օրինակողք յիշեցէք ի Տէր։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "295.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "86-refine.json",
+    "pipeline_version": "v1"
+  }
+}

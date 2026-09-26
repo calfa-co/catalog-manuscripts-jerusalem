@@ -1,0 +1,72 @@
+{
+  "id": "J317",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "317",
+  "notice": "317",
+  "volume": "Jerusalem_V2",
+  "title": "ՔԱՐՈԶԱԳԻՐՔ ԿԻՒՐԱԿԷԻՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "317",
+    "no_notice": "14",
+    "titre": "ՔԱՐՈԶԱԳԻՐՔ ԿԻՒՐԱԿԷԻՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "142",
+    "dimensions": "26 X 18 X 2",
+    "mise_en_page": "խորագիրները, սկզբնաւորութիւնները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 28 տող",
+    "details_ecriture": "կոշտ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "բաւարար, վարի մասը խոնաւութենէ վնասուած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": "կտրուած կազմելու ժամանակ",
+    "images": "մը, էջ 1, Ադամ Եւա դրախտի մէջ՝ կոշտ գծագրութեամբ",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "էջ 2, զարդագրերու կարգին նկարուած, «Մինաս Վարդապետ, ՌՄԺԷ, 1768»",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "սկզբնատառք անարուեստ ; ԽՈՐԱՆԱԶԱՐԴ: մը, էջ 2",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 2. — Մեծի Պահոց Բարեկենդանի Կիրակէին...։ Էջ 22. — Քարոզ ԶԶ. — Ի նոյն կիրակէի ի վերայ պահոց...։ Էջ 32. — Քարոզ ԶԸ. — Երկրորդ Կիրակէի Մեծի Պահոց...։ Էջ 56. — Քարոզ ԶԹ. — Երրորդ Իրիակէի Մեծի Պահոց...։ Էջ 88. — Քարոզ Ղ. — Չորրորդ Կիրակէի Մեծի Պահոց, ի վերայ Տնտեսին...։ Էջ 104. — Քարոզ ՂԱ. — Երկրորդ Քարոզ ի նոյն Կիրակէին, ի վերայ մեծատանն եւ Ղազարու...։ Էջ 122. — Քարոզ ՂԲ. — Շաբաթի աւուրն ի վերայ Խ մանկանցն վկայից...։ էջ 127.— Քարոզ ՂԳ.— Հինգերորդ կիրակէի Մեծի Պահոց ի վերայ Դատաւորին։ էջ 139.— Քարոզ ՂԴ.— Առ նոյն կիրակին ի վերայ Փարիսեցւոյն եւ Մաքսաւորին։ էջ 140բ-142.— Դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "190.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "191.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "317-refine.json",
+    "pipeline_version": "v1"
+  }
+}

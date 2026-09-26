@@ -1,0 +1,68 @@
+{
+  "id": "J2498",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2498",
+  "notice": "2498",
+  "volume": "Jerusalem_V8",
+  "title": "Տ Օ Ն Ա Ց Ո Յ Ց",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2498",
+    "no_notice": "56",
+    "titre": "Տ Օ Ն Ա Ց Ո Յ Ց",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "314",
+    "dimensions": "11.5×7.5×3",
+    "mise_en_page": "խորագիրները, սկզբնատողերը և գլխատառերը կարմիր, մնացեալը սև մելանով, միասին 18 տող, մասամբ կարմիր գիծերու միջև",
+    "details_ecriture": "ոչ միօրինակ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գորշորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "բաւարար . թէև սկիզբը թերի է, թերթ մը ինկած ըլլալով, և լուսանցքները վնասուած են որդերէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ, սկիզբը և վերջը մէկմէկ թերթ, անկիւնաւոր երկաթագիր՝ մասն Սաղմոսի",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 . — . . . եւ յորժամ զեւ հովիւքն կարգան, եպիսկոպոսն և քահանայքն, և ամենայն ուխտ եկեղեցւոյն իջանեն յատեանն . . . ։ Էջ 67 . — Խրատք դռնբացի, զկնի Հայր գթածին յա[տ]եանն ելանեն . . . ։ Էջ 73 . — Մեծի Աւագ Շաբաթօն խրատք, զոր հաստատեալ կայր ի նախնեաց սրբոց, և յետոյ շփոթմամբ այլ և այլ կատարէին ըզկարգն . զոր մեծ վարդապետն Սրապիոն Եդեսացին, որ և Գրիգոր Կաթուղիկոսն կոչիւր, գտեալ վերստին հաստատեաց . . . ։ Էջ 120 . — Սուրբ ցուցակ պասեքին . — Սբ . Զատկի գիշերն հսկումն է, որ է Յարութիւն . . . ։ Էջ 198 . — Եւթներորդ Կիրակին վարդավառ է . . . ։ Էջ 242 . — Խաչվերացի գիշերն հսկումն է . . . ։ Էջ 299 . — Ալէլուք առաւօտեան, կարգաւ աստ ։ Էջ 307 . — Խրատք փոքր ժամատեղաց դաս ասելոյ ։ Էջ 314, դատարկ, ծակծկուած ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "195.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2498-refine.json",
+    "pipeline_version": "v1"
+  }
+}

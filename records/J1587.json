@@ -1,0 +1,68 @@
+{
+  "id": "J1587",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1587",
+  "notice": "1587",
+  "volume": "Jerusalem_V5",
+  "title": "Ա.— ՄԵԿՆ. ՅԱՅՏՆՈՒԹԵԱՆՆ ՅՈՎՀԱՆՆՈՒ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1587",
+    "no_notice": "13",
+    "titre": "Ա.— ՄԵԿՆ. ՅԱՅՏՆՈՒԹԵԱՆՆ ՅՈՎՀԱՆՆՈՒ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "552",
+    "dimensions": "14×9.5×4.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ նախատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 21 տող",
+    "details_ecriture": "սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դըրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ հաւկթաձեւ, «Սուքիաս Վարդապետ», էջ 7, 402",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "գլխազարդ կամ խորան, իւր սարօք, էջ 7, 21, 37",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1-6, դատարկ, փոքր բացառութեամբ։ էջ 7.— Ի տիեզերական ժողովոյն կամըս որ եղեւ յաստուածապահ քաղաքն Կոստանդինուպօլիս...։— Գիրքս այս Յայտնութեանս Յովհաննու...։ էջ 21.— Ի Յայտնութիւնն Յոհաննու սրբոյ հաւր մեր Անդրէի երանելւոյ. . .։— Ի խորհրդական բանիցս անհասութիւն ոք հայելով մի բանբասեսցէ զմերս համարձակութիւն...։ էջ 35-38, մագաղաթ. առաջին թերթը դատարկ։ էջ 37.— Յայտնութիւն Սրբոյն Յովհաննու Աստուածաբանի.— Յայտնութիւն Յի. Քի. ... էջ 395.— Այս Յայտնութիւն Աստուածաբան Աւետարանչին Յովհաննու. . .։— Հմմտ. Յիշտ. Ձեռագրաց, Անթիլիաս, էջ 623։ էջ 399.— Յիշատակ տառիս զտողի... ։— Ես Ներսէս նուաստս ի Քս. . . .։— Հմմտ. նոյն, էջ 473։\nԲ.— ՄԵԿՆ. ՆՆՋՄԱՆ ՅՈՎՀԱՆՆՈՒ.— 9 Ն. Լամբրոնացի\nէջ 403-541, տարբեր գրչութեամբ, յետոյ աւելցուած։ էջ 403.— Տեսութիւն Պատմութեան Բանից ննջման Սրբոյ Աւետարանչին Յոհաննու Աստուածաբանի, արարեալ սրբազան արքեպիսկոպոսին Տարսոնի Ներսեսի, ի խնդրոյ եղբօր ումեմն.— Գիր քոյ պատուականութեանդ...։ էջ 410.— Էր ընդ եղբարս երանելին Յովհաննէս...։ էջ 512-552, դատարկ։\nՅետնագոյն յիշատակագրութիւն.— էջ 3, անհարթ գրով.— Տեսլեան Մեկնի..յ յիշատակ է Սուքիաս Աստուածաբան վարդապետին, յԵրուսաղէմ ի Սուրբն Յակոբ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "393.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1587-refine.json",
+    "pipeline_version": "v1"
+  }
+}

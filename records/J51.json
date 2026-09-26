@@ -1,0 +1,68 @@
+{
+  "id": "J51",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "51",
+  "notice": "51",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԵՐԳՈՑ ԵՐԳՈՅՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "51",
+    "no_notice": "1",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԵՐԳՈՑ ԵՐԳՈՅՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "600",
+    "dimensions": "33 X 22 X 4",
+    "mise_en_page": "սեւ մելանով, երկսիւն, 44—47 տող",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք՝ սկիզբը երեք թերթ, վերջը հինգ",
+    "colophon": null,
+    "informations_diverses": "ստացողի, սեւադրոշմ, բոլորշի, փակագիր, «Կարապետ եպիսկոպոս, 1250» [= 1801]։ Կնիքին թուականը հաստատ չէ, կրնայ կարդացուիլ նաեւ 1258",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1ա.— Առաջաբանութիւն Երգոց Երգոյն։ Եբրայեցերէն գիրքս այս գրի Սիրհասիրիմ։ Էջ 11ա.— Մեկնութիւն Երգ Երգոցին։ Կանոնք որք ջահս լուցանեն և առբերեն երգ երգոցին։ Էջ 589—600, դատարկ։\nՅիշատակագրութիւնք.— 1.— Էջ 18, ստորին լուսանցքին.— Կնիք սեւադրոշմ, «Կարապետ եպիսկոպոս» ետու յիշատակ տիրականի աթոռոյն Սրբոց Յակոբեանց, որ ի Սբ. Երուսաղէմ, յամի Տեառն 1812, ի Մայիսի Է։— Նոյն ձեւով կայ նաեւ էջ 588 լս.։\n2.— Էջ 588, ստորին լուսանցքին, նախորդին ներքեւ, անհարթ շեղագրով.— Այս Կարապետ Եպիսկոպոսն զայս յիշատակարան գրելոյն զկնի ծախեաց ինձ, ձեռամբ Սախզատէ Գրիգոր աղային, և նորին փեսայ Մահտեսի Մարտիրոս աղային, 100 ղրուշի, զի խարճիս չունիմ ասէր. 1813, ի Կոստանդնուպօլիս, որ եմ Երուսաղէմի վէքիլ Պօղոս վարդապետ։\n3.— Էջ 3, ստորին լուսանցքին.— Յիշատակ է գիրքս, Երուսաղէմի միաբան Անդրիանուպօլսեցի նախկին պատրիարգ մեծին Պօլսոյ Պօղոս սրբազան արքեպիսկոպոսի ձեռնասուն աշակերտ՝ Զօրլուցի Տէր Կարապետեան նուիրակ հանգուցեալ Երեմիա շնորհազարդ վարդապետին, ի դուռն Սրբոց Յակոբեանց մայր Աթոռոյն Ամ. Հայոց. Թվին 1838 սեպտեմբերի 6։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "197.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "51-refine.json",
+    "pipeline_version": "v1"
+  }
+}

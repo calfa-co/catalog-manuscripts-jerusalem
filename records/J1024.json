@@ -1,0 +1,72 @@
+{
+  "id": "J1024",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1024",
+  "notice": "1024",
+  "volume": "Jerusalem_V4",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ԿՐՕՆԱԿԱՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1024",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ԿՐՕՆԱԿԱՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "96",
+    "dimensions": "20x15x1;",
+    "mise_en_page": "առաջին մասը միասիւն, բոլորգիր. երկրորդ մասը երկսիւն, նոտրագիր",
+    "details_ecriture": null,
+    "types_cahiers": "Բ+Գ",
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— Էջ 1.— Տեառն Յոհաննու Օձնեցւոյն Սրբոյ Հայրապետի Հայոց ասացեալ.— Արդ զմեզ յառաջ կոչէ առ ինքն ընդդէմ յառնել երկակաց ոմանց առ միմեանս մենամարտուցելոց...։ — Հմմտ. աստ, թիւ 1009, եւ Տպ. Վենետիկ, 1833, էջ 46։ Բ.— Էջ 2.— Նորին ընդդէմ երեւութականաց.— Յոյժ տենչալի էր ինձ եւ փափագելի...։ — Հմմտ. Տպ. Վենետիկ, էջ 48։\nՅիշատակագրութիւն.— 1738 Էջ 26, նոտրագիր.— [Յիշատակ է] հակաճառութեան սուրբ գիրքս Ակնայ Խոզաղբակ կոչեցեալ գիւղէն. խոստովանահայր Գրիգոր Վարդապետին, ի Սբ. Երուսաղէմ, ի դուռն Սբ. Յակոբայ։ Եւ ով ոք որ յանդգնի եւ իշխեսցէ հանել աստի, ըզմասն Կայենին եւ Յուդային ընկալցի։ Եւ դուք ընթերցօղքդ Ած. ողորմի ասացէք հեղահոգի Գրիգոր եպիսկոպոսին եւ ծնօղաց նորա եւ համայն զարմիցն։ Ի թվին ՌՃՁԷ ամին եղեւ այս։ Էջ 27–28, դատարկ գրեթէ։\nԳ.— ՄԵԿՆ. ԵՐԳՈՑ ԵՐԳՈՅՆ.— 11 Գր. Տաթեւացի\nԷջ 29ա.— Համառօտ հաւաքումն ի տեսութիւն լուծմանցս Երգոց Երգոյն, աշխատասիրեալ Գրիգորիսի հսկողի, արի եւ երջանիկ հռետորի, եւ քաջ փիլիսոփայի Հայոց, աշակերտի Եռամեծին Յոհաննու Որոտնեցւոյ, ի լուսաւոր բանից վարդապետին Վարդանայ։ Էջ 96, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "062.JPG"
+    },
+    {
+      "volume": "Jerusalem_V4",
+      "file": "063.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1024-refine.json",
+    "pipeline_version": "v1"
+  }
+}

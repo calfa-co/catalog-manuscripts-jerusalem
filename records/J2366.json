@@ -1,0 +1,68 @@
+{
+  "id": "J2366",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2366",
+  "notice": "2366",
+  "volume": "Jerusalem_V8",
+  "title": "Ս Ա Ղ Մ Ո Ս",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2366",
+    "no_notice": "45",
+    "titre": "Ս Ա Ղ Մ Ո Ս",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "510",
+    "dimensions": "15×10×4.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը և գլխատառերը կարմիր, մնացեալը սև մելանով, միասիւն, 17 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական գրեթէ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ հնամաշ",
+    "etat_conservation": "բաւական ցաւալի. չարաչար վնասուած որդերէ. նորոգութիւն կրած. կը պակսի առաջին թերթը",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր և լուսանցազարդ գուրղաներու սկիզբը, կանոնները հանդերձ գլխազարդով",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Բ.— Ընդէ՞ր խռովեցան հեթանոսք...։ Էջ 107, դատարկ։ Էջ 108.— Մի՛ նախանձիր ընդ չարս...։ Էջ 174-175, դատարկ։ Էջ 233, վերջը.— Ո գիր որ մնաս Ո ձեռք թէ հողանաս Ո եղբայր թէ կարդաս Ոհ թէ զիս մոռանաս։ Էջ 234, դատարկ։ Էջ 361.— Ալէլուիա.— Խոստովան եղերուք Տեառն զի քաղցր է...։ Էջ 427.— Ի նեղութեան իմում ես առ Տէր կարդացի...։ Էջ 438-439ի միջև ինկած մէկ թերթ։ Էջ 495.— Տէր ամենակալ...։ Էջ 500.— Աղաւթք ասացեալ Տեառն Ներսեսի Հայոց Կաթուղիկոսի.— Հաւատով խոստովանիմ...։ Յիշատակագրութիւն.— 1648 Էջ 510, վերջը, նոտրագիր տարբեր.— Յիշատակ է Սբ. յԵրուսաղէմայ ի ձեռն տէր Աստուածատուր վարդապետին. Հայրապետին Սբ. յԵրուսաղէմայ Թվ. ՌՂԷ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "021.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2366-refine.json",
+    "pipeline_version": "v1"
+  }
+}

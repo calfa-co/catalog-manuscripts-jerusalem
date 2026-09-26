@@ -1,0 +1,68 @@
+{
+  "id": "J159",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "159",
+  "notice": "159",
+  "volume": "Jerusalem_V1",
+  "title": "ՅԱՂԱԳՍ ԵՕԹՆ ԽՈՐՀՐԴՈՑ",
+  "date": {
+    "from": "1798",
+    "to": "1798",
+    "display": null
+  },
+  "fields": {
+    "numero": "159",
+    "no_notice": "3",
+    "titre": "ՅԱՂԱԳՍ ԵՕԹՆ ԽՈՐՀՐԴՈՑ",
+    "date_debut": "1798",
+    "date_fin": "1798",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "803",
+    "dimensions": "30 x 23 x 7",
+    "mise_en_page": "վերնագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 40 տող",
+    "details_ecriture": "կանոնաւոր եւ յստակ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հաստ, աղուոր",
+    "nb_lignes": null,
+    "reliure": "մութ կարմիր եւ ոսկեզօծ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Յարութիւն Քարտուղար՝ որդի Եղիա Թամզառացւոյ",
+    "possesseur": "Յակոբ Վարդապետ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": "Հեղինակին.— էջ 803բ. Փառք քեզ Աստուած յաղագս ամենայնի։ Որ ի ծովականգոյն ողորմութենէ քումմէ կաթիլ մի շնորհաց ներհեղեալ ի միտ վերջնոյս քոյոյ ծառայի հասուցեր յաւարտ եւ զայս մի ծաղիկ ի բազմաց տերեւոց, ի փառս անուան քոյ եռանձնեայ տէրութեանդ, եւ անբաժանելի միասնական աստուածութեանդ, եւ ի պատիւ սրբուհւոյ ամենօրհնեալ Աստուածածնի իմոյ պաշտպանի. վերստին փառք քեզ։ Աւարտեցաւ գիրքս է. Խորհրդոց՝ յամի Տեառն 1754, եւ հայոց ՌՄԳ, Յունիսի ժ։ Յերկրորդի ամի պատրիարքութեան մերում մեծի մայրաքաղաքիս Կոստանդնուպոլսոյ, յերրորդ ամին նոր սկսեցելոյ։ Յակոբ անարժան ծառայ, Պատրիարք մեծին Բիւզանդեայ ; ՅԻՇԱՏԱԿԱՐԱՆ: Գրչին.— էջ 803բ։ Եւ գրեցեալ եղեւ ի գաղափարէ նոյնոյ հեղինակի գրքոյս ձեռամբ Յարութիւն Քարտուղարի որդւոյ Եղիայի Թամզառացւոյ, ի վայելումն Յակոբ գերիմաստ շնորհազարդ Վարդապետի, ի թուի հայոց, ՌՄԽԷ, եւ յամի մարդեղութեան Փրկչին 1798, եւ սեպտեմբերի 21",
+    "informations_diverses": "հեղինակին բնագիրը",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1.— Կրթութիւն աստուածաբանական զխորհրդոցն եկեղեցւոյ։ — Յաղագս սահմանի խորհրդոց։ էջ 20.— Յաղագս խորհրդոյ Մկրտութեան։ էջ 68.— Յաղագս խորհրդոյ Դրոշմին։ էջ 83.— Յաղագս խորհրդոյ Պատարագին։ էջ 231.— Յաղագս խորհրդոյ Ապաշխարութեան։ էջ 519.— Յաղագս խորհրդոյ Վերջին Օծման։ էջ 539.— Յաղագս խորհրդոյ Կարգին։ էջ 607.— Յաղագս խորհրդոյ Պսակին։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "498.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "159-refine.json",
+    "pipeline_version": "v1"
+  }
+}

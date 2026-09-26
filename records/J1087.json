@@ -1,0 +1,72 @@
+{
+  "id": "J1087",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1087",
+  "notice": "1087",
+  "volume": "Jerusalem_V4",
+  "title": "ՀԱՄԱՌՕՏ ՈՐՊԻՍՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅ",
+  "date": {
+    "from": "1799",
+    "to": "1799",
+    "display": null
+  },
+  "fields": {
+    "numero": "1087",
+    "no_notice": "1",
+    "titre": "ՀԱՄԱՌՕՏ ՈՐՊԻՍՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅ",
+    "date_debut": "1799",
+    "date_fin": "1799",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "77",
+    "dimensions": "20x15",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 35 տող",
+    "details_ecriture": "բոլորակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: գրեթէ սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "մաշած։",
+    "etat_conservation": "լաւ",
+    "copiste": "Մկրտիչ Վարդապետ",
+    "possesseur": "Մկրտիչ Վարդապետ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "ՃԱԿԱՏ.— Համառօտ Որպիսութիւն Եկեղեցւոյ։ Աշխատասիրեալ եւ համաժողովեալ ի Սըրբոյ Աւետարանական Վարդապետութենէ՝ պարզ եւ դիւրիմաց ոճիւ։ Շարագրեալ ի Մարգար Զաքարիայ Խոճենց Երեւանցոյ կոչեցեալ դպրէ, ի փառըս Աստուծոյ եւ ի պատիւ Սրբոյ Եկեղեցւոյն Քրիստոսի եւ յօգուտ նորին զինուորեալ հայկասեռ մանկանց։ Յամի Տեառն ՌԷՃՂԹ։ Ներքեւը տարբեր մելանով. Գրեցաւ կրկին ձեռամբ Մկրտիչ Վարդապետիս, որ եմ յետնորդ միաբան Սրբոյ Ամենափրկչի Սբ. Վանին, որ ի Նորն Ջուղայ, թիւն 1805, յունվար ամսի ըսկիզբն, ի յԱժդարխան, ընդ հովանեաւ Սրբոյն Պետրոս եւ Պողոս եկեղեցւոյ։ Ներքեւը տարբեր գրով. Յիշատակ եմ արարեալ գիրքս այս Եգիպտոսի Սբ. Աստուածածնայ Վանուց եւ Խորէնեան Դպրոցին, ձեռամբ Սբ. Երուսաղէմայ միաբան Մկրտիչ եպիսկոպոսի. 1864, նոյեմբեր 11",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Բան յեղինակին առ ընթերցողըս։ Էջ 3.— Համառօտ Տեսութիւն Եկեղեցւոյ, Արտահանեալ ի Սրբոյ Աւետարանական Վարդապետութեան։ Պրակ Առաջին։ Յաղագս թէ զինչ է Եկեղեցի, եւ յումէ է կառուցեալ, եւ ի քանիս բաժանի։ Էջ 52.— Վասն հաւաքաբանութեան փոքու գրքոյս։ Էջ 67.— Վերջ։ Որ զգրքուկս յառաջադրեաց, եւ շարագրեաց նոյն գծագրեաց, եւ գոլով մարդ՝ ըստոր կարեաց, սխալանացն ներումն խնդրեաց։ Էջ 68-77, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "157.JPG"
+    },
+    {
+      "volume": "Jerusalem_V4",
+      "file": "158.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1087-refine.json",
+    "pipeline_version": "v1"
+  }
+}

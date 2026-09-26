@@ -1,0 +1,68 @@
+{
+  "id": "J437",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "437",
+  "notice": "437",
+  "volume": "Jerusalem_V2",
+  "title": "ԲՈՒՐԱՍՏԱՆ Ս. ԵՐՈՒՍԱՂԷՄԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "437",
+    "no_notice": "2",
+    "titre": "ԲՈՒՐԱՍՏԱՆ Ս. ԵՐՈՒՍԱՂԷՄԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ժ + 326",
+    "dimensions": "24 X 19 X 2.5",
+    "mise_en_page": "խորագիրները, ըսկըզբնաւորութիւնները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 24 տող. լուսանցքներուն վրայ կան բազմաթիւ եւ ընդարձակ յաւելումներ եւ սրբագրութիւններ, տարբեր գրչով",
+    "details_ecriture": "Կարմրագիծ մեծ զարդագիրք իւրաքանչիւր գլուխի սկիզբը",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ ընդհանրապէս. սկիզբի մասերը վնասուած խոնաւութենէ եւ ցեցերէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Սաւալանեանի Ցուցակին համաձայն յօրինեալ է «ըստ թախանձելոյ Պետրոս Պատրիարքի Եէմի. յամի 1798...։ Օրինակս է սկզբնագիր գաղափար, որոյ ի լուսանցս իսկական ձեռամբն ունի արարեալ նորոգ սրբագրութիւնս եւ փոփոխրունս իմաստից» (էջ 303)",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Գ.— Առաջաբանութիւն Հեղինակի. — Ո՜ տայր աւետիս Ադամայ նախաստեղծին...։ Էջ 1.— Գլուխ Առաջին։ Յաղագս թէ Սբ. Երուսաղէմ է նախնական եւ վաղնանական բնակութիւն մարդոյ. Ա.— Բնաբոյս բերմունք բնութեան...։ ... Էջ 284.— Գլուխ վեցտասաներորդ։ Յաղագս թէ Երուսաղէմ է տուն դատաստանի։ Էջ 319–32, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "416.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "437-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3509",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3509",
+  "notice": "3509",
+  "volume": "Jerusalem_V10",
+  "title": "ԿՏԱԿ ՄԵԾԻ ՈՒՐԲԱԹՈՒ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3509",
+    "no_notice": null,
+    "titre": "ԿՏԱԿ ՄԵԾԻ ՈՒՐԲԱԹՈՒ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "74",
+    "dimensions": "15.5X11",
+    "mise_en_page": "խորագիրը, սկզբնատողը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 22 տող, կարմիր գիծերու միջեւ։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "չունի",
+    "etat_conservation": "բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2 կը պակսին։ Էջ 3.— Կտակ եւ Քարոզ Աւագ Ուրբաթ Աւուրն։ Յս. Յս. տէր իմ Յս. ողորմեա ինձ խղճալոյս, օգնեայ գերոյս, բաց զբերանս իմ համարձակ խօսելոյ ի յունկս ժողովրդեանս լսելոյ, առ ի ստանալ ըսպեղանի հոգւոյ։ Ո՛վ օր դառնութեան եւ օր սգոյ, ո՛վ գիշեր կսկծալի եւ ողբալի...։— Հմմտ. աստ, թիւ 3111։ Էջ 63.— Ողբ.— Ա՛յ իմ որդեակ գառն անպա[ր]տական...։ Էջ 69-74, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "497.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3509-refine.json",
+    "pipeline_version": "v1"
+  }
+}

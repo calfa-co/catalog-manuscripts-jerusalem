@@ -1,0 +1,72 @@
+{
+  "id": "J2098",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2098",
+  "notice": "2098",
+  "volume": "Jerusalem_V7",
+  "title": "ՅԱՂԱԳՍ ԺԱՆՏԱԽՏԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2098",
+    "no_notice": "1",
+    "titre": "ՅԱՂԱԳՍ ԺԱՆՏԱԽՏԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "46",
+    "dimensions": "23x17",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւորակ մելանով, միասիւն, 27 տող։ Նոտր շեղագիր",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1 — Յառաջաբանութիւն.— Ժխտեցաք պատուիրանին, արգելեալ օձաչամբ խայթոյն ճաշակմամբ բարերար պատուհաս ի պատիժ յանցանաց, աստի կենաց կալանաց բերեալ ի յանձին...։ էջ 3 — Գլուխ առաջին։ Յաղագս ժանտախտի սեռօրէն։ էջ 4 — Առաջին նախկին պատճառ.— Ասէ Սինաէ համառօտէ թէ՝ սրագոյն կամ սուղ ցաւք զԱստուած ունին հեղինակ որպէս եւ երկարագոյնք զմեզ...։ էջ 8 — Ըստ Սանկտորեայ զգալի արտանջականութեան է քիրտն մեզ...։ էջ 18 — Գլուխ երրորդ։ Յաղագս տեսակացն ժանտ ախտի։ էջ 21 — Գլուխ չորրորդ։ Յաղագս նըշանացն ժանտախտի եւ կամ ճանաչման նորա։ էջ 29 — Գլուխ վեցերորդ։ Յաղագս ըստածման ժանտախտի։ էջ 34 — ...Ի յԱսիական ծովեզրն Բոսփորոսին Կոստանդնուպօլսոյ, ի 1796, ի յելս յունիսի, երիտասարդ մանղիլատիպ վարկեալ անհնարին գլխացաւութեամբ, սաստիկ ջերմամբ, դժուարելոյզ շնչոյն տուբեառութեամբ, չորութեամբ մորթոյ եւ լեզուի. կարմրութեան աչաց, խստութեամբ, լիութեամբ, սաստկութեամբ, բարձրութեամբ, եւ վաղվաղմամբ զարկի բազկաց, եւ այլ անհանգստութեան։ Կոչէ զբժիշկ ոմն եւրոպացի սատարել ինքեան...։ էջ 38 — Պրակ Գ. — Յաղագս ստածման ջղային կամ զալարիչ ժանտամահու։ էջ 41 — Ցանկ սոյն գրքոյս... — Տասներկու գլուխներ։ էջ 42-46, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "182.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "183.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2098-refine.json",
+    "pipeline_version": "v1"
+  }
+}

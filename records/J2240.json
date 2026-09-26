@@ -1,0 +1,68 @@
+{
+  "id": "J2240",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2240",
+  "notice": "2240",
+  "volume": "Jerusalem_V7",
+  "title": "ՏՈՄԱՐԱԿԱՆ ԱՂԻՒՍԱԿՆԵՐ (Բ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2240",
+    "no_notice": "4",
+    "titre": "ՏՈՄԱՐԱԿԱՆ ԱՂԻՒՍԱԿՆԵՐ (Բ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "34",
+    "dimensions": "34 X 23.5",
+    "mise_en_page": "կարմիր եւ սեւ մելաններով, աղիւսակաձեւ",
+    "details_ecriture": "ոչ միատեսակ։ Թուանշանները եւրոպական եւ արաբական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "սեւադրոշմ փակագիր, «Ք. Ծ. Սահակ Վարդապետ, 1831?», էջ 2",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, դատարկ։ Էջ 2, վերի լուսանցքին. — Ճէտվէլի թասիհի իշթիմայ վէ իստիքպալ վէ քիւլլիւ նազարէթ։ — Ստորին լուսանցքին. — Լուսինն թէ անցեալ է քան զարեգակն ի կէս աւուր ժամուց հան...։ Հմմտ. թ. 2238։ Էջ 7, վերի լուսանցքին, կարմրատառ — Մուտ այսու բուով ըսուած աղիւսակն այս է, որ անուանի հարէքէթի շէմս պէ րէյյիս պի լէհրու րումի, այսինքն ընթացք արեգական ի գլուխ վիշապին ըստ աւուրց հըռովմայեցւոց։ Էջ 8, վարը. — Ծնունդ լուսնոյ ժամաւն եւ կենդանակերպիւն մուտ այսր...։ Էջ 11. — Ճէտվէլի քիւսիւֆի ղամէր թէվաֆուտի բաղի Ավրահամ Զաքութօ։ Էջ 16-23. — Շէմսի սանէ տէվրի 136 սէնէ հէր պիր տէվիր 1 կիւն 20 թէքիֆէ թարխ։ Էջ 24-34, դատարկ, առաջին երկուքը գծուած։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "371.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2240-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J1595",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1595",
+  "notice": "1595",
+  "volume": "Jerusalem_V5",
+  "title": "Շ Ա Ր Ա Կ Ա Ն ( ԹԵՐԻ )",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1595",
+    "no_notice": "36",
+    "titre": "Շ Ա Ր Ա Կ Ա Ն ( ԹԵՐԻ )",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "454",
+    "dimensions": "14.5x10x4.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 24 տող",
+    "details_ecriture": "Կարմրագիծ կամ գունաւոր զարդագիր եւ լուսանցազարդք Կանոններու սկիզբը, երբեմն հանդերձ գլխազարդով",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ քայքայուած",
+    "etat_conservation": "անբաւարար. ԹԵՐԹՔ ինկած. խոնաւութենէ վնասուած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Սկիզբը թերի է, թերթեր ինկած ըլլալով։ Էջ 2.— Սրբոյն Յովակիմա եւ Աննայի. աւրհ.։— Որ նախիմաց իմաստութեամբ ...։ Էջ 4-5ի միջեւ քանի մը թերթ ինկած։ Էջ 5.— Այսաւր Բանն ի Հաւրէ անմեկնելի...։ Էջ 8.— Կանոնն Երրորդ Աւ.։— Էակից Հաւր եւ Հոգոյն...։ Էջ 24-25ի միջեւ մէկ թերթ ինկած։ Էջ 25.— Մեծացուսցէք Յարութեան։ Էջ 68-69ի միջեւ կը պակսի մէկ թերթ, կտրուած։ Էջ 69.— Կանոնն Բուն Բարեկենդանին։ Էջ 94-95ի միջեւ ինկած մէկ թերթ։ Ը եւ Թ պրակները կը պակսին։ Ժ պըրակէն կը մնայ երկու թերթ միայն։ Էջ 151.— Կանոնն Աշխարհամատրան է։ Էջ 210-211ի միջեւ քանի մը թերթ կը պակսի։ Էջ 211.— Կանոնն Պենտեկոստէին։ Ըստ երեւոյթին երեք թերթ ինկած է 280-281 էջերուն միջեւ. նմանապէս 292-293 էջերուն։ Էջ 293.— Կանոնն Նաւակատեաց Սբ. Խաչին։ Էջ 364-365ի միջեւ ինկած երկու թերթ։ Էջ 366.— Երգ Տեառն Ներսեսի, Յաղագս արարչութեան առաջի աւուր միաշաբաթուն.— Նորաստեղծեալ...։ Էջ 382-383ի միջեւ ինկած մէկ թերթ։\nԷջ 383.— Կանոնն Համաւրէն Մարտիրոսաց։ Թերթեր ինկած են 430–431, եւ 446–447 էջերուն միջեւ։ Էջ 447.— ...։ Ճանապարհ մոլորելոց եւ ճառագայթ խաւարելոց...։ Էջ 451.— Արարիչ եւ մարդասէր...։ Էջ 453–454, վարի կէսը կտրուած։ Յիշատակագրութիւն.— 1692 Էջ 454, նոտրագիր անհարթ, տարբեր գրչէ.— Յիշատակ է Շարակնոցս Նալլուին եւ մօրն Կիւլին, եւ քուրոջն Սուլթանին, եւ Թուրվանտային, եւ Եղիային հոգոյն ամէն, ի ձեռն յիստէնէցի տէր Թորոսին, ՌՃԽԱ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "404.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "405.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1595-refine.json",
+    "pipeline_version": "v1"
+  }
+}

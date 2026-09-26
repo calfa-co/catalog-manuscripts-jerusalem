@@ -1,0 +1,68 @@
+{
+  "id": "J1471",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1471",
+  "notice": "1471",
+  "volume": "Jerusalem_V5",
+  "title": "Մ Ա Շ Տ Ո Ց (ՁԵՌՆԱԴՐՈՒԹԵԱՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1471",
+    "no_notice": "29",
+    "titre": "Մ Ա Շ Տ Ո Ց (ՁԵՌՆԱԴՐՈՒԹԵԱՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "174",
+    "dimensions": "15.5x10.5x2",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր, մընացեալը սեւ մելանով, միասիւն, 21 տող",
+    "details_ecriture": "սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ. լուսանցքները թեթեւակի ցեցակեր",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–3, զանազան մանրուք։ Էջ 4–5, դատարկ։ Էջ 6.— Զգործս ձեռաց մերոց . . . ։ Էջ 7.— Վարդան վարդապետի ասացեալ է Յաղագս Քահանայութեան . — Դարձեալ ծանիք ով եղբայրք . . . ։ Ի դրոց հրամանաց խրատ գրեցաւ, ի Սբ. Վիրապս, ձեռամբ ծառայ ծառայից քրիստոնէից Վարդան Վարդապետի . . . ։ Էջ 12.— Իսկ յաւուր ձեռնադրութեան նստի եպիսկոպոսն յաթոռ ի մէջ ատենին, ի դուռն եկեղեցւոյն, առաջի ամ. բազմութեան, եւ քննեսցէ բազում զգուշութեամբ զնըւիրեալքն։ Էջ 29.— Յետ այսորիկ մատիցի յառաջ առաջնորդ Սբ. Ուխտին, կալով առաջի եպիսկոպոսին եւ ասէ բարձր ձայնիւ։ Էջ 47.— Սկիզբն աստիճանաց կղերիքոսաց, որք են սաղմոսերգու, եւ աւելածու, եւայլն, ըստ իւրաքանչիւր կարգի . . . ։ Էջ 52.— Առաջին կարգ Դռնապանին։ Էջ 55.— Երկրորդ կարգ Ընթերցողութեան։ Էջ 47.— Երրորդ կարգ Երդմնեցուցչաց։ Էջ 60.— Չորրորդ կարգ աստիճանի Ջահընկալութեան։ Էջ 63.— Հինգերորդ կարգ կէս սարկաւագաց, որ է դպիր։ Էջ 73.— Կանոն յորժամ սարկաւագն ձեռնադրեն։ Էջ 98.— Կանոն Ձեռնադրութեան Քահանայի։ Էջ 138.— Եւ երգեն զերգս քաղցր ձայնիւ . — Ով անմահ հաց կենաց մեզ տըւար Տէր Յիսուս . . . ։ Էջ 155.— Աւրհնութիւն վեղարի։ Էջ 157–174, դատարկ մեծագոյն մասամբ։ Էջ 168, տարբեր գրով . — Ի սկզբան այս է աս. որ Սարգիս եպիսկոպոսն շինեաց զվանքս, եւ աւրհնեաց Սբ. Եկեղեցիս, ի թվ. ՌԾԵ [= 1606]։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "206.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1471-refine.json",
+    "pipeline_version": "v1"
+  }
+}

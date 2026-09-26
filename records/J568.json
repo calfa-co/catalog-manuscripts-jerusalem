@@ -1,0 +1,68 @@
+{
+  "id": "J568",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "568",
+  "notice": "568",
+  "volume": "Jerusalem_V2",
+  "title": "ՀԵՐՔՈՒՄՆ ՎԱՀԱՆ ՀԱՒԱՏՈՅ ԳՐՈՑ",
+  "date": {
+    "from": "1828",
+    "to": "1828",
+    "display": null
+  },
+  "fields": {
+    "numero": "568",
+    "no_notice": "2",
+    "titre": "ՀԵՐՔՈՒՄՆ ՎԱՀԱՆ ՀԱՒԱՏՈՅ ԳՐՈՑ",
+    "date_debut": "1828",
+    "date_fin": "1828",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "152",
+    "dimensions": "22.5x16x1.5",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 26 տող։ Վարժ նոտր շեղագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ. — Էջ 3. — Գիրք որ կոչի Վահան Հաւատոյ, յօրինեալ ի Հայր Միքայէլ Վարդապետէ Չամչեան, իսկ յետոյ յումեմնէ համառօտեալ, եւ ներհակն պատասխանեալ նմին։ Յամի Տն. 1815, մարտ Դ։ Ի Կոստանդնուպօլիս։ Եւ այժմ գաղափարեցաւ յընտիր օրինակէ ի Մայր Դպրատանս Պալատու՝ յումեմնէ ծերացելոյ. ի թուին Հայոց ՌՄՀԷ, Մայիսի Լ։ Էջ 5 Շարունակութիւն կամ հաստատութիւն յառաջագոյն գրեալ մերումն տեսարանի...։ — Հմմտ. աստ, թ. 359։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "614.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "568-refine.json",
+    "pipeline_version": "v1"
+  }
+}

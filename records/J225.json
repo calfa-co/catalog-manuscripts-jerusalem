@@ -1,0 +1,72 @@
+{
+  "id": "J225",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "225",
+  "notice": "225",
+  "volume": "Jerusalem_V1",
+  "title": "ՄԵԿՆ. ԺԲ- ՄԱՐԳԱՐԷԻՑ (Թերի)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "225",
+    "no_notice": null,
+    "titre": "ՄԵԿՆ. ԺԲ- ՄԱՐԳԱՐԷԻՑ (Թերի)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "222",
+    "dimensions": "30x21x2",
+    "mise_en_page": "սեւ մելանով, միասիւն, 33 տող",
+    "details_ecriture": "շեղ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "հասարակ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 3.— Յառաջաբան Երկոտասան Մարգարէից առ վերծանողն.— Երրորդութիւն անստեղծ է էութիւնն Այ. Հայր Որդի Հոգի. երեք անձինք մի բնութիւն եւ մի Աստուածութիւն...։ Էջ 4.— Համառօտ Մեկնութիւն Մարգարէին Յովեսայ.— Ծանօթութիւն Առաջին Գլխոյ.— Հրամայի Ովսեայ ածել զպոռնիկ կին, եւ ի նմանէ յարուցանել...։ Էջ 58.— Ծանօթութիւն մարգարեական բանից Յովելեայ։ ԾԱՆՕԹ.— Այստեղ մեծ թերոյթ մը\nկայ. Յովել Բ. 25 համարէն ցվերջ, Ամովս, Աբդիու, եւ Յովնան ամբողջովին, իսկ Միքիան մինչեւ Ե. 5 համարը կը պակսին, մէկ կամ աւելի պրակներ կորսուած ըլլալով։ Դիտելի է նաեւ որ էջ 62է 63 գիրը եւ մելանը որոշապէս կը փոխուին։ էջ 63 — «Եւ հովուեսցես զԱսորեստան սրով» — Միքիէ, Ե. 6։ էջ 73 — Մարգարէութիւն Նաւումայ. — Գլուխ Առաջին։ էջ 84 — Ամբակում. — Գլուխ առաջին. — Տրտնջայ Ամբակում զթիւրութենէ Հրէից...։ էջ 114 — Սոփոնիա. — Գլուխ առաջին. — Նախ ասէ Ած. զաւերմանէ Երուսաղէմի...։ էջ 123 — Մարգարէութիւն Անգեայ, որ էր յառաջ քան զՔս. 518 ամաց յառաջ։ Գլուխ առաջին. — Յանդիմանէ զՀրէայսըն...։ էջ 133 — Մեկնութիւն Զաքարիայ որ մարգարէացաւ յԵղմ.։ էջ 198 — Սկիզբն Մաղաքիայ Մարգարէին։ էջ 217 — ... զի անդ յերկինս լիցիս երանեալ. զի Սբն. Գրիգոր ասէ. ճշմարիտ երանութիւն է, արհամարհել զերանութիւն կենցաղոյս, եւ զանց առնել զերկրաւորաց, եւ բորբոքիլ սիրով առ աստուածայինսն, եւայլն։ էջ 218-222, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "627.jpg"
+    },
+    {
+      "volume": "Jerusalem_V1",
+      "file": "628.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "225-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3107",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3107",
+  "notice": "3107",
+  "volume": "Jerusalem_V9",
+  "title": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3107",
+    "no_notice": "6",
+    "titre": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "21 X 16.5 X 2: Էջք 356: Հանգամանք լաւ: Թուղթ հասարակ: Գրութիւն սեւ մելանով, միասիւն, 21 տող: Շեղագիր վարժ: Համառօտագրութիւնք բաւական առատ: Դատարկ թուղթ սկիզբը վեց թերթ: Կազմ կիսակաշի խաւաքարտեայ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Նախակրթութիւնք Յաղագս Ճարտասանութեան: Հ. Ի՞նչ է Ճարտասանութիւնը: Պ. Ճարտասանութիւնն է որ ճարտար խօսելու կանոնաւոր ձեւերը ու հանգամանքները կը սորվեցունէ, եւ ով որ այս ձեւերը ու հանգամանքները ճարտարութեամբ կը գործածէ՝ ճարտասան կամ բանիբուն կըսուի. կամ թէ բանաւոր փաստերով, յարմարաւոր իմաստներով, ու շքեղ ասացուածով՝ բարւոք խօսելու ազատական արհեստ մի է . — Հմմտ. աստ թիւ 2924: Էջ 25. — Յաղագս Գիւտի: Էջ 142–146, դատարկ: Էջ 342. — Յաղագս շարժմանց մարմնոյ: Էջ 348. — Աւարտ: Էջ 349–356, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "341.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3107-refine.json",
+    "pipeline_version": "v1"
+  }
+}

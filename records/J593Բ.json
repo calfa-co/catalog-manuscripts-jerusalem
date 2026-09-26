@@ -1,0 +1,72 @@
+{
+  "id": "J593Բ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "593Բ",
+  "notice": "593Բ",
+  "volume": "Jerusalem_V2",
+  "title": null,
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "593Բ",
+    "no_notice": null,
+    "titre": null,
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Համանման նախորդ հատորին : Էջք Ժ + 496 + 390 :",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Ը, դատարկ : Էջ Թ— Ճակատ .— Արարեցեալ ըստ անխախտ եւ հաւաստի վարդապետութեան . . . : Հատոր երրորդ : Որ պարունակէ զերկրորդ, զերրորդ, եւ զՉորրորդ Մասն Բնականութեան, այսինքն զԳրեանս զԱշխարհէ, եւ զԵրկնէ, զԾնելութենէ եւ զԱպականութենէ, նաեւ զՀոգւոյ : Ի Կոստանդինուպօլիս : Էջ 1 .— Երկրորդ մասն բնականութեան : Յաղագս Էակի՝ տեղականապէս շարժելւոյ : Վիճաբանութիւն միակ : Յաղագս երկնի եւ աշխարհի : Էջ 487 .— Վերջ Երրորդի Հատորին : Էջ 488 .— Ցանց Մակագրից Երրորդի Հատորին : Երկրորդի մասին Բնականութեան, այսինքն ֆիզիգային :\nէջ 493–6, դատարկ:\nէջ 1.— Ճակատ.— Փիլիսոփայութիւն, ըստ անխախտ եւ հաւաստի վարդապետութեան...: Հատոր Չորրորդ: ԶԲարոյականն եւ զՀամաբնաբանութիւնն պարունակելով:\nէջ 2.— Չորրորդ Մասն Համաբնաբանականի փիլիսոփայութեան: Առաջաբանութիւն.— Հետեւելով կարգին եւ սկզբան ի սրբոյն Թօմայէ եւ յԱրիստոտելէ մեկնեալ, զայս մասն փիլիսոփայութեան ի վերջնում տեղւոջ աւանդելի պահեցաք...: — Հմմտ. Ա. Հատոր, էջ 608: էջ 155.— Վերջ Համաբնաբանութեան: էջ 157.— Չորրորդ Մասն բարոյական փիլիսոփայութեան: Զբարոյական էակէ: էջ 379.— Ցանկ Մակագրից Չորրորդ Հատորոյ Երրորդի մասին Համաբնաբանականի փիլիսոփայութեան:\nՅետնագոյն յիշատակագրութիւն.— 1768 էջ 383, ստորին լուսանցքին, յար եւ նման վերոգրեալին.— Զստացող գրոյս ... ի թուին ՌՄԺԷ: էջ 384–390, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "650.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "651.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "593Բ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

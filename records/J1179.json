@@ -1,0 +1,68 @@
+{
+  "id": "J1179",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1179",
+  "notice": "1179",
+  "volume": "Jerusalem_V4",
+  "title": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1179",
+    "no_notice": "2",
+    "titre": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "146",
+    "dimensions": "19x14x1",
+    "mise_en_page": "խորագիրները եւ սկզբնատողերը կարմիր՝ առհասարակ աւրուած, մնացեալը սեւ մելանով, միասիւն, 26 տող",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "անբաւարար. վնասուած ջուրէ, որդերէ եւ մկներէ. կան ԹԵՐԹՔ իրարու փակած, կամ մասամբ պատռուած",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–2, համարեա դատարկ։ Էջ 3. — Դիւրին ոճիւ եւ վայելուչ օրինակաւ. շարադրեալ աշխատութեամբ տեառն Մխիթարայ Վարդապետի Սեբաստացւոյ Աբբայ հայր կոչեցելոյ։ Ի յօգուտ այնց ամենից, որք ունին զփափաք զասութիւնս իւրեանց զարդարել գեղեցկագունիւք բառիւք, եւ մանաւանդ հաճեցուցանել զմիտս ունկնդրողաց անձանց։ Ի փառըս մանկացելոյն Յիսուսի եւ ի պատիւ մօր իւրոյ ամէնօրհնեցելոյ Կուսին Մարիամու։ Յամի Տեառն ի Վէնէտիկ մեծաւորաց ակնարկութեամբ։ Էջ 4, դատարկ։ Էջ 5. — Յաղագս Արհեստի Ճարտասանութեան։ Գիրք Առաջին։ Յաղագս սահմանի Ճարտասանութեան եւ բաժանմանց մասանց նորին։ Գլուխ Առաջներորդ. — Ճարտասանութիւն, որ եւ ասի հռետորութիւն, է արհեստ բարւոք ասելոյ...։ Էջ 122. — Յաղագս Մասանց Արտաբերութեան։ Գլուխ երկրորդ. — Մասունք արտաբերութեան որպէս ի վերոյ ասացելոցս երեւին են երկու...։ Էջ 124. — Վախճան վերջնոյ գրքոյն եւ վերջնոյ մասին Ճարտասանութեան։ Բանք ընտիրք վերաքաղեցեալք ի յաղօթական գրոց Սրբոյ Հօրն մերոյ Գրիգորի Նարեկացւոյն։ Էջ 132. — Վերջ Գրքոյս։ Էջ 133–146, դատարկ։ Վերջին կողքին ներսի կողմը. «ՌՄԺԷ հոկտեմբերի 3 ի Մալդարայ գնացաք»։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "304.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1179-refine.json",
+    "pipeline_version": "v1"
+  }
+}

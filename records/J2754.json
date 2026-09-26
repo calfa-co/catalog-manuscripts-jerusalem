@@ -1,0 +1,68 @@
+{
+  "id": "J2754",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2754",
+  "notice": "2754",
+  "volume": "Jerusalem_V8",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (ՏԱՐԵԿԱՆ — ԹԵՐԻ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2754",
+    "no_notice": "7",
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք (ՏԱՐԵԿԱՆ — ԹԵՐԻ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "210",
+    "dimensions": "20×15×2",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 24-22 տող",
+    "details_ecriture": "սովորականէն աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ, թանձր",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4, դատարկ։ Էջ 5 . — Քարոզ Ա. — Կաղանդ։ Խոկումն մահուան։ Էջ 14 . — Քարոզ Բ. — Կիւրակէ Պահոց Ծնընդեան։ Բուն մեղաց։ Էջ 28 . — Քարոզ Դ. — Ծնունդ Տեառն։ Էջ 57 . — Կտակ Չարչարանաց Տեառն մերոյ Յի. Քի.։ Էջ 81 . — Քարոզ Ծաղկազարդին։ Էջ 115 . — Քարոզ Յարութեան Քի. Տեառըն մերոյ։ Էջ 134 . — Քարոզ Պենտեկոստէ։ Գալուստ Հոգւոյն Սրբոյ։ Էջ 149 . — Մեկնութիւն Տէրունական Աղօթիցս՝ Հայր մեր։ Էջ 157-200, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "397.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2754-refine.json",
+    "pipeline_version": "v1"
+  }
+}

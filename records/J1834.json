@@ -1,0 +1,68 @@
+{
+  "id": "J1834",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1834",
+  "notice": "1834",
+  "volume": "Jerusalem_V6",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1834",
+    "no_notice": "17",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԱՌԱԿԱՑ ԱՒԵՏԱՐԱՆԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "272",
+    "dimensions": "20.5x15x2.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը, գլխագիրները եւ Տէրունական անունները կարմիր, մընացեալը սեւ մելանով, միասիւն, 18 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը եւ վերջը երեքական թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Աղբիւր բացեալ։ Գլուխ Առաջին.— Բան առ բարեմիտ ընթերցօղս յաղագս առաջիկայ Առակացս։ Էջ 16.— Զերում ազնուութեան ծառայ պատրաստական, Նախիջեւանցի Պետրոս Աղամալեան, որ կոչիւր երբեմն Փէրթումեան։ Էջ 17.— Յորդորակ առ առակաւոր բանսն Քրիստոսի.— Պարտ է մարդոյ գիտել զիմաստ եւ ըզհանճար...։ Էջ 18, ստորին լուսանցքին, շեղագիր։ Թիւն է 1820, այսինքն է ՄԻն։ Մէն տառն երկու հարիւր անգամ հինգ, երկու նուն եւս առնէ ութ հարիւր, իսկ ինին եւս քսան։ 1843, մարտ, ծառայ սարկաւագ Յակոբ։ Էջ 19.— Յաղագս տեսակաւորեալ հաւատոյ։ Գլուխ Բ։ Էջ 272.— Աստ կատարումն եղեւ Յիսուսի Առակաց, շնորհիւ այնմիկ որ ըզհամերց բերանս եբաց։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "226.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1834-refine.json",
+    "pipeline_version": "v1"
+  }
+}

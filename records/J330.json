@@ -1,0 +1,68 @@
+{
+  "id": "J330",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "330",
+  "notice": "330",
+  "volume": "Jerusalem_V2",
+  "title": "Ա Ն Ա Լ Օ Ճ Ի Ա",
+  "date": {
+    "from": "1714",
+    "to": "1714",
+    "display": null
+  },
+  "fields": {
+    "numero": "330",
+    "no_notice": "2",
+    "titre": "Ա Ն Ա Լ Օ Ճ Ի Ա",
+    "date_debut": "1714",
+    "date_fin": "1714",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԻԶ + 447",
+    "dimensions": "26x19x4",
+    "mise_en_page": "խորագիրները եւ գլխագիրներուն մեծ մասը կարմիր, երբեմն կապոյտ կամ բազմագոյն, մնացեալը սեւ մելանով, միասիւն, 32 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հաստ եւ տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ, հինցած",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ. — Էջ ժա. — Անալօճիա, այսինքն Հնոյ եւ Նորոյ Կտակի. Յորում նախ կացութիւն Հնոյ Կտակին, յետոյ Համակամութիւն, Յարմարութիւն, եւ Միաբանութիւն ընդ նորոյ կտակի մեկնաբանի։ Շարադրեցեալ նախ ի Մարտինոսէ Պէռանեան Ածաբան վարդապետէ ի Յիսուսեան կարգէ լեզուաւ լատինականաւ։ Եւ անտի թարգմանեցեալ ի հայկական լեզու ի Պետրոսէ Վարդապետէ Թիֆլիզեցւոյ։ Ի խնդրոյ Մաղաքիա մեղապարտ Դպրի Կոստանդինուպոլսեցւոյ։ Յամի Տն. Ռ Ձ ԺԴ եւ Հայոց ՌՃԿԳ։ Ի փառս ամենամեծին Այ., ի պարծանս Սրբոյ Եկեղեցւոյ, օգուտ ընթերցողաց։ Ծանօթ. — Ըստ Սաւալանեանի «Հեղեալ ի մեր լեզու անպիտան եւ անալի ոճով եւ աղճատ հայկաբանութեամբ» (Ցուցակ, էջ 232)։\nՅիշատակագրութիւնք. — Էջ Ը, շեղագիր. — Յանուն լուսահոգի Զաքարիա պատրիարք հօր մերոյ զարդի հայր եւ ծնօղն մեր Յօհաննէս երջանկազարդ պատրիարքն զայս գիրքս ետ նուաստիս յիշատակ յաւիտենական, զորոյ զհոգին Տէր ի լոյս երեսաց իւրոց բնակեցուցեալ՝ սմա կեանս երկարս պարգեւեսցէ։ Գէորգ Վրդպ. Սաղիմացի։\nԷջ ժա. — Յիշատակ ուսումնարանի Սրբոց Յակովբեանց Առաքելական Աթոռոյն Սրբոյ Էջմի. ընծայեալ ի Կիրակոս եպիսկոպոսէ Երուսաղիմացւոյ, յամի Տն. 1836։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "223.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "330-refine.json",
+    "pipeline_version": "v1"
+  }
+}

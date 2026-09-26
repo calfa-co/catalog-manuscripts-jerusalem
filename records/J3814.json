@@ -1,0 +1,72 @@
+{
+  "id": "J3814",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3814",
+  "notice": "3814",
+  "volume": "Jerusalem_V11",
+  "title": "ԵԿԵՂԵՑԱԿԱՆ ՊԱՏՄՈՒԹԻՒՆ",
+  "date": {
+    "from": "1884",
+    "to": "1884",
+    "display": null
+  },
+  "fields": {
+    "numero": "3814",
+    "no_notice": "6",
+    "titre": "ԵԿԵՂԵՑԱԿԱՆ ՊԱՏՄՈՒԹԻՒՆ",
+    "date_debut": "1884",
+    "date_fin": "1884",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "474",
+    "dimensions": "20x14x2",
+    "mise_en_page": "մա-նիշակագոյն թանաքով, միասիւն, 17 տող",
+    "details_ecriture": "մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ նորադրոշմ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": "Մեսրոպ Վրդ. Նշանեան",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը չորս թերթ",
+    "colophon": null,
+    "informations_diverses": "մանիշակագոյն, \"Մես-րոպ եպս. Նշանեան, 1924\" էջ 1",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, վերի լուսանցքին, սեւորակ մելանով.— Մեսրոպ Վրդ. Նշանեան։ Եկեղեցական Պատմութիւն, Յառաջաբան.— 1.— Սահման եւ նպատակ եկեղեցական պատմութեան։ Այն ամեն մարդիկ որք կը հաւատան թէ Յիսուս Նազովրեցին Քրիստոսն էր, որ ըստ կանխասացութեան մարգարէից, ի վախճան ժամանակաց, երեւեցաւ իբրեւ Փրկիչ Աշ-խարհի, կը կազմեն Քրիստոսի եկեղեցին.— Հմմտ. թիւ 2981, Բ. Հատոր, էջ 168։ Էջ 28.— Հիմնարկութիւն Եկեղեցւոյ ի ձեռն Քի. եւ Առաքելոց։\nէջ 84.— 10.— Առաքելական Դար. ընկիզբն Առաքելական Քարոզութեան։ էջ 59էն յետոյ սխալմամբ դրուած է 61։ էջ 62.— 17.— Սահմանադրութիւն, կենցաղավարութիւն եւ Պաշտամունք։ էջ 100.— Հալածանաց կամ Մարտիրոսաց Դար։ էջ 175.— Ցանկ Կայսերաց Հռովմայ։ էջ 185.— 22.— Հալածումն Քրիստոնէութեան ի Հայս։ էջ 242.— 26.— Անհամաձայնութիւն Վարդապետութեանց եւ Հերձուածք։ էջ 278.— Կոստանդիանոսէն մինչեւ Մեծն Կարոլոս, 323–767։ էջ 298.— 33.— Հայոց բոլորական դարձն ի Քրիստոնէութիւն. Սուրբն Գրիգոր եւ Մեծն Տրդատ։ էջ 326.— 35.— Մեծն Սահակ։ էջ 348էն յետոյ մէկ թիւ ոստումով գրուած է 345։ էջ 405.— 45.— Դ. Պելագեան Աղանդն։ էջ 451.— 48.— Է. Միակամեայց Աղանդն։ էջ 454.— 49.— Ը. Պատկերամարտից խռովութիւնն.— Բիւզանդիոյ հզօրագոյն կայսերաց մին է Լեւոն Իսաւրացի...։ Յոյնք այդ ժողովոյ տարեդարձն մեծ հանդիսով կը կատարեն ի 19 Փետրվարի (էջ 460)։ էջ 461–474, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "265.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "266.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3814-refine.json",
+    "pipeline_version": "v1"
+  }
+}

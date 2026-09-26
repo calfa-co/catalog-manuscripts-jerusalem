@@ -1,0 +1,72 @@
+{
+  "id": "J1013",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1013",
+  "notice": "1013",
+  "volume": "Jerusalem_V4",
+  "title": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1013",
+    "no_notice": "6",
+    "titre": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ժ+502",
+    "dimensions": "20×15×3",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 29 տող։ Նոտր շեղագիր",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Բ, դատարկ։ Էջ Գ.— Ճակատ. Աստուածաբանութիւն Սկոթոսին, ի յերկարաբանութենէ եւ նրբութիւն նորա ի խրթնութենէ ազատ մաքուր եւ պարզեցեալ, կամ գործ աստուածաբանական ուսանողաց։ Այնպէս բարեխառնեալ եւ կարգադրեալ մինչ զի ի նմա ունելոց են ի ձեռի զամբողջութիւնն հակիրճ եւ համառօտ եւ զխորութիւնն հարթ եւ հաւասար, այսինքն պարզ դեռավարժից եւ նորակրթելոց Աստուածաբանութեան։ Պատուելի հօրն Յօհաննու Գաբրիէլի Պօյիվիեացւոյ ի գաւառս Ֆրանցիոյ Փարիզիականի խոստաղունի կանոնապահի կարգին ուսուցչի պարզագունի աստուածաբանութեան։ Եւ ի կարգին փոքրկանց Վիլրիէնսոյ արդեամբ\nուսուցչի եւ վարդապետի ծնեալ ի նոյնում քաղաքի, այսինքն Պօլինվինոյ: Ի չորս մասունս բաժանեցեալ: Առաջին մասըն: Վեցերորդ պարզագոյն գործ ի Վընիժում: Ի տպարանի Գասպարի Սթօթիսի: Հրամանաւ եւ իշխանութեամբ մեծաւորաց: Էջ Դ, դատարկ: Էջ Ե.— Առաջաբանութիւն, կամ ըսկիզբն Աստուածաբանութեան: Էջ Թ-Ժ, դատարկ: Էջ 1.— Աստուածաբանութիւն Սկօթոսին: Մասն Առաջին: Զմիութիւն էութեանն աստուածայնոյ, եւ զերրորդութիւն անձանց մեկնելով: Տրամադրութիւն առաջնոյ ընձեռուածոյ: Յաղագս միոյն Աստուծոյ — Եթէ արեգակն ի ջուրն, Ստեղծօղն ի ստեղծուածն, եւ աներեւոյթքն ի յայնս որք արարեալք են, տեսանիլ եւ իմանիլ մարթ են...: — Հմմտ. թիւ 19: Էջ 383.— Յաղագս Ստեղծման Աշխարհի: Ուր զհրեշտակաց, եւ ապա զմարդոյն ընձեռի: Էջ 476.— Վերջ Առաջնոյ Մասին: Ի փառս Աստուծոյ: Էջ 477-482, դատարկ: Էջ 483.— Ցանկ Գլխոց վիճաբանութեանց եւ խնդրոց Առաջնոյ Մասին: Էջ 495-502, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "045.JPG"
+    },
+    {
+      "volume": "Jerusalem_V4",
+      "file": "046.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1013-refine.json",
+    "pipeline_version": "v1"
+  }
+}

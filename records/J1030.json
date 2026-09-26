@@ -1,0 +1,68 @@
+{
+  "id": "J1030",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1030",
+  "notice": "1030",
+  "volume": "Jerusalem_V4",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ՍՏԱՄՊՕԼՈՅ (ՏԱՂԱՉԱՓԵԱԼ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1030",
+    "no_notice": "1",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ՍՏԱՄՊՕԼՈՅ (ՏԱՂԱՉԱՓԵԱԼ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "20X15",
+    "mise_en_page": "խորագիրները, ըսկզբնատողերը եւ մասամբ գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 27 տող, երբեմն աւելի՝ լուսանցքներու վըրայ, եւ տարբեր մելանով",
+    "details_ecriture": "Համառօտութիւնք գրեթէ սովորական",
+    "types_cahiers": "40",
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "հնամաշ",
+    "etat_conservation": "բաւարար",
+    "copiste": "Հեղինակը",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Թղ. 2ա.— Հակիրճ Պատմութիւն ի վերայ Կոստանդնուպոլսոյ։ Ա.— Մեծարգոյ եւ քաջ րաբունապետի՝ Տեառն Վարդան Վարդապետի ընծայեցեալ, յԵրեմիայէ Կոստանդնուպօլսեցոյ Քէօմիւրճեան։ Թղ. 3ա.— Այս լիցի պատճէ բանիս՝ իմաստնոց տալով զպատասխան, ըստ աստիկ խնդոյն յիշատակ, րաբունւոյ Վարդանայ ընծայն։ Ով տէր մեծ վարդապետ իմ, ողջունիւ զքեզ մեծարական, առից զքեզ ի հարաւոյ, շրջեսցուք յերկիրս ի զբօսան ...։ Թղ. 14ա.— Ռոհըմ Վարդապետ խնդրեմ ձանձրութիւն քեզ մի դիպենան, զի նաւաւ այլ ոչ քալուի՝ ընդ քեզ ձիս հեծնումք յընթացման ...։ Թղ. 34ա.— Ութերորդ Գլուխ յաւարտումըն զգլխովին մնացեալ շինուածս եւ զզարդս յիշելով։ Եւ գերեաց եւ դեսպանաց բանք։ Եւ Յիշատակարան երգողիս եւ ընծայողիս։ Թղ. 39ա.— Յիշատակարան ընծայիս երգողի. Յիշատակ տեառն Վարդանայ, որ կոչի մեծ րաբունի այն, յըղեմ զիմ աղվոր աղերսս, զի շնորհաց Տեառն նա գոհաբան ...։ Թղ. 40, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "067.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1030-refine.json",
+    "pipeline_version": "v1"
+  }
+}

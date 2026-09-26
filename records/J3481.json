@@ -1,0 +1,68 @@
+{
+  "id": "J3481",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3481",
+  "notice": "3481",
+  "volume": "Jerusalem_V10",
+  "title": "Դ. Ա Ւ Ե Տ Ա Ր Ա Ն Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3481",
+    "no_notice": null,
+    "titre": "Դ. Ա Ւ Ե Տ Ա Ր Ա Ն Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Date: Early 15th century; Vellum, codex; 24.5x21.5 cm; 205 folios; full binding, two wooden boards covered with shamma cloth and then with aged leather (possibly from the same period) with partial disigns in front and the back; two columns; 20 lines per column. Ms. in good condition but definitely very aged, slightly stained and yellowish. Some folios with holes.",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Title. The Four Gospels, 1) fols. 2b—3b. Contents of the Gospel of Matthew under 68 headings. fols. 4—69a: Gospel of Matthew. 2) fols. 69b—70a. Contents of Mark under 48 titles. fols. 71—105: Gospel of Mark (with the long ending). 3) fols. 105b—106. Contents of Luke under 83 titles. fols. 107—161a: Gospel of Luke. 4) fol. 161b. Contents of John under 19 titles. fols. 162—204a: Gospel of John.\nAdditional Content. 1) The usual decorated 15th century punctuations in red and black colours are found throughout. 2) The titles which are given in the contents are indicated by rubrics throughout. 3) At the end of each gospel, the number of words it contains are given except for Mark and John: fol. 69a — Matthew has 20.700 words; fol. 160a — Luke has 20.800 words. 4) Each gospel is divided into the Eusebian canons and is indicated so. 5) fol. 2a. A note cursing those who remove the various things listed here, written by a later hand. 6) fol. 204a which carries a note beginning on column 2 of fol. 204a has been cut out. Why it is cut out is not clear. On fol. 204b. it seems that there is a continuation of what was on 204a (in a good clear hand of the 15th century, possibly, the original scribe), but it is difficult to prove that this is the continuation of what was on 204a. The content of the note is a brief introduction to the Revelation of John. 7) fols. 1, 69b, 205b. Blank."
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "470.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3481-refine.json",
+    "pipeline_version": "v1"
+  }
+}

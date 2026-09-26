@@ -1,0 +1,72 @@
+{
+  "id": "J3615",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3615",
+  "notice": "3615",
+  "volume": "Jerusalem_V11",
+  "title": "ՑՈՒՑԱԿ ԿԱՀՈՒՅ",
+  "date": {
+    "from": "1894",
+    "to": "1901",
+    "display": null
+  },
+  "fields": {
+    "numero": "3615",
+    "no_notice": null,
+    "titre": "ՑՈՒՑԱԿ ԿԱՀՈՒՅ",
+    "date_debut": "1894",
+    "date_fin": "1901",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "286",
+    "dimensions": "20x14.5x1.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 20 տող, կարմիր գիծերու միջեւ",
+    "details_ecriture": "վարժ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "գծաւոր",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խաւաքարտեայ",
+    "etat_conservation": "բաւարար. վնասուած թացութենէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ցուցակ Եկեղեցական եւ Տնական Կահուց Ս. Ծննդեան Վանուց.— Ա.— Եկեղեցական Զգեստք եւ Զարդք։ — 4 Մաշտոց, մին արծաթապատ եւ մինէլի, 1894ի յանձման մին պակաս։ Էջ 8.— 6 շապիկ մետաքսեայ, սարկաւագի. Վանք ղրկուած։ Էջ 6.— Ի Ս. Յակովբ։ Էջ 7.— 8 Աւետարան արաբերէն։ Էջ 7.— Կահք Տեսչական սենեկի։ Էջ 9.— Պղնձեղէն։ Էջ 10.— Շորեղէնք։ Էջ 11.— Ըստ այսմ յանձնուեցաւ 1894 մայիսին, նորընտիր Տեսուչ Արժ. Եզնիկ վրդ. Պօլսեցւոյն։ Էջ 12–18, դատարկ։ Էջ 19.— Ցուցակ եկեղեցական եւ Տնական Կահուց Սուրբ Յարութեան.— Ա.— Եկեղեցական Զգեստք եւ Զարդք։ Էջ 25–28, դատարկ։ Էջ 29.— Ցուցակ Կահուց եւ Զգեստեղինաց Ս. Աստուածածնի։ Էջ 83.— Ցուցակ Եկեղեցական եւ Տնական Կահուց Ս. Փրկչայ։ Էջ 86, դատարկ։\nԷջ 87.— Ցուցակ Եկեղեցական Սպասուց եւ Կահուց Ս. Հրեշտակապետի Վանուց Էջ 49—50, դատարկ։\nԷջ 51, վերնագիր.— Ցուցակ Եկեղեցական եւ Տնական Կահուց Ս. Նշան Վանուց Պէյրութի։ Էջ 52—286, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "052.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "053.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3615-refine.json",
+    "pipeline_version": "v1"
+  }
+}

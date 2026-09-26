@@ -1,0 +1,68 @@
+{
+  "id": "J601",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "601",
+  "notice": "601",
+  "volume": "Jerusalem_V3",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "601",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "168",
+    "dimensions": "22x17x1",
+    "mise_en_page": null,
+    "details_ecriture": "չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ։ Գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 26 տող։ Նոտր շեղագիր",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ ընդհանրապէս, լուսանցքները ցեցակեր տեղ տեղ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Սէր Այ. առ մարդն. — Աւետարանիչն Յովհաննէս գրէ ի Կաթուղիկեայս...։ Էջ 22. — Աղագս յապաշխարութեան. — Հարկաւորագունեղ խրատ միշտ այն եղեւ... ... Էջ 36. — Տէր Առաքելի հոգենորոգ Հայրապետի եւ քաջ րաբունապետի, ի բան, ի վեցից վշտաց փրկեցից. — Հարցումն զինչ է որ ասէ...։ Էջ 49. — Քարոզ Տեառնտեսին...։ Էջ 51. — Ի Առաքել բանիբուն վարդապետէ՝ վասն քանանացի կնոջն...։ Էջ 55. — Քարոզ Սբ. Ածածնայ... ... Էջ 121. — Կտակ յետ մահուն հաստատուն է ըստ Պօղոսի. — Ով օր դառնութեան եւ սգոյ...։ Էջ 140. — Վասն Յուդայի չար ծնընդեանն...։ Էջ 151. — Այս է ցանկ տետրակիս։ Էջ 157. — Յօհանու Քարոզ...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "021.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "601-refine.json",
+    "pipeline_version": "v1"
+  }
+}

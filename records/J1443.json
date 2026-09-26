@@ -1,0 +1,72 @@
+{
+  "id": "J1443",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1443",
+  "notice": "1443",
+  "volume": "Jerusalem_V5",
+  "title": "Պ Ե Ր Ի Ա Ր Մ Է Ն Ի Ա Ս",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1443",
+    "no_notice": "12",
+    "titre": "Պ Ե Ր Ի Ա Ր Մ Է Ն Ի Ա Ս",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "84",
+    "dimensions": "15x10",
+    "mise_en_page": "խորագիրները եւ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 25 տող",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1 .— Սկիզբն եւ նախադրութիւն գրոցն, որ ասի յունացն Պերիարմենիաս, եւ հայերէն Յաղագս Մեկնութեան, արտադրեալ ի մեծ իմաստնոյն Արիստոտէլէ, եւ թարգմանեալ եւ մեկնեալ ի Դաւթէ փիլիսոփայէ։\nՆախ արժան է դնել զինչ է անուն եւ զինչ բայ...։\nԷջ 31.— Արիստոտելի Վերլուծական, դիտաւորութիւն Արիստոտելի ի վերլուծականէն բառն հարկանել զպարզ հաւաքմանէ։ Այլ արդ եթէ է դիտաւորութիւն...։ Էջ 84.— ...Այս ԺԴ Գլուխք, զոր մեկնեալ է Դաւիթ փիլիսոփայն, արիստոտէլական Վերլուծականէն։ Եւ այդ յիւրմէ տրամաբանեալ զձեւս բանի զոր ոչ է իմանալ ամ. արհեստաւորի։ Ներգործեցաւ կըտակ. բաղկացեալ մատենիս, որ ի տասնից եւ ի քառից շարադրասեալ եւ արտայայտեալ տրամաբանականին Դաւթի ի վարժս ուսումնասիրաց անձանց ի փառս Այ. Հօր եւ Որդւոյ եւ Սբ. Հոգւոյն, այժմ եւ յաւիտեանս ամէն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "139.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "140.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1443-refine.json",
+    "pipeline_version": "v1"
+  }
+}

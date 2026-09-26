@@ -1,0 +1,68 @@
+{
+  "id": "J2718",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2718",
+  "notice": "2718",
+  "volume": "Jerusalem_V8",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2718",
+    "no_notice": null,
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԲ+362",
+    "dimensions": "25x21x2",
+    "mise_en_page": "սևորակ մելանով, շեղագիր այլազան",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ և ճերմակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ թղթեայ, անարուեստ, քակուած",
+    "etat_conservation": "անբաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-ԺԲ, դատարկ։ Էջ 1.— Ծնունդ Մարիամայ ի յԱննայէ. — Ած. իմաստութեամբ հիմունս էարկ յերկրի.— Եթէ հիմնադիր ճարտարապետք աշխարհիս ջանան գեղեցիկ շինուածոց իւրեանց խորագոյն հիմունս արկանել ի քարանց պատուականաց...։ Հմմտ. թ. 2728, էջ 1։ Էջ 10.— Երից ամաց ընծայման։ Էջ 19-20, դատարկ։ Էջ 21.— Երից ամաց ընծայումն.— Գտի զոր սիրեաց անձն իմ.— Այսօր տօն մեծ է աշխարհիս...։ Էջ 25.— Վերափոխումն։ Էջ 32.— Գիւտ Տփոյ Սբ. Աստուածածնայ։ Էջ 38.— Վարագայ Խաչ։ Էջ 43.— Գիւտ Խաչ։ Էջ 51.— Հոգեգալուստ։ Էջ 53.— Համբարձում։ Էջ 57.— Պայծառակերպութիւն Քրիստոսի։ Էջ 65.— Նոր Կիրակի։ Էջ 69.— Աշխարհամատրան Կանանչ Կիրակի։ Էջ 71.— Կարմիր Կիրակի։ Էջ 95.— Քառասնօրեայ Գալուստ։ Էջ 117 - 122, դատարկ։ Նոյնպէս 128, 133, 134։ Էջ 149.— Ամ. ճառ ի պտղոյ իւրմէ ճանաչի.— Արիստոտէլ զմարդն անդրադարձեալ ծառ ասէ...։ Էջ 167.— Ծաղկազարդ։ Էջ 194.— Ողորմութեամբ քաւեսցես ըզմեղս քո։ Էջ 235.— Աւետում։ Էջ 271.— Աստուածպաշտութիւն։ Էջ 289.— Ճառ ի հանդէս հարսանեաց խօսելի.— Պատկառելի կաճառ սիրալի հանդիսիս...։ Էջ 294.— (բնաբան). Յոր կոչումն կոչեցար, ի նմին կացջիր.— Բազմավաստակ վարդապետն ճշմարտութեան երանելի Պօղոս Սրբազան Առաքեալ...։ Էջ 300-358, դատարկ, ճերմակ թուղթ։ Էջ 359-362, այլազան հատուածք։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "361.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2718-refine.json",
+    "pipeline_version": "v1"
+  }
+}

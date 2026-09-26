@@ -1,0 +1,72 @@
+{
+  "id": "J1491",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1491",
+  "notice": "1491",
+  "volume": "Jerusalem_V5",
+  "title": "ԳԻՐՔ ՀՈԳԵԱՑ ԵՒ ՀՐԵՇՏԱԿԱՑ",
+  "date": {
+    "from": "1775",
+    "to": "1775",
+    "display": null
+  },
+  "fields": {
+    "numero": "1491",
+    "no_notice": "5",
+    "titre": "ԳԻՐՔ ՀՈԳԵԱՑ ԵՒ ՀՐԵՇՏԱԿԱՑ",
+    "date_debut": "1775",
+    "date_fin": "1775",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Զ+444",
+    "dimensions": "15.5x10x3",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 21 տող",
+    "details_ecriture": "շեղակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": "Լմայ միաբան Միքայէլ Վարդապետ",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Ե, դատարկ։ Էջ 1.— Յաղագս Գոյացութեան Հրեշտակաց ընդարձակապէս առեալ ի պրակս բաժանեալ։ Գլուխ Առաջին.— Ընդդէմ առարկի թէ հրեշտակ է ամենեւին անմար[մ]ին։ Նախ երեւի թէ հրեշտակ ոչ է ամենեւին անմարմին...։\nէջ 60.— Գլուխ Հինգերորդ։ Յաղագս ճանաչման հրեշտակաց ի ե պրակս բաժանեալ։ Պրակք Առաջին.— Թէ իմանալն հրեշտակի ոչ է գոյացութիւն նորին. . .։ — Հմմտ. թիւ 885, Գ. Հատոր, էջ 386, է։ էջ 420.— Գլուխ Քսաներորդ Չորրորդ։ Յաղագս մարտի դիւացն ի ե պրակս բաժանեալ։ Թէ դեւք մարտնչին ընդ մարդիկք։ Պրակ Առաջին։ էջ 433.— Ցանկ Գրքոյս որ կոչի հըրեշտակաց։— 1-24 Գլուխներ։ էջ 436-444, դատարկ։\nՅիշատակագրութիւնք.— 1.— Գրչի.— 1775 էջ 434, ստորոտը.— Ի վայելումն Լըմայ Անապատի միաբան Միքայէլ Վարդապետին, որ Տէր Աստուած բարեաւ վայելումըն տացէ. ի ՌՄԻԴ թվին։ 2.— Մարգարա վարդապետին։ էջ 435, տարբեր գրով.— Յիշեա Տէր Յս. Քոյին առատածաւալ ողորմութեամբդ զհոգիս Մարգարա Վարդապետին, եւ իւր ծնօղացն, եւ իւր համայն ննջեցելոց հոգին, եւ քո օրհնեալ տեսուդ արժանի արա, ի միւս անգամ քո գալստեանդ ամէն։\n3.— Երեմիա վարդապետի.— 1838 էջ Զ, շեղագիր — Յիշատակ է Երուսաղէմի միաբան Անդրիանուպօլսեցի նախկին պատրիարք մեծին Պօլսոյ Պօղոս սրբազան արքեպս.ին ձեռնասուն աշակերտ Զօրլուցի Տէր Կարապետեան նուիրակ հանգուցեալ Երեմիա շնորհազարդ վարդապետին, ի դուռն Սրբոց Յակոբեանց Մայր Աթոռոյն ամ. Հայոց։ Թվին 1838, սեպտ. 6։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "242.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "243.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1491-refine.json",
+    "pipeline_version": "v1"
+  }
+}

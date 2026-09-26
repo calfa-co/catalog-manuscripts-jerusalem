@@ -1,0 +1,68 @@
+{
+  "id": "J180",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "180",
+  "notice": "180",
+  "volume": "Jerusalem_V1",
+  "title": "ՅԱՂԱԳՍ ԵՕԹՆ ԽՈՐՀՐԴՈՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "180",
+    "no_notice": "4",
+    "titre": "ՅԱՂԱԳՍ ԵՕԹՆ ԽՈՐՀՐԴՈՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "31x22x4. Էջք 658",
+    "mise_en_page": "երկսիւն, 40 տող, խորագիրները կարմիր, մնացեալք սեւ մելանով",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": "Երուսաղէմի Պատրիարք Պօղոս Վանեցի։",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "ՃԱԿԱՏ.— Գիրք Մեկնութեան Եօթն Խորհրդոց Սրբոյ Եկեղեցւոյ, շարադրեցեալ եւ մեկնեալ ի Յակոբայ Արհիապանձ Եպիսկոպոսէ եւ Աստուածաբան Պատրիարքէ Կոստանդինուպօլսոյ, յամի կենարարին մերոյ եւ Փրկչին 1754, ի թվականիս Հայոց ՌՄԳին, յունիսի Ժ, ի Կոստանդինուպօլիս արքայազարդ քաղաքի, յերկրորդ պատրիարքութեան իւրում",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Կրթութիւն աստուածաբանական զխորհրդոցն եկեղեցւոյ։ Էջ 648.— Ցանկ եւ ցուցակ խորհրդոց Գրքոյս վասն գլխոց եւ պրակացն որք ի սմա առ ի դիւրագոյն գտանիլ իւրաքանչիւրոցն որք խնդրին ի բանասէր ընթերցողաց, թուով եւ համարովն իւրեանց։\nՅիշատակագրութիւնք.— Էջ 647.— Ես նուաստ ծառայս Աստուծոյ, Սրբոյ Աթոռոյս Երուսաղէմի Պատրիարք, Վանեցի Պօղոս Վարդապետ, ստացեալ զգիրքս եդի յիշատակ ի գրքատունն Սրբոց Յակոբեանցս, վասն հոգւոյ իմոյ եւ վասն հոգեւոր եւ մարմնաւոր ծնողացս. որք վայելէք եւ օրհնակէք, Ած. ողորմի ասացէք։ Եւ չունի ոք իշխանութիւն հանելոյ զսա ի Սրբոյ Աթոռոյս։ Եղեւ ի ՌՄԺԷ թուին։ Էջ 656.— Հաւաքեցեալ եւ գրեցեալ եղեւ Ցանկ գրքոյս ի Սարգիս սեւաւորէ Եւդոկեցւոյ եւ Ֆէրմանեան կոչեցելոյ, ի փառս Տն. Աստուծոյ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "551.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "180-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J510",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "510",
+  "notice": "510",
+  "volume": "Jerusalem_V2",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՍԱՂՄՈՍԱՑ",
+  "date": {
+    "from": "1739",
+    "to": "1739",
+    "display": null
+  },
+  "fields": {
+    "numero": "510",
+    "no_notice": "1",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՍԱՂՄՈՍԱՑ",
+    "date_debut": "1739",
+    "date_fin": "1739",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "1230",
+    "dimensions": "22x17x8",
+    "mise_en_page": "խորագիրները, սկզբնաւորութիւնները եւ երբեմն գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 40-41 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: չափազանց առատ։ Զարդարուն ՍԿԶԲՆԱՏԱՌՔ զուրղաներու սկիզբը։ Պարզ գլխազարդեր իւրաքանչիւր Կանոնի սկիզբը",
+    "types_cahiers": "ԾԱ",
+    "matiere_principale_id": null,
+    "details_matiere": "թանձր",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "Գրիգոր Աբղ. Քրտիկանցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 2.— Երանեալ է այր...։ Էջ 1229.— Աւրհնեցէք զնա ի ձայն գոհութեան, ամ. հոգիք աւրհնեցէք զՏէր։ Էջ 1230, Բ.— ... Ուստի եւ ձայն աւրհնութեանց ... զծառայակիցս իմ կերակրեցի, եւ զքանքարս [շարունակութիւնը կը պակսի, թերթ ինկած ըլլալով]։\nՅիշատակագրութիւն Գրչի.— 1739, էջ 1077բ.— Զգծողս տառիս յոյժ եղկելի, Գրիգոր անուամբ լոկ աբեղայի. Գովեալ գնդի ուղղափառի, Սբ. զԵրրորդութիւն մի բնութիւն դաւանողի, Որ ցանկացա գրել ի սմի, Եւ երգարան որ է Դաւթի, Եւ մեկնութիւն շարադրողի, Հայոց մեծաց վարդապետի, Եւ սուրբ Ներսէս Լամբրոնացի, Եւ ուղղադաւան բանասիր[ի], Եւ բան սորա է հոգելի։ Նաեւ գրող սուրբ Մատենիս, որ եմ Սիւնեաց երկրի, որ եւ Ղաբան վերակոչի, եւ ի կեղճէն Քրտիկացի, որ եւ որդի տէր Փիլիպպոս քահանայի։ Եւ հանդիպողք սուրբ մատենիս, միով հայր մև. զանարժանս եւ զծնողս իմ յիշի, եւ զինքն լինի յիշեալ ի յօրն ահեղի։ Գրեցաւ Սբ. Եմ. ի մէջ Սբ. Յարութեան տաճարի, եւ հանդէպ լուսաբուխ Սբ. Գերեզմանի, Տն. Յս.ի, Թվին Հայոց ՌՃՁԸ-ի, եւ ի յամսեանն հոկտեմբեր ԻԵ-ի.\nՅիշատակագրութիւն Նուիրատուի. — 1744 Էջ 434բ.— Յիշատակ է գիրքս Մեկնութեան Սաղմոսի ի Վարդանայ Սրբոց Յակովբեանց Աթոռոյն որ յԵեմ.։ Եւ ով ոք հանցէ զսա՝ առցէ պատիժ յԱյ.։ Եղեւ ի ՌՃՂԳ թիւն Հայոց։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "528.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "510-refine.json",
+    "pipeline_version": "v1"
+  }
+}

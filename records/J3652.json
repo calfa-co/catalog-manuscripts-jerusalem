@@ -1,0 +1,68 @@
+{
+  "id": "J3652",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3652",
+  "notice": "3652",
+  "volume": "Jerusalem_V11",
+  "title": "ԺՈՂՈՎԱԾՈՅ ԿՐՕՆԱԿԱՆ (Թերի)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3652",
+    "no_notice": null,
+    "titre": "ԺՈՂՈՎԱԾՈՅ ԿՐՕՆԱԿԱՆ (Թերի)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "686",
+    "dimensions": "18.5x14x7",
+    "mise_en_page": "սեւ եւ կարմիր մելաններով, միասիւն, 18 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բամպակեայ",
+    "nb_lignes": null,
+    "reliure": "չունի։",
+    "etat_conservation": "անբաւարար. վնասուած խոնաւութենէ. սկիզբը եւ վերջը թերի. լուսանցքները ցեցակեր. կարօտ նորոգութեան",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Մանր յիշատակագրութիւնք գրչի՝ բազում, յարեւնման բովանդակութեամբ. օր. Էջ 257.— Remember, O priest of God, the sinner, who copied [this], and his parents",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "091.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3652-refine.json",
+    "pipeline_version": "v1"
+  }
+}

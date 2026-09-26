@@ -1,0 +1,72 @@
+{
+  "id": "J2496",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2496",
+  "notice": "2496",
+  "volume": "Jerusalem_V8",
+  "title": "Տ Օ Ն Ա Ց Ո Յ Ց",
+  "date": {
+    "from": "1634",
+    "to": "1634",
+    "display": null
+  },
+  "fields": {
+    "numero": "2496",
+    "no_notice": "54",
+    "titre": "Տ Օ Ն Ա Ց Ո Յ Ց",
+    "date_debut": "1634",
+    "date_fin": "1634",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "384",
+    "dimensions": "10.5x8x3",
+    "mise_en_page": "խորագիրները, սկզբնատողերը և գլխատառերը նարնջագոյն, մնացեալը սև մելանով, միասիւն, 15 տող",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, բաւական տոկուն",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": "Խաչատուր",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "մագաղաթեայ ըսկիզբը և վերջը մէկմէկ թերթ եթովպերէն",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1. — Քաղոց ամսոց Հայոց ի Ա. . . . ։ Էջ 11. — Տաւնացոյց և Աւետարանացոյց . . . ։ Էջ 65. — Բուն Բարեկենդանի գիշերն կիրակի լոյսն, զձայնն փոխէ ի վերջի ձայնն . . . ։ Էջ 148. — Սուրբ զատկի գիշերն հսկումըն է, որ է Յարութիւն։ Էջ 189. — Պենդակոստէի գիշերն հսկումըն է . . . ։ Էջ 275. — Խաչվերացին գիշերն հսկումն է . . . ։ Էջ 329. — Խրատք Յարութեան Հարցներուն։ Էջ 339. — Ժամամտեր հասարակաց։ Էջ 373. — Մեսեդի Ծնը[ն]դեան։ Էջ 376. — Մեսեդի Ապաշխարութեան։\nՄանր յիշատակագրութիւնք Գրչի.— 1.— Էջ 148, մէջտեղը.— Աստուծոյ սիրոյն համար ասա Ած. ողորմի մեղաւոր Խաչատուրիս գծողին։ 2.— Էջ 159, մէջտեղը, նոտրագիր.— Աստուծոյ սիրոյն համար, ասա Ած. ողորմի մեղաւոր Խաչատուրին ամէն։\nԲուն յիշատակարան Գրչի.— 1634 Էջ 377, վարը.— Փառք ամենասուրբ Երրորդութեանն և մի Աստուածութեանն ամէն։ Որ ետ կարողութիւն անարժանիս և կրկնակի տկարութեանս ի հասանել ի յաւարտ այսմ գրիս, սրբոց տաւնի յայտիչ իրի, և ՚ցուցարան ժամատեղի, սրբոյ տառիս Տաւնացուցի, որ շնորհիւ Տեառն սկսայ, և ողորմութեամբ նորին կատարեցի։ Եւ արդ գրեցաւ սա ի սուրբ և յաստուածակոխ քաղաքս յԵրուսաղէմ, ընդ հովանեաւ Սուրբ Յակոբայ Առաքելոյն, ձեռամբ մեղաւոր Խաչատրիս. յառաջնորդութիւն Սուրբ Աթոռոյս տէր Գրիգոր արհեպիսկոպոսին. թվին, ՌՁԳ գրեցաւ։ Էջ 379-384, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "192.jpg"
+    },
+    {
+      "volume": "Jerusalem_V8",
+      "file": "193.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2496-refine.json",
+    "pipeline_version": "v1"
+  }
+}

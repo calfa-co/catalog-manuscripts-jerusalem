@@ -1,0 +1,68 @@
+{
+  "id": "J2806Գ",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2806Գ",
+  "notice": "2806Գ",
+  "volume": "Jerusalem_V9",
+  "title": "Օ Ր Ա Գ Ր ՈՒ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1858",
+    "to": "1858",
+    "display": null
+  },
+  "fields": {
+    "numero": "2806Գ",
+    "no_notice": null,
+    "titre": "Օ Ր Ա Գ Ր ՈՒ Թ Ի Ւ Ն",
+    "date_debut": "1858",
+    "date_fin": "1858",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "82",
+    "dimensions": "20 X 15",
+    "mise_en_page": "սեւ մելանով, շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "թղթեայ",
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— 1858, յունվար 1։ Էջ 5.— Յունվար 5, Կիր.։ Էջ 8–14, դատարկ։ Էջ 45.— Փետրուար 26, Դշ.— Յետ կոյս պարըսպին Երուսաղէմի մեր գնեցեալ արտի պատն սկսաք շարել տալ։ Էջ 70.— Մարտ 23, Կիր.։ Էջ 71.— Յունիս 28, Եշ.։ Էջ 73.— Վերափոխումն։ Էջ 79.— Հոկտեմբեր 18, շբ.— Հանգեաւ ի Տէր Զէյթինցի Կիւրեղ Վրդ. երիտասարդ հասակաւ, որոյ Տէր լուսաւորեսցէ հոգին։ Էջ 80.— Դեկտեմբեր 29, բշ.։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "028.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2806Գ-refine.json",
+    "pipeline_version": "v1"
+  }
+}

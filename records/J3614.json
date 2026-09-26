@@ -1,0 +1,68 @@
+{
+  "id": "J3614",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3614",
+  "notice": "3614",
+  "volume": "Jerusalem_V11",
+  "title": "ՅԱՂԱԳՍ ՊԱՏԱՌՄԱՆ ԶԱՏԿԻՆ",
+  "date": {
+    "from": "1872",
+    "to": "1872",
+    "display": null
+  },
+  "fields": {
+    "numero": "3614",
+    "no_notice": null,
+    "titre": "ՅԱՂԱԳՍ ՊԱՏԱՌՄԱՆ ԶԱՏԿԻՆ",
+    "date_debut": "1872",
+    "date_fin": "1872",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "66",
+    "dimensions": "19.5x15",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 21 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": "մաքուր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "թղթեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Տ. Հ. Ք. Սաւալանեանց",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթ սկիզբը մէկ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Դաւթի Սրբազան Վարդապետի ասացեալ ի խնդրոյ Գրիգորի վեհագոյն Վարդապետի՝ որդւոյ Տուտայ, Յաղագս հակառակասիրաց, ի պատճառս պատառման Զատկին, զոր ի խնդրոյն սակս պարզաբար գրեաց։ Զվեհիդ կատարելագունի յիմաստս, շնորհաւոր եւ ախորժելի բանից զհրամանս հարկեցուցիչ ընկալայ, բնաւորեալս յանբանութեան տուայտանս...։\nՅիշատակագրութիւն.— 1872 Էջ 27, ստորոտը.— Օրինակեցաւ ձեռամբ Տ. Հ. Ք. Սաւալանեանց, ի Կիպրոս Կղզւոջ, ի Նիկոսիա մայրաքաղաքի, յԱռաջնորդարանին, յամի 1872, յամսեանն նոյեմբերի։ Էջ 28–66, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "052.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3614-refine.json",
+    "pipeline_version": "v1"
+  }
+}

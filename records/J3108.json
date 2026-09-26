@@ -1,0 +1,68 @@
+{
+  "id": "J3108",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3108",
+  "notice": "3108",
+  "volume": "Jerusalem_V9",
+  "title": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3108",
+    "no_notice": "26",
+    "titre": "Ք Ա Ր Ո Զ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "886",
+    "dimensions": "22 X 16 X 5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը կամ սկզբնատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 39 տող, կարմիր գիծերու միջեւ։ Նոտր շեղագիր մանր",
+    "details_ecriture": "յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ, մի քիչ ծծող",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը չորս թերթ։ Փառակազմ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Զբոլոր գործս զայս նուիրեմ քեզ, Հոգի Սբ. Ած., զքոյս ի քոյոցդ քեզ առաջնոյ պարգեւիդ ընծայելով...։ Առաջին Քարոզ Պենտեկոստէի Հոգւոյն Սրբոյ Գալստեան։ Էջ 97.— Քարոզ ԺԲ։ Երկրորդ Կիրակէի զկնի Վարդավառին։ Էջ 210.— Քարոզ ԻԶ։ Ի պատիւ Սրբոց Եօթանասուն եւ երկու Աշակերտացն Քի.։ Էջ 327.— Քարոզ ԽԴ։ Երրորդ Կիրակէի զկնի Յիսնակաց։ Էջ 418.— Քարոզ ԾԴ։ Ի վերայ Որդւոցն Որոտման Յոհաննու Աւետարանչին եւ Յակոբայ Մեծի Առաքելոյն։ Էջ 856.— Քարոզ ՃԺԴ։ Եօթներորդ Կիրակէի զկնի Սրբոյ Զատկին, Երկրորդ Ծաղկազարդին։ Էջ 863–886, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "342.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3108-refine.json",
+    "pipeline_version": "v1"
+  }
+}

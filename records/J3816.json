@@ -1,0 +1,68 @@
+{
+  "id": "J3816",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3816",
+  "notice": "3816",
+  "volume": "Jerusalem_V11",
+  "title": "ԾԱՆՈՒՑՈՒՄՆ ՍՈՒՐԲ ԳԼԽԱԴՐԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3816",
+    "no_notice": null,
+    "titre": "ԾԱՆՈՒՑՈՒՄՆ ՍՈՒՐԲ ԳԼԽԱԴՐԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "19",
+    "dimensions": "30x20",
+    "mise_en_page": "սեւ մելանով, միասիւն, 28 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": "շեղակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "գունաւոր թուղթ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ծանուցումն Սբ. Գլխադրի.— Շնորհք եւ օրհնութիւնք ցանկալի Սրբոյ Քաղաքիս Երուսաղէմի...։ Յիրաւի թագաւորք իշխեն քաղաքաց սահմանաց իւրեանց...։ Էջ 9.— Սրբազնասուրբ վայրացս տէրունեան շնորհքն եւ օրհնութիւնքն եկեսցէ ի վերայ ձեր...։ Աստուածահայր մարգարէն Դաւիթ երգէ ...։ Էջ 14.— Գիրք Ծննդ. Յի. Զի. .- Մտ. 1, 1,.- Յորոց երեք ինչ իմանամք...։ Էջ 18.— Ծնուցում հիւանդաց.— Մայրս մեր սուրբ եկեղեցին ի ձեռն աւագ սարկաւագին մեզ միշտ կը յորդորէ ասելով. Վասն հիւանդաց եւ ամենայն վշտացելոց աղաչեսցուք զՓրկիչն մեր Քրիստոս...։ Օրինակ առնումք սիրելիք, յանբան անասուն ոչխարաց ընկերասիրութեան որ մէկերնին հիւանդանալու ըլլանէ՝ մէկալները անոր էթրաւֆը առած շուք քօրկէ կնեն վրան, արեգական տաքութենէն հըֆս ընելով կը պահպանեն...։ Էջ 19, կողքին փակած։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "274.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3816-refine.json",
+    "pipeline_version": "v1"
+  }
+}

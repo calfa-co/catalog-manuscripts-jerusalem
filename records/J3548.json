@@ -1,0 +1,68 @@
+{
+  "id": "J3548",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3548",
+  "notice": "3548",
+  "volume": "Jerusalem_V10",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՊԱՏԱՐԱԳԻ (Մասնակի)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3548",
+    "no_notice": null,
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՊԱՏԱՐԱԳԻ (Մասնակի)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "48",
+    "dimensions": "24X19",
+    "mise_en_page": "սեւ մելանով, միասիւն, 27 տող, սեւ գիծերու միջեւ։ Նոտր շեղագիր վարժ գրչէ",
+    "details_ecriture": "առատ",
+    "types_cahiers": "Բ",
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "սրճագոյն թուղթ",
+    "etat_conservation": "համարեա բաւարար. ներքին լուսանցքքը մասամբ ցեցակեր",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ա.— Էջ 1.— Զի՞նչ յայտ առնէ քահանայիցն հանդերձ սարկաւագօքն յաւանդատունն պայծառազգեստեալ։ Դ.— Էջ 7.— Զի՞նչ քարոզութիւն սարկաւագին յետ այսորիկ։ Ե.— Էջ 11.— Զի՞նչ յայտ առնէ յետ զգենլոյն առ Հոգին Սուրբ աղօթել։ Զ.— Էջ 20.— Զի՞նչ նշանակէ զառաջադրութիւն նուիրացն յիշատակ կոչեցեալ Քի.։ Թ.— Էջ 28.— Զի՞նչ խնկել զընծայսն, եւ մեկնութիւն նորին Աղօթիցն։ ԺԴ.— Էջ 36.— Ընդէ՞ր քահանայն ծածուկ եւ խորհրդաբար ասէ զԱղօթս։ ԺԶ.— Էջ 38.— Զի՞նչ նշանակէ Սաղմոսացն քաղցրաձայնութիւնք, նոյն եւ ընթերցուածքն յետ այնորիկ։ ԺԷ.— Էջ 39.— Մեկնութիւն Առաջին Սաղմոսացն։ ԺԸ.— Էջ 48.— Մեկնութիւն Աղօթիցս որ յետ առաջնոյն Սաղմոսիս ասէ.— Տէր Ած. մեր՝ կեցո զժողովուրդս քո...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "546.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3548-refine.json",
+    "pipeline_version": "v1"
+  }
+}

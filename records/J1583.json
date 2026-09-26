@@ -1,0 +1,68 @@
+{
+  "id": "J1583",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1583",
+  "notice": "1583",
+  "volume": "Jerusalem_V5",
+  "title": "Շ Ա Ր Ա Կ Ա Ն",
+  "date": {
+    "from": "1571",
+    "to": "1571",
+    "display": null
+  },
+  "fields": {
+    "numero": "1583",
+    "no_notice": "32",
+    "titre": "Շ Ա Ր Ա Կ Ա Ն",
+    "date_debut": "1571",
+    "date_fin": "1571",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "684",
+    "dimensions": "14x9x7",
+    "mise_en_page": "խորագիրները, սկզբնատողերը և գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 23 տող",
+    "details_ecriture": "եւ խազագրութիւն սովորական։ Գլխազարդերու տեղերը կը մնան բաց",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բամպակեայ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ. նորոգութիւն կրած",
+    "copiste": "Յովսէփ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Երգեցէք որդիք Սիոնի երգ նոր...։ Էջ 261.— Այսաւր յարեաւ ի մեռելոց ...։ Էջ 359-366, յաւելուածական նոր թուղթ, տարբեր գրչութեամբ։ Էջ 359.— ԱԿ. Հ.— Անճառելի բըղխումն ի Հաւրէ...։ Էջ 361.— ԳՁ. Հ.— Անեղանելի Հոգիդ Սուրբ...։ Էջ 364.— Մեծ եւ ահեղ է աւրըն դատաստանին...։ Էջ 365-366, դատարկ։ Էջ 645.— Աւրհնութիւն Յարութեան Տեառն.— Երգեսցուք երգ նոր...։ Էջ 684.— Ուրախ լեր մայր լուսոյ Աստուածածին. . .։— Հմմտ. Պար. Շարականներ, էջ 91։\nՅիշատակագրութիւնք Գրչի.— 1571 1.— Էջ 259, ստորոտը.— Ես անարժանս Յովսէփ, որ զրեցի զՇարակնոցս թվ. ՌԻ, ի յերկիրս, որ գոչի Զոկանց, ի դաւղս Կրկանց, ընդ հովանաւ Սբ. Աստուածածնին։ 2.— Էջ 684, վերջը.— [Փ]առք եռանձնեա եզակի միական անորիշ եւ անբաժանելի անքակ եւ անքանակ միասնական Սուրբ Երրորդութեանն ամէն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "387.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1583-refine.json",
+    "pipeline_version": "v1"
+  }
+}

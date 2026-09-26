@@ -1,0 +1,72 @@
+{
+  "id": "J1544",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1544",
+  "notice": "1544",
+  "volume": "Jerusalem_V5",
+  "title": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1544",
+    "no_notice": "11",
+    "titre": "ՃԱՐՏԱՍԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "186",
+    "dimensions": "15x10x1.5",
+    "mise_en_page": "խորագիրները եւ սկզբնատողերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 23 տող։ Նոտր շեղագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": "Պետրոս",
+    "possesseur": "Գրիգոր",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը երկու թերթ, իսկ վերջը երեք",
+    "colophon": null,
+    "informations_diverses": "Ա. սեւադրոշմ ութանկիւն. «Քի. Ծռ. Գաբրիէլ, 1205» [=1756], էջ 2, 4 ; ԿՆԻՔ: Բ. սեւադրոշմ փակագիր. «Քի. Ծռ. Դանիէլ», էջ 2, 176 ; ԿՆԻՔ: Գ. «Քի. Ծռ. Գրիգոր, ՌՃՂԹ» [= 1750], էջ 174",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ .— Յաղագս արհեստի ճարտասանութեան, Գիրք Առաջին։ Յաղագս սահմանի ճարտասանութեան [եւ] բաժանման նորին։ Գլուխ Առաջներորդ.— Ճարտասանութիւն որ եւ ասի Հռետորութիւն, է արհեստ բարւոք ասելոյ...։ Էջ 177-186, դատարկ մեծագոյն մասամբ։\nՅիշատակագրութիւն Գրչի.— Էջ 175-176.— Տէրն կարօղ եւ պարգեւեալ, Էր կարօ ղարդարեցեալ, Րատին անկեալ երկրպագեալ, եւ զփափաքս մեր լցեալ։\nՊարունակեալ ի Գրիգորէ, Երանաշնորհ երանելոյն,\nՏարակուսանք ի ցանկալեյէ, Բետին դըշօղ ի տրուպէ, Ուր եւ կարդայք ի զայս գըրքէ, Սիրով ասէք դհայր մեղայէ ։ Վերջի երկրորդ դատարկ թերթին վըրայ. «Ի վայելումն Աստուածատուրին» ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "321.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "322.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1544-refine.json",
+    "pipeline_version": "v1"
+  }
+}

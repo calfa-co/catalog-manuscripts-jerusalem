@@ -1,0 +1,72 @@
+{
+  "id": "J287",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "287",
+  "notice": "287",
+  "volume": "Jerusalem_V2",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "287",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "398",
+    "dimensions": "27X19X3",
+    "mise_en_page": "խորագիրները և գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 35–40 տող",
+    "details_ecriture": "շեղակերպ անճաշակ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ . վերջին պրակը տեղէն ելած",
+    "etat_conservation": "գրեթէ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "էջ 22, 23, 324 . «Աբրահամ Վարդապետ», փակագիր",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–14 . — Այլազան հատուածք։ Էջ 15 . — Սակս տասն խորանաց։\nէջ 22.— Ներսեսի եպս.ի եղբօր Գրիգորի կթղկս.ի սակս Աւետարանի Մաթէոսի ։ էջ 102.— Երկրորդ Մեկն. Սբյ. Աւետարանիս Մարկոսի. ասացեալ սրբակրօն Բարսղի գերերջանիկ վդպ.ի ։ էջ 151-398.— Այլազան հատուածք, մեծ մասով մեկնողական ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "131.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "132.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "287-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J1515",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1515",
+  "notice": "1515",
+  "volume": "Jerusalem_V5",
+  "title": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+  "date": {
+    "from": "1652",
+    "to": "1652",
+    "display": null
+  },
+  "fields": {
+    "numero": "1515",
+    "no_notice": "8",
+    "titre": "Ա Ւ Ե Տ Ա Ր Ա Ն",
+    "date_debut": "1652",
+    "date_fin": "1652",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "688",
+    "dimensions": "15x11.5x5",
+    "mise_en_page": "սկզբնատողերը կարմիր, սկզբնատառերը փոփոխ ի փոփ կարմիր եւ կապոյտ, մնացեալը սեւ մելանով, երկսիւն, 19 տող, շրջանակներու մէջ",
+    "details_ecriture": "կանոնաւոր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ. լուսանցքները մասամբ ցեցահար",
+    "copiste": "Ներսէս Դըպիր",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "Մատթէոս էջ 10, Մարկոս 214, Ղուկաս 348, Յովհաննէս 546. միջակ արուեստով",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր եւ լուսանցազարդ՝ հատուածներու սկիզբը ; ԽՈՐԱՆԱԶԱՐԴ: իւր սարօք, էջ 11, 215, 349, 547",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–2, դատարկ։ Էջ 3.— Կարմրագիծ խորան։ Էջ 4–9, դատարկ։ Էջ 11.— Գիրք Ծննդեան Յի. Քի. որդւոյ Դաւթի...։ Էջ 215.— Սկիզբն Աւետարանին Յի. Քրիստոսի...։ Էջ 349.— Քանզի բազումք յօժարեցին ...։\nէջ 547.— Ի սկզբանէ էր Բանն եւ Բանըն էր առ Ած. ...: էջ 679բ–688, դատարկ:\nՅիշատակարան Գրչի.— 1652 էջ 678բ.— Կամաւ Հօր եւ ողորմութեամբ նորին միածնի եւ շնորհօք Սուրբ Հոգւոյն ճշմարտի, յանդ ելեալ աւարտեցաւ Սուրբ Աւետարանս, ձեռամբ յոգնամեղ եւ փծոյն գրչի՝ Ներսէս անարժան դպրի, որ վարանեալ եւ տատանեալ կա ի յօտար երկրի. ի թվականիս Հայոց ազգի ՌՃ եւ Ա ամին, յունիս ամսոյ Ժ եւ մէկին:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V5",
+      "file": "275.jpg"
+    },
+    {
+      "volume": "Jerusalem_V5",
+      "file": "276.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1515-refine.json",
+    "pipeline_version": "v1"
+  }
+}

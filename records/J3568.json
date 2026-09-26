@@ -1,0 +1,72 @@
+{
+  "id": "J3568",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3568",
+  "notice": "3568",
+  "volume": "Jerusalem_V10",
+  "title": "ԺՈՂՈՎԱԾՈՅ (Կրօնական)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3568",
+    "no_notice": null,
+    "titre": "ԺՈՂՈՎԱԾՈՅ (Կրօնական)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "80",
+    "dimensions": "22x16",
+    "mise_en_page": "սեւ մելանով, երկսիւն, 26 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": "անհարթ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "սրճագոյն թուղթ",
+    "etat_conservation": "համարեա բաւարար",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Որ երկնչի ի Տեառնէ՝ արասցէ զբարի։ Էջ 2.— Թէ որպէս մարդն իցէ փոքր աշխարհ։ Էջ 4, դատարկ։ Էջ 5ա.— Ի Մատթէոսի Քաղուածոցն սակաւ ինչ առեալ աստ նկարէ։ Հարց Ա.— Վասն պոռնիկ կանացն։ Վասն է՞ր յիշէ զն պոռնիկ կանայսն։... Էջ 15ա.— Կանոն երկրորդ Հատորի։ Ապաշխարեցէք զի մերձեալ է արքայութիւնն, ասէ Տէրն մեր։ Էջ 33ա.— Եղիցի ձեր բանն այոն այո, եւ ոչն ոչ. քան զայլ աւելին ի չարէն է։ Էջ 41բ.— Կանոն երրորդի Հատորին։ Մանուկ իմ անկեալ կայ ի տան անդամալոյծ...։ Էջ 48ա.— Կանոն Չորրորդի Հատորին, որ է ի փառս Տեառն մերոյ։ Գոհանամ զքէն։ Էջ 56բ, դատարկ։ Էջ 57ա.— Սրբոյն Յոհաննու Մանդակունեցւոյ ասացեալ Վասն զգուշութեամբ մերձենալոյ ի մարմին եւ յարիւն Որդւոյն Աստուծոյ։— Սոսկան ոսկերք իմ...։ Էջ 65, դատարկ։ Էջ 66ա.— Տեսի զՍբ. Քաղաքն Երուսաղէմ նոր...։ Էջ 73ա.— Գինի ուրախ առնէ, իւղ զուարթ, եւ հաց հաստատէ զսիրտ մարդոյ։ Էջ 75բ–78, դատարկ։ Էջ 79, դատարկ մեծագոյն մասամբ։ Էջ 80, զանազան մանրուք.— Ի ՌՄԾԳ թւին փոխ տվի զուճումճի Ատլաին...։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "566.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "567.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3568-refine.json",
+    "pipeline_version": "v1"
+  }
+}

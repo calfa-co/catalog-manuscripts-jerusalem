@@ -1,0 +1,68 @@
+{
+  "id": "J688",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "688",
+  "notice": "688",
+  "volume": "Jerusalem_V3",
+  "title": "ՄԵԿՆ. ՍԱՀՄԱՆԱՑՆ ԴԱՒԹԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "688",
+    "no_notice": "3",
+    "titre": "ՄԵԿՆ. ՍԱՀՄԱՆԱՑՆ ԴԱՒԹԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "320",
+    "dimensions": "21x16.5x3",
+    "mise_en_page": "խորագիրները, բնաբանները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 27, 24 տող։ Նոտր շեղագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "ճերմակ եւ կապտորակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–2, դատարկ։ Էջ 3ա — Տէր Առաքելի եռամեծի եւ քաջ հռետորի եւ անյաղթ փիլիսոփայի...։ — Սահման թէ քանի նշանակութիւն ցուցանէ...։ Էջ 15ա — Նորին Տէր Առաքելի հոգենորոգ Հայրապետի վասն Սահմանաց Դաւթի քաղուածու բան։ Էջ 295–6, դատարկ։ Էջ 297–320, միասին։ Էջ 297 — Նորին Տէր Առաքելի Սիւնեաց Եպիսկոպոսին ի տեսութիւն բանին որ ասէ. Ամենայն չար տանջելի։...։ Էջ 320, ԼԳ.— Հրց. Զի՞նչ է որ ասէ բամբասանօք է սատանայ։ ... եւ ոչ զղջացան, որպէս յայտ է, զի սա էր [Շարունակութիւնը կը պակսի]։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "147.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "688-refine.json",
+    "pipeline_version": "v1"
+  }
+}

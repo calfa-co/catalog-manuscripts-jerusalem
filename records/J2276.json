@@ -1,0 +1,72 @@
+{
+  "id": "J2276",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2276",
+  "notice": "2276",
+  "volume": "Jerusalem_V7",
+  "title": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2276",
+    "no_notice": "52",
+    "titre": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "60",
+    "dimensions": "23.5 x 17 x 1",
+    "mise_en_page": "խորագիրները կարմիր, երեք բոլորմատողերը ոսկեգոյն, կապոյտ եւ կարմիր, մնացեալը սեւ մելանով, երկսիւն, 21 տող, գունաւոր գիծերու միջեւ, վերեւը կարմիր եւ կապոյտ գեղեցիկ զարդարանք",
+    "details_ecriture": "վայելուչ։ Համառօտութիւնք սովորական գրեթէ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "մագաղաթանման",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ ոսկեդրուագ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "կէս սիւնակի տարածութեամբ, 19 հատ։ Գունագեղ ինքնատիպ խորանազարդ իւր սարօք, էջ 5։ Մեծ նկար՝ պատարագիչ բազկատարած, էջ",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "մագաղաթեայ պահպանակ բոլորը եւ վերջը երկուական թերթ",
+    "colophon": null,
+    "informations_diverses": "4",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր եւ լուսանցազարդ, էջ 21, 27",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, դատարկ։ Էջ 2ա.— Օրէնք արկանելոյ ըսպաս եկեղեցւոյ։ Էջ 2բ-3, դատարկ։ Էջ 5.— Որ զգեցեալ ես զլոյս...։ Էջ 21ա.— Սարկաւագն՝ Պատուխումէկ. ժող. Ասէ աւթէոս...։ Էջ 21բ.— Հաւատամք ի մի Ած. ...։ Էջ 35ա.— Որով զհացս աւրհնեալ...։ Էջ 38բ.— Յիշեա Տէր եւ ողորմեա եւ աւրհնեա...։ Էջ 52բ.— Որ աւրհնես զայնոսիկ...։ Էջ 55-60, գծուած բայց անգիր։\nՄանր յիշատակագրութիւն գծողի.— Էջ 38, ստորին լուսանցքին.— Ով սուրբ պատարագաւղ, յիշեա զմեղաւոր եւ զանարժան գծողս։\n29 — Պատարագիչ Բազկատարած Թ. 2276, էջ 4"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "411.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "412.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2276-refine.json",
+    "pipeline_version": "v1"
+  }
+}

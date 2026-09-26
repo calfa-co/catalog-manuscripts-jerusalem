@@ -1,0 +1,72 @@
+{
+  "id": "J2057",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2057",
+  "notice": "2057",
+  "volume": "Jerusalem_V7",
+  "title": "ՅԱՂԱԳՍ ՀԱՆԴԻՍԻՑ ՍՈՒՐԲ ՅԱՐՈՒԹԵԱՆ ՏԱՃԱՐԻ",
+  "date": {
+    "from": "1901",
+    "to": "1901",
+    "display": null
+  },
+  "fields": {
+    "numero": "2057",
+    "no_notice": "1",
+    "titre": "ՅԱՂԱԳՍ ՀԱՆԴԻՍԻՑ ՍՈՒՐԲ ՅԱՐՈՒԹԵԱՆ ՏԱՃԱՐԻ",
+    "date_debut": "1901",
+    "date_fin": "1901",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ԺԶ+112",
+    "dimensions": "23×15×1",
+    "mise_en_page": "ամբողջովին մանիշակագոյն թանաքով",
+    "details_ecriture": "մաքուր եւ կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորական։ Լաթակազմ կիսակաշի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Յովհաննէս Վրդ. Պրուսացի",
+    "possesseur": "Յովհաննէս Վրդ. Պրուսացի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Զ, դատարկ։ Էջ Է.— Աշխատասիրեալ ի Յովհաննէս Վարդապետէ Մեծ Իփլէկեան Պրուսացւոյ. 1901։ Էջ Ը.— Ցանկ Գլխոց։ Հանդէս մեր։ Էջ Թ.— Ծանօթութիւն Հանդիսից, որ ի Սուրբ Աստուածածին։ Էջ Ժ–ԺԵ, դատարկ։ Էջ ԺԶ.— Յաղագս Հանդիսից.— Այս տետրակիս միջի պարունակութիւնը՝ միայն Սուրբ Յարութեան երկնանման տաճարի մէջ կատարուած թէ մերազնէից, թէ Յունաց եւ թէ Լատինաց հանդիսից օրերը ցուցունել. նաեւ կանոն ի վերայ երեք ազգաց հասարակ աւուր եկեղեցական արարողութեանց եւ ոչ այլ ինչ։ Էջ 1.— Առաջին Հանդէս Հայոց Վարագայ Սուրբ Խաչի։ Էջ 8.— Երկրորդ Հանդէս Հայոց Գիւտ Սուրբ Խաչի։ Էջ 46.— Ութերրորդ Հանդէս Հայոց Աշխարհամատրան Կիրակի։ Էջ 51.— Կանոն ի վերայ երեք ազգաց հասարակ աւուր եկեղեցական արարողութեանց։ Էջ 78.— Լատինաց Գիւտ Սուրբ Խաչի Հանդէս։ Էջ 92.— Յունաց Առաջին Հանդէս։ Էջ 99–103, դատարկ։ Էջ 104.— Ցանկ Գլխոց. Հանդէս Լատինաց։ Էջ 105.— Ցանկ Գլխոց. Հանդէս Յունաց։ Էջ 106–112, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "141.jpg"
+    },
+    {
+      "volume": "Jerusalem_V7",
+      "file": "142.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2057-refine.json",
+    "pipeline_version": "v1"
+  }
+}

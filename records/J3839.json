@@ -1,0 +1,72 @@
+{
+  "id": "J3839",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3839",
+  "notice": "3839",
+  "volume": "Jerusalem_V11",
+  "title": "ԵՂԾ ԱՂԱՆԴՈՑ (Լուսապատճէն)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3839",
+    "no_notice": null,
+    "titre": "ԵՂԾ ԱՂԱՆԴՈՑ (Լուսապատճէն)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "(զոյգ էջի) 21x15",
+    "mise_en_page": "միասիւն, 19 տող",
+    "details_ecriture": "վարժ։ Լաթակազմ",
+    "types_cahiers": "188— 315, տպագրուած մէկ երեսին միայն",
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Սկիզբի դատարկ թերթին վրայ նշանակուած է մեր ստացած թուականը, \" 21-8-74\"։ Թղ. 188ա.— Երանելւոյն Եզնակ Վարդապետին Կողբացւոյ։ Յորժամ զաներեւոյթէն եւ զնորին զմշտընջենաւոր զաւրութենէն ճառիցէ ոք ...։ Թղ. 218էն յետոյ սխալմամբ գրուած է\n222: Թղ. 262բ, աջակողմեան կէսը շատ տկար ելած: Թղ. 267բ.—... Մինչ չեւ բնաւ էր ինչ ասեն, ոչ երկինք եւ ոչ երկիր, եւ ոչ այլ ինչ արարածք...— Հմմտ. Տպ. Վենետիկ, 1926, էջ 125: Թղ. 274ա.—... Բայց քանզի ի նմին յամառութեան կան, զամենայն ինչ կենդանի եւ շնչաւոր համարել, ոչ հեղգասցուք ըստ մերում կարի եւ այնմ եւս առնել պատասխանի: Լուսին ասեն քան զարեգակն երեսուն աւր անցեալ ընդ ամենայն աստեղատունսն, այսինքն ընդ ամենայն երկինս, հասանէ ի նոյն տեղի, եւ արեգակն ի տարոջ...: Հմմտ. նոյն, էջ 216, 217: Թղ. 292ա.—... զորս զկամսն սիրեմ, վասն զԱստուածն խնդրելոյ, եւ զամբարտաւանութիւնն ոչ գովեմ: Մարկիոն մոլորեալ մուծանէ աւտարութիւն ընդդէմ Աստուծոյն օրինաց, եղեալ ընդ նմա եւ զհիւղն էութեամբ, եւ երիս երկինս...: Հմմտ. նոյն, էջ 268, 265: Թղ. 315ա.—... Քս. է խաղաղութիւնն մեր, որ արար զերկուսին մի, որում փառք յաւիտեանս յաւիտենից ամէն ամէն:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "293.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "294.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3839-refine.json",
+    "pipeline_version": "v1"
+  }
+}

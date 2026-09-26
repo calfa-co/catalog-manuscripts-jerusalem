@@ -1,0 +1,68 @@
+{
+  "id": "J1043",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1043",
+  "notice": "1043",
+  "volume": "Jerusalem_V4",
+  "title": "Ա.— ՅԱՂԱԳՍ ԵՐԿՆԱՅԻՆ ՔԱՀԱՆԱՅԱՊԵՏՈՒԹԵԱՆՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1043",
+    "no_notice": "5",
+    "titre": "Ա.— ՅԱՂԱԳՍ ԵՐԿՆԱՅԻՆ ՔԱՀԱՆԱՅԱՊԵՏՈՒԹԵԱՆՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "360",
+    "dimensions": "20×15×1.5",
+    "mise_en_page": "խորագիրները, սկզբնատողերը եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 35 տող",
+    "details_ecriture": "մանըր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: յոյժ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1–2, դատարկ։ Էջ 3ա.— Պատճառ Դիոնեսիոսի.— Հմմտ. Բ. Հատոր, թիւ 270։ Էջ 4ա.— Դիոնեսիոսի եպիսկոպոսի Աթենացւոյ, Յաղագս երկնային Քահանայապետութեանցն։ Էջ 5ա.— Քահանայակցի Տիմոթիայ, ի Դիոնեսիոսէ Քահանայէ, Յաղագս Երկնայնոց Քահանայապետութեանց։ Գլուխ Առաջին.— [Ա]մենայն տուրք բարի եւ ամ. պարգեւ կատարեալ ի վերուստ է իջեալ...։ Էջ 7բ.— Զստացող տառիս աղաչեմ յիշել ի Տէր։ Էջ 228բ.— Պատմութիւն սրբոյ Դիոնեսիոսի եպիսկոպոսի, որ է որդի Սոկրատայ գլխաւոր ամենեցուն, որ կոչէ իմաստնայսիրոյ քաղաքի քաղաք.— Պատմեաց յաղագս անձին իւրոյ երանելին Դիոնէսիոս...։ Էջ 233–234, դատարկ։\nԲ.— ԼՈՒԾՄՈՒՆՔ ԴԻՈՆԷՍԻՈՍԻ.— 6 Դաւիթ եւ Յակոբ վարդապետք Էջ 235ա.— Լուծմունք Դիոնէսիոսի. ի Դաւթէ եւ Յակոբայ յիմաստուն վարդապետաց.— [Ա]մենայն տուրք բարի։ ԼԾ. Սկիզբն զառաքելական դնէ իւրոց բանիցն ...։ — Հմմտ. թիւ 270։ Էջ 357բ.— Առ Յոհաննէս Աստուածաբան.— Ողջոյն տամ քեզ սրբազանիդ անձին սիրեցեալդ։ ԼԾ. Իմ սիրեցեալդ...։ Էջ 359–360, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V4",
+      "file": "087.JPG"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1043-refine.json",
+    "pipeline_version": "v1"
+  }
+}

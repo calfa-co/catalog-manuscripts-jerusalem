@@ -1,0 +1,68 @@
+{
+  "id": "J2738",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2738",
+  "notice": "2738",
+  "volume": "Jerusalem_V8",
+  "title": "ԶԷՅԹՈՒՆԻ ԱՆՑՔԵՐԸ",
+  "date": {
+    "from": "1862",
+    "to": "1862",
+    "display": null
+  },
+  "fields": {
+    "numero": "2738",
+    "no_notice": null,
+    "titre": "ԶԷՅԹՈՒՆԻ ԱՆՑՔԵՐԸ",
+    "date_debut": "1862",
+    "date_fin": "1862",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "Տետրակ մըն է 28 էջնոց, 1—2 և 22—28 դատարկ։ Նոտր շեղագիր վարժ։",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 3.— Զէյթունի Տէր Մովսէս Հայազգի չմիաբանեալ Քահանային հաւատարիմ պատմութիւնը, որն որ Զէյթունի վերջին հանդիպած դէպքերուն մէջ Զէյթունցւոց և Մարաշու Օսմանեան պաշտօնակալաց մէջտեղը դեսպանի տեղապահութեան պաշտօնը կը վարէր։\nԶէյթունի դէպքերուն պատմութիւնը չսկըսած աւելի յարմար կը դատիմ հոս Զէյթունի նահանգին տեղագրական ծանօթութիւն մը տալ։...\nՔերթմենցի տաճիկ մը Բելդեկ Ալի անուն 3-4 տարի յառաջ իրեն Իբրահիմ անուն եկենին (հօրեղբօր որդի կամ քեռորդի) կինը փախուցեր էր. 1862 յունիս ամսոյ մէջ այս երկուքը մեկ արտի մը սահմանը նշանակելը պատճառ բռնելով, մեկզմեկու դէմ շատ մը անարգական խօսքեր զրուցելէն վերջը կռուի եկան. . . :\nԷջ 20.— Հոս պէտք է ծանուցանել որ մինչդեռ Զէյթունցիք պաշարուած էին տաճկացմէ, աղերսագիր մը խաւրած էին Հալեպի Գաղղիոյ Հիւպատոսին, և միևնոյն ատեն 3 հատ պատգամաւորներ խաւրուեցան Փարիզ, որոց մեկը եկեղեցական էր, կայսեր գթութիւնը իրենց վրայ խնդրելու համար։\nՏ. Մովսեսի երթալու ատենն ալ պաշարումը դեռ կտևէր, և 6 Զէյթունցիք ալ դեռ ևս բանտարկուած էին. նմանապէս և կը շարունակուէր Զէյթունի վրայ կրկին անգամ արշաւելու պատրաստութիւնը. բայց ետքէն շատ մը ձիւն գալով ան կողմերը, Զէյթուն երթալը անկարելի էր։— 31 դեկտեմբեր, 1862, Կ. Պոլիս։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "385.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2738-refine.json",
+    "pipeline_version": "v1"
+  }
+}

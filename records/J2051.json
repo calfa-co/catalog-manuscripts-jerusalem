@@ -1,0 +1,68 @@
+{
+  "id": "J2051",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2051",
+  "notice": "2051",
+  "volume": "Jerusalem_V7",
+  "title": "ԲԱՌԳԻՐՔ ԻՏԱԼԵՐԷՆԷ Եւայլն — ԹՐՔԵՐԷՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2051",
+    "no_notice": "1",
+    "titre": "ԲԱՌԳԻՐՔ ԻՏԱԼԵՐԷՆԷ Եւայլն — ԹՐՔԵՐԷՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "24 X 15 X 3",
+    "mise_en_page": "վերնագիրները եւ գլխատառերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 27 տող։ Նոտր շեղագիր",
+    "details_ecriture": null,
+    "types_cahiers": "154",
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Թղ. 1ա. — Այբ իւզէրինէ, լաթինճէ, տալեանճայ, ֆըրանսըզճայ, ինկիլիզճէ, րումճայ, էզայ լուղէթլէրինին թիւրքճէսի տիր։ Արրէթիթու քանիս, իթ իշտահը։ Լ Արրէթիթօ քանինօ, իթ իշտահը։ Ի Արէր, եապան տօմուզու։ Լ Թղ. 12բ — 13ա, դատարկ. միայն Ա սկզբնատառերը գրուած կարմրադեղով։ Նոյնպէս թղ. 14բ։ Թղ. 15ա. — Բէն իւզէրինէ, լաթինճէ, տալեանճայ, ֆըրանսըզճայ, ինկիլիզճէ, րումճայ, էզայ լուղէթլէրինին թիւրքճէսի։ Բարախա, պիր աղաճ տը, ճինս օլուր Ամերքնոտայ։ Բարավէր, տես Բարավէրօ։ Բարավէրօ, Խաշխաշ։ Թղ. 26—27, միայն Բ տառերը գրուած։ Թղ. 28ա. — Գիմ իւզէրինէ, լաթինճէ, ... թիւրքճէսի։ Թղ. 28բ — 30բ, դատարկ մեծագոյն մասամբ։ Թղ. 32 — 34, դատարկ մեծագոյն մասամբ։ Նման դատարկ կամ կիսով չափ գըրուած թերթեր կան նաեւ այլուր։ Թղ. 87ա. — Նու իւզէրինէ, տալեանճայ ... էզայ լուղէթլէրինին թիւրքճէսիտիր։ Նարիթա, տես Նաֆթա։ Նաֆթա, Նէֆթ եաղը։ Թղ. 107ա. — Ռա իւզէրինէ...։ Ռայ, չաւտար։ Թղ. 151ա. — Ֆէ իւզէրինէ, տալեանճայ, լաթինճէ, ֆըրանսըզճայ, ինկիլիզճէ, րումճէ, էզայ լուղէթլէրինին թիւրքճէսի։ Ֆալքօ, ֆալքօնէ, շահան, տողան, աթմաճայ...։ Ֆիան, մատաղ եղջերու, կէյիկ եավրուսու։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "136.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2051-refine.json",
+    "pipeline_version": "v1"
+  }
+}

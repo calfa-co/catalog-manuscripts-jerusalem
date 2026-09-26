@@ -1,0 +1,68 @@
+{
+  "id": "J3265",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3265",
+  "notice": "3265",
+  "volume": "Jerusalem_V10",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ԱՌԱԿԱՑ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3265",
+    "no_notice": null,
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ԱՌԱԿԱՑ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "34X21X1: Էջք Ը+96: Հանգամանք լաւ: Թուղթ հասարակ: Գրութիւն՝ վերնագիրները կապոյտ, մնացեալը մանիշակագոյն թանաքով, երկսիւն, 38 տող, զոյգ գիծերու միջեւ: Շեղագիր վարժ: Համառօտագրութիւնք առատ: Կազմ խաւաքարտեայ: Ստացող՝ Պետրոս Վրդ. Սեբաստացի",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա–Է, դատարկ: Էջ 1ա.— Յաղագս առաջիկայ առակաց սուրբ աւետարանականաց. Բան առ բարեմիտ ընթերցողս: Օգնեա Սբ. Հոգի Ած.: Կանխաբարբառ եւ հոգիաշարժ աւետարանիչն Մատթէոս...: Էջ 4բ.— Յաղագս տեսակաւորեալ հաւատոյ: Բնաբան, Ղուկ. Զ. 46: Գլուխ Բ: Էջ 68բ.— Յաղագս արքայութեան Տեառն մերոյ: Ղուկ. 19.12: Գլուխ Լ.— Այր ոմն ազնուական գնաց յաշխարհ հեռի...:\nԷջ 73բ.— Ասացեալ ի հեղինակէ գրկկանս որ կոչի Աղբիւր Բացեալ, տեառն Պետրոսի բանասիրի եւ աստուածաբանութեան վարդապետի, որ կոչիւրն ցեղիւ Աղամալեան, եւ մակ անուամբ Պրն. Պետրոս Փերթումեան: Աւարտ գրքոյս:\nԷջ 74ա.— Քաղցրաշար զեղզեղանաց աղերս, եւ ամոքալու դրուատանաց օղերձ, ի պատիւ մեծի խոստովանողին Քի., ի Սբ. Գրիգոր, Հայաստանեայցս եւ այլոց աշխարհաց մեծին Ասիայու Լուսաւորչին: Քանզի միանգամայն ամ. տնօրինական արարք տիեզերազատ Փրկչին կանխապէս անթերի լրութեամբ ի մատեանս հոգեկիր տեսանողաց ապացոյց, եւ կամ ապացոյց գուշակակրութեամբ տարածածկապէս...: Էջ 91–96, դատարկ:\nՅիշատակագրութիւն.— 1865 Էջ Ը, վերը, մանիշակագոյն թանաքով.— Ես Պետրոս Վարդապետս Սեբաստացի կըտակաւ ծանուցանեմ ամենեցուն, զի զայս մատեանս յետ մահուան իմոյ յիշատակ առնեմ շնորհաւուն ծնողին իմոյ Սրբոյ Նշանի Աթոռոյն Սեբաստիոյ. ուստի եթէ ոք իւրացուցանել համարձակեսցի պարտաւոր գտցի յատենի Աստուծոյ.— 1865, ՌՅԺԴ.— Կնիք՝ փակագիր. «Պետրոս Վարդապետ, 1851»:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "079.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3265-refine.json",
+    "pipeline_version": "v1"
+  }
+}

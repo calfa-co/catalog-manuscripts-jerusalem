@@ -1,0 +1,72 @@
+{
+  "id": "J396",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "396",
+  "notice": "396",
+  "volume": "Jerusalem_V2",
+  "title": "ՄԵԿՆ. ԵՐԳՈՑ ԵՐԳՈՅՆ",
+  "date": {
+    "from": "1828",
+    "to": "1828",
+    "display": null
+  },
+  "fields": {
+    "numero": "396",
+    "no_notice": "1",
+    "titre": "ՄԵԿՆ. ԵՐԳՈՑ ԵՐԳՈՅՆ",
+    "date_debut": "1828",
+    "date_fin": "1828",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "396",
+    "dimensions": "24 X 18 X 2",
+    "mise_en_page": "խորագիրները եւ բնաբանները կարմիր, մնացեալը սեւ մելանով, միասիւն, 31 տող",
+    "details_ecriture": "վարժ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ։ Մեծ, կարմրաներկ ՍԿԶԲՆԱՏԱՌՔ՝ մի քանի հատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": "մանկավարժ Թովմաս դպիր",
+    "possesseur": "Դաւիթ Վրդ. Գէորգեան",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— Էջ 1.— Մեկնութիւն Երգոց Երգոյն Սողոմօնի, արարեալ ի Միաբանութենէ Սբ. Աթոռոյն Էջմիածնի Տոն. Յակոբայ հոգեզգօն Բարունւոյ Կարնեցւոյ Սիմէօնեան։ Եւ ա[յ]ժմ օրինակեալ յընտիր ձեռագրէ ի վայելս Սբյ. Սաղիմայ Միաբան Տ. Դաւիթ Վարդապետի Գէորգեան Կարնեցւոյ։ Ձեռամբ մանկավարժ նուաստ Թոմաս Դպրիս յամի շնորհաց 1828, ի Վեքիլարանի Սբյ. Աթոռոյն Երուսաղէմի, ի Պօլիս։ Էջ 3.— Բան առ խոհեմամիտ մերազնեալ ընթերցօղս.— Եթէ սակս լերին Սինայի պատմէ Մովսէս...։ Էջ 9.— Մակագրութիւն հետեւեալ բանիցս անուանի զսա Երգ Երգոց Սողոմօնի...։ Ծանօթ.— «... ուրեք ուրեք տեսանին թերի բառք ինչ, կամ ամբողջ իմաստք թողեալ պարապ» (Սաւալանեան, Ցուցակ, էջ 278)։ Էջ 23.— Ի սոյն նախկին գլխոջ՝ հարսն զանխլաբար զաղերս ընծայէ...։ Էջ 351.— Վերջ եւ աւարտ Մեկնութեանս։ Մեկնութիւնս վերջացուցեալ փառս տացուք ամենակալ Արարչին։ Ոտանաւոր գոհութեան, եւ մեծի շնորհակալութեան. Տէր իմ Տէր Հայր՝ զքէն գոհանամ, զանուն Որդւոյ քոյ՝ միշտ կարդամ...։\nԻ մեկնութեան Յայսմիկ տառի, Աշխատ եղէ կամաւ մեծի, Որ ըզգըրեալ Բանքս ի քարտի, Արանց ոմանց Յարգի ցուցցի․․․։ — Ի Յակոբայ Վարդապետէ։ էջ 353․— Ցանկ Երգ Երգոց անուանեալ Սողոմոնի, իսկագոյն բնաբանի նորին․․․։ էջ 362․— Վերջաբանութիւն Գրոյս Դրութեան, և ծանուցումն ոմանց բանից․— Փանաքի միոյ ամենից վերջին սեւակրի․․․։ էջ 364-5, 369-376, զանազան հատուածներ, տարբեր գրչով․ մնացեալ էջերը դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "341.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "342.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "396-refine.json",
+    "pipeline_version": "v1"
+  }
+}

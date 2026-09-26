@@ -1,0 +1,68 @@
+{
+  "id": "J2136",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2136",
+  "notice": "2136",
+  "volume": "Jerusalem_V7",
+  "title": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+  "date": {
+    "from": "1831",
+    "to": "1831",
+    "display": null
+  },
+  "fields": {
+    "numero": "2136",
+    "no_notice": "2",
+    "titre": "Ճ Ա Ր Տ Ա Ս Ա Ն Ո Ւ Թ Ի Ւ Ն",
+    "date_debut": "1831",
+    "date_fin": "1831",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "112",
+    "dimensions": "21.5x14.5x1",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 23, 24 տող",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ճակատ. Համառօտութիւն Ճարտասանութեան, յօրինեալ դիւրին ոճով ի հարց եւ ի պատասխանի Հօրն Ճենովեսայ, թարգմանեալ ի Մուրատայ վարժապետէ Աբրահամեան Բերիացւոյ, յամի 1831, ի Վանս Զարխափան Կուսին յԱրմաշ։ Նորոգ օրինակեալ ի Բալուցի Ղուկաս վարդապետէ՝ ի միաբանութենէ Սրբոց Յակովբեանց Երուսաղէմի, 1845։\nԷջ 2.— Հ. Ի՞նչ է Ճարտասանութիւնն։ Պ. Ճարտասանութիւնն է արուեստ բարւոք խօսելոյ առ ի համոզել զունկնդիրն. — Հմմտ. աստ, թ. 2020։ Էջ 108.— Զի՞նչ է շարժուածք մարմնոյ։ Էջ 110–112, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V7",
+      "file": "224.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2136-refine.json",
+    "pipeline_version": "v1"
+  }
+}

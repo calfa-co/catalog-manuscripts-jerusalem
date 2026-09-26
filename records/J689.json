@@ -1,0 +1,72 @@
+{
+  "id": "J689",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "689",
+  "notice": "689",
+  "volume": "Jerusalem_V3",
+  "title": "ՀԱՒԱՔԱԲԱՆԱԿԱՆ ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": "1805",
+    "to": "1805",
+    "display": null
+  },
+  "fields": {
+    "numero": "689",
+    "no_notice": "2",
+    "titre": "ՀԱՒԱՔԱԲԱՆԱԿԱՆ ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ",
+    "date_debut": "1805",
+    "date_fin": "1805",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "240",
+    "dimensions": "21x16x2;",
+    "mise_en_page": "գլխագիրները կարմիր, մնացեալը սեւ մելանով, միասիւն, 26 տող։ Նոտր շեղագիր",
+    "details_ecriture": "չափազանց առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կապտորակ",
+    "nb_lignes": null,
+    "reliure": "կիսալաթ խասաքարտեայ",
+    "etat_conservation": "շատ լաւ",
+    "copiste": "Մեսրոպ Աբղ. Իսկիւտարցի",
+    "possesseur": "Մեսրոպ Աբղ. Իսկիւտարցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— էջ 1.— Գիրք որ կոչի Հաւաքաբանականի Ածաբանութիւն, ի բազմազանից սրբոց գրեանց նրբից եւ արտաքնոց եւ Ած.աբան\nվարդապետաց, հաւաքեալ ի Պետրոսէ Ածաբան Վարդապետէ Հռոմկլայեցւոյ, որ մակ անուամբ Քիւքիւր կոչի, ի վարժարանս Սրբոյ Էջմիածնի։\nԻսկ այժմ վերստին օրինակեցաւ ի Սբ. Դանիէլի Վանս, որ Կեսարիայն մեծ, ի թուին ՌՄԾԴ [= 1805]ին, ձեռամբ Մեսրոպ մեղսակիր Աբեղայիս Յիւսկիւտարցւոյ, նախ ի վայելումն իմոյ անձին եւ ապա ընթերցասէր եղբարցդ սիրելեաց իմոց. բաւ է։\nԷջ 3.— Համառօտաբար գումարումն Հաւաքաբանականի Ածաբանութեան մատեան...։ Հմմտ. աստ, թիւ 674։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "147.jpg"
+    },
+    {
+      "volume": "Jerusalem_V3",
+      "file": "148.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "689-refine.json",
+    "pipeline_version": "v1"
+  }
+}

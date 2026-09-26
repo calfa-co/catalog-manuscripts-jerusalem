@@ -1,0 +1,72 @@
+{
+  "id": "J2512",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2512",
+  "notice": "2512",
+  "volume": "Jerusalem_V8",
+  "title": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2512",
+    "no_notice": "77",
+    "titre": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "15.5 x 10.5 x 1.5 : Էջք 77 : Հանգամանք համարեա բաւարար . վնասուած ցեցերէ : Թուղթ հասարակ : Գրութիւն՝ սկզբնատողերը և գլխագիրները կարմիր, մնացեալը սև մելանով, միասիւն, 20 տող : Բոլորգիր վարժ : Համառօտագրութիւնք սովորական : Կաշեկազմ տախտակեայ գծազարդ և խաչադրոշմ : Կնիք սևադրոշմ փակագիր . «Գրիգոր Վարդապետ»",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-8, դատարկ : Էջ 9 — Որ զգեցեալ ես զլոյս . . . Էջ 15 — Ամենակալ Ած . բարերար . . . : Էջ 29 — Հաւատամք ի մի Ած . . . Էջ 60 — Յոհաննու Ոսկեբերանին ասացեալ . — Գոհանամ և մեծացուցանեմ . . . : Էջ 66 — Որ օրհնես զայնոսիկ . . . : Էջ 68-76, դատարկ :\nՅետնագոյն յիշատակագրութիւն . — 1738 Էջ 77, կողքին փակած, նոտր շեղագիր . — Յիշատակ է քահանայ ըզգեցուցանելոյ գիրգս, Ակնայ Խոզագրակ կոչեցեալ գիւղէն, խոստովանահայր Գրիգոր Վարդապետին, ի Սբ . Երուսաղէմ, ի դուռն Սբ . Յակոբայ : Եւ"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "207.jpg"
+    },
+    {
+      "volume": "Jerusalem_V8",
+      "file": "208.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2512-refine.json",
+    "pipeline_version": "v1"
+  }
+}

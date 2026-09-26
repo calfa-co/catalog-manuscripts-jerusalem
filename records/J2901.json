@@ -1,0 +1,68 @@
+{
+  "id": "J2901",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2901",
+  "notice": "2901",
+  "volume": "Jerusalem_V9",
+  "title": "ՏՐԱՄԱԲԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2901",
+    "no_notice": "2",
+    "titre": "ՏՐԱՄԱԲԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "18.5X12X2: Էջք 470: Հանգամանք շատ լաւ: Թուղթ հասարակ: Գրութիւն սեւ մելանով, միասիւն, 18 տող: Շեղագիր մաքուր: Համառօտագրութիւնք սովորական: Կազմ կիսակաշի խաւաքարտեայ: Դատարկ թուղթք սկիզբը երեք թերթ",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Տրամաբանութիւն որ եւ Արուեստ Բանական: Հ. Ի՞նչ է տրամաբանութիւնը: Պ. Տրամաբանութիւնն է արուեստ ուղիղ խորհելոյ, որովհետեւ բարւոք քննել, ու ճշմարիտը սուտէն եւ ստոյգն ալ անստոյգէն որոշել կը սորվեցնէ.— Հմմտ. թիւ 2684, Ը. հատոր, էջ 302: Էջ 22.— Մասն Ա. Ըմբռնումն: Հ. Ի՞նչ է ըմբռնումը: Պ. Ըմբռնումն է մտաց ներգործութիւն, որով զգայութեան մէջ տպաւորուած իրաց պատկերները եւ անոնց հանգամանաց ծանօթութիւնները կ'երեւակայեմք առանց դատաստան ընելու...: Էջ 64.— Ճառ Պորփիւրեան: Էջ 248.— Մասն Երկրորդ: Դատումն: Էջ 351.— Մասն Երրորդ: Տրամախոհութիւն կամ Խելամտութիւն: Էջ 439-440, դատարկ: Էջ 441.— Ցանկ Գլխոց: Էջ 455.— Աղիւսակ Պիւթագորեան: Էջ 456-470, դատարկ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "122.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2901-refine.json",
+    "pipeline_version": "v1"
+  }
+}

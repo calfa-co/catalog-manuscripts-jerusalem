@@ -1,0 +1,68 @@
+{
+  "id": "J3717",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3717",
+  "notice": "3717",
+  "volume": "Jerusalem_V11",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3717",
+    "no_notice": "Ա",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԵԿԵՂԵՑՒՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "788",
+    "dimensions": "20X14x8",
+    "mise_en_page": "սրճագոյն մելանով, միասիւն, 22 տող",
+    "details_ecriture": "վարժ։ Լաթակազմ խաւաքարտեայ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": "Հեղինակը",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1, վերի լուսանցքին.– Հեղինակն է Յովհ. Պրուսացի Տէրոյենց բազմահմուտ (իր իսկ ձեռագիրն է)։ Պատմութիւն Եկեղեցւոյն Աստուծոյ, Հատոր Ա։ Հին Եկեղեցի կամ Պատմութիւն Հրէից, որ կը պարունակէ Ադամէն մինչեւ Հրէից Բաբելոնի գերութենէն ազատիլը, հին եկեղեցւոյն պատահած անցքերուն ալ պատմութեանց հետ։ Միջոց 4667 տարուան։ Գիրք Ա.– Ադամէն մինչեւ Իսրայէլացւոց Եգիպտոսէ ելքը։ Միջոց 3712 տարուան։ 1.– Աստուած ամենակարող երբ որ աշխարհս ստեղծեց, եւ տեսակ տեսակ հանքերով եւ բոյսերով եւ կենդանիներով զարդարեց...։ Էջ 158.– Գիրք Բ.– Իսրայէլացւոց Եգիպտոսէն ելնելէն մինչեւ Սաղմանասարայ գերութիւնը եւ Իսրայէլի թագաւորութեան վերնալը։ 3712 թուականէն մինչեւ 4485 թուականը։ Միջոց 773 տարուան։ Էջ 299.– Գիրք Գ.– Իսրայէլի թագաւորութեան վերնալէն մինչեւ Բաբելոնի գերութիւնը։ 4485 թուէն մինչեւ 4615. միջոց 130 տարուան։ Էջ 420.– Գիրք Դ.– Բաբելոնի գերութենէն մինչեւ զդարձը. 4615 թուականէն մինչեւ 4668, միջոց 53 տարուան.– Տես նաեւ թիւ 3745, էջ 499։ Էջ 788.– Վերջ առաջին հատորոյ Եկեղեցական Պատմութեան։ Կան 15 աւելորդ թերթեր, տարբեր գրչութեամբ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "183.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3717-refine.json",
+    "pipeline_version": "v1"
+  }
+}

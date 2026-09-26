@@ -1,0 +1,68 @@
+{
+  "id": "J246",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "246",
+  "notice": "246",
+  "volume": "Jerusalem_V2",
+  "title": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "246",
+    "no_notice": "18",
+    "titre": "ԲԱՆՔ ՈՍԿԻԱԿԱՆՔ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Ժ + 504",
+    "dimensions": "28 X 19 X 4",
+    "mise_en_page": "խորագիրները եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, 41 տող",
+    "details_ecriture": "վարժ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ քակուած ամբողջովին",
+    "etat_conservation": "նորոգութեան կարօտ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա-Զ.— Դատարկ, կամ մանր մունր գրութիւնք։ Էջ Է.— Ճակատ.— Բանք Ոսկիականք ... Թարգմանեցեալ ի Ղուկասու Վարդապետէ Խարբերթացւոյ Աբրահամեան։ Էջ Ը.— Առաջաբանութիւն։ Էջ Թ-Ժ.— Դատարկ։ Էջ 1.— Առաջին կիւրակէի Գալստեան Տեառն։ Էջ 495.— Ցանկ բանից եւ քարոզաց պարունակեալ ի գրքոս։\nՅիշատակագրութիւնք.— Էջ 504.— Յիշատակ է գիրքս էջմի միաբան Անդրիանուպոլսեցի նախկին պատրիարդ մեծին Պօլսոյ Պօղոս Սրբազան Արքեպիսկոպոսի ձեռնասուն աշակերտ Զօրլուցի Տէր Կարապետեան նուիրակ հանգուցեալ Երեմիա շնորհազարդ վարդապետին ի դուռն Սրբոց Յակոբեանց Մայր Աթոռոյն ամ. Հայոց։ Թիւ. 1838 Սեպտ. 6։ Էջ 500.— Յիշատակ է գիրքս Սբ. Ելմի միաբան Զօրլուցի Երեմիա վարդապետին Տէր Կարապետեան, ձեռնասուն Պօղոս Սրբազանին։ 1838 Սեպ. 6։ Դրձ? 1847 գրեցաւ եւ յանձնեցաւ Թէքիրտաղցի Մկըրտըչեան սարկաւագ Կարապետին, աշակերտ Եւդոկիացի Յովհաննէս Վարդապետին։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "028.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "246-refine.json",
+    "pipeline_version": "v1"
+  }
+}

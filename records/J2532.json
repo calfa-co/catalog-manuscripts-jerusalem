@@ -1,0 +1,72 @@
+{
+  "id": "J2532",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2532",
+  "notice": "2532",
+  "volume": "Jerusalem_V8",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Ւ (ԿՐՕՆԱԿԱՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2532",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Ւ (ԿՐՕՆԱԿԱՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "210",
+    "dimensions": "16.5x11.5x1.5",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 22-29 տող։ Նոտր շեղագիր անարուեստ",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ դրոշմազարդ, մասամբ քակուած",
+    "etat_conservation": "բաւարար գրեթէ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը եօթ թերթ",
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Հրամայէ Տէրն մեր, նախ խնդրել զարքայութիւն իւր սուրբ։ Վասնզի ընդունայն իմն է շահիլն զաշխարհս ամ. և զանձըն իւր կորուսանելն։ Էջ 63.— . . . Քանզի ոչ ոք է և ոչ գոյ մարդ որ ունիցի ուղիղ կենցաղ և յարութեան ոչ հաւատայ։ Էջ 64, դատարկ, անմաքուր։ Նոյնպէս էջ 75։ Դատարկ են նաև էջ 94-96։\nՊԱՏԱՍԽԱՆԱՏՐՈՒԹԻՒՆՔ.— 1 Յոհաննէս Վրդ. Կ. Պոլսեցի Ճակատ. էջ 97.— Յոհաննիսի Վարդապետի Կոստանդինուպօլսեցւոյ Պատասխանատրութիւնք թըղթոյ ուրումն ընդդիմադրականի գրեցելոյ յեղբարց ոման[ց] հայկազունեաց։ Յամի Տեառն 1687, ի Վէնէտիկ քաղաքի, առ Եաքօմօ Մօրէթթի։\nԷջ 98.— Օրինակ թղթոյն.— Ընդդէմ այնոցիկ որք հակառակին ճշմարտութեան ասելով թէ Բանն Ած. անհաղորդ է կրից մարմնոյն, այսինքն չարչարանացն, խաչելութեանըն, և մահուանն, որ է յոյժ սուտ . . .։ Էջ 101.— Առաջաբանութիւն Պատասխանատրութեանս։ Էջ 107.— Երկու կամք և երկու տեսակք ներգործութեանցն ի Քրիստոս։\nԷջ 115 — Յարացուցական Հաւատտութիւն ։ Էջ 119 — Զայսոսիկ գրեցի առ եղբայսըդ իմ խնդրելով զներումն յանդգնութեան իմոյ, զի եմ ձեր ամենեցուն ծառայ նուաստ Յոհաննէս Հոլով ։ Ողջ լերուք . ամէն ։ Էջ 120-205, դատարկ ։ Էջ 206 — Առ քեզ գոչեմ արտասվելով . . . ։ Էջ 210, գծծուած ։ Յիշատակագրութիւն .— Սկիզբի դատարկ թուղթին առաջին երեսին .— Ի վայելումն եղբար Մանուէլին է աս գիրքս ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "237.jpg"
+    },
+    {
+      "volume": "Jerusalem_V8",
+      "file": "238.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2532-refine.json",
+    "pipeline_version": "v1"
+  }
+}

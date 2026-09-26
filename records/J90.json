@@ -1,0 +1,68 @@
+{
+  "id": "J90",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "90",
+  "notice": "90",
+  "volume": "Jerusalem_V1",
+  "title": "Ք Ա Ր Ո Զ Ա Գ Ի Ր Ք",
+  "date": {
+    "from": "1769",
+    "to": "1769",
+    "display": null
+  },
+  "fields": {
+    "numero": "90",
+    "no_notice": "6",
+    "titre": "Ք Ա Ր Ո Զ Ա Գ Ի Ր Ք",
+    "date_debut": "1769",
+    "date_fin": "1769",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "788",
+    "dimensions": "32 x 21 x 6",
+    "mise_en_page": "սեւ մելանով, երկսիւն, 47 տող",
+    "details_ecriture": "մանր, կանոնաւոր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: շատ առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "բաւարար",
+    "copiste": "Փիլիպպոս դրպիր, որդի Աստուածատրոյ",
+    "possesseur": "Կիրակոս Վրդ. Գերմանեցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— Զբոլոր գործս զայս նուիրեմ քեզ, Հոգի Սուրբ Աստուած...։ Քարոզգիրքս այս շարադրեալ ի Յակոբ Պատրիարգէ Կոստանդնուպօլսու, ի ընտիր օրինակէ օրինակեցեալ ձեռամբ Ճուղայեցի Աստուածատրոյ որդւոյ տիրացու անձանձիր դրպիր Փիլիպպոսէ ի փառս Աստուծոյ և ի վայելումն Գերմանեցի Կիրակոս Վարդապետին, ի շնորհս Սուրբ Տեղեաց Տեառն, ի Սբ. Քաղաքն Երուսաղէմ, ընդ հովանեաւ Սրբոյ և մեծի գերագահ Աթոռոյն Հայոց, որ յանուն Սրբոց Յակոբեանց երջանիկ Առաքելոցն Քրիստոսի կառուցեալ. ի պատրիարքութեան Տեառն Պօղոսի դերերջանիկ վարդապետին, ի թուին Փրկչին 1769, իսկ ի Հայոց ՌՄԺԹ, ամէն։\nԷջ 1.— Առաջին քարոզ Պենտեկոստէի...։— Բնաբանս այս ունի զչորս մասունս...։ Էջ 736.— Քարոզ ՃԺԶ։ Եօթներորդ Կիրակէի զկնի Սրբոյ Զատկին, երկրորդ Ծաղկազարդին։ Էջ 743ա.— Ցանկ Քարոզգրքոյս, միայն գլխոց։ Էջ 749ա.— Այբուբենական Ցանկ։ Էջ 768բ-788, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "302.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "90-refine.json",
+    "pipeline_version": "v1"
+  }
+}

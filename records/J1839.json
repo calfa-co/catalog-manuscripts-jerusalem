@@ -1,0 +1,72 @@
+{
+  "id": "J1839",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1839",
+  "notice": "1839",
+  "volume": "Jerusalem_V6",
+  "title": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ԱՅԼԱԶԱՆ)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1839",
+    "no_notice": null,
+    "titre": "Ժ Ո Ղ Ո Վ Ա Ծ Ո Յ (ԱՅԼԱԶԱՆ)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "128",
+    "dimensions": "21X17",
+    "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 24 տող, երբեմն նուազ",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Յաղագս նախադրութեանց ի վերայ սեռական հոլովի։ Էջ 9.— Ի վերայ մակբայից։ Էջ 14.— Աստուածաշունչն է բանք Այ. եւ հաւատքն մեր հաստատեալ են ի վերայ բանից Աստուծոյ...։ Էջ 21.— Շինական ոմն յերթալն յեկեղեցի յաւուր միում, հանդիպեցաւ նմա ի ճանապարհի այր ոմն անհաւատ, որ եհարց ցնա թէ ո՞ւր երթաս։ Պատասխանի ետ գիւղացին, երթամ ի սուրբ եկեղեցին պարոն։ Դարձեալ եհարց նմա այրն. Զի՞նչ առնել երթաս յեկեղեցին։ Ետ պատասխանի շինականն, առնել երկրպագութիւն Աստուծոյ։ Երրորդ անգամ այպանելով զնա հարցանէ. Աղաչեմ ասա ինձ, մեծ է Ած. քո, եթէ փոքր։ Ասէ ցնա գիւղացին. Պարոն, այնչափ մեծ է Ած. իմ մինչ զի ահագին մեծութիւն երկնից ոչ է բաւական պարունակել զնա, եւ այնչափ փոքր է, մինչ զի կարէ բնակիլ ի սրտի իմում։ Էջ 52.— 1850 ամի, օգոստոս 13, գնաց աստի, ի Սբ. Բէթլէհէմ, հարազատ եւ սիրելի հաւատարիմ եղբայր իմ տիրացու Տիմօթէոս, վասն օդափոխութեան...։ Էջ 60.— Ով բարձրագահ գերերջանիկ Առաքելական Աթոռ Սրբոց Յակովբեանց, խնդա եւ ուրախ լեր յոյժ, մեծաւ ուրախութեամբ եւ ցնծութեամբ, ընդ նորապսակ ընտրեալ եւ արժանաժառանգ պատրիարդ Տ. եւ Տ. Յոհաննէս Արքեպիսկոպոս...։ Էջ 63.— Սկիզբն իմաստութեան երկիւղ\nՏեառն.— Երանի այնմ, որ ունի ի սրտին զերկիւղն Աստուծոյ...։ Էջ 70.— Օրինակ հակադրութեան բանից։ Էջ 18.— Յաղագս ձեւութեան։ Էջ 84.— Յաղագս փոխաբերութեան։ Էջ 86.— Յաղագս խելամտութեան առաջին կանոն։ Էջ 5.— Յաղագս դիմառնութեան առաջին կանոն։ Էջ 103.— Յաղագս ընդլայնման։ Էջ 122.— Ի Մահն Աղեքսանդրու։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "234.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "235.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1839-refine.json",
+    "pipeline_version": "v1"
+  }
+}

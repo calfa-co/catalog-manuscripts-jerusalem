@@ -1,0 +1,72 @@
+{
+  "id": "J212",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "212",
+  "notice": "212",
+  "volume": "Jerusalem_V1",
+  "title": "ԾԱՆՈՒՑՄՈՒՆՔ ՍՐԲԱՏԵՂԵԱՑ",
+  "date": {
+    "from": "1860",
+    "to": "1860",
+    "display": null
+  },
+  "fields": {
+    "numero": "212",
+    "no_notice": null,
+    "titre": "ԾԱՆՈՒՑՄՈՒՆՔ ՍՐԲԱՏԵՂԵԱՑ",
+    "date_debut": "1860",
+    "date_fin": "1860",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "54",
+    "dimensions": "30 x 20 x 1",
+    "mise_en_page": "միասիւն, 30 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Ճակատ.— Համառօտ Քարոզ եւ Ծանուցումն հաւաքեալ ի սբ. գրոց հոգեկիր վարդապետաց յաղագս Սուրբ Գրբխադրի Յակոբայ Մեծի Առաքելոյն, նաեւ ի Սուրբ Յարութեան երկնահանգէստ Աշխարհամատրան Տաճարն, ի սարսափելի Սուրբ Գողգոթայ, ի Փուշ Պսակն, ի Գիւտ Խաչն, ի Հանդերձ Բաժանումն, ի խորանն Ղուկիանոսի Հարիւրապետին, ի Սուրբ Բանտն, ի Դուռն կենսատու Սրբոյ Գերեզմանին Քրիստոսի, եւ յայլ երկրպագելի Սրբազան Տեղիսն: Աշխատասիրեալ ի Մկրտիչ վարդապետէ Արծրունեան, ի Միաբանութենէ Առաքելական Աթոռոյս Երուսաղէմի: Ի պատրիարքութեան Առաքելական Սրբոյ Աթոռոյս Երուսաղէմի Տն. Յովհաննու Սրբազան Արքեպիսկոպոսի Զմիւռնացւոյ: Յամի Տեառն 1860, յսկիզբն հոկտեմբերի: Էջ 2. — Յառաջաբան: Էջ 3. — Ի Սբ. Գլխադիրն, Ա: ... ԺԹ, էջ 31: Էջ 35. — Ի Սբ. Գողգոթայ, Ա: ... Դ, էջ 41: Էջ 42. — Ի Դ. Բանտն Քրիստոսի: Էջ 43. — Ի Սբ. Ղուկիանոսի Խորանն: Էջ 44. — Ի Փուշ Պսակն Քրիստոսի: Էջ 45. — Ի Հանդերձ Բաժանումն: Էջ 46. — Ի Դուռն Սբ. Գերեզմանին: Էջ 48. — Ի Դուռն Սրբոյ Գերեզմանին Քրիստոսի: Էջ 51. — Ի Սբ. Գերեզմանն Քսի.: Էջ 54. — Ի Սբ. Յարութեան Տաճարն: Դատարկ 15 թերթ:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V1",
+      "file": "607.jpg"
+    },
+    {
+      "volume": "Jerusalem_V1",
+      "file": "608.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "212-refine.json",
+    "pipeline_version": "v1"
+  }
+}

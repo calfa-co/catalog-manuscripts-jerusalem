@@ -1,0 +1,68 @@
+{
+  "id": "J1979",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1979",
+  "notice": "1979",
+  "volume": "Jerusalem_V6",
+  "title": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+  "date": {
+    "from": "1746",
+    "to": "1746",
+    "display": null
+  },
+  "fields": {
+    "numero": "1979",
+    "no_notice": "27",
+    "titre": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+    "date_debut": "1746",
+    "date_fin": "1746",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "54",
+    "dimensions": "29x20x1.5",
+    "mise_en_page": "խրատները, սկզբնատողերը եւ գլխագիրները կարմիր, մնացեալը սեւ մելանով, երկսիւն, գիծերով շրջանակուած, 21 տող",
+    "details_ecriture": "սովորականէն քիչ մը աւելի",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "դեղնորակ",
+    "nb_lignes": null,
+    "reliure": "դրոշմազարդ",
+    "etat_conservation": "անբաւարար. լուսանցքները որդնակեր",
+    "copiste": "Յակոբ Սբղ. Ցղնեցի",
+    "possesseur": "Յակոբ Սբղ. Ցղնեցի",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": "էջ 7, խաչելութիւն 4",
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր եւ լուսանցազարդ երբեմն նաեւ գլխազարդ կարեւոր կտորներու սկիզբը ; ԽՈՐԱՆԱԶԱՐԴ: էջ 7, խաչելութիւն 4",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-2, դատարկ։ Էջ 3.— Աւրէնք եւ խրատ պատարագ մատուցանելոյ։ Էջ 5-6, դատարկ։ Էջ 7.— Որ զգեցեալ ես զլոյս...։ Էջ 45բ.— Յոհաննու Ոսկեբերանի ասացեալ զԱղօթս.— Գոհանամ եւ մեծացուցանեմ...։ Էջ 47բ.— Եւ յետ ճաշակելոյն ասէ ըզբանս Թումայի Առաքելոյ.— Մարմին քո անապական...։ Էջ 51ա.— Եւ մտեալ ի սարկաւագարանըն մերկանայ ի զգեստուցն...։ Սրբոյ Աւետարանիս ըստ Յոհաննու.— Եւ իբրեւ ճաշեցին...։ ...տանիլ զգիրսն՝ որ թէ գրեալ էին։ Էջ 53-54, դատարկ։ Յիշատակարան Գրչի.— 1746 Էջ 3, ստորոտը.— Յիշատակ է Սբ. Խորհրդատետրս Ցղնեցի անպիտան Յակոբ Աբեղային, հօրն Գալուստին եւ մօրն Խանումին, եւ մամին Մարիամին, եւ այլ արեան մերձաւորաց եւ երախտաւորաց իմոց, ի դուռն Սբ. յԵրուսաղէմայ Փրկչայ Վանքն, զոր Տէր Ած. հաստատուն պահեսցէ, ի թվին ՌՃՂԵ։ Աղաչեմ զձեզ, որք հանդիպիք սմա, յիշեցէք ի մաղթանս ձեր զմեզ, եւ դուք յիշեալ լիջիք ի Քրիստոսէ Աստուծոյն մերմէ, ամէն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "581.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1979-refine.json",
+    "pipeline_version": "v1"
+  }
+}

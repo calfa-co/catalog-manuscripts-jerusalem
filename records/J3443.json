@@ -1,0 +1,72 @@
+{
+  "id": "J3443",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3443",
+  "notice": "3443",
+  "volume": "Jerusalem_V10",
+  "title": "ՄԵԿՆՈՒԹԻՒՆ ՂՈՒԿԱՍՈՒ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3443",
+    "no_notice": "13",
+    "titre": "ՄԵԿՆՈՒԹԻՒՆ ՂՈՒԿԱՍՈՒ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "210",
+    "dimensions": "16.5X10.5X2",
+    "mise_en_page": "սեւ եւ կարմիր մելաններով, միասիւն, 23 տող, կարմիր գիծերու միջեւ։ Նոտր շեղագիր մանր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "մագաղաթեայ",
+    "etat_conservation": "բաւարար ընդհանուր առմամբ. լուսանցքները անմաքուր",
+    "copiste": "Սիմէոն Քհն. Բաբերդցի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1–3, զանազան մանրուք։ էջ 4, մանիշակագոյն թանաքով, շեղագիր.— Իգնատիոս Ղուկասու Աւետարանին Մեկնութիւնը գրեց յամի Տեառն 1146–ին, մինչեւ ցայժմ 745 տարի եղեր է, չէ թէ աս գիրքը հասկցուի, այլ Մեկնութիւնը։ — Այս Մեկնութիւնը երկու անգամ տըպուած է Կ. Պոլիս, մէկը 1735ին, եւ միւսը 1824ին։\nէջ 5.— Ի գլխոյն Ղուկասու յաւետարանչին, ի Մեկնութենէ Իգնատիոսի սուրբ վարդապետին Հայոց, զոր յետոյ ես Մաթէոս վարդապետս, աշակերտ Յոհանու Որոտնեցո, ժողովեալ հաւաքեցի, եւ արարեալ զայս քաղուածագիրս, առ ի ուսումնասիրաց անձանց։ Օգնեայ Սբ. Հոգի։ Ամենայն որ ծոյլ է աստուածային ուսումն...։ էջ 176.— Այր ոմն ազնուական գնաց յաշխարհ հեռի առնուլ թագաւորութիւն եւ դառ[ն]ալ.— Զի այր վասն բնութեանս մեր ասէ...։ էջ 189, վարը.— Վասն նախ զՄաթէոս եւ Մարկոս կարկելոյն։... էջ 196–203, համարեա դատարկ։ էջ 204–210.— Այլազան մանրուք։\nՅիշատակարան Գրչի.— էջ 189, վերը.— Ով դասք փաղերայից, յիշեցէք ի մաքրափայլ յաղօթս ձեր զգծող սորին զտէր Սիմէոնն, որ է ի յերկրէն Սեբաստիոյ, ի գուղէն Բրաբերտու, որ գրեցի զգիրս այս յիշատակ իմ որդոցս, տիրացու Մարտիրոսին, Յոհանին, Մկրտիչին, Կարապետին, Մարգարին, եւ ամենայ[ն] ընտանեացն ամենեցուն ամէն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "409.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "410.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3443-refine.json",
+    "pipeline_version": "v1"
+  }
+}

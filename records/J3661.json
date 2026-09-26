@@ -1,0 +1,68 @@
+{
+  "id": "J3661",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3661",
+  "notice": "3661",
+  "volume": "Jerusalem_V11",
+  "title": "ՍԱՂՄՈՍ (Արաբերէն)",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3661",
+    "no_notice": "Ձ",
+    "titre": "ՍԱՂՄՈՍ (Արաբերէն)",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Դ+170",
+    "dimensions": "20x14.5x2",
+    "mise_en_page": "խորագիրները եւ կէտերը կարմիր, մնացեալը սեւ մելանով, միասիւն, 18, 21 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բաւական տոկուն բայց ոչ միատեսակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ հնամաշ",
+    "etat_conservation": "բաւարար. ազդուած իւղէ. նորոգութիւն կրած (1772)",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": "Էջ 165, վերի լուսանցքին, շեղագիր.— Արապի Սաղմոս է որ ետու տիրացու Յարութիւնին որ կարթա։ — Մէջտեղը, նոտր շեղագիր.— Յիշատակ է ի դուրն Սբ. Յակովբայ որ Երուսաղէմ, ով որ հանիցէ՝ առցէ պատիժն Կայենի, Յոյդայի եւ Անայիլի",
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": ""
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "100.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3661-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "J3890",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3890",
+  "notice": "3890",
+  "volume": "Jerusalem_V11",
+  "title": "ԳԻՐՔ ՔԱՐՈԶԻՑ",
+  "date": {
+    "from": "1858",
+    "to": "1858",
+    "display": null
+  },
+  "fields": {
+    "numero": "3890",
+    "no_notice": null,
+    "titre": "ԳԻՐՔ ՔԱՐՈԶԻՑ",
+    "date_debut": "1858",
+    "date_fin": "1858",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "ը +802",
+    "dimensions": "15x9x1.5",
+    "mise_en_page": "սեւորակ մելանով, միասիւն, 17 տող, սեւ գիծերու միջեւ",
+    "details_ecriture": "նոտրակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "բարակ, կապտորակ էջ ա–94 եւ 207–802. դեղնորակ 95–206",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ Ա.— Գիրք Քարոզից, Հաւաքեալ յերեւելի եւ ի մեծանուն Հեղինակաց ի պէտս դեռակիրթ Քարոզիչ Վարդապետաց։— 1858\nԷջ Բ.— Պր. Գէորգ Հինդլեան Ձեռագրատան Տեսչին յանձնեց 1991 Յուլիս 6ին .— Ն. Արքպ.\nԷջ 1.— Յաղագս Բանին Այ.։ Բնաբան.— \" Ոչ հացիւ միայն կեցցէ մարդ, այլ ամ. բանիւ որ ելանէ ի բերանոյ Այ.։ Մատ. Դ. 8\"։ Բաժանումն.— Ա.— Տրամադրութիւնք որք պարտին ածել զհաւատացեալն ի տեղի լսելոյ զբանն Այ.։ Բ. որո՞վ ոգւով ունկն դնելի իցէ։ Մասն Ա.— Երրեակ պատրաստութիւնք պարտին ածել զմեզ ի տեղի սուրբ՝ առ ի լուր աստուածային բանին...։ Էջ 8.— Մասն Բ.— Որո՞վ ոգւով ունկն դնելի է սրբոց բանից...։ Էջ 15.— Յաղագս Ղազարու բարեկամին Քս.ի։ Էջ 16.— Խորհրդածութիւն Ա։ Էջ 24.— Խորհրդածութիւն Բ։ Էջ 34.— Խորհրդածութիւն Գ։ Էջ 41.— Յաղագս Ծաղկազարդի Աւուրն։ Էջ 60.— Յաղագս Աւագ Ուրբաթու չարչարանաց Տն. մերոյ Յս.ի Քս.ի։ Էջ 88.— Ի Տօնի Սրբոյ Զատկին։ Էջ 110.— Յաղագս Համբարձմանն Քս.ի։ Էջ 194.— Ի Տօնի Պենտեկոստէին։ Էջ 222.— Յաղագս Երեւման Հոգւոյն Սրբոյ։ Էջ 228.—... Աստ գրէ Հուկօն. եթէ թոյլ տուեալ լինէր սատանայի՝ կամէր երեւիլ Եւայի ի կերպ աղաւնւոյ...։ Էջ 234.—... Եւ են երկու սահմանք ըստ Հերոնիմոսի, յորոց արտաքոյ չէ՛ արժան ելանել...։ Էջ 258.—... Այսպէս ասէ Դէոդորոս զԵգիպտացւոց, թէ պաշտէին զհուրն...։ Էջ 279.— Յաղագս սակաւ թուոյ ընտրելոց։ Էջ 299.— Ցանկ Նիւթոց.— 1–9 Գլուխներ։ Էջ 800–802, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "360.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3890-refine.json",
+    "pipeline_version": "v1"
+  }
+}

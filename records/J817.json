@@ -1,0 +1,68 @@
+{
+  "id": "J817",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "817",
+  "notice": "817",
+  "volume": "Jerusalem_V3",
+  "title": "ԱՍՏՂԱԲԱՇԽՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "817",
+    "no_notice": "1",
+    "titre": "ԱՍՏՂԱԲԱՇԽՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "164",
+    "dimensions": "21.5×15×1.5",
+    "mise_en_page": "սեւ մելանով, տեղ տեղ կան կարմիր, բոլորգիր նշանատառեր, երկսիւն, 20 տող. կարգ մը էջերու վրայ ալ փոքր թղթիկներ փակցուած են, որոնց վրայ կան յաւելուածական նօթեր, աւելի մանր գըրով",
+    "details_ecriture": "գըրեթէ սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ անարուեստ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": "թուղթք սկիզբը եւ վերջը երեքական թերթ",
+    "colophon": null,
+    "informations_diverses": "Ըստ Սաւալանեանի «Թարգմանեալ ի հայ՝ կարգաւոր ոճով» (Ցուցակ, էջ 450, բ.)",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1.— Յաղագս դիտողութեան տիեզերիս ըստ յանդիման լինելոյ աչաց։— Սահման Ա.— 1 Աստղաբաշխութիւնն է գիտութիւն տիեզերիս եւ երեւութից նորա՝ ըստ որում այնպիսի։ էջ 35.— Կան աստեղք ինչ՝ որք սեպհական անուն ստացան, այսինքն են՝ Արկտուրոս, (իմա՝ Արջաձեւ) ի մէջ ոտից Արջապանի։ Ակն՝ կամ Լուսափայլ Գոհար, Հարաւային Պսակի։ Ամիկ եւ Ուլք՝ յուսս Կառավարի...։ էջ 57.— Երկրորդ մասն Աստղաբաշխութեան։ Յաղագս նկատողութեան տիեզերիս ըստ որում մտօք ըմբռնի։ էջ 163.— Առաջարկութիւն, ԺԱ.— Դիտել զխաւարումն արեգական։ Վերլուծութիւն։ Ա.— Պատկեր արեգական մուծեալ ընդ տեսողական խողովակ ի սենեակ մթագին՝ առջի ի վերայ սպիտակ թղթոյ...։— Գ.— Եթէ ժամացոյցն վրիպեսցի, ուղղագրեսցի ի դիտեալ բարձրութենէ արեգական եւ կամ ի ձեռն միջօրական գծի։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V3",
+      "file": "309.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "817-refine.json",
+    "pipeline_version": "v1"
+  }
+}

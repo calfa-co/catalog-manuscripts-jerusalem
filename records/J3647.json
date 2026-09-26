@@ -1,0 +1,72 @@
+{
+  "id": "J3647",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3647",
+  "notice": "3647",
+  "volume": "Jerusalem_V11",
+  "title": "ՃԱՇՈՑ (Ասորերէն).—",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3647",
+    "no_notice": null,
+    "titre": "ՃԱՇՈՑ (Ասորերէն).—",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "482",
+    "dimensions": "22x16x6",
+    "mise_en_page": "սեւ մելանով, կարմիր տողերով եւ բառերով խառն, միասիւն, 20–14 տող",
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "կոկեալ",
+    "nb_lignes": null,
+    "reliure": "քայքայուած. կողք չունի",
+    "etat_conservation": "յոյժ անբաւարար. վնասուած հնութենէ եւ խոնաւութենէ. սկիզբի եւ վերջի թերթերը փրթած. կարօտ նորոգութեան",
+    "copiste": "Մուշէ",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Մանր յիշատակագրութիւն Գրչի.— Էջ 282 (Syriac).— O priest of God, remember Mushe who wrote [this].\nՅետնագոյն յիշատակագրութիւն.— 1684 Էջ 476 (Garshuni).— The priest Isa ibn Bsharah gave this blessed book of the holy anaphoras to the\nchurch of Mar Behnam and his Sister, that every priest who uses this book in the holy liturgy may ask mercy for the above — mentioned priest and his deceased relatives. May God receive this by the prayers of the Virgin Mary and the martyrs and the saints. In the year 1945 of the Greeks [ = A.D.1634]."
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V11",
+      "file": "085.jpg"
+    },
+    {
+      "volume": "Jerusalem_V11",
+      "file": "086.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3647-refine.json",
+    "pipeline_version": "v1"
+  }
+}

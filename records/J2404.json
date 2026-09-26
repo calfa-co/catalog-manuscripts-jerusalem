@@ -1,0 +1,72 @@
+{
+  "id": "J2404",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "2404",
+  "notice": "2404",
+  "volume": "Jerusalem_V8",
+  "title": "Բ Ա Ռ Գ Ի Ր Ք",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "2404",
+    "no_notice": "33",
+    "titre": "Բ Ա Ռ Գ Ի Ր Ք",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "406",
+    "dimensions": "10x7.5x3.5",
+    "mise_en_page": "սկզբնատողերը և մասամբ սկզբնատառերը կարմիր, մնացեալը սև մելանով, միասիւն, 19 տող",
+    "details_ecriture": "մանըր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: չափաւոր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ դրոշմազարդ, քայքայուած",
+    "etat_conservation": "անբաւարար. լուսանցքները յոյժ ցեցահար",
+    "copiste": "Աբրահամ Պրուսացի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "թղթեայ սկիզբը և վերջը մէկ մէկ թերթ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-4, դատարկ։ Էջ 144-145ի միջև թերթեր ինկած. կը Էջ 5 — Աբբա, հայր։ մնան Ը պրակին առաջին և վերջին թերթերը միայն։ Էջ 148-149ի միջև թերթեր ինկած. կը մնան Ը պրակին առաջին և վերջին թերթերը միայն։ Էջ 150 — [Հ]ագագ, հոգի, կամ, տուր և առ շնչոյ, կամ, գլուխ։ Էջ 206 — [Ն]աբաթ, կամաւոր։ Նագեբ, հարաւ։ Էջ 219 — Շարաբաղրել, յարմարել։ Էջ 311 — Քքել, թշնամանել։ Էջ 312, դատարկ։\nէջ 313. — Բառք ի Սաղմոսաց Մարգարէին Դաւթի ։ Դաւիթ, բաւականաձեռն, կամ, սիրելի ։ էջ 323. — Բառք ի Գրոց յԱռակացն Սողոմոնի ։ էջ 331. — Բառք ի Գրոց Իմաստութեանն Սողոմոնի ։ Ոստիկան, վերակացու ։ էջ 398. — Բառք ի գրոց Մարգարէին Մաղաքիայ ։ Մաղաքիա, հրեշտակ իմ ։ էջ 400-406, դատարկ ։\nՄանր յիշատակագրութիւնք Գրչի. — 1. — Էջ 50, ստորոտը. — Զթարմատար և զթերավարժ և զանպիտան Աբրահամ գծողըս, և զծնօղս իմ, ի Տէր յիշել աղաչեմ ։ 2. — Էջ 119, ստորոտը. — Զթարմատար և զթերավարժ և զանարժան գծողս, Պրուսացի Աբրահամ դրիչս՝ ի Տէր յիշել աղաչեմ .... ։ 3. — Էջ 218, ստորոտը. — Զթարմատար և զթերավարժ և զանպիտան, մեղսամած Աբրահամ գծողս, ի Տէր յիշել աղաչեմ ։ Ով յիշէ՝ յիշեալ լիցի ի Քրիստոսէ ։ Փառք յաւիտեանս ամէն ։ 4. — Էջ 399, վերը. — Ձեռքս փըթտի ւի հող դառնա, Բառգիրքս ի ձեզ լի յիշատակ մնա, ով թէ ասէ Ա-հայր մեղա, ընդ արդարոցն արժանանա ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V8",
+      "file": "059.jpg"
+    },
+    {
+      "volume": "Jerusalem_V8",
+      "file": "060.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "2404-refine.json",
+    "pipeline_version": "v1"
+  }
+}

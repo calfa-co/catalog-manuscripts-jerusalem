@@ -1,0 +1,72 @@
+{
+  "id": "J386",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "386",
+  "notice": "386",
+  "volume": "Jerusalem_V2",
+  "title": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ ՔԱՂՈՒԱԾՈՅ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "386",
+    "no_notice": "1",
+    "titre": "ԱՍՏՈՒԱԾԱԲԱՆՈՒԹԻՒՆ ՔԱՂՈՒԱԾՈՅ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "142 + 114",
+    "dimensions": "24x19x1.5",
+    "mise_en_page": "խորագիրներ եւ գլխագիրներ մասամբ կարմիր, մնացեալը սեւ մելանով, միասիւն 32 տող։ Նոտր շեղագիր",
+    "details_ecriture": "առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "երկու տեսակ, կապտորակ եւ ճերմակ",
+    "nb_lignes": null,
+    "reliure": "կիսակաշի խաւաքարտեայ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "«Ածաբանութիւն քաղուածոյ յընդարձակէն, յօրինեալ որպէս համարի ի Մկրտիչ Վարդապետէ Աւգերեան, ի Մխիթարեան ուխտէ» (Սաւալանեան, Ցուցակ, էջ 274)",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1.— Քաղուած Առաջին Հատորոյ, որ է Ներածութիւն Աստուածաբանութեան։ Ճառ Ա.— Յաղագս Ածաբանութեան ընդհանրապէս.— Ածաբանութիւն ըստ վկայելոյ ձայնին է բան զԱյ. ...։ Էջ 65.— Քաղուած Երկրորդ Հատորոյ։ — Յաղագս միոյն Այ. եւ ստորոգելեաց նորա։ Ճառ Ա։ Յաղագս Այ. ընդհանրապէս։ Գլուխ Ա.— Յաղագս Ածային Անուանց.— Ածդ անուն՝ ըստ իրին նշանակելոյ, է անհասական՝ ամենայնիւ անթարգմանելի, ըստ Նարեկացւոյն...։\nէջ 1.— Քաղուած Երրորդ Հատորոյ, այսինք, յաղագս Երրորդութեան։ Ճառ Ա. — Յաղագս էութեան եւ գոյութեան խորհրդոյ Երրորդութեան։ էջ 61.— Քաղուած Չորրորդ Հատորոյ։ Յաղագս Մարդեղութեան։ Ճառ Ա.— Յաղագս գոյութեան Մարդեղութեան։ էջ 111.— Ցանկ Գրքոյս։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "327.jpg"
+    },
+    {
+      "volume": "Jerusalem_V2",
+      "file": "328.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "386-refine.json",
+    "pipeline_version": "v1"
+  }
+}

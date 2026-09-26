@@ -1,0 +1,72 @@
+{
+  "id": "J3469",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3469",
+  "notice": "3469",
+  "volume": "Jerusalem_V10",
+  "title": "Ս Ա Ղ Մ Ո Ս",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "3469",
+    "no_notice": "78",
+    "titre": "Ս Ա Ղ Մ Ո Ս",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "514",
+    "dimensions": "15.5X11X5",
+    "mise_en_page": "խորագիրները կարմիր, գլխատառերը կապոյտ եւ կարմիր փոփոխ ի փոփ, մնացեալը սեւ մելանով, միասիւն, 16 տող, կարմիր կամ սեւ գիծերու միջեւ",
+    "details_ecriture": "անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ դրոշմազարդ, յոյժ հնամաշ եւ քայքայուած",
+    "etat_conservation": "յոյժ ցաւալի. վնասուած խոնաւութենէ եւ ցեցերէ. կարօտ նորոգութեան",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "կանոններու սկիզբը ; ԽՈՐԱՆԱԶԱՐԴ: էջ 3",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "էջ 1-2, դատարկ։ էջ 3.— Կատարած, Սաղմոս ի Դօիթ.— Երանեալ է այր...։ էջ 71.— ԺԸ.— Երկինք պատմեն զփառս Աստուծոյ...։ էջ 144.— Մի նախանձիր ընդ չարս...։ էջ 288, դատարկ մնացած։ էջ 345.— ՁԹ.— Սաղմոս ի Դաւիթ.— Տէր ապաւէն եղեր մեր...։ էջ 393.— ՃԶ.— Խոստովան եղերուք Տեառն...։ էջ 439.— ՃԺԹ.— Կատարած Սաղմոս ի Դաւիթ.— Ի նեղութեան իմում ես առ Տէր կարդացի...։\nէջ 503.— Ի Առաքել վարդապետէ ասացեալ է զփառքն եւ զօրութիւնն ոտանւոր չափի ծանուցանէ.— Իմանալի այս բուրաստանն...։ Նայել լսողք այս տաղիս, ասէք սրտիւ Տէր ողորմիս, խնդրող գրէ ով հանդիպիս, եւ Առաքել Վարդապետիս։ Ծանօթ.— Տնասկիզբի տառերը կը յօդեն, Ի վարդապետեն Առաքելէ վասն Գէորգ քահանային։\nէջ 509, վարը.— Ի ոտք անկեալ առ ձեզ գրչիս, լալով ասեմ զանցանս որ յիս, մեղօք լցի զթիւ վաթսունիս, այլ վեցերրորդ կան աւելիս, ոչ եմ գործեալ ժամ [մ]ի բարիս, ինձ վայելէ կոծ եւ լալիս, ողորմի տուք միայն չարիս, փոխանն առնուք հազար բարիս։ էջ 510.— Աստուածածին մայր [Քրիստոսի]...։ էջ 513, վերը, տարբեր գրով.— Այս Սաղ[մ]ոսարանըն Պաղտասարին է։ էջ 514, դատարկ։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V10",
+      "file": "452.jpg"
+    },
+    {
+      "volume": "Jerusalem_V10",
+      "file": "453.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3469-refine.json",
+    "pipeline_version": "v1"
+  }
+}

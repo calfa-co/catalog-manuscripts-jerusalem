@@ -1,0 +1,72 @@
+{
+  "id": "J1991",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1991",
+  "notice": "1991",
+  "volume": "Jerusalem_V6",
+  "title": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+  "date": {
+    "from": "1702",
+    "to": "1702",
+    "display": null
+  },
+  "fields": {
+    "numero": "1991",
+    "no_notice": "31",
+    "titre": "Խ Ո Ր Հ Ր Դ Ա Տ Ե Տ Ր",
+    "date_debut": "1702",
+    "date_fin": "1702",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "25.5 x 19 x 1 : Էջք 42 : Հանգամանք բաւարար . լուսանցքները ցեցակեր : Թուղթ հասարակ : Գրութիւն՝ խորագիրները եւ սկզբնատառերը կարմիր , մնացեալը սեւ մելանով , երկսիւն , 25 տող : Նոտրագիր վարժ : Համառօտագրութիւնք սովորական գրեթէ : Գունաւոր զարդագիր եւ լուսանցազարդ կարեւոր կտորներու սկիզբը : Բազմագոյն կիսախորան իւր սարօք , էջ 6ա : Կաշեկազմ խաւաքարտեայ դրոշմազարդ : Ստացող՝ Պետրոս երէց",
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Էջ 1-3 , դատարկ : Էջ 4ա . — Աւրհնք արկանելոյ սպաս եկեղեցոյ . . . : Էջ 6ա . — Որ զգեցեալ ես զլոյս . . . : Էջ 19ա . — Հաւատամք ի մի Աստուած . . . : Էջ 39ա . — Ի սկզբանէ էր Բանն . . . :\nՅիշատակագրութիւնք . — 1702 Էջ 40ա . — Գրեցաւ Խորհրդատետրս ի դուռն Սբ . Աստուածածին եկեղեցին , ի թվին Հայոց ՌՃԾԱ ամին , ամսոյն փետրըվարին ԺԶ աւրն շաբաթին :\nՅիշեայ Տէր զհանգուցեալ ննջեցեալսն Էսէպալին , մաւրս Նազլոյին , մեծ մաւրն Կուլէսէրին , մեծ պապոյն Վրդանէսին , մեր աղբայրն Խոճային , կենդանի փոքրիկ աղբօրըս՝ Գրիգորին , մեր կենդանեաց ամենեցուն , աներոջս Ղողլուին , զոնքնջիս Կադէմին , Կուլիրէնքին : Անարժան եւ մեղօրտ Պետրոս իրիցունս , այս Խորհրդատետրս առեր եմ իմ հէլալ վաստակովս . ով ոք ձեռքն առնէ , ժամ եւ պատարագ մատչի , այս յիշատակին յիշէ , որ է աւրհնեալ յաւիտեանս , Ամէն : Ներքեւը տարբեր գրով"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "600.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "601.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1991-refine.json",
+    "pipeline_version": "v1"
+  }
+}

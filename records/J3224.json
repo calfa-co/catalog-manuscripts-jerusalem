@@ -1,0 +1,68 @@
+{
+  "id": "J3224",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "3224",
+  "notice": "3224",
+  "volume": "Jerusalem_V9",
+  "title": "ԱՒԵՏԱՐԱՆ ԻՒՂԱԲԵՐԻՑ",
+  "date": {
+    "from": "1822",
+    "to": "1822",
+    "display": null
+  },
+  "fields": {
+    "numero": "3224",
+    "no_notice": "1",
+    "titre": "ԱՒԵՏԱՐԱՆ ԻՒՂԱԲԵՐԻՑ",
+    "date_debut": "1822",
+    "date_fin": "1822",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "26",
+    "dimensions": "44 X 31 X 1",
+    "mise_en_page": "խորագիրները եւ գլխատառերը կարմիր եւ ոսկեգոյն, մնացեալը սեւ մելանով, երկսիւն, 26 տող, կարմիր եւ ոսկեգոյն գիծերու միջեւ",
+    "details_ecriture": "վարժ եւ յստակ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "տոկուն",
+    "nb_lignes": null,
+    "reliure": "խաւաքարտեայ թաւշապատ, արծաթեայ զարդերու հետքերով",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": "զարդագիր գլուխներու սկիզբը եւ մէջտեղը։ Բազմագոյն նկարք՝ եւրոպական ոճով. Ս. Մատթէոս էջ 5ա, Ս. Մարկոս 9ա, Ս. Ղուկաս 13ա, Ս. Յովհաննէս 17ա",
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Դատարկ էջեր, 1-4, 7-8, 11-12, 15-16, 19բ-20, 22-26։ էջ 5ա. — Մատթէոս։ էջ 9ա. — Մարկոս։ էջ 13ա. — Ղուկաս։ էջ 17ա. — Յօհաննէս։\nՅիշատակարան. — 1822 էջ 21, շրջանակի մէջ, զարդագիր. — Յիշատակ է Սբ. Աւետարանս Սբ. Նշան Եկեղեցւոյն որ ի յԱպուշաղ գիւղն Ակնայ՝ Մեծ Տէր Պօղոսեան լուսահոգի տէր Ստեփան մաքրասուն քահանայի որդի սարրաֆ Յօհաննէս Ամիրայի, եւ մօրն Եղիս խաթունի, եւ իւր կողակից Եսա խաթունի, եւ որդւոյ Ստեփան չելեպւոյն, եւ դստերն Սիւնեմշահ տուտուին, եւ իւր եղբայր հանգուցեալ Պօղոս Աղային։ 1822։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V9",
+      "file": "546.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "3224-refine.json",
+    "pipeline_version": "v1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "J1762",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "1762",
+  "notice": "1762",
+  "volume": "Jerusalem_V6",
+  "title": "ՊԱՏՄՈՒԹԻՒՆ ԸՆԴՀ. ԱՇԽԱՐՀԻ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "1762",
+    "no_notice": "3",
+    "titre": "ՊԱՏՄՈՒԹԻՒՆ ԸՆԴՀ. ԱՇԽԱՐՀԻ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "Թ+1291",
+    "dimensions": "22×16.5×8.5",
+    "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 29 տող։ Նոտր շեղագիր",
+    "details_ecriture": "բաւական առատ",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "հասարակ",
+    "nb_lignes": null,
+    "reliure": "տախտակեայ գծազարդ",
+    "etat_conservation": "լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ. — Պատմութիւն Ամ. Աշխարհաց, Երկրից, Թագաւորութեանց եւ Գաւառաց, նաեւ ըզկրօնէ նոցին։ Արարեալ ի Յովէտ Կանոնիկոս քահանայէ ազգաւ Գալլիացի, եւ ի Գալլիականէ լեզուէ փոխեալ առ իտալականս, եւ անտի առ հայկականս գրեալ, ի պատրի Տօմէնիկոսէ Ճակէնցւոյ, ի կարգէ քարոզողաց։ Վերատեսեալ, սրբագրեալ, եւ ի բարւոք կարգի եդեալ։ Հատոր Առաջին։ Ի տպարանի Ֆռանչիսկոս Պիթէրի, ի Վէնէտիկ, ՌՁԼԷ։ Մեծաւորաց հրամանաւ։ Եւ եղեւ սա թարգմանեցեալ ներթումմ Հայոց ՌՃՂԲ, եւ ի յամսեանն մարտի հընգետասաներորդի, ջանիւ, արդեամբ եւ հոգաբարձութեամբ մահտեսի Աբրահամու մահտեսի Սարգսեան Կեսարացւոյ հիւսնապետի։\nԷջ Բ. — Առաջաբանութիւն սորին. — Որպէս ամ. ոք բաղձայ օգտութեան...։ Էջ Ը. — Ցանկ Գլխոց որք պարունակին յայսմիկ հատորոջ։ Էջ 1. — Պատմութիւն վասն ամ. կրօնից իւրաքանչիւր թագաւորութեանց աշխարհի։\nԷջ 684. — Ճակատ. — Պատմութիւն Հանուրց Աշխարհաց, Թագաւորութեանց, երկրից եւ գաւառաց, նաեւ ղկրօնէ նոցին։ Արարեալ ի Յովէտ կանոնիկոս Քահանայէ, Գալլիական լեզուաւ, եւ անտի փոխեալ Յիտալիականս լեզուս, եւ ապա թարգմանեալ ի Հայկականս : Վերատեսեալ, սրբագրեալ, եւ ի բարւոք կարգի եդեալ : Հատոր Երկրորդ : Ի Վէնէտիկ, յամի Տեառն ՌՁԼԷ : Ի տպարանի Ֆրանցիսկոս Պիթէրի, հրամանաւ մեծաւորաց :\nէջ 685 .— Ցանկ Գլխոց որք պարունակին յայսմիկ Երկրորդի հատորոջ :\nէջ 690 .— Պատմութիւն կրօնից բոլորի թագաւորութեանց, Երկրից, եւ գաւառաց աշխարհի : Յաղագս Սրբոյ Երկրին, եւ զկրօնէ նորին : էջ 818 .— Յաղագս Մեծին Հայաստանու, եւ զկրօնէ նորին : էջ 1286 .— Վախճան Երկրորդի Հատորիս : էջ 1287-1291, դատարկ :"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V6",
+      "file": "123.jpg"
+    },
+    {
+      "volume": "Jerusalem_V6",
+      "file": "124.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "1762-refine.json",
+    "pipeline_version": "v1"
+  }
+}

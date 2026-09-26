@@ -1,0 +1,68 @@
+{
+  "id": "J565",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "565",
+  "notice": "565",
+  "volume": "Jerusalem_V2",
+  "title": "ՏԷՐ ԻՄ ՅԻՍՈՒՍ",
+  "date": {
+    "from": "1857",
+    "to": "1857",
+    "display": null
+  },
+  "fields": {
+    "numero": "565",
+    "no_notice": "1",
+    "titre": "ՏԷՐ ԻՄ ՅԻՍՈՒՍ",
+    "date_debut": "1857",
+    "date_fin": "1857",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "124",
+    "dimensions": "22.5 x 15 x 1",
+    "mise_en_page": "տետրակ մելանով, միասիւն, 26 տող։ Նոտր շեղագիր վայելուչ",
+    "details_ecriture": "գրեթէ սովորական",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": "սպիտակ",
+    "nb_lignes": null,
+    "reliure": "ճաշակաւոր",
+    "etat_conservation": "շատ լաւ",
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— էջ 1.— ՏԷՐ ԻՄ ՅՍ.։— Անարատ Ած.ախօսութիւն դիմառնաբար ընդդէմ հռովմայ Պապիցն ինքնասահման առաքելապետութեան եւ անհիմն վիմութեան։ Յօրինեալ ի Յովհաննու Շահինեանէ Վանեցւոյ՝ յաշխարհիկ լեզու։ Տպեալ է Զմիւռնիա ի տպարանի եղբարց Տէտէեանց, 1855։ Զարդիս ընդօրինակեալ յեղափոխեցաւ ի գրաբառ լեզու աշխատասիրութեամբ Քրիստոսահիմն Աթոռոյս Սրբոց Յակովբեանց նորահաստատ վարժարանիս յերկուց դպիր շնորհաւում աշակերտացն, Մանուան եւ Գրիգորի, եւ անխոնջ աշխատութեամբ սրբագրութեան ուսուցչին նոցա պատուարժան Դաւիթ Վարժապետի Կեսարացւոյ, 1857։\nՅառաջաբան.— էջ 3.— Տետրակս այս՝ որ կոչի Տէր իմ Յիսուս՝ է յօրինեալ ի ձեւ հարց եւ պատասխանի դիմառնաբար անարատ Աստուածախօսութիւն իմն եւ առաքելախօսութիւն, որոց բանից ճշմարտաբանութեամբն հերքեալ լինին անիրաւացի հոգեւոր և մարմնաւոր իշխանութիւնք սուտ առաքելապետ պօպից Հռովմայ, որք առանց քրիստոսական եւ առաքելական բանից իրաւանց եւ հոգեգումար ժողովոց սահմանադրութեանց՝ անուանեն զինքեանս միայն ճշմարտահաւատ, սահման օրինապահութեան, փոխանորդ Պետրոսի, հովուապետ ընդհանուր քրիստոսահաւատ բանեղէն ոչխարաց, վէմ քրիստոսաւանդ հաւատոց, տէր փականաց արքայութեան երկնից, խորհրդասահման փրկարար խորհրդոց, միշտ անսխալ իբրեւ զերբնական, վաճառական արքայութեան, նորասահման բըղխման Հոգւոյն Սրբոյ, եւ իշխան մարմնաւոր իշխանութեան, որով ճշմարտին տեղի եւ սահման գայթակղութեան ընդհանուր քրիստոնէիցն։"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "612.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "565-refine.json",
+    "pipeline_version": "v1"
+  }
+}

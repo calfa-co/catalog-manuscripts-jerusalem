@@ -1,0 +1,68 @@
+{
+  "id": "J544",
+  "source": "Jerusalem",
+  "collection_code": "J",
+  "number": "544",
+  "notice": "544",
+  "volume": "Jerusalem_V2",
+  "title": "ԱՍՏՈՒԱԾԱՆՄԱՆՈՒԹԻՒՆ",
+  "date": {
+    "from": null,
+    "to": null,
+    "display": null
+  },
+  "fields": {
+    "numero": "544",
+    "no_notice": "4",
+    "titre": "ԱՍՏՈՒԱԾԱՆՄԱՆՈՒԹԻՒՆ",
+    "date_debut": null,
+    "date_fin": null,
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "contenu": "Ճակատ.— Արարեալ ի Պետրոս Վարդապետէ Նախիջեւանցւոյ Աղամալեան։ Ի փառս Այ. եւ ի յօգուտ մանկանց եկեղեցւոյ։ Հատոր Առաջին։ Եւ այժմ նորավէպ օրինակեցաւ՝ — — — Խաչատուր անպիտան դպրի։ Ի Հայրապետութեան Սրբոյ Աթոռոյն Էջմիածնի Տեառն Ղուկասու Սրբազան Կաթողիկոսին ամ. Հայոց։ Եւ ի Պատրիարտըն ոչ հաւանի այսմ, այլ ի վերայ եկեղեցոյ առնու զբանիս մեկնութիւն...: էջ ՃԻԶ.— ... զի ամ. մարդ երկնչի եւ պատրաստ կենայ որ զինքն չկլանէ սատանայ, որպէս զտասնաբանեայն օրէնքն:— էջ 1.— Քարոզ Յօնանու Մարգարէյին.— Անըսկիզբն եւ անվաղճան Ած.ութեան...: Ծանօթ.— Հայերէն եւ Թրքերէն խառն: էջ 25.— Այս է պատմութիւն վարուցն Ադամայ եւ Եւայի նախաստեղծիցն, զկնի հլանելոյն ի դրախտէն փափկութեան.— Առեալ Ադամ զկինն իւր զԵւայ եւ գնաց ի տեղի մի...:\nՃակատ.— Արարեալ ի Պետրոս Վարդապետէ Նախիջեւանցւոյ Աղամալեան: Ի փառս Այ. եւ ի յօգուտ մանկանց եկեղեցւոյ: Հատոր Առաջին: Եւ այժմ նորապէս օրինակեցաւ՝ — — — Խաչատուր անպիտան դպրի: Ի Հայրապետութեան Սրբոյ Աթոռոյն Էջմիածնի Տեառն Ղուկասու Սրբազան Կաթողիկոսին ամ. Հայոց: Եւ ի Պատրիարքութեան Սրբոյն Երուսաղէմի Տեառն Պետրոսի երանաշնորհ Վարդապետի: Իսկ ի Պօլսոյս Պատրիարքութեան Տեառն Զաքարիայ ազգասէր բարունապետի, եւ առաքելապատիւ արհիեպիսկոպոսի: Յամի Տեառն 1796: Եւ ի Հայոց 1245, եւ ի Փետրվարի 5: Ի մեծն Պօլիս:"
+  },
+  "images": [
+    {
+      "volume": "Jerusalem_V2",
+      "file": "585.jpg"
+    }
+  ],
+  "provenance": {
+    "repository": "catalog-manuscripts-jerusalem",
+    "source_file": "544-refine.json",
+    "pipeline_version": "v1"
+  }
+}
