@@ -27,9 +27,9 @@
     "details_ecriture": null,
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": null,
+    "details_matiere": "Թուղթ",
     "nb_lignes": null,
-    "reliure": null,
+    "reliure": "կաշեկազմ",
     "etat_conservation": null,
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "ԿՈՒՌՆԵԼԻՈՍ",
     "contenu": "Ա. — Մեկնութիւն Ղեւտացւոց: Էջ ա–գ. Առարկութիւն: Էջ 3, Մարդ որ ընծայիցէ) այսինքն կամաւ...: Բ. — Մեկնութիւն Թուոց: Էջ ա, Առարկութիւն: Էջ 1. Գլուխ ա, հմր. 1: Գ. — Մեկնութիւն Երկրորդ Օրինաց: Էջ ա–բ. Առարկութիւն: Էջ 1, Գլուխ ա, հմր. 1:"
   },
   "images": [

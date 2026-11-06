@@ -27,9 +27,9 @@
     "details_ecriture": null,
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": "գծաւոր",
+    "details_matiere": "Թուղթ գծաւոր",
     "nb_lignes": null,
-    "reliure": "կիսալաթ խաւաքարտեայ",
+    "reliure": "Կազմ կիսալաթ խաւաքարտեայ",
     "etat_conservation": "լաւ",
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "Սահակ Կթղ. Խապայեան",
     "contenu": "Առաջին հինգ թերթերը արմատէն կտրուած. կը մնան էջ 11–16. մնացեալը պարապ։ Էջ 11.— Գրեցաւ թուին ՌՃՀԷ = 1728, մայիս Ե. յաւուր շաբաթի.— Հմմտ. Բ. Հատոր, էջ 518, թիւ 518, Քարոզգիրք։ Էջ 14.— Բ. 1827, Քարոզգիրք, Դար ԺԵ–Զ, թուղթք 224։"
   },
   "images": [

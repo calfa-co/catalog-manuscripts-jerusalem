@@ -29,7 +29,7 @@
     "matiere_principale_id": null,
     "details_matiere": null,
     "nb_lignes": null,
-    "reliure": null,
+    "reliure": "Լաթակազմ խաւաքարտեայ",
     "etat_conservation": null,
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "ԿՈՌՆԵԼԻՈՍ ԱԼԱՓԻՏԷ",
     "contenu": "Բովանդակութիւնք իւրաքանչիւր գըլ-խոց Գրոցն փոքր Մարգարէից։"
   },
   "images": [

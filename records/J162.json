@@ -27,9 +27,9 @@
     "details_ecriture": "Պատուազրութիւն առատ",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": null,
+    "details_matiere": "Թուղթ",
     "nb_lignes": null,
-    "reliure": null,
+    "reliure": "Կաշեկազմ",
     "etat_conservation": "լաւ",
     "copiste": null,
     "possesseur": "Երուսաղէմի Պատրիարք Պօղոս Վրդ. Վանեցի",
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "ԿՈՒՌՆԵԼԻՈՍ",
     "contenu": ""
   },
   "images": [

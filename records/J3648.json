@@ -27,9 +27,9 @@
     "details_ecriture": null,
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": "կոկեալ",
+    "details_matiere": "Թուղթ կոկեալ",
     "nb_lignes": null,
-    "reliure": "կիսալաթ խաւաքարտեայ հնամաշ եւ քայքայուած",
+    "reliure": "Կազմ կիսալաթ խաւաքարտեայ հնամաշ եւ քայքայուած",
     "etat_conservation": "յոյժ անբաւարար. սկիզբի մասը խոնաւութենէ փտած. լուսանցքները ցեցակեր. բազում ԹԵՐԹՔ փրթած եւ ոմանք կորսուած, նորոգութեան կարօտ",
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "Թաքիէտտին էլ Մաքրիզի",
     "contenu": ""
   },
   "images": [

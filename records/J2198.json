@@ -24,12 +24,12 @@
     "nb_pages": "176",
     "dimensions": "20.5 x 15 x 2",
     "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 23-31-39 տող։ Նոտր շեղագիր անարուեստ",
-    "details_ecriture": "բաւական առատ",
+    "details_ecriture": "Նոտր շեղագիր անարուեստ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: բաւական առատ",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": "հասարակ",
+    "details_matiere": "Թուղթ հասարակ",
     "nb_lignes": null,
-    "reliure": "տախտակեայ դրոշմազարդ, մաշած։",
+    "reliure": "Կաշեկազմ տախտակեայ դրոշմազարդ, մաշած",
     "etat_conservation": "լաւ",
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "ՄԽԻԹԱՐ ՎՐԴ· ՍԵԲԱՍՏԱՑԻ",
     "contenu": ""
   },
   "images": [

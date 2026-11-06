@@ -24,12 +24,12 @@
     "nb_pages": "328",
     "dimensions": "21X15X2",
     "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 23 տող",
-    "details_ecriture": null,
+    "details_ecriture": "Նոտրագիր",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": "հասարակ",
+    "details_matiere": "Թուղթ հասարակ",
     "nb_lignes": null,
-    "reliure": "անարուեստ",
+    "reliure": "Թղթակազմ անարուեստ",
     "etat_conservation": "բաւարար",
     "copiste": "Երեմիա Աբեղայ",
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "Պ. ՊՏՐ. ԱԴՐԻԱՆՈՒՊՈԼՍԵՑԻ",
     "contenu": "Էջ 3.— Յառաջաբան.— Երկու ինչ ներգործութիւնք սեփական են մարդոյ որով է մարդ՝ իմացական միտք եւ ազատ կամք...։ Էջ 15.— Առաջնորդ։ Այսոքիկ են առաջին օրինակք Թանգարանին յորմէ տպեցան։ Էջ 325.— ԼԵ.— Մահն ոչ վարի աշառանօք ընդ ումեք...։ Էջ 326.— Վերջ առաջին հատորոյ։"
   },
   "images": [

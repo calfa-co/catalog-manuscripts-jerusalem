@@ -24,12 +24,12 @@
     "nb_pages": "106",
     "dimensions": "31x22x1",
     "mise_en_page": "բնագիրը կարմիր, մեկնութիւնը սեւ մելանով։ Երկսիւն, 46 տող։ Մանր նոտրագիր։ Չափազանց համառօտագրեալ",
-    "details_ecriture": null,
+    "details_ecriture": "Մանր նոտրագիր",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": null,
+    "details_matiere": "Թուղթ",
     "nb_lignes": null,
-    "reliure": null,
+    "reliure": "Թղթակազմ",
     "etat_conservation": "լաւ",
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "ԿՈՒՌՆԵԼԻՈՍ",
     "contenu": "Կը պարունակէ Երգ-երգոցի Մեկնութիւնը մինչեւ Բ. գլուխ 5 համար։"
   },
   "images": [

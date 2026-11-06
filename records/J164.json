@@ -24,12 +24,12 @@
     "nb_pages": null,
     "dimensions": "31x22x1: Էջք 184: Հանգամանք լաւ: Թուղթ կապտորակ: Գրութիւն՝ սեւ մելանով, միասիւն, 36 տող: Նոտր շեղագիր: Համառօտագրութիւնք շատ: Թղթակազմ",
     "mise_en_page": null,
-    "details_ecriture": null,
+    "details_ecriture": "Նոտր շեղագիր",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": null,
+    "details_matiere": "Թուղթ կապտորակ",
     "nb_lignes": null,
-    "reliure": null,
+    "reliure": "Թղթակազմ",
     "etat_conservation": null,
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "Հմտ․ ՊՕՂՈՍ ՎՐԴ․ ԱԴՐԻԱՆՈՒՊՕԼՍԵՑԻ",
     "contenu": "Կուռնելիոսի Մեկնութիւնը, Յովհաննու Յայտնութեան, համառօտուած Պօղոս Վրդ. Ադրիանուպոլսեցիէ: Հմմտ. թիւ 382:"
   },
   "images": [

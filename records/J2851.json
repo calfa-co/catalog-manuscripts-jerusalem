@@ -24,12 +24,12 @@
     "nb_pages": null,
     "dimensions": "23X18: Էջք 50: Հանգամանք լաւ: Թուղթ հասարակ: Գրիչ եւ Ստացող՝ Յակոբ Վրդ. Տիգրանակերտցի: Գրութիւն սեւ մելանով, միասիւն, 22 տող: Շեղագիր: Կողք թղթեայ. առաջին երեսին կը կարդացուի. «Տիգրանակերտցի Յակոբ Վարդապետի գըրեալ Քարոզ Տնտեսի»",
     "mise_en_page": null,
-    "details_ecriture": null,
+    "details_ecriture": "Շեղագիր",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": null,
+    "details_matiere": "Թուղթ հասարակ",
     "nb_lignes": null,
-    "reliure": null,
+    "reliure": "Կողք թղթեայ. առաջին երեսին կը կարդացուի. «Տիգրանակերտցի Յակոբ Վարդապետի գրեալ Քարոզ Տնտեսի»",
     "etat_conservation": null,
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "ՅԱԿՈԲ ՎՐԴ· ՏԻԳՐԱՆԱԿԵՐՏՑԻ",
     "contenu": "Էջ 1.— Քարոզ Տնտեսի: Օգնեա Սբ. Հոգի: Ամենագութ բարեխնամ մարդասէր Հայր Աստուած...: Էջ 20.— ...: Օրհնեալ էք եւ օրհնեալ լինիջիք հանապազ, ամէն: Էջ 21-50, դատարկ:"
   },
   "images": [

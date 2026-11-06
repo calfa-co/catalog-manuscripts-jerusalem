@@ -24,12 +24,12 @@
     "nb_pages": "120",
     "dimensions": "21x15x1",
     "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 32 տող։ Նոտր շեղագիր",
-    "details_ecriture": null,
+    "details_ecriture": "Նոտր շեղագիր",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": "հասարակ",
+    "details_matiere": "Թուղթ հասարակ",
     "nb_lignes": null,
-    "reliure": "կիսալաթ խաւաքարտեայ անարուեստ",
+    "reliure": "Կազմ կիսալաթ խաւաքարտեայ անարուեստ",
     "etat_conservation": "լաւ",
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "ՊԵՏՐՈՍ ՎՐԴ· ԲԵՐԹՈՒՄԵԱՆ",
     "contenu": "Էջ 1.— Բան առ բարեմիտ ընթերցողս, յաղագս առաջիկայ առակացս։ Էջ 9.— Յաղագս Հաշտութեան։ Էջ 65.— Աղէտ մարդկային անկման եւ կանգնումն նորին։ Էջ 112.— Յաղագս Արքայութեան Տեառն մերոյ։ Գլուխ 31։"
   },
   "images": [

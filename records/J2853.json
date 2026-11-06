@@ -24,12 +24,12 @@
     "nb_pages": "80",
     "dimensions": "25 X 19.5",
     "mise_en_page": "սեւ մելանով, միասիւն, 23 տող։ Բնաբանները բոլորգիր, մեկնութիւնները նոտր շեղագիր",
-    "details_ecriture": "առատ",
+    "details_ecriture": "Բնաբանները բոլորգիր, մեկնութիւնները նոտր շեղագիր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": "հասարակ, ծծող",
+    "details_matiere": "Թուղթ հասարակ, ծծող",
     "nb_lignes": null,
-    "reliure": "թղթեայ",
+    "reliure": "Կողք թղթեայ",
     "etat_conservation": "համարեա բաւարար",
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "ՎԱՐԴԱՆ ՎԱՐԴԱՊԵՏ",
     "contenu": "Էջ 1, դատարկ։ Էջ 2. — Մեկնութիւն Մարգարէութեանն Դանիէլի։ Դանիէլ ի նոցանէ էր՝ զորս ո՛չ արժէ աշխարհ ըստ Պօղոսի ասիցն...։ Էջ 79. — Վերջ։ Էջ 80, դատարկ։"
   },
   "images": [

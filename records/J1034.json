@@ -24,12 +24,12 @@
     "nb_pages": "204",
     "dimensions": "20x14x1.5",
     "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 21 տող։ Նոտր շեղագիր",
-    "details_ecriture": "սովորականէն աւելի",
+    "details_ecriture": "Նոտր շեղագիր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: սովորականէն աւելի",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": "հասարակ փայլուն",
+    "details_matiere": "Թուղթ հասարակ փայլուն",
     "nb_lignes": null,
-    "reliure": "խաւաքարտեայ։",
+    "reliure": "Կազմ խաւաքարտեայ",
     "etat_conservation": "լաւ",
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "ԳԷՈՐԳ ՎՐԴ· ՄԽԼԱՅԻՄՕՂԼՈՒ (1713)",
     "contenu": ""
   },
   "images": [

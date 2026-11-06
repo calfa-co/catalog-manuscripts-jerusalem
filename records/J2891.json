@@ -24,12 +24,12 @@
     "nb_pages": "508",
     "dimensions": "22X16X4.5",
     "mise_en_page": "կարմիր եւ սեւ մելաններով, միասիւն, 19–20 տող, կարմիր շրջագիծներու միջեւ",
-    "details_ecriture": null,
+    "details_ecriture": "Ներքեւը նոտր շեղագիր. Գիրք որ կոչի Պատմութիւն Վասն Առնման Երուսաղէմի տաճկաց ի ձեռացն արապացւոց, խօսք տեսակաւոր, ըստ իւրեանց լեզուօքն ասի. Քթապ իլ ֆթուհաթ էլ Կուտսիէ.— Արապի է",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": "սպիտակ",
+    "details_matiere": "Թուղթ սպիտակ",
     "nb_lignes": null,
-    "reliure": "խաւաքարտեայ քայքայուած, կարօտ նորոգութեան",
+    "reliure": "Կաշեկազմ խաւաքարտեայ քայքայուած, կարօտ նորոգութեան",
     "etat_conservation": "համարեա բաւարար. լուսանցքի ցեցահարութիւն աննշան",
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "ԶԷՔԻԷՏՏԻՆ ՊԻՆ ՈՒԱՀՏԱՆ",
     "contenu": ""
   },
   "images": [

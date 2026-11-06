@@ -24,12 +24,12 @@
     "nb_pages": "264",
     "dimensions": "21x15x2",
     "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 23 տող",
-    "details_ecriture": null,
+    "details_ecriture": "Նոտրագիր",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": "հասարակ",
+    "details_matiere": "Թուղթ հասարակ",
     "nb_lignes": null,
-    "reliure": "անարուեստ",
+    "reliure": "Թղթակազմ անարուեստ",
     "etat_conservation": "լաւ",
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "ԳՐ. ՓԵՇՏԻՄԱԼՃԵԱՆ",
     "contenu": "էջ 1. — Լուսաշաւիղ։ էջ 3. — [Ը]ստ կարգաւորեալ նախախնամութեանն Աստուծոյ, ոչ ոք կարէ ինքեամբ ճանաչել զխորհուրդս հաւատոյ...։ — Հմմտ. Ա. Հատոր, թ. 165։ էջ 248. — Զիա՞րդ հունաւոր միտք երանելեաց կարեն հայեցողապէս տեսանել զանհուն էութիւնն Աստուծոյ։ էջ 250-264, դատարկ։"
   },
   "images": [

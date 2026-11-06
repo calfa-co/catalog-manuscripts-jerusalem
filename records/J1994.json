@@ -27,9 +27,9 @@
     "details_ecriture": "յոյժ առատ",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": "հասարակ",
+    "details_matiere": "Թուղթ հասարակ",
     "nb_lignes": null,
-    "reliure": "խաւաքարտեայ դրոշմազարդ",
+    "reliure": "Կաշեկազմ խաւաքարտեայ դրոշմազարդ",
     "etat_conservation": "ցաւալի . շատ էջեր սեւցած, ճեղքըտած, նոյնիսկ փշրուած, ազդեցութեամբ թանաքի խստութեան կամ վնասակար հեղուկի մը",
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "Յ. ՆԱԼԵԱՆ",
     "contenu": ""
   },
   "images": [

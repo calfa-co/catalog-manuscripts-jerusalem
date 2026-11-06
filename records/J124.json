@@ -24,12 +24,12 @@
     "nb_pages": "Դ + 526",
     "dimensions": "31 x 22 x 4",
     "mise_en_page": "ամբողջովին սեւ մելանով , միասիւն , 45 տող ։ Նոտր շեղագիր",
-    "details_ecriture": "առատ",
+    "details_ecriture": "Նոտր շեղագիր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": "սպիտակ նուրբ",
+    "details_matiere": "Թուղթ սպիտակ նուրբ",
     "nb_lignes": null,
-    "reliure": "խաւաքարտեայ",
+    "reliure": "Կաշեկազմ խաւաքարտեայ",
     "etat_conservation": "շատ լաւ",
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": "գլխազարդ , էջ 1",
     "traducteur": null,
     "encre": null,
+    "auteur": "ԿՈՒՌՆԵԼԻՈՍ",
     "contenu": ""
   },
   "images": [

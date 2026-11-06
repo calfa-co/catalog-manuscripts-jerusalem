@@ -24,12 +24,12 @@
     "nb_pages": "356",
     "dimensions": "24x18x2.5",
     "mise_en_page": "ամբողջովին սեւորակ մելանով, միասիւն, 25–28 տող",
-    "details_ecriture": null,
+    "details_ecriture": "Շեղագիր",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": "հասարակ, ոչ միատեսակ",
+    "details_matiere": "Թուղթ հասարակ, ոչ միատեսակ",
     "nb_lignes": null,
-    "reliure": "խաւաքարտեայ, անարուեստ",
+    "reliure": "Կաշեկազմ խաւաքարտեայ, անարուեստ",
     "etat_conservation": "բաւարար",
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "Հմտտ. ՊՕՂՈՍ ՎՐԴ. ԱԴՐԻԱՆՈՒՊՈԼՍԵՑԻ",
     "contenu": "Էջ 1.— Առաջաբանութիւն Եսայեայ Մարգարէին, արարեալ Կուռնելիոսի, զոր ծաղկաքաղ հաւաքեալ է եւ համառօտեալ Պօղոս վարդապետն Անդրիանուպօլսեցի, յորմէ եւ Իսահակ Վրդ. Վանեցի։— Մինչ Եզեկիէլ ետես զչորս քերօբէք, որք խորհրդապէս նշանակեն զչորս մարգարէսն...։ — Հմմտ. աստ, թիւ 267։"
   },
   "images": [

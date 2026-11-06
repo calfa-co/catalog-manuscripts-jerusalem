@@ -24,12 +24,12 @@
     "nb_pages": "748",
     "dimensions": "24 X 17 X 4",
     "mise_en_page": "ամբողջովին սեւ մելանով, միասիւն, 27 տող",
-    "details_ecriture": "շատ առատ",
+    "details_ecriture": "Նոտրագիր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: շատ առատ",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": "հասարակ",
+    "details_matiere": "Թուղթ հասարակ",
     "nb_lignes": null,
-    "reliure": "տախտակեայ",
+    "reliure": "Կաշեկազմ տախտակեայ",
     "etat_conservation": "լաւ",
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "ԿՈՒՌՆԵԼԻՈՍ",
     "contenu": "Էջ 1.— Մեկնութիւն յամենայն ընթերցուածս Սրբոյն Պօղոսի։ Էջ 3.— Յառաջաբանութիւն գերազանցութեանց Սրբոյն Պօղոսի։"
   },
   "images": [

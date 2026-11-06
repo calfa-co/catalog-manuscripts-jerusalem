@@ -67,6 +67,7 @@ commanditaire
 enlumineur
 relieur
 traducteur
+auteur
 
 page_garde_parchemin
 lettrines
@@ -84,6 +85,7 @@ informations_diverses
 contenu
 
 Some records may contain additional collection-specific fields.
+`auteur` gives the author line printed under a notice's title; it is present only in the records whose notice prints one.
 Internal extraction metadata such as _meta and _refine are processing information and are not part of the scholarly catalogue record exposed by the public interface.
 Methodology
 The catalogue was processed through a multi-stage extraction pipeline.

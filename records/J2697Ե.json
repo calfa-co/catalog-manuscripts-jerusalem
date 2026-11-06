@@ -18,7 +18,7 @@
     "date_debut": "1865",
     "date_fin": "1865",
     "details_date": null,
-    "lieu_copie": null,
+    "lieu_copie": "Ս. Յակոբ, Երուսաղէմ",
     "reference": null,
     "genre_id": null,
     "nb_pages": "320",
@@ -27,9 +27,9 @@
     "details_ecriture": "յոյժ առատ",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": "հասարակ",
+    "details_matiere": "Թուղթ հասարակ",
     "nb_lignes": null,
-    "reliure": "կիսալաթ խաւաքարտեայ",
+    "reliure": "Կազմ կիսալաթ խաւաքարտեայ",
     "etat_conservation": "լաւ",
     "copiste": "Յակոբ Եպս. Յովհաննէսեան",
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "ՅԱԿՈԲ ԵՊՍ. ՅՈՎՀԱՆՆԷՍԵԱՆ",
     "contenu": "Էջ 1.— 1865, յունվար 1, Ուրբաթ, Նոր Տարի և բարի Կաղանդ...։ Էջ 5.— Յունվար 6, Դշ. Ծնունդ Տեառն մերոյ...։ Էջ 78.— Ապրիլ 4, Կիրակի, Սբ. Զատիկ Յարութեան...։"
   },
   "images": [

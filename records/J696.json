@@ -24,12 +24,12 @@
     "nb_pages": "874",
     "dimensions": "21.5x16.5x7",
     "mise_en_page": "ամբողջովին սեւ մելանով, երկսիւն, 32 տող",
-    "details_ecriture": "շեղակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
+    "details_ecriture": "Նոտրագիր շեղակերպ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": "հասարակ",
+    "details_matiere": "Թուղթ հասարակ",
     "nb_lignes": null,
-    "reliure": "խաւաքարտեայ հինցած",
+    "reliure": "Կաշեկազմ խաւաքարտեայ հինցած",
     "etat_conservation": "բաւական լաւ. տեղտեղ լուսանցքները ցեցակեր",
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "Ա. ԳԱԼԱՄԱԹՈՍ",
     "contenu": ""
   },
   "images": [

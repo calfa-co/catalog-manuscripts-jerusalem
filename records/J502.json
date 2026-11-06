@@ -24,12 +24,12 @@
     "nb_pages": null,
     "dimensions": "23x18x1",
     "mise_en_page": "միասիւն",
-    "details_ecriture": "նոտր շեղագիր ո՛չ միակ գրչի։ Լաթակազմ խաւաքարտեայ։ Էջ 36, Գլխ. Հինգերորդ — Յաղագս թէ Երուսաղէմ է լեառն սրբութեան։ Յաջորդ թերթերը բոլորովին դատարկ",
+    "details_ecriture": "Գիր նոտր շեղագիր ո՛չ միակ գրչի։ Լաթակազմ խաւաքարտեայ։ Էջ 36, Գլխ. Հինգերորդ — Յաղագս թէ Երուսաղէմ է լեառն սրբութեան։ Յաջորդ թերթերը բոլորովին դատարկ",
     "types_cahiers": null,
     "matiere_principale_id": null,
     "details_matiere": null,
     "nb_lignes": null,
-    "reliure": null,
+    "reliure": "Լաթակազմ խաւաքարտեայ",
     "etat_conservation": null,
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "ՊՕՂՈՍ ԱՐՔ. ԱԴՐԻԱՆՈՒՊՕԼՍԵՑԻ",
     "contenu": ""
   },
   "images": [

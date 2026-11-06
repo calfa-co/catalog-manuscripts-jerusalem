@@ -24,12 +24,12 @@
     "nb_pages": "96",
     "dimensions": "22x16x1",
     "mise_en_page": "խորագիրները եւ սկզբնաւորութիւնները կարմիր, մնացեալը սեւ մելանով, միասիւն, 32 տող",
-    "details_ecriture": "առատ",
+    "details_ecriture": "Նոտրագիր ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: առատ",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": "թանձր յղկուն",
+    "details_matiere": "Թուղթ թանձր յղկուն",
     "nb_lignes": null,
-    "reliure": "կիսալաթ խաւաքարտեայ",
+    "reliure": "Կազմ կիսալաթ խաւաքարտեայ",
     "etat_conservation": "լաւ",
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": "զարդագիր իւրաքանչիւր քարոզի սկիզբը, լուսանցազարդ եւ գլխազարդ, էջ 1",
     "traducteur": null,
     "encre": null,
+    "auteur": "ՅԱԿՈԲ ՎՕՌԱՃԻՈՅ",
     "contenu": ""
   },
   "images": [

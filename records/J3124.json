@@ -24,12 +24,12 @@
     "nb_pages": "236",
     "dimensions": "25 X 21 X 1.5",
     "mise_en_page": "սեւորակ մելանով, միասիւն, 32 տող",
-    "details_ecriture": "վարժ։ Անկազմ",
+    "details_ecriture": "Շեղագիր վարժ։ Անկազմ",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": "կապտորակ",
+    "details_matiere": "Թուղթ կապտորակ",
     "nb_lignes": null,
-    "reliure": null,
+    "reliure": "Անկազմ",
     "etat_conservation": "անբաւարար. վերջը թերի",
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "ԻՍԱՀԱԿ Ծ. ՎՐԴ. ՏԷՐ ԳՐԻԳՈՐԵԱՆ",
     "contenu": "Էջ 1. — Յովսեփայ Գեղեցկի Զրոյցք ընդ Ասանեթայ ամուսնոյ իւրոյ։ Ներածութիւն. — Ամենամաքուր եւ չքնաղ բարք եւ սրբասուն վարք գեղեցկին Յովսեփայ՝ յայտնի է...։ Հմմտ. թիւ 1866, Զ. Հատոր, էջ 265։ Էջ 2. — Գիրք Առաջին։ Գիշեր Ա։ Ասանէթ. — Աղաչեմ պատմեա ինձ, եթէ ո՛ւր են հայրենիք քո...։ Էջ 233. — Գիշեր յիսներորդ վեցերորդ։ Ասանէթ. — Զի՞նչ խորհուրդք էին նոցա ի գիշերիս։"
   },
   "images": [

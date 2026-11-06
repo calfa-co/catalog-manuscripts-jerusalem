@@ -18,7 +18,7 @@
     "date_debut": "1853",
     "date_fin": "1853",
     "details_date": null,
-    "lieu_copie": null,
+    "lieu_copie": "Երուսաղէմ",
     "reference": null,
     "genre_id": null,
     "nb_pages": "214",
@@ -27,9 +27,9 @@
     "details_ecriture": null,
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": null,
+    "details_matiere": "Թուղթ",
     "nb_lignes": null,
-    "reliure": "կիսակաշի խաւաքարտեայ",
+    "reliure": "Կազմ կիսակաշի խաւաքարտեայ",
     "etat_conservation": "լաւ",
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "ՄԿՐՏԻՉ ՎՐԴ· ԱՐԾՐՈՒՆԵԱՆ",
     "contenu": "Կը պարունակէ երկու տասնեակ քարոզներ զանազան նիւթերու շուրջ։"
   },
   "images": [

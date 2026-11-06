@@ -27,9 +27,9 @@
     "details_ecriture": "մանըրկեկ ; ՀԱՄԱՌՕՏԱԳՐՈՒԹԻՒՆՔ: շատ առատ",
     "types_cahiers": null,
     "matiere_principale_id": null,
-    "details_matiere": null,
+    "details_matiere": "Թուղթ",
     "nb_lignes": null,
-    "reliure": "խաւաքարտեայ",
+    "reliure": "Կաշեկազմ խաւաքարտեայ",
     "etat_conservation": "լաւ ընդհանրապէս. ստորին լուսանցքէն ցեցակեր",
     "copiste": null,
     "possesseur": null,
@@ -52,6 +52,7 @@
     "decorations": null,
     "traducteur": null,
     "encre": null,
+    "auteur": "Յ. ՏԷՎՕՌԱՃԻՆԷ",
     "contenu": "Էջ Ա. 1. — Ցանկ Առաջին Հատորի առաջին մասին այբուբենական։ Էջ 1ա. — ԲանՔ Ոսկիականք եւ գեղեցկագոյնք . . . ։ Էջ 1բ. — Առաջին կիրակէի Գալստեան Տն. ։ Էջ 371ա. — Ցանկ Գրքոյս։"
   },
   "images": [
